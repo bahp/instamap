@@ -22,7 +22,6 @@ def fetch_posts_instaloader(profile_name,
     L.download_pictures = False
     L.download_videos = False
     L.download_video_thumbnails = False
-    L.download_geotags = False
     L.save_metadata = True
     L.compress_json = False
     L.download_geotags = True
