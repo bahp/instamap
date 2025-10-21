@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "accuracy": 0.5277893043665377,
+                "address": "Mountain View, Santa Clara County, California, United States",
+                "bbox": [
+                    -122.1175575,
+                    37.3542156,
+                    -122.0449574,
+                    37.4699875
+                ],
+                "city": "Mountain View",
+                "confidence": 4,
+                "country": "United States",
+                "country_code": "us",
+                "county": "Santa Clara County",
+                "importance": 0.5277893043665377,
+                "lat": 37.3893889,
+                "lng": -122.0832101,
+                "ok": true,
+                "osm_id": 1544956,
+                "osm_type": "relation",
+                "place_id": 280402043,
+                "place_rank": 16,
+                "quality": "administrative",
+                "raw": {
+                    "place_id": 280402043,
+                    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+                    "osm_type": "relation",
+                    "osm_id": 1544956,
+                    "lat": "37.3893889",
+                    "lon": "-122.0832101",
+                    "category": "boundary",
+                    "type": "administrative",
+                    "place_rank": 16,
+                    "importance": 0.5277893043665377,
+                    "addresstype": "city",
+                    "name": "Mountain View",
+                    "display_name": "Mountain View, Santa Clara County, California, United States",
+                    "address": {
+                        "city": "Mountain View",
+                        "county": "Santa Clara County",
+                        "state": "California",
+                        "ISO3166-2-lvl4": "US-CA",
+                        "country": "United States",
+                        "country_code": "us"
+                    },
+                    "boundingbox": [
+                        "37.3542156",
+                        "37.4699875",
+                        "-122.1175575",
+                        "-122.0449574"
+                    ]
+                },
+                "region": "California",
+                "state": "California",
+                "status": "OK",
+                "type": "administrative"
+            },
+            "bbox": [
+                -122.1175575,
+                37.3542156,
+                -122.0449574,
+                37.4699875
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.0832101,
+                    37.3893889
+                ]
+            }
+        }
+    ]
+}

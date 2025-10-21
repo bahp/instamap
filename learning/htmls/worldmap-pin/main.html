@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Interesting examples
+
+    1. Animated world map marker
+      https://codepen.io/aderaaij/pen/MvLJbV
+
+    2. Markers defined with SVG.
+      https://icons8.com/icon/7880/location
+      https://icons8.com/icon/IFhxBaYSUYkJ/location
+      https://icons8.com/icon/340/location
+
+    3. Markers defined with SVG
+      https://www.svgrepo.com/vectors/map-marker/
+
+    4. Shadows
+    https://stackoverflow.com/questions/50746673/how-to-add-shadow-effects-on-icons-like-font-awesome
+    -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Maps Pin</title>
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+        crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/fontawesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+    <link rel="stylesheet" href="./static/style/style1.css">
+    <link rel="stylesheet" href="./static/style/style2.css">
+    <link rel="stylesheet" href="./static/style/style3.css">
+
+  <style>
+
+    <!--
+    -->
+
+    /*.card {
+      /*display: inline-block;*/
+      /*width: 100px;*/
+    /*}*/
+
+    path {
+      fill: orange;
+    }
+
+    circle {
+      fill: green;
+    }
+
+    .svg-blue {
+      fill: blue;
+      stroke: orange;
+      stroke-width:2;
+    }
+
+    .svg-fill-blue {
+      fill: blue;
+    }
+
+    .svg-stroke-blue {
+      stroke: blue
+    }
+
+    .shadow {
+    }
+
+    .shadow-box {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .shadow-text {
+      text-shadow:3px 6px rgba(255,165,0,.75)
+    }
+
+    .card {
+      padding: 0;
+      margin: 5px;
+      width: 200px;
+    }
+
+    .card-header {
+      font-size: small;
+    }
+
+    marker-icon path {
+      fill: green;
+    }
+
+    g > path {
+      fill: green;
+    }
+
+    #Oval {
+      fill: green;
+    }
+
+    #Shape {
+      fill: orange;
+    }
+
+  </style>
+
+</head>
+<body class="bg-light">
+
+    <div class="container m-5">
+      <div class="row">
+
+        <div class="card">
+          <div class="card-header"> Empty </div>
+          <div class="card-body">
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> CSS - style1.css </div>
+          <div class="card-body">
+            <div class="pin"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> CSS - style2.css </div>
+          <div class="card-body bg-gradient">
+            <div class="map-marker"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> Fontawesome v1</div>
+          <div class="card-body">
+            <span class="fa-stack fa-2x">
+              <i class="fa-solid fa-square fa-stack-2x"></i>
+              <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> Fontawesome v2 </div>
+          <div class="card-body">
+            <span class="fa-stack fa-2x">
+              <i class="fa-solid fa-map-marker fa-stack-2x" style="color:blue;"></i>
+              <i class="fa fa-house fa-stack-1x fa-xs fa-inverse mb-4" style="top:-8px;"></i>
+            </span>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> CSS - style3.css</div>
+          <div class="card-body bg-gradient">
+            <div class="pin1"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> CSS - style3.css </div>
+          <div class="card-body bg-gradient">
+            <div class="pin2"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> CSS red </div>
+          <div class="card-body">
+            <div class="pin2 red"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> Image png </div>
+          <div class="card-body">
+            <img src="https://img.icons8.com/officel/16/marker.png"
+                 width="56" height="56" alt="marker"/>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> SVG - img </div>
+          <div class="card-body">
+             <img src="./static/images/map-marker-svgrepo-com.svg"
+                 width="56" height="56"
+                 class="svg-fill-blue"> </img>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> SVG - object </div>
+          <div class="card-body">
+            <object type="image/svg+xml"
+                    data="./static/images/map-marker-svgrepo-com.svg"
+                    width="56" height="56"
+                    class="marker-icon"> </object>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"> SVG - object </div>
+          <div class="card-body">
+            <object data="./static/images/map-marker-svgrepo-com-2.svg"
+                    width="56" height="56"
+                    class="marker-icon"> </object>
+          </div>
+        </div>
+
+
+        <div class="card">
+          <div class="card-header"> SVG - object </div>
+          <div class="card-body">
+            <object data="./static/images/map-marker-4-svgrepo-com.svg"
+                    width="56" height="56"
+                    class="marker-icon"> </object>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+</body>
+</html>
