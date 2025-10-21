@@ -1,0 +1,24 @@
+.pin {
+    position: relative;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 40px 20px 0;
+    border-color: #e74c3c transparent transparent;
+    transform: rotate(45deg);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Subtle box shadow for lighting effect */
+}
+
+.map-marker {
+    position: relative;
+    width: 20px;
+    height: 30px;
+    background-color: #4285f4; /* Marker color */
+    border-radius: 50% 50% 50% 50% 50% 0 0 0;
+    transform: rotate(-45deg);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Subtle box shadow for lighting effect */
+}
+
+.bg-gradient {
+    background: linear-gradient(45deg, #007991 0%, #78ffd6 100%);
+}

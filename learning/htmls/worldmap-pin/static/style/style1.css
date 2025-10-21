@@ -1,0 +1,20 @@
+.pin {
+    position: relative;
+    width: 30px;
+    height: 50px;
+    background-color: #e74c3c;
+    border-radius: 0 0 15px 15px;
+    transform: rotate(-45deg);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.pin::before {
+    content: '';
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background-color: #fff;
+    border-radius: 50%;
+    top: -7px;
+    left: 8px;
+}
