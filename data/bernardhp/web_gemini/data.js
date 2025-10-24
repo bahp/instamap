@@ -17573,5 +17573,77 @@ var data = [
         "rank": 2,
         "page": null,
         "shortcode": "CiDND0SDOkA"
+    },
+    {
+        "title": "Basilica di San Francesco",
+        "subtitle": "Major papal basilica in Assisi, Italy",
+        "lat": 43.0768,
+        "lon": 12.6186,
+        "type": "place_of_worship",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CiDfL1yMmjf"
+    },
+    {
+        "title": "Lucca",
+        "subtitle": "City in Tuscany, Italy",
+        "lat": 43.8427,
+        "lon": 10.5029,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null,
+        "shortcode": "CiF4M7TP0fO"
+    },
+    {
+        "title": "Castiglione d'Orcia",
+        "subtitle": "Historic town in Val d'Orcia, Tuscany, Italy",
+        "lat": 43.009717,
+        "lon": 11.602202,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": null,
+        "shortcode": "CiJzAd0Mmv-"
+    },
+    {
+        "title": "Malga Venegiota",
+        "subtitle": "Alpine hut in Val Venegia, Dolomites, Italy",
+        "lat": 46.2847,
+        "lon": 11.8364,
+        "type": "alpine_hut",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CiKBhrmqCWb"
+    },
+    {
+        "title": "Venice",
+        "subtitle": "City in Italy",
+        "lat": 45.4371908,
+        "lon": 12.33459,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null,
+        "shortcode": "CiKZWqcqVuu"
+    },
+    {
+        "title": "Koh Lao Lading",
+        "subtitle": "Small island in Krabi Province, Thailand",
+        "lat": 7.915,
+        "lon": 98.749,
+        "type": "island",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "CiPjVQcq_Qt"
     }
 ];
