@@ -229,6 +229,35 @@
   </div>
 </div>
 
+<!--
+<div class="p-2 bg-light text-dark rounded metric-pill shadow-sm"
+     style="position:fixed; bottom:60px; left:20px;
+        z-index:999; font-size: 0.75rem; width:130px;">
+  <span class="text-muted text-left small me-2 text-uppercase">Posts</span>
+  <span id="nposts" class="text-right fw-bolder h5 text-dark mb-0"></span>
+</div>
+<div class="p-2 bg-light text-dark rounded shadow-sm"
+     style="position:fixed; bottom:10px; left:20px;
+      z-index:999; font-size: 0.75rem; width: 130px;">
+  <span class="text-muted text-left small me-2 text-uppercase">Markers</span>
+  <span id="nmarkers" class="text-right fw-bolder h5 text-dark mb-0"></span>
+</div>
+-->
+
+
+<div class="p-2 bg-light text-dark rounded shadow-sm text-center"
+     style="position:fixed; bottom:10px; left:80px; transform:translateX(-50%);
+        z-index:999; font-size: 0.75rem; width:100px;">
+  <span class="text-muted small me-2 text-uppercase">Posts</span>
+  <span id="nposts" class="text-muted fw-bolder"></span>
+</div>
+<div class="p-2 bg-light text-dark rounded shadow-sm text-center"
+     style="position:fixed; bottom:10px; left:195px; transform:translateX(-50%);
+      z-index:999; font-size: 0.75rem; width: 120px;">
+  <span class="text-muted text-left small me-2 text-uppercase">Markers</span>
+  <span id="nmarkers" class="text-muted fw-bolder"></span>
+</div>
+
 </body>
 <script>
 
@@ -353,7 +382,7 @@
           <div class="card-body position-relative">
 
             <a class="text-right position-absolute top-0 end-0 p-2"
-               href="https://www.google.com/maps/place/{0}"
+               href="https://www.google.com/maps/place/{0}/@{5},{6},17z/"
                target="_blank">
                <img src="https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico" height="22">
             </a>
@@ -370,7 +399,7 @@
              Caption: {3} <br>
              Confidence: {4} <br>
              Location: ({5}, {6})
-              <a href="https://www.google.com/maps/place/{4},{5}"
+              <a href="https://www.google.com/maps/place/{5},{6}"
                  class="small text-decoration-none"
                  target="_blank"><i class="bi bi-geo-fill"></i>
                </a><br>
@@ -517,14 +546,40 @@
 
 
     // Create map
-    var map = L.map('map').setView([51.505, -0.09], 6);
+    var geo_ldn = [51.505, -0.09]
+    var geo_mdr = [40.4168, -3.7038]
+    var map = L.map('map').setView(geo_mdr, 6);
 
     // Add tile layer (need to give attribution)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        //maxZoom: 6,
         attribution: attribution_osm
     }).addTo(map);
 
+    // 3. Get the user's current location
+    navigator.geolocation.getCurrentPosition(onSuccess, onError);
+
+    // 4. Success callback function
+    function onSuccess(position) {
+        // Get latitude and longitude from the position object
+        const lat = position.coords.latitude;
+        const lon = position.coords.longitude;
+        // A good zoom level to show a street-level view
+        const zoomLevel = 13;
+        // Center the map on the user's location
+        map.setView([lat, lon], zoomLevel);
+        // Add a marker at the user's location
+        L.marker([lat, lon])
+            .addTo(map)
+            .bindPopup("You are here!")
+            .openPopup();
+    }
+
+    // 7. Error callback function
+    function onError(err) {
+        console.warn(`ERROR(${err.code}): ${err.message}`);
+        // If an error occurs, the map will just stay at the default view.
+        // You could add a message to the user here.
+    }
 
     /*
     // Add a marker and open it.
@@ -593,106 +648,73 @@
       */
     }
 
+
+    function getUniqueShortcodeCount(data) {
+       return new Set(data.map(item => item.shortcode)).size;
+    }
+
     // A $( document ).ready() block.
     $(document).ready(function () {
 
-        // Get unique post short codes
-        let shortcodes = data.reduce(function (acc, curr) {
-            var shortcode = get(curr, 'shortcode', ATTR)
-          if (!acc.includes(shortcode))
-              acc.push(shortcode);
-          return acc;
-        }, []);
 
-        console.log("HERE")
+      // -------------------------------------------------------
+      // Populate number of posts and number of locations
+      // -------------------------------------------------------
+      var n_posts = getUniqueShortcodeCount(data)
+      var n_markers = data.length
 
-        // Include information
-        $('#info').html("Rows: {0} | Posts: {1}".format(
-            data.length, shortcodes.length))
+      // Include information
+      $('#info').html("Posts: {0} | Markers: {1}".format(n_posts, n_markers))
+      $('#nposts').html(n_posts)
+      $('#nmarkers').html(n_markers)
 
-        console.log("NOW")
+      // -------------------------------------------------------
+      // Populate Markers
+      // -------------------------------------------------------
+      $.each(data, function (index, value) {
 
-        $.each(data, function (index, value) {
+        // Get latitude and longitude
+        var latitude = get(value, 'latitude', ATTR)
+        var longitude = get(value, 'latitude', ATTR)
+        if (!(isFloat(latitude)) || !(isFloat(longitude)))
+            return
 
-            // Show information of each post.
-            //console.log(index, value)
+        // Set icon information
+        value.icon = get_icon(5, value)
 
-            /*
-            Possible options for the icons:
-             {
-                  draggable: true,
-                  title: "",
-                  opacity: 0.75
-              }
-            */
+        // Add marker to map
+        var marker = L.marker([
+            get(value, 'latitude', ATTR),
+            get(value, 'longitude', ATTR),
+        ], value).addTo(map);
 
+        // Add popup
+        marker.bindPopup(get_popup_html(value))
 
-            console.log(index, value)
+        // On click
+        marker.on('click', function (e) {
+            //var shortcode = get(e.target.options, 'shortcode', ATTR)
 
+            const obj = e.target.options;
 
-            // Get latitude and longitude
-            var latitude = get(value, 'latitude', ATTR)
-            var longitude = get(value, 'latitude', ATTR)
-            if (!(isFloat(latitude)) || !(isFloat(longitude)))
-                return
+            // Create HTML alert.
+            const alertHtml = (obj.page > 1)
+               ? `<div class="alert alert-warning" role="alert">
+                     This pin corresponds to image <b>${obj.page}</b>.
+                   </div>`
+               : '';
 
-            // Set icon information
-            value.icon = get_icon(5, value)
+            // Create side panel HTML post.
+            let postHtml = alertHtml + template_embed.format(obj.shortcode);
 
+            // Append and run Instagram embeds.
+            $('#post-embed').html(postHtml)
+            window.instgrm.Embeds.process()
 
-            // Add marker to map
-            var marker = L.marker([
-                get(value, 'latitude', ATTR),
-                get(value, 'longitude', ATTR),
-            ], value).addTo(map);
-
-            // Add popup
-            marker.bindPopup(get_popup_html(value))
-
-            // On click
-            marker.on('click', function (e) {
-                var shortcode = get(e.target.options, 'shortcode', ATTR)
-                console.log(shortcode)
-                console.log(e.target.options)
-
-                // 2. Check both conditions: not null AND greater than 1
-                var obj = e.target.options
-                var alert = ''
-                var tmp = ''
-                if (obj.page != null && obj.page > 1) {
-                    const alert = `<div class="alert alert-warning" role="alert">
-                      This pin corresponds to image <b>${obj.page}</b>.
-                    </div>`;
-
-                    //let alert = '<div class="alert alert-warning" role="alert">';
-                    //alert += 'This is image <b>' + obj.page + '</b> for carrousel.';
-                    //alert += '</div>'; // Corrected: Use a forward slash / for the closing tag
-                    console.log('This is image ' + obj.page + ' for carrousel.')
-                    tmp = alert
-                }
-
-
-                tmp += template_embed.format(shortcode)
-
-
-                $('#post-embed').html(tmp)
-                window.instgrm.Embeds.process()
-
-                setTimeout(() => {
-                  // This code runs after 5 seconds
-                  console.log('End (5 seconds later)');document.querySelector("button[aria-label='Siguiente']").click();
-
-                document.querySelector("button[aria-label='Siguiente']").click();
-                document.querySelector("button[aria-label='Siguiente']").click();
-                document.querySelector("button[aria-label='Siguiente']").click();
-
-
-                }, 5000);
             })
         })
 
-        const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
+        //const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
         //
         populateLegend()

@@ -145,8 +145,8 @@ n_posts = len(files_list)
 
 for i, f in enumerate(files_list):
 
-    if cont > 5:
-        break
+    #if cont > 5:
+    #    break
 
     # Locations have been extracted already
     if not REWRITE:
