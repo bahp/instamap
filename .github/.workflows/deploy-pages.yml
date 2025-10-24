@@ -42,7 +42,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
           cache: 'pip'
 
       - name: Install Python dependencies
@@ -55,6 +55,8 @@ jobs:
           fi
 
       - name: Run Python scripts
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
           python ./learning/gemini/main02.py
           python ./learning/gemini/collect.py
@@ -67,16 +69,14 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # --- !!! EDIT THIS PART !!! ---
-          #
           # Add the specific files or folders that your scripts generate.
           # Use 'git add path/to/your/file.json' for single files
           # Use 'git add path/to/your/folder/' for entire folders
+          # git add .  # <-- Avoid this, be specific!
 
           echo "Staging generated files for commit..."
-          git add data/output/         # Example: Add an entire 'output' folder inside 'data'
-          git add js/generated-data.js # Example: Add a specific file
-          # git add .  # <-- Avoid this, be specific!
+          git add ./data/bernardhp/posts/
+          git add ./data/bernardhp/web_gemini/
 
           # Now, check if anything was actually staged
           if [ -z "$(git diff --staged)" ]; then
@@ -91,6 +91,7 @@ jobs:
 
       - name: Prepare Site Artifact
         run: |
+          # Create directory to deploy from
           mkdir -p _site
 
           # This step copies all necessary website files into the '_site' directory.
@@ -100,16 +101,18 @@ jobs:
           echo "Copying website files to _site directory..."
           shopt -s nullglob # Prevents errors if no files match a pattern
 
-          # Copy all files and folders from the root
-          # This will now include the newly generated files that were just committed
-          cp -rf * _site/
+          # 1. Copy your main website files from the web_gemini folder.
+          # This copies the *contents* (index.html, style.css, etc.)
+          # to be the root of the '_site' directory.
+          echo "Copying main site files from ./data/bernardhp/web_gemini/"
+          cp -rf ./data/bernardhp/web_gemini/* _site/
 
           # Remove files you don't want deployed (like the workflow file itself)
           rm -rf _site/.github
           rm -rf _site/_site # Just in case
 
           echo "Artifact directory contents:"
-          ls -l _site
+          ls -lR _site
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
