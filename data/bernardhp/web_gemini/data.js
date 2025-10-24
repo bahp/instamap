@@ -16985,5 +16985,113 @@ var data = [
         "rank": 2,
         "page": null,
         "shortcode": "Cer3je3sliP"
+    },
+    {
+        "title": "Oregon Coast",
+        "subtitle": "Scenic coastline region along the Pacific Ocean in Oregon, USA.",
+        "lat": 44.8,
+        "lon": -124.0,
+        "type": "coastline",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": null,
+        "shortcode": "CerK7JIsfdz"
+    },
+    {
+        "title": "Lago di Braies",
+        "subtitle": "Picturesque lake in the Dolomites, Italy",
+        "lat": 46.6908,
+        "lon": 12.1197,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "Cesh8AkM0nI"
+    },
+    {
+        "title": "Rong Mok",
+        "subtitle": "Hamlet in Doi Chang, Chiang Rai known for homestays.",
+        "lat": 19.6705,
+        "lon": 99.6455,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": null,
+        "shortcode": "Cf_sHM-uWWj"
+    },
+    {
+        "title": "S\u00f8rfugl\u00f8y",
+        "subtitle": "Island in Gildesk\u00e5l municipality, Norway",
+        "lat": 67.0673322,
+        "lon": 13.7844059,
+        "type": "island",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "Cg01ksqMnWQ"
+    },
+    {
+        "title": "Watergate Bay",
+        "subtitle": "Popular beach and bay in Cornwall",
+        "lat": 50.448555,
+        "lon": -5.03362,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 1,
+        "shortcode": "CggnmkmFNqC"
+    },
+    {
+        "title": "Kynance Cove",
+        "subtitle": "Scenic cove on the Lizard Peninsula, Cornwall",
+        "lat": 49.972237,
+        "lon": -5.223396,
+        "type": "cove",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 2,
+        "shortcode": "CggnmkmFNqC"
+    },
+    {
+        "title": "Pedn Vounder",
+        "subtitle": "Secluded beach near Porthcurno, Cornwall",
+        "lat": 50.046098,
+        "lon": -5.641772,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 3,
+        "shortcode": "CggnmkmFNqC"
+    },
+    {
+        "title": "Port Isaac",
+        "subtitle": "Historic fishing village in Cornwall",
+        "lat": 50.597285,
+        "lon": -4.832168,
+        "type": "village",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 4,
+        "shortcode": "CggnmkmFNqC"
+    },
+    {
+        "title": "Polly Joke",
+        "subtitle": "Quiet sandy beach near Newquay, Cornwall",
+        "lat": 50.395689,
+        "lon": -5.147986,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 5,
+        "shortcode": "CggnmkmFNqC"
     }
 ];
