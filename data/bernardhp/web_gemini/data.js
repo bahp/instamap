@@ -16747,6 +16747,66 @@ var data = [
         "shortcode": "CdlbeVaIFAN"
     },
     {
+        "title": "Rifugio Locatelli",
+        "subtitle": "Alpine hut in the Dolomites, Italy",
+        "lat": 46.6267,
+        "lon": 12.3168,
+        "type": "alpine hut",
+        "class": "tourism",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 1,
+        "shortcode": "CdoOOTSovRd"
+    },
+    {
+        "title": "Grand Teton National Park",
+        "subtitle": "National park in Wyoming, USA",
+        "lat": 43.7904,
+        "lon": -110.6818,
+        "type": "protected_area",
+        "class": "boundary",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "Ce93KncM9eS"
+    },
+    {
+        "title": "Malga Foresta",
+        "subtitle": "Alpine hut in Braies Valley, Dolomites",
+        "lat": 46.6974015,
+        "lon": 12.0833003,
+        "type": "alpine_hut",
+        "class": "tourism",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CeBaPOnojpZ"
+    },
+    {
+        "title": "Rifugio Nuvolau",
+        "subtitle": "Oldest mountain refuge in the Dolomites, Italy.",
+        "lat": 46.495147,
+        "lon": 12.038596,
+        "type": "mountain_hut",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CeBvaLzKu-l"
+    },
+    {
+        "title": "Alto Adige",
+        "subtitle": "Autonomous province in Northern Italy",
+        "lat": 46.616667,
+        "lon": 11.45,
+        "type": "province",
+        "class": "boundary",
+        "confidence": 0.9,
+        "rank": 5,
+        "page": null,
+        "shortcode": "CeEhXlxjfXq"
+    },
+    {
         "title": "Cimon della Pala",
         "subtitle": "A prominent peak in the Dolomites, Italy",
         "lat": 46.289056,
@@ -16759,6 +16819,42 @@ var data = [
         "shortcode": "CeHkxV0ofps"
     },
     {
+        "title": "Alto Adige",
+        "subtitle": "Autonomous province in Northern Italy",
+        "lat": 46.6976,
+        "lon": 11.4116,
+        "type": "province",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": null,
+        "shortcode": "CeI6HRTMY0K"
+    },
+    {
+        "title": "Rifugio Roda di Vael",
+        "subtitle": "Mountain hut in the Dolomites, Italy",
+        "lat": 46.40268,
+        "lon": 11.63748,
+        "type": "hut",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 1,
+        "shortcode": "CeJHQNboao8"
+    },
+    {
+        "title": "Dolomites",
+        "subtitle": "Mountain range in the Southern Limestone Alps, Italy",
+        "lat": 46.4667,
+        "lon": 11.8333,
+        "type": "mountain range",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 8,
+        "page": null,
+        "shortcode": "CeLbztCsP3D"
+    },
+    {
         "title": "Seurasas",
         "subtitle": "Panoramic mountain peak in Val Gardena, Italy",
         "lat": 46.5939,
@@ -16769,5 +16865,53 @@ var data = [
         "rank": 1,
         "page": null,
         "shortcode": "CeLt9NQKWtL"
+    },
+    {
+        "title": "Cadini di Misurina",
+        "subtitle": "Mountain group in the Dolomites, Italy",
+        "lat": 46.5925,
+        "lon": 12.2858,
+        "type": "mountain group",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "CeRlzuoIZUY"
+    },
+    {
+        "title": "Rifugio Tuckett",
+        "subtitle": "Mountain hut in Brenta Dolomites, Italy",
+        "lat": 46.1802,
+        "lon": 10.8407,
+        "type": "mountain_hut",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CeTxAKJKLh2"
+    },
+    {
+        "title": "Alpe di Siusi",
+        "subtitle": "High-altitude alpine pasture in the Dolomites, Italy",
+        "lat": 46.5547,
+        "lon": 11.5833,
+        "type": "alpine pasture",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "CeafrnYIN3m"
+    },
+    {
+        "title": "Rifugio Locatelli",
+        "subtitle": "Alpine hut with panoramic mountain views",
+        "lat": 46.620021,
+        "lon": 12.298285,
+        "type": "alpine_hut",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "Cec_L-xMfNF"
     }
 ];
