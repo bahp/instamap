@@ -1,0 +1,128 @@
+[
+    {
+        "text": "1. Windsor Castle by @piteshmistry ",
+        "start": 62,
+        "end": 97,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Windsor Castle by @piteshmistry "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Canterbury, Kent by @barbora_bo ",
+        "start": 98,
+        "end": 133,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Canterbury, Kent by @barbora_bo "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Somewhere in Scotland by @torsdk ",
+        "start": 218,
+        "end": 254,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Somewhere in Scotland by @torsdk "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Bedruthan Steps, Cornwall by @cornwall_carlsnt ",
+        "start": 354,
+        "end": 404,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Bedruthan Steps, Cornwall by @cornwall_carlsnt "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Arlington Row, Bibury by globalhelpswap ",
+        "start": 405,
+        "end": 448,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Arlington Row, Bibury by globalhelpswap "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Tintegal, Cornwall by @uniquedevontours ",
+        "start": 449,
+        "end": 492,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Tintegal, Cornwall by @uniquedevontours "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Castle Combe, The Cotswolds by @the_onlycookiemonster",
+        "start": 493,
+        "end": 550,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Castle Combe, The Cotswolds by @the_onlycookiemonster"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83d\udccd Locations ",
+        "start": 48,
+        "end": 60,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Locations "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 43,
+        "end": 45,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "United Kingdom",
+        "start": 28,
+        "end": 42,
+        "groupdict": {
+            "name": "United Kingdom",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

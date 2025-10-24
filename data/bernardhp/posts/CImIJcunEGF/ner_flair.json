@@ -1,0 +1,104 @@
+{
+    "text": "Staircase to heaven in Stoos, Switzerland \ud83c\udde8\ud83c\udded Photo by @patbieli",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Stoos",
+            "start_pos": 23,
+            "end_pos": 28,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9616122245788574
+                }
+            ]
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 30,
+            "end_pos": 41,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997673630714417
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Staircase",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "heaven",
+            "start_pos": 13,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 20,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Stoos",
+            "start_pos": 23,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 30,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\udded",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "patbieli",
+            "start_pos": 55,
+            "end_pos": 63,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

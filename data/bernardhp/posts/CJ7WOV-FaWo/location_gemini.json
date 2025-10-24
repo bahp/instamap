@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Yosemite National Park",
+        "subtitle": "Iconic park in California's Sierra Nevada",
+        "lat": 37.8651,
+        "lon": -119.5383,
+        "type": "national park",
+        "class": "leisure",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 1
+    },
+    {
+        "title": "Sierra Nevada",
+        "subtitle": "Mountain range in California",
+        "lat": 37.5,
+        "lon": -119.0,
+        "type": "mountain range",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 8,
+        "page": null
+    },
+    {
+        "title": "California",
+        "subtitle": "US state on the west coast",
+        "lat": 37.18,
+        "lon": -119.46,
+        "type": "state",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": null
+    },
+    {
+        "title": "United States",
+        "subtitle": "Country in North America",
+        "lat": 39.8283,
+        "lon": -98.5795,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    }
+]

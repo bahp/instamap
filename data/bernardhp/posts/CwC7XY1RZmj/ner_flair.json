@@ -1,0 +1,128 @@
+{
+    "text": "Summer \u590f or Winter \u51ac, which one is more beautiful? Arashiyama, Kyoto \u26e9",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Arashiyama",
+            "start_pos": 51,
+            "end_pos": 61,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9579481482505798
+                }
+            ]
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9930170774459839
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Summer",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "\u590f",
+            "start_pos": 7,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 9,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "Winter",
+            "start_pos": 12,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\u51ac",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "which",
+            "start_pos": 22,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 28,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 35,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 40,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "Arashiyama",
+            "start_pos": 51,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "\u26e9",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

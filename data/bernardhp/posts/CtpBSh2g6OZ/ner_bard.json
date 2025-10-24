@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"A'Mhaighdean\",\n      \"full_address\": \"Fisherfield Forest, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/images/munros/amhhaighdean/full-width/amhaighdean-summit.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Fisherfield Forest\",\n      \"full_address\": \"Loch Maree, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/images/forests/fisherfield/full-width/fisherfield-forest-loch-maree.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_deabb718fb4a6aa2",
+    "factuality_queries": null,
+    "text_query": [
+        "A'Mhaighdean",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_6494b474d1e03966",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"A'Mhaighdean\",\n      \"full_address\": \"Fisherfield Forest, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/images/munros/amhhaighdean/full-width/amhaighdean-summit.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Fisherfield Forest\",\n      \"full_address\": \"Loch Maree, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/images/forests/fisherfield/full-width/fisherfield-forest-loch-maree.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_1e59fab7f87b625b",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"A'Mhaighdean\",\n      \"full_address\": \"A' Mhaighdean, Fisherfield Forest, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/munros/ammaigdean/Photos/17_A_Mhaighdean_from_the_west_side_of_Loch_Maree.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Fisherfield Forest\",\n      \"full_address\": \"Fisherfield Forest, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/munros/ammaigdean/Photos/14_View_from_the_summit_of_A_Mhaighdean_looking_over_Loch_Maree_and_Slioch.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\nIn addition to the locations mentioned in the caption, I have also included the Fisherfield Forest, as the caption states that A'Mhaighdean is located within this forest."
+            ]
+        },
+        {
+            "id": "rc_c62678b384493f31",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Fisherfield Forest\",\n      \"full_address\": \"Fisherfield Forest, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/uploads/modules/e64f1341360f779826d6207224938362/forest.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"A\u2019Mhaighdean\",\n      \"full_address\": \"A\u2019Mhaighdean, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/uploads/modules/8e4389616e366a82916185805035843/A-Mhaighdean.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"A'Mhaighdean\",\n      \"full_address\": \"Fisherfield Forest, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/images/munros/amhhaighdean/full-width/amhaighdean-summit.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Fisherfield Forest\",\n      \"full_address\": \"Loch Maree, Scotland\",\n      \"image\": \"https://www.walkhighlands.co.uk/images/forests/fisherfield/full-width/fisherfield-forest-loch-maree.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

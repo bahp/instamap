@@ -1,0 +1,1041 @@
+{
+    "text": "Discover Icelandic Summers through these ten video.  \"Icelandic Summer Collection \u2600\ud83c\uddee\ud83c\uddf8\u2728  \u2022 Icelandic summers are truly amazing, here are 10 videos I\u2019ve taken that showcase some of my favorite moments. 24 hour daylight, vibrant colors, magical hikes and endless adventures. Tag someone you want to experience this with! \ud83d\udc65 \u2022 Swipe for more videos! Which one is your favorite? \ud83c\udfa5 \u2022 Song in 3rd video: \u201cMarch of Midnight\u201d by Scott Buckley Song in 5th video: \u201cWorld of Magic\u201d by Scott Buckley Song in 6th video: \u201cLife Is\u201d by Scott Buckley Song in 8th video: \u201cThe Distant Sun\u201d by Scott Buckley Song in 9th video: \u201cThe Vision\u201d by Scott Buckley Song in 10th video: \u201cDiscovery\u201d by Scott Buckley\"  #discovericeland\ud83c\uddee\ud83c\uddf8 with @h0rdur  #iceland #summer #summervibes",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Icelandic Summers",
+            "start_pos": 9,
+            "end_pos": 26,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6293606758117676
+                }
+            ]
+        },
+        {
+            "text": "Icelandic Summer Collection",
+            "start_pos": 54,
+            "end_pos": 81,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8718379934628805
+                }
+            ]
+        },
+        {
+            "text": "Icelandic",
+            "start_pos": 90,
+            "end_pos": 99,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9953710436820984
+                }
+            ]
+        },
+        {
+            "text": "March of Midnight\u201d by Scott Buckley Song",
+            "start_pos": 397,
+            "end_pos": 437,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7512996345758438
+                }
+            ]
+        },
+        {
+            "text": "World of Magic\u201d by Scott Buckley Song in 6th video: \u201cLife Is\u201d by Scott Buckley Song in 8th video: \u201cThe Distant Sun\u201d by Scott Buckley Song in 9th video: \u201cThe Vision\u201d by Scott Buckley Song in 10th video: \u201cDiscovery\u201d",
+            "start_pos": 453,
+            "end_pos": 666,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8145124064042017
+                }
+            ]
+        },
+        {
+            "text": "Scott Buckley",
+            "start_pos": 670,
+            "end_pos": 683,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.5782867074012756
+                }
+            ]
+        },
+        {
+            "text": "iceland",
+            "start_pos": 720,
+            "end_pos": 727,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7756456136703491
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Discover",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Icelandic",
+            "start_pos": 9,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Summers",
+            "start_pos": 19,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "through",
+            "start_pos": 27,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "these",
+            "start_pos": 35,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "ten",
+            "start_pos": 41,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Icelandic",
+            "start_pos": 54,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Summer",
+            "start_pos": 64,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "Collection",
+            "start_pos": 71,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "\u2600\ud83c\uddee\ud83c\uddf8\u2728",
+            "start_pos": 82,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "Icelandic",
+            "start_pos": 90,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "summers",
+            "start_pos": 100,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 108,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "truly",
+            "start_pos": 112,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "amazing",
+            "start_pos": 118,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 127,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 132,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 136,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "videos",
+            "start_pos": 139,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 146,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "\u2019ve",
+            "start_pos": 147,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 151,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 157,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "showcase",
+            "start_pos": 162,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "some",
+            "start_pos": 171,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 176,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 179,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 182,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "moments",
+            "start_pos": 191,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 198,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "24",
+            "start_pos": 200,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "hour",
+            "start_pos": 203,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "daylight",
+            "start_pos": 208,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 216,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "vibrant",
+            "start_pos": 218,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "colors",
+            "start_pos": 226,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 232,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "magical",
+            "start_pos": 234,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "hikes",
+            "start_pos": 242,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 248,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "endless",
+            "start_pos": 252,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "adventures",
+            "start_pos": 260,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 270,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 272,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "someone",
+            "start_pos": 276,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 284,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "want",
+            "start_pos": 288,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 293,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 296,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 307,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 312,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 316,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc65",
+            "start_pos": 318,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 320,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "Swipe",
+            "start_pos": 322,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 328,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 332,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "videos",
+            "start_pos": 337,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 343,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "Which",
+            "start_pos": 345,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 351,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 355,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 358,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 363,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 371,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfa5",
+            "start_pos": 373,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 375,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "Song",
+            "start_pos": 377,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 382,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "3rd",
+            "start_pos": 385,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 389,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 394,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 396,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "March",
+            "start_pos": 397,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 403,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "Midnight",
+            "start_pos": 406,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 414,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 416,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "Scott",
+            "start_pos": 419,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "Buckley",
+            "start_pos": 425,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "Song",
+            "start_pos": 433,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 438,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "5th",
+            "start_pos": 441,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 445,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 450,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 452,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "World",
+            "start_pos": 453,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 459,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "Magic",
+            "start_pos": 462,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 467,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 469,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "Scott",
+            "start_pos": 472,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "Buckley",
+            "start_pos": 478,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "Song",
+            "start_pos": 486,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 491,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "6th",
+            "start_pos": 494,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 498,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 503,
+            "end_pos": 504,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 505,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "Life",
+            "start_pos": 506,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "Is",
+            "start_pos": 511,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 513,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 515,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "Scott",
+            "start_pos": 518,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "Buckley",
+            "start_pos": 524,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "Song",
+            "start_pos": 532,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 537,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "8th",
+            "start_pos": 540,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 544,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 549,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 551,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 552,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "Distant",
+            "start_pos": 556,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "Sun",
+            "start_pos": 564,
+            "end_pos": 567,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 567,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 569,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "Scott",
+            "start_pos": 572,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "Buckley",
+            "start_pos": 578,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "Song",
+            "start_pos": 586,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 591,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "9th",
+            "start_pos": 594,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 598,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 603,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 605,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 606,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "Vision",
+            "start_pos": 610,
+            "end_pos": 616,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 616,
+            "end_pos": 617,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 618,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": "Scott",
+            "start_pos": 621,
+            "end_pos": 626,
+            "labels": []
+        },
+        {
+            "text": "Buckley",
+            "start_pos": 627,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "Song",
+            "start_pos": 635,
+            "end_pos": 639,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 640,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "10th",
+            "start_pos": 643,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 648,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 653,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 655,
+            "end_pos": 656,
+            "labels": []
+        },
+        {
+            "text": "Discovery",
+            "start_pos": 656,
+            "end_pos": 665,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 665,
+            "end_pos": 666,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 667,
+            "end_pos": 669,
+            "labels": []
+        },
+        {
+            "text": "Scott",
+            "start_pos": 670,
+            "end_pos": 675,
+            "labels": []
+        },
+        {
+            "text": "Buckley",
+            "start_pos": 676,
+            "end_pos": 683,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 683,
+            "end_pos": 684,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 686,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "discovericeland",
+            "start_pos": 687,
+            "end_pos": 702,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf8",
+            "start_pos": 702,
+            "end_pos": 704,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 705,
+            "end_pos": 709,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 710,
+            "end_pos": 711,
+            "labels": []
+        },
+        {
+            "text": "h0rdur",
+            "start_pos": 711,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 719,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "iceland",
+            "start_pos": 720,
+            "end_pos": 727,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 728,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "summer",
+            "start_pos": 729,
+            "end_pos": 735,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 736,
+            "end_pos": 737,
+            "labels": []
+        },
+        {
+            "text": "summervibes",
+            "start_pos": 737,
+            "end_pos": 748,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

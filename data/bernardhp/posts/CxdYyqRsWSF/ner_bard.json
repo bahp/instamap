@@ -1,0 +1,27 @@
+{
+    "content": "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Scotland\",\n      \"full_address\": \"Scotland, United Kingdom\",\n      \"order\": 1\n    }\n  ]\n}\n```\nI hope this is helpful!",
+    "conversation_id": "c_278e4592d96f1d5a",
+    "response_id": "r_0348acaec812828a",
+    "factuality_queries": null,
+    "text_query": [
+        "extract locations from the caption",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_df727e78d6198a51",
+            "content": [
+                "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Scotland\",\n      \"full_address\": \"Scotland, United Kingdom\",\n      \"order\": 1\n    }\n  ]\n}\n```\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "http://googleusercontent.com/url/0",
+        "https://www.scotrail.co.uk/tickets/combined-tickets-travel-passes",
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2YWQ5NjczZjlhMDRhNDVkM2NlYzAwYzA2ZTBhNGZhMmI3MmQ0YjI0ZjI&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Scotland\",\n      \"full_address\": \"Scotland, United Kingdom\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

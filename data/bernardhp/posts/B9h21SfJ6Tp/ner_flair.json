@@ -1,0 +1,218 @@
+{
+    "text": "Decadent indoor greenery? \u2705 Cosy soft furnishings? \u2705 Warm lighting? \u2705 Fenchurch Street's @14hillslondon is doing OK in our books. [\ud83d\udcf7: @elensham]",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Fenchurch Street's",
+            "start_pos": 70,
+            "end_pos": 88,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8247355421384176
+                }
+            ]
+        },
+        {
+            "text": "14hillslondon",
+            "start_pos": 90,
+            "end_pos": 103,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.3174402117729187
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Decadent",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "indoor",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "greenery",
+            "start_pos": 16,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "\u2705",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "Cosy",
+            "start_pos": 28,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "soft",
+            "start_pos": 33,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "furnishings",
+            "start_pos": 38,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "\u2705",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "Warm",
+            "start_pos": 53,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "lighting",
+            "start_pos": 58,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "\u2705",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Fenchurch",
+            "start_pos": 70,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "Street",
+            "start_pos": 80,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "14hillslondon",
+            "start_pos": 90,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 104,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "doing",
+            "start_pos": 107,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "OK",
+            "start_pos": 113,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 116,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 119,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "books",
+            "start_pos": 123,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 128,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "[\ud83d\udcf7",
+            "start_pos": 130,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "elensham",
+            "start_pos": 135,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "]",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

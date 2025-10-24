@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Pulau Pototoga\",\n    \"full_address\": \"Pulau Pototoga, Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pototoga,_Mentawai_Islands,_Indonesia.jpg/220px-Pototoga,_Mentawai_Islands,_Indonesia.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Mentawai Islands\",\n    \"full_address\": \"Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mentawai_Islands_map.png/220px-Mentawai_Islands_map.png\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"West Sumatra\",\n    \"full_address\": \"West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/West_Sumatra_location_map.png/220px-West_Sumatra_location_map.png\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Indonesia\",\n    \"full_address\": \"Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Indonesia.svg/220px-Flag_of_Indonesia.svg\",\n    \"order\": 4\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_13112d2b93c7cb23",
+    "factuality_queries": null,
+    "text_query": [
+        "Pulau Pototoga, Mentawai islands, West Sumatra",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_685f37a6945f8a84",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Pulau Pototoga\",\n    \"full_address\": \"Pulau Pototoga, Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pototoga,_Mentawai_Islands,_Indonesia.jpg/220px-Pototoga,_Mentawai_Islands,_Indonesia.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Mentawai Islands\",\n    \"full_address\": \"Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mentawai_Islands_map.png/220px-Mentawai_Islands_map.png\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"West Sumatra\",\n    \"full_address\": \"West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/West_Sumatra_location_map.png/220px-West_Sumatra_location_map.png\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Indonesia\",\n    \"full_address\": \"Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Indonesia.svg/220px-Flag_of_Indonesia.svg\",\n    \"order\": 4\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_3130c015b693e0e1",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Pulau Pototoga\",\n    \"full_address\": \"Pulau Pototoga, Mentawai islands, West Sumatra, Indonesia\",\n    \"image\": \"https://www.google.com/search?q=Pulau+Pototoga,+Mentawai+islands,+West+Sumatra&tbm=isch\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Mentawai islands\",\n    \"full_address\": \"Mentawai islands, West Sumatra, Indonesia\",\n    \"image\": \"https://www.google.com/search?q=Mentawai+islands,+West+Sumatra&tbm=isch\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"West Sumatra\",\n    \"full_address\": \"West Sumatra, Indonesia\",\n    \"image\": \"https://www.google.com/search?q=West+Sumatra,+Indonesia&tbm=isch\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Indonesia\",\n    \"full_address\": \"Indonesia\",\n    \"image\": \"https://www.google.com/search?q=Indonesia&tbm=isch\",\n    \"order\": 4\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_7ca0afc49984f595",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Pulau Pototoga\",\n    \"full_address\": \"Pulau Pototoga, Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pototoga_Island.jpg/220px-Pototoga_Island.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Mentawai Islands\",\n    \"full_address\": \"Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mentawai_Islands.jpg/220px-Mentawai_Islands.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"West Sumatra\",\n    \"full_address\": \"West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/West_Sumatra.jpg/220px-West_Sumatra.jpg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Indonesia\",\n    \"full_address\": \"Indonesia, Southeast Asia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Indonesia.svg/220px-Flag_of_Indonesia.svg\",\n    \"order\": 4\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Pulau Pototoga\",\n    \"full_address\": \"Pulau Pototoga, Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pototoga,_Mentawai_Islands,_Indonesia.jpg/220px-Pototoga,_Mentawai_Islands,_Indonesia.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Mentawai Islands\",\n    \"full_address\": \"Mentawai Islands, West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mentawai_Islands_map.png/220px-Mentawai_Islands_map.png\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"West Sumatra\",\n    \"full_address\": \"West Sumatra, Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/West_Sumatra_location_map.png/220px-West_Sumatra_location_map.png\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Indonesia\",\n    \"full_address\": \"Indonesia\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Indonesia.svg/220px-Flag_of_Indonesia.svg\",\n    \"order\": 4\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,23 @@
+{
+    "content": "Sure! Here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Molveno\",\n      \"full_address\": \"Lake Molveno, Trentino-Alto Adige, Italy\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Lake Braies\",\n      \"full_address\": \"Lake Braies, Trentino-Alto Adige, Italy\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Val Di Funes\",\n      \"full_address\": \"Val Di Funes, South Tyrol, Italy\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Vipiteno\",\n      \"full_address\": \"Vipiteno, South Tyrol, Italy\",\n      \"order\": 4\n    },\n    {\n      \"name\": \"Geisler Alm\",\n      \"full_address\": \"Geisler Alm, South Tyrol, Italy\",\n      \"order\": 5\n    },\n    {\n      \"name\": \"San Genesio\",\n      \"full_address\": \"San Genesio, South Tyrol, Italy\",\n      \"order\": 6\n    },\n    {\n      \"name\": \"Gardena Pass\",\n      \"full_address\": \"Gardena Pass, South Tyrol, Italy\",\n      \"order\": 7\n    },\n    {\n      \"name\": \"Puez-Odle Nature Park\",\n      \"full_address\": \"Puez-Odle Nature Park, South Tyrol, Italy\",\n      \"order\": 8\n    },\n    {\n      \"name\": \"Braies Lake\",\n      \"full_address\": \"Braies Lake, Trentino-Alto Adige, Italy\",\n      \"order\": 9\n    }\n  ]\n}\n```",
+    "conversation_id": "c_2c9a8500da631524",
+    "response_id": "r_88da378de2af3ca0",
+    "factuality_queries": null,
+    "text_query": [
+        "locations in the caption",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_5cf5059e291d1901",
+            "content": [
+                "Sure! Here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Molveno\",\n      \"full_address\": \"Lake Molveno, Trentino-Alto Adige, Italy\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Lake Braies\",\n      \"full_address\": \"Lake Braies, Trentino-Alto Adige, Italy\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Val Di Funes\",\n      \"full_address\": \"Val Di Funes, South Tyrol, Italy\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Vipiteno\",\n      \"full_address\": \"Vipiteno, South Tyrol, Italy\",\n      \"order\": 4\n    },\n    {\n      \"name\": \"Geisler Alm\",\n      \"full_address\": \"Geisler Alm, South Tyrol, Italy\",\n      \"order\": 5\n    },\n    {\n      \"name\": \"San Genesio\",\n      \"full_address\": \"San Genesio, South Tyrol, Italy\",\n      \"order\": 6\n    },\n    {\n      \"name\": \"Gardena Pass\",\n      \"full_address\": \"Gardena Pass, South Tyrol, Italy\",\n      \"order\": 7\n    },\n    {\n      \"name\": \"Puez-Odle Nature Park\",\n      \"full_address\": \"Puez-Odle Nature Park, South Tyrol, Italy\",\n      \"order\": 8\n    },\n    {\n      \"name\": \"Braies Lake\",\n      \"full_address\": \"Braies Lake, Trentino-Alto Adige, Italy\",\n      \"order\": 9\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Molveno\",\n      \"full_address\": \"Lake Molveno, Trentino-Alto Adige, Italy\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Lake Braies\",\n      \"full_address\": \"Lake Braies, Trentino-Alto Adige, Italy\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Val Di Funes\",\n      \"full_address\": \"Val Di Funes, South Tyrol, Italy\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Vipiteno\",\n      \"full_address\": \"Vipiteno, South Tyrol, Italy\",\n      \"order\": 4\n    },\n    {\n      \"name\": \"Geisler Alm\",\n      \"full_address\": \"Geisler Alm, South Tyrol, Italy\",\n      \"order\": 5\n    },\n    {\n      \"name\": \"San Genesio\",\n      \"full_address\": \"San Genesio, South Tyrol, Italy\",\n      \"order\": 6\n    },\n    {\n      \"name\": \"Gardena Pass\",\n      \"full_address\": \"Gardena Pass, South Tyrol, Italy\",\n      \"order\": 7\n    },\n    {\n      \"name\": \"Puez-Odle Nature Park\",\n      \"full_address\": \"Puez-Odle Nature Park, South Tyrol, Italy\",\n      \"order\": 8\n    },\n    {\n      \"name\": \"Braies Lake\",\n      \"full_address\": \"Braies Lake, Trentino-Alto Adige, Italy\",\n      \"order\": 9\n    }\n  ]\n}\n",
+    "status_code": 200
+}

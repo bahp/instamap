@@ -1,0 +1,735 @@
+{
+    "text": "What a Magical golden hour in Thailand !\ud83c\udf05\ud83e\udde1   \ud83d\udca1Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun.  \ud83c\udff7Have you ever been to Thailand ?\ud83e\udd29  \ud83d\udcf7: Credits  1. @plugowski  2. @minto_ong  3. @ong_twp  4. @kankankavee  5. @sergey.samui   #thailand #thailandia #explore #travel #temple #sunset #asia #southeastasia",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Thailand",
+            "start_pos": 30,
+            "end_pos": 38,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9801563024520874
+                }
+            ]
+        },
+        {
+            "text": "Thailand",
+            "start_pos": 46,
+            "end_pos": 54,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998966455459595
+                }
+            ]
+        },
+        {
+            "text": "Southeast Asian",
+            "start_pos": 60,
+            "end_pos": 75,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8453295528888702
+                }
+            ]
+        },
+        {
+            "text": "Buddha",
+            "start_pos": 196,
+            "end_pos": 202,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9312502145767212
+                }
+            ]
+        },
+        {
+            "text": "Bangkok",
+            "start_pos": 207,
+            "end_pos": 214,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9995402097702026
+                }
+            ]
+        },
+        {
+            "text": "Wat Arun",
+            "start_pos": 322,
+            "end_pos": 330,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6486895680427551
+                }
+            ]
+        },
+        {
+            "text": "Thailand",
+            "start_pos": 356,
+            "end_pos": 364,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9995636343955994
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "What",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 5,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "Magical",
+            "start_pos": 7,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "golden",
+            "start_pos": 15,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "hour",
+            "start_pos": 22,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 27,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Thailand",
+            "start_pos": 30,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf05\ud83e\udde1",
+            "start_pos": 40,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udca1",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "Thailand",
+            "start_pos": 46,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 55,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Southeast",
+            "start_pos": 60,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Asian",
+            "start_pos": 70,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "country",
+            "start_pos": 76,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 85,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 87,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "known",
+            "start_pos": 90,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 96,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "tropical",
+            "start_pos": 100,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "beaches",
+            "start_pos": 109,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "opulent",
+            "start_pos": 118,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "royal",
+            "start_pos": 126,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "palaces",
+            "start_pos": 132,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "ancient",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "ruins",
+            "start_pos": 149,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 155,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "ornate",
+            "start_pos": 159,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "temples",
+            "start_pos": 166,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "displaying",
+            "start_pos": 174,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "figures",
+            "start_pos": 185,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 193,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "Buddha",
+            "start_pos": 196,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 202,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 204,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "Bangkok",
+            "start_pos": 207,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 216,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "capital",
+            "start_pos": 220,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 227,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 229,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "ultramodern",
+            "start_pos": 232,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "cityscape",
+            "start_pos": 244,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "rises",
+            "start_pos": 254,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "next",
+            "start_pos": 260,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 265,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "quiet",
+            "start_pos": 268,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "canalside",
+            "start_pos": 274,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "communities",
+            "start_pos": 284,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 296,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 300,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "iconic",
+            "start_pos": 304,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "temples",
+            "start_pos": 311,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 319,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "Wat",
+            "start_pos": 322,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "Arun",
+            "start_pos": 326,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 330,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udff7",
+            "start_pos": 333,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 334,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 339,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 343,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 348,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 353,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "Thailand",
+            "start_pos": 356,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 365,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd29",
+            "start_pos": 366,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 369,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 370,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "Credits",
+            "start_pos": 372,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 381,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 384,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "plugowski",
+            "start_pos": 385,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 396,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 399,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "minto",
+            "start_pos": 400,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 405,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "ong",
+            "start_pos": 406,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 411,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 414,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "ong",
+            "start_pos": 415,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 418,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "twp",
+            "start_pos": 419,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 424,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 427,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "kankankavee",
+            "start_pos": 428,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "5.",
+            "start_pos": 441,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 444,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "sergey.samui",
+            "start_pos": 445,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 460,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "thailand",
+            "start_pos": 461,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "thailandia",
+            "start_pos": 471,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 482,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 483,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 491,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 492,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 499,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 500,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 507,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "sunset",
+            "start_pos": 508,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 515,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "asia",
+            "start_pos": 516,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 521,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "southeastasia",
+            "start_pos": 522,
+            "end_pos": 535,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

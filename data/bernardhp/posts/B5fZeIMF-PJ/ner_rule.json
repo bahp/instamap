@@ -1,0 +1,74 @@
+[
+    {
+        "text": "\ud83c\uddf2\ud83c\uddf2",
+        "start": 82,
+        "end": 84,
+        "groupdict": {
+            "flag": "\ud83c\uddf2\ud83c\uddf2",
+            "location": "Myanmar"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf3",
+        "start": 163,
+        "end": 165,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf3",
+            "location": "India"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "India",
+        "start": 16,
+        "end": 21,
+        "groupdict": {
+            "name": "India",
+            "location": "India"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Myanmar",
+        "start": 74,
+        "end": 81,
+        "groupdict": {
+            "name": "Myanmar",
+            "location": "Myanmar"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "india",
+        "start": 115,
+        "end": 120,
+        "groupdict": {
+            "name": "india",
+            "location": "india"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "india",
+        "start": 158,
+        "end": 163,
+        "groupdict": {
+            "name": "india",
+            "location": "india"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

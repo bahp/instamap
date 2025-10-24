@@ -1,0 +1,32 @@
+[
+    {
+        "title": "New York City",
+        "subtitle": "Major city in New York State, USA",
+        "lat": 40.7128,
+        "lon": -74.006,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Central Park",
+        "subtitle": "Iconic urban park in Manhattan, New York City",
+        "lat": 40.7829,
+        "lon": -73.9654,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2
+    },
+    {
+        "title": "United States",
+        "subtitle": "Country in North America",
+        "lat": 37.0902,
+        "lon": -95.7129,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 3
+    }
+]

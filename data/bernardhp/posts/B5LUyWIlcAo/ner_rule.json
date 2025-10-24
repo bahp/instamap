@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf5\ud83c\uddf1",
+        "start": 55,
+        "end": 57,
+        "groupdict": {
+            "flag": "\ud83c\uddf5\ud83c\uddf1",
+            "location": "Poland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "poland",
+        "start": 188,
+        "end": 194,
+        "groupdict": {
+            "name": "poland",
+            "location": "poland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

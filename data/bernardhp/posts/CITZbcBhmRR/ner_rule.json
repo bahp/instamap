@@ -1,0 +1,71 @@
+[
+    {
+        "text": "\ud83d\udea9Founders: @chrisma1105",
+        "start": 47,
+        "end": 70,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Founders: @chrisma1105"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdChosen by: @vale_774!",
+        "start": 71,
+        "end": 93,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Chosen by: @vale_774!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udea9TAG YOUR BEST  FRIENDS \ud83d\udea9#cordoba #spain  #flowers #travellingthroughtheworld #archilovers #earthofficial #earthpix #visitspain #ig_spain #bohemiandecor #TLPicks #elledecor #paradise #nature #earthfocus #hello_worldpics #wonderful_places #bohostyle #bohochic #BBCTravel #architectanddesign #archilovers #kaylaitsines #voyaged #interiordesign #design #ig_europa #ig_europe #europe",
+        "start": 145,
+        "end": 524,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "TAG YOUR BEST  FRIENDS \ud83d\udea9#cordoba #spain  #flowers #travellingthroughtheworld #archilovers #earthofficial #earthpix #visitspain #ig_spain #bohemiandecor #TLPicks #elledecor #paradise #nature #earthfocus #hello_worldpics #wonderful_places #bohostyle #bohochic #BBCTravel #architectanddesign #archilovers #kaylaitsines #voyaged #interiordesign #design #ig_europa #ig_europe #europe"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 8,
+        "end": 10,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Spain",
+        "start": 2,
+        "end": 7,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "spain",
+        "start": 180,
+        "end": 185,
+        "groupdict": {
+            "name": "spain",
+            "location": "spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

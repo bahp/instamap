@@ -1,0 +1,50 @@
+[
+    {
+        "text": "Thailand",
+        "start": 30,
+        "end": 38,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Thailand",
+        "start": 46,
+        "end": 54,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Thailand",
+        "start": 356,
+        "end": 364,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 461,
+        "end": 469,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

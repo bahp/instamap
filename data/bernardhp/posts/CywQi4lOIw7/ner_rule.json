@@ -1,0 +1,14 @@
+[
+    {
+        "text": "mexico",
+        "start": 99,
+        "end": 105,
+        "groupdict": {
+            "name": "mexico",
+            "location": "mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

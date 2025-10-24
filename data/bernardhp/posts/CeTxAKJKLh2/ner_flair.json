@@ -1,0 +1,693 @@
+{
+    "text": "\ud83c\udfe1Il rifugio Tuckett  Ci troviamo nelle Dolomiti di Brenta, a 2272mt, ai piedi del Castelletto Inferiore.  Raggiungibile tramite caibovia+facile camminata o solo camminata da Madonna di Campiglio. Apre da met\u00e0 Giugno.  Thanks to @alessia_b71  \u23e9Taggateci nelle vostre foto ed utilizzate l'hashtag #lemeravigliedelnord  \u2022 \u2022 \u2022 \u2022 \u2022 #dolomitibrenta #trekking #visittrentino #trentinoaltoadige #montagna #mountaneering #brentei #agamountainguide  #przewodniktatry #lagoditovel #relax #italy #dolomitialps #brenta #mtb #instagood #travel #trentino #sky #trentinodascoprire #visititaly #mountains #tramonto #dolomiti #viaggi #instatravel",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Dolomiti di Brenta",
+            "start_pos": 39,
+            "end_pos": 57,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.4982586205005646
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udfe1",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Il",
+            "start_pos": 1,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "rifugio",
+            "start_pos": 4,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "Tuckett",
+            "start_pos": 12,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Ci",
+            "start_pos": 21,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "troviamo",
+            "start_pos": 24,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "nelle",
+            "start_pos": 33,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Dolomiti",
+            "start_pos": 39,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 48,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "Brenta",
+            "start_pos": 51,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "2272mt",
+            "start_pos": 61,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "ai",
+            "start_pos": 69,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "piedi",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 78,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "Castelletto",
+            "start_pos": 82,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "Inferiore",
+            "start_pos": 94,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "Raggiungibile",
+            "start_pos": 106,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "tramite",
+            "start_pos": 120,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "caibovia",
+            "start_pos": 128,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "+",
+            "start_pos": 136,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "facile",
+            "start_pos": 137,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "camminata",
+            "start_pos": 144,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "o",
+            "start_pos": 154,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "solo",
+            "start_pos": 156,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "camminata",
+            "start_pos": 161,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 171,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "Madonna",
+            "start_pos": 174,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 182,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "Campiglio",
+            "start_pos": 185,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 194,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "Apre",
+            "start_pos": 196,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 201,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "met\u00e0",
+            "start_pos": 204,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "Giugno",
+            "start_pos": 209,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 215,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "Thanks",
+            "start_pos": 218,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 225,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "alessia",
+            "start_pos": 229,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "b71",
+            "start_pos": 237,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "\u23e9",
+            "start_pos": 242,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "Taggateci",
+            "start_pos": 243,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "nelle",
+            "start_pos": 253,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "vostre",
+            "start_pos": 259,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "foto",
+            "start_pos": 266,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "ed",
+            "start_pos": 271,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "utilizzate",
+            "start_pos": 274,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "l'hashtag",
+            "start_pos": 285,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 295,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "lemeravigliedelnord",
+            "start_pos": 296,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 317,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 319,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 321,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 323,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 327,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "dolomitibrenta",
+            "start_pos": 328,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 343,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "trekking",
+            "start_pos": 344,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 353,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "visittrentino",
+            "start_pos": 354,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "trentinoaltoadige",
+            "start_pos": 369,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 387,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "montagna",
+            "start_pos": 388,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 397,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "mountaneering",
+            "start_pos": 398,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 412,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "brentei",
+            "start_pos": 413,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 421,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "agamountainguide",
+            "start_pos": 422,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 440,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "przewodniktatry",
+            "start_pos": 441,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 457,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "lagoditovel",
+            "start_pos": 458,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "relax",
+            "start_pos": 471,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 477,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 478,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 484,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "dolomitialps",
+            "start_pos": 485,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 498,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "brenta",
+            "start_pos": 499,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 506,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "mtb",
+            "start_pos": 507,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 511,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "instagood",
+            "start_pos": 512,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 522,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 523,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 530,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "trentino",
+            "start_pos": 531,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 540,
+            "end_pos": 541,
+            "labels": []
+        },
+        {
+            "text": "sky",
+            "start_pos": 541,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 545,
+            "end_pos": 546,
+            "labels": []
+        },
+        {
+            "text": "trentinodascoprire",
+            "start_pos": 546,
+            "end_pos": 564,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 565,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": "visititaly",
+            "start_pos": 566,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 577,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "mountains",
+            "start_pos": 578,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 588,
+            "end_pos": 589,
+            "labels": []
+        },
+        {
+            "text": "tramonto",
+            "start_pos": 589,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 598,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "dolomiti",
+            "start_pos": 599,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 608,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "viaggi",
+            "start_pos": 609,
+            "end_pos": 615,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 616,
+            "end_pos": 617,
+            "labels": []
+        },
+        {
+            "text": "instatravel",
+            "start_pos": 617,
+            "end_pos": 628,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

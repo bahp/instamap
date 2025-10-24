@@ -1,0 +1,93 @@
+[
+    {
+        "text": "1. Shinnyo do temple",
+        "start": 54,
+        "end": 74,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Shinnyo do temple"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Daigo-ji temple",
+        "start": 75,
+        "end": 93,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Daigo-ji temple"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3.Kiyomizu-dear temple",
+        "start": 94,
+        "end": 116,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Kiyomizu-dear temple"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Jingo-ji temple",
+        "start": 131,
+        "end": 149,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Jingo-ji temple"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Yokoku-ji temple",
+        "start": 164,
+        "end": 183,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Yokoku-ji temple"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Arashiyama",
+        "start": 184,
+        "end": 197,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Arashiyama"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Iwato Ochiba jinja ",
+        "start": 198,
+        "end": 221,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Iwato Ochiba jinja "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    }
+]

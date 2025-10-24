@@ -1,0 +1,277 @@
+{
+    "text": "Let's go on a hike!  Monday dream \ud83d\udc9a ORIGINAL SOUND \ud83c\udfb5from @brigrc . \ud83d\udccdRifugio delle Odle [Alto Adige] Dolomiti \u26f0  \ud83c\uddee\ud83c\uddf9 #discoverItaly with @brigrc #refuge #italy #southtyrol",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Rifugio delle Odle",
+            "start_pos": 68,
+            "end_pos": 86,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.5507436593373617
+                }
+            ]
+        },
+        {
+            "text": "Alto Adige",
+            "start_pos": 88,
+            "end_pos": 98,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.7010319232940674
+                }
+            ]
+        },
+        {
+            "text": "italy",
+            "start_pos": 152,
+            "end_pos": 157,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5304610133171082
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Let",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 3,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "go",
+            "start_pos": 6,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 9,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 18,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Monday",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "dream",
+            "start_pos": 28,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc9a",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "ORIGINAL",
+            "start_pos": 36,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "SOUND",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfb5",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 52,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "brigrc",
+            "start_pos": 58,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "Rifugio",
+            "start_pos": 68,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "delle",
+            "start_pos": 76,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "Odle",
+            "start_pos": 82,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "[",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "Alto",
+            "start_pos": 88,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "Adige",
+            "start_pos": 93,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "]",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "Dolomiti",
+            "start_pos": 100,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "\u26f0",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 112,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "discoverItaly",
+            "start_pos": 116,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 130,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 135,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "brigrc",
+            "start_pos": 136,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "refuge",
+            "start_pos": 144,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 152,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 158,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "southtyrol",
+            "start_pos": 159,
+            "end_pos": 169,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

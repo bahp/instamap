@@ -1,0 +1,295 @@
+{
+    "text": "@TomJauncey showcases a truly unique perspective of one of the world\u2019s most iconic bridges in Vietnam. \ud83c\uddfb\ud83c\uddf3 (\ud83c\udfb6: \"Back With Me\u201d - @nainoalanger) \u2014 \ud83d\udccd #DiscoverVietnam \u2014 \ud83d\udcf8 Video taken by @tomjauncey",
+    "labels": [],
+    "entities": [
+        {
+            "text": "TomJauncey",
+            "start_pos": 1,
+            "end_pos": 11,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8246654868125916
+                }
+            ]
+        },
+        {
+            "text": "Vietnam",
+            "start_pos": 94,
+            "end_pos": 101,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.997927188873291
+                }
+            ]
+        },
+        {
+            "text": "Back With Me\u201d",
+            "start_pos": 111,
+            "end_pos": 124,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9087546914815903
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "@",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "TomJauncey",
+            "start_pos": 1,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "showcases",
+            "start_pos": 12,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "truly",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "unique",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "perspective",
+            "start_pos": 37,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 49,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 52,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 56,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 59,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 68,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 71,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "iconic",
+            "start_pos": 76,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "bridges",
+            "start_pos": 83,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 91,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "Vietnam",
+            "start_pos": 94,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 101,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddfb\ud83c\uddf3",
+            "start_pos": 103,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "(\ud83c\udfb6",
+            "start_pos": 106,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 108,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 110,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "Back",
+            "start_pos": 111,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "With",
+            "start_pos": 116,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "Me",
+            "start_pos": 121,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 127,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "nainoalanger",
+            "start_pos": 128,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 140,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 144,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 146,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "DiscoverVietnam",
+            "start_pos": 147,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 163,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 165,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "Video",
+            "start_pos": 167,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 173,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 179,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "tomjauncey",
+            "start_pos": 183,
+            "end_pos": 193,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

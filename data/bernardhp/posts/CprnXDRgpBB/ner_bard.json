@@ -1,0 +1,20 @@
+{
+    "content": "Sure, here is a json file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text.\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Calcata\",\n      \"full_address\": \"Less than an hour north of Rome, Italy\",\n      \"order\": 1\n    }\n  ]\n}\n```\n",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_53315c2caf214f09",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_cbb8f899e0f46af4",
+            "content": [
+                "Sure, here is a json file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text.\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Calcata\",\n      \"full_address\": \"Less than an hour north of Rome, Italy\",\n      \"order\": 1\n    }\n  ]\n}\n```\n"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Calcata\",\n      \"full_address\": \"Less than an hour north of Rome, Italy\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

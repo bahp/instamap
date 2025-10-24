@@ -1,0 +1,26 @@
+[
+    {
+        "text": "India",
+        "start": 93,
+        "end": 98,
+        "groupdict": {
+            "name": "India",
+            "location": "India"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "India",
+        "start": 290,
+        "end": 295,
+        "groupdict": {
+            "name": "India",
+            "location": "India"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

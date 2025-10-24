@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf0d LOC : \ud83c\uddee\ud83c\uddf9 #campobasso",
+        "start": 41,
+        "end": 63,
+        "groupdict": {
+            "icon": "\ud83c\udf0d",
+            "location": " LOC : \ud83c\uddee\ud83c\uddf9 #campobasso"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 49,
+        "end": 51,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

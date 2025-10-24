@@ -1,0 +1,51 @@
+{
+    "text": "Beautiful Christmas vibes\ud83c\udf84\ud83c\uddec\ud83c\udde7\ud83e\udde1\ud83c\udf85 By\ud83d\udcf8@antbuchet",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Beautiful",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Christmas",
+            "start_pos": 10,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "vibes",
+            "start_pos": 20,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf84\ud83c\uddec\ud83c\udde7\ud83e\udde1\ud83c\udf85",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "By",
+            "start_pos": 31,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8@",
+            "start_pos": 33,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "antbuchet",
+            "start_pos": 35,
+            "end_pos": 44,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

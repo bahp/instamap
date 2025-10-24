@@ -1,0 +1,135 @@
+{
+    "text": "\ud83c\udfdd\ud83d\udc99 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800  #fuertevidorra #fuerteventura #islascanarias #canarias #canaryislands #fuerteventuraisland #dronephoto",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udfdd\ud83d\udc99",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 3,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 21,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 40,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 59,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 78,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 97,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "fuertevidorra",
+            "start_pos": 118,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "fuerteventura",
+            "start_pos": 133,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "islascanarias",
+            "start_pos": 148,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "canarias",
+            "start_pos": 163,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 172,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "canaryislands",
+            "start_pos": 173,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 187,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "fuerteventuraisland",
+            "start_pos": 188,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "dronephoto",
+            "start_pos": 209,
+            "end_pos": 219,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

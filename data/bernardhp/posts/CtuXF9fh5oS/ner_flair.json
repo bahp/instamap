@@ -1,0 +1,276 @@
+{
+    "text": "\ud83c\uddf3\ud83c\uddf4 One of the most spectacular waterfalls in #Norway. Who\u2019d you visit this place with?  Credits: @kuhrmarvin.  \ud83d\udccd#Mardalsfossen, Norway.   #thegreatplanet. Make Planet Great Again!",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Norway",
+            "start_pos": 46,
+            "end_pos": 52,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9993959665298462
+                }
+            ]
+        },
+        {
+            "text": "Mardalsfossen",
+            "start_pos": 113,
+            "end_pos": 126,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9902859330177307
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 128,
+            "end_pos": 134,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999704360961914
+                }
+            ]
+        },
+        {
+            "text": "Make Planet Great Again",
+            "start_pos": 155,
+            "end_pos": 178,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.884699746966362
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "One",
+            "start_pos": 3,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 7,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 10,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "spectacular",
+            "start_pos": 19,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "waterfalls",
+            "start_pos": 31,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 46,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "Who",
+            "start_pos": 54,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "\u2019d",
+            "start_pos": 57,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 60,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 64,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 75,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 81,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "Credits",
+            "start_pos": 88,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 97,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "kuhrmarvin",
+            "start_pos": 98,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 108,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd#",
+            "start_pos": 111,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "Mardalsfossen",
+            "start_pos": 113,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 128,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "thegreatplanet",
+            "start_pos": 139,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 153,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "Make",
+            "start_pos": 155,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "Planet",
+            "start_pos": 160,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "Great",
+            "start_pos": 167,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "Again",
+            "start_pos": 173,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 178,
+            "end_pos": 179,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

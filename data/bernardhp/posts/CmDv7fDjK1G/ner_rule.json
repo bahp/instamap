@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdLocation at the end\u2728 (Save this Reel for your next holiday!",
+        "start": 27,
+        "end": 87,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Location at the end\u2728 (Save this Reel for your next holiday!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Thailand",
+        "start": 18,
+        "end": 26,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 274,
+        "end": 282,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

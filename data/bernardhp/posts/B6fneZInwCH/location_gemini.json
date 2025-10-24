@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Rockefeller Center",
+        "subtitle": "Iconic complex in Midtown Manhattan, New York City",
+        "lat": 40.7587,
+        "lon": -73.9787,
+        "type": "landmark",
+        "class": "tourism",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Saks Fifth Avenue",
+        "subtitle": "Luxury department store in New York City",
+        "lat": 40.7583,
+        "lon": -73.9768,
+        "type": "department store",
+        "class": "shop",
+        "confidence": 0.9,
+        "rank": 2
+    },
+    {
+        "title": "New York City",
+        "subtitle": "Major city in New York, United States",
+        "lat": 40.7128,
+        "lon": -74.006,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3
+    }
+]

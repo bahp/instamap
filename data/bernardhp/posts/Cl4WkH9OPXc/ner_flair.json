@@ -1,0 +1,177 @@
+{
+    "text": "This was hella interesting to me.. \ud83d\ude05 I\u2019m not gonna do 1000 points though, so I\u2019m glad he did.. credit : @mathletters",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "This",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "hella",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "interesting",
+            "start_pos": 15,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 27,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "me.",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 33,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude05",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "\u2019m",
+            "start_pos": 38,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 41,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "gonna",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "do",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "1000",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "points",
+            "start_pos": 59,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "though",
+            "start_pos": 66,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 74,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "\u2019m",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "glad",
+            "start_pos": 81,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "he",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "did.",
+            "start_pos": 89,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "credit",
+            "start_pos": 95,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "mathletters",
+            "start_pos": 105,
+            "end_pos": 116,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

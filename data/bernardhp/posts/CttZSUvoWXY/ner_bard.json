@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Echizen Daibutsu\",\n      \"full_address\": \"Daishiyama Seidaiji Temple, Katsuyama City, Fukui Prefecture 911-8418, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Echizen_Daibutsu_19910208.jpg/1280px-Echizen_Daibutsu_19910208.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_8ee0fae5852c70ed",
+    "factuality_queries": null,
+    "text_query": [
+        "Echizen Daibutsu, Fukui",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_ef075220573c0f94",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Echizen Daibutsu\",\n      \"full_address\": \"Daishiyama Seidaiji Temple, Katsuyama City, Fukui Prefecture 911-8418, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Echizen_Daibutsu_19910208.jpg/1280px-Echizen_Daibutsu_19910208.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_686114f0b1c1da1b",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Echizen Daibutsu\",\n      \"full_address\": \"Seidaiji Temple, Katsuyama, Fukui Prefecture, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Echizen_Daibutsu.jpg/1200px-Echizen_Daibutsu.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_030c462874e69626",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Echizen Daibutsu\",\n      \"full_address\": \"Shindaiji Temple, Katsuyama City, Fukui Prefecture, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Echizen_Daibutsu.jpg/1200px-Echizen_Daibutsu.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Echizen Daibutsu\",\n      \"full_address\": \"Daishiyama Seidaiji Temple, Katsuyama City, Fukui Prefecture 911-8418, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Echizen_Daibutsu_19910208.jpg/1280px-Echizen_Daibutsu_19910208.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n",
+    "status_code": 200
+}

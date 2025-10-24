@@ -1,0 +1,127 @@
+{
+    "text": "Mystical Shrine in Takamori, Japan. \u26e9\ud83c\uddef\ud83c\uddf5 #DiscoverJapan  Photo by @sameshiki",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Mystical Shrine",
+            "start_pos": 0,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.506052628159523
+                }
+            ]
+        },
+        {
+            "text": "Takamori",
+            "start_pos": 19,
+            "end_pos": 27,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.997363269329071
+                }
+            ]
+        },
+        {
+            "text": "Japan",
+            "start_pos": 29,
+            "end_pos": 34,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999724626541138
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Mystical",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Shrine",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Takamori",
+            "start_pos": 19,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 29,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\u26e9\ud83c\uddef\ud83c\uddf5",
+            "start_pos": 36,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "DiscoverJapan",
+            "start_pos": 41,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 56,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 62,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "sameshiki",
+            "start_pos": 66,
+            "end_pos": 75,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,81 @@
+{
+    "text": "Winter magic in Lofoten \ud83c\uddf3\ud83c\uddf4 \ud83d\udcf8  by: @igoalstories",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Lofoten",
+            "start_pos": 16,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8878032565116882
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Winter",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "magic",
+            "start_pos": 7,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Lofoten",
+            "start_pos": 16,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "igoalstories",
+            "start_pos": 35,
+            "end_pos": 47,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

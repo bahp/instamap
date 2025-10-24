@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Scanno\",\n    \"full_address\": \"Scanno, Abruzzo, Italy\",\n    \"image\": \"https://www.borghipiubelliditalia.it/wp-content/uploads/2021/04/scanno-abruzzo-italy.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Abruzzo\",\n    \"full_address\": \"Abruzzo, Italy\",\n    \"image\": \"https://www.italyby.it/wp-content/uploads/2020/06/Abruzzo-1-1024x683.jpg\",\n    \"order\": 1\n  }\n]\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_06a8570cace66980",
+    "response_id": "r_7295caff3fa4d712",
+    "factuality_queries": null,
+    "text_query": [
+        "Scanno, Abruzzo, Italy",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_a7911173215ce5f5",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Scanno\",\n    \"full_address\": \"Scanno, Abruzzo, Italy\",\n    \"image\": \"https://www.borghipiubelliditalia.it/wp-content/uploads/2021/04/scanno-abruzzo-italy.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Abruzzo\",\n    \"full_address\": \"Abruzzo, Italy\",\n    \"image\": \"https://www.italyby.it/wp-content/uploads/2020/06/Abruzzo-1-1024x683.jpg\",\n    \"order\": 1\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_b705bac1667d9990",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Abruzzo\",\n    \"full_address\": \"Abruzzo, Italy\",\n    \"image\": \"https://www.abruzzoturismo.it/sites/default/files/styles/700x400/public/2020-05/abruzzo-header-2.jpg?itok=lH8sG56o\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Scanno\",\n    \"full_address\": \"Scanno, Abruzzo, Italy\",\n    \"image\": \"https://www.abruzzoturismo.it/sites/default/files/styles/700x400/public/2021-08/scanno-centro-storico-abruzzo.jpg?itok=7-kLtx-N\",\n    \"order\": 2\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_99fe905c3f81ece9",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Scanno\",\n    \"full_address\": \"Scanno, L'Aquila, Abruzzo, Italy\",\n    \"image\": \"https://www.italymagazine.com/sites/default/files/styles/article_main_image/public/images/2020/01/scanno_abruzzo_italy_0.jpg?itok=eR7o9w3M\",\n    \"order\": 1\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Scanno\",\n    \"full_address\": \"Scanno, Abruzzo, Italy\",\n    \"image\": \"https://www.borghipiubelliditalia.it/wp-content/uploads/2021/04/scanno-abruzzo-italy.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Abruzzo\",\n    \"full_address\": \"Abruzzo, Italy\",\n    \"image\": \"https://www.italyby.it/wp-content/uploads/2020/06/Abruzzo-1-1024x683.jpg\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Vancouver",
+        "subtitle": "City in British Columbia, Canada",
+        "lat": 49.2827,
+        "lon": -123.1207,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "United Kingdom",
+        "subtitle": "Island nation in Western Europe",
+        "lat": 54.0,
+        "lon": -2.0,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2
+    },
+    {
+        "title": "Germany",
+        "subtitle": "Country in Central Europe",
+        "lat": 51.0,
+        "lon": 10.5,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent for van travel",
+        "lat": 50.0,
+        "lon": 10.0,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 4
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Milan",
+        "subtitle": "City in Italy",
+        "lat": 45.4642,
+        "lon": 9.19,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 1
+    },
+    {
+        "title": "Italy",
+        "subtitle": "Country in Southern Europe",
+        "lat": 41.8719,
+        "lon": 12.5674,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "Rome",
+        "subtitle": "Capital city of Italy",
+        "lat": 41.9028,
+        "lon": 12.4964,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Greece",
+        "subtitle": "Country in Southeast Europe",
+        "lat": 39.0742,
+        "lon": 21.8243,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent",
+        "lat": 54.526,
+        "lon": 15.2551,
+        "type": "continent",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 9,
+        "page": null
+    }
+]

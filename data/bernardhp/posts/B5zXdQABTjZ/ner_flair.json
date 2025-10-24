@@ -1,0 +1,150 @@
+{
+    "text": "Majestic statue \ud83c\udf43 Buda Tian Tian, Hong Kong.  Photo by @baruch_gabsu",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Buda Tian Tian",
+            "start_pos": 18,
+            "end_pos": 32,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7957492371400198
+                }
+            ]
+        },
+        {
+            "text": "Hong Kong",
+            "start_pos": 34,
+            "end_pos": 43,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9993034303188324
+                }
+            ]
+        },
+        {
+            "text": "baruch",
+            "start_pos": 56,
+            "end_pos": 62,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.4722408652305603
+                }
+            ]
+        },
+        {
+            "text": "gabsu",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8975567817687988
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Majestic",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "statue",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf43",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Buda",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Tian",
+            "start_pos": 23,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "Tian",
+            "start_pos": 28,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "Hong",
+            "start_pos": 34,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Kong",
+            "start_pos": 39,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 46,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "baruch",
+            "start_pos": 56,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "gabsu",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

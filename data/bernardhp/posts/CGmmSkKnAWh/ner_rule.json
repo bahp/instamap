@@ -1,0 +1,73 @@
+[
+    {
+        "text": "\ud83c\udf0d\ud83c\uddee\ud83c\uddf9 Duomo di Milano ",
+        "start": 0,
+        "end": 20,
+        "groupdict": {
+            "icon": "\ud83c\udf0d",
+            "location": "\ud83c\uddee\ud83c\uddf9 Duomo di Milano "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 1,
+        "end": 3,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 20,
+        "end": 22,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 38,
+        "end": 40,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "italy",
+        "start": 26,
+        "end": 31,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "italy",
+        "start": 33,
+        "end": 38,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

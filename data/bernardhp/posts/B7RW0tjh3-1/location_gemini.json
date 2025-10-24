@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Vancouver",
+        "subtitle": "Major city in British Columbia, Canada",
+        "lat": 49.2827,
+        "lon": -123.1207,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "United Kingdom",
+        "subtitle": "Island nation in Northwestern Europe, vanlife destination",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2
+    },
+    {
+        "title": "Germany",
+        "subtitle": "Central European country, popular vanlife region",
+        "lat": 52.52,
+        "lon": 13.405,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent for vanlife adventures",
+        "lat": 48.69096,
+        "lon": 9.14062,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 4
+    }
+]

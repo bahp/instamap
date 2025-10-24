@@ -1,0 +1,105 @@
+[
+    {
+        "text": "2- Laghi di San Giuliano @explorewithartur ",
+        "start": 191,
+        "end": 234,
+        "groupdict": {
+            "order": "2",
+            "sep": "-",
+            "location": "Laghi di San Giuliano @explorewithartur "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3- Lago Nambino @arturlandscapes ",
+        "start": 235,
+        "end": 268,
+        "groupdict": {
+            "order": "3",
+            "sep": "-",
+            "location": "Lago Nambino @arturlandscapes "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4- Lago Di Antermoia @trekwithartur",
+        "start": 269,
+        "end": 304,
+        "groupdict": {
+            "order": "4",
+            "sep": "-",
+            "location": "Lago Di Antermoia @trekwithartur"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6- Lagorai @explorewithartur ",
+        "start": 336,
+        "end": 365,
+        "groupdict": {
+            "order": "6",
+            "sep": "-",
+            "location": "Lagorai @explorewithartur "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7- Molveno @arturlandscapes ",
+        "start": 366,
+        "end": 394,
+        "groupdict": {
+            "order": "7",
+            "sep": "-",
+            "location": "Molveno @arturlandscapes "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8- Cornetto, Bondone @trekwithartur ",
+        "start": 395,
+        "end": 431,
+        "groupdict": {
+            "order": "8",
+            "sep": "-",
+            "location": "Cornetto, Bondone @trekwithartur "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10- Le Odle @arturlandscapes",
+        "start": 457,
+        "end": 485,
+        "groupdict": {
+            "order": "10",
+            "sep": "-",
+            "location": "Le Odle @arturlandscapes"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "Italy",
+        "start": 704,
+        "end": 709,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

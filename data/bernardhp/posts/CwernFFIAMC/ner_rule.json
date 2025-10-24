@@ -1,0 +1,14 @@
+[
+    {
+        "text": "greece",
+        "start": 55,
+        "end": 61,
+        "groupdict": {
+            "name": "greece",
+            "location": "greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

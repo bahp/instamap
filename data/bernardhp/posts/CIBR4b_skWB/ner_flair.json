@@ -1,0 +1,51 @@
+{
+    "text": "Belgium \ud83c\udde7\ud83c\uddea \ud83d\udcf8 @jusanders23",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Belgium",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9924629926681519
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Belgium",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde7\ud83c\uddea",
+            "start_pos": 8,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 11,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "jusanders23",
+            "start_pos": 14,
+            "end_pos": 25,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

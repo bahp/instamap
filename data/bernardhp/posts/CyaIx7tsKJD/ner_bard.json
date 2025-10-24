@@ -1,0 +1,35 @@
+{
+    "content": "Here's the JSON file extracting the locations from the provided caption:\n\n```json\n[\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Monte Riggioni\",\n    \"full_address\": \"Monte Riggioni, Siena, Tuscany, Italy\",\n    \"order\": 11\n  }\n]\n```",
+    "conversation_id": "c_06a8570cace66980",
+    "response_id": "r_663c7efa6331d458",
+    "factuality_queries": null,
+    "text_query": [
+        "locations in the caption \"La vita \u00e8 come un\u2019eco: se non ti piace quello che ti rimanda, devi cambiare il messaggio che invii.\"",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_bbcf032677757c06",
+            "content": [
+                "Here's the JSON file extracting the locations from the provided caption:\n\n```json\n[\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Monte Riggioni\",\n    \"full_address\": \"Monte Riggioni, Siena, Tuscany, Italy\",\n    \"order\": 11\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_3a4ed7e73c44fef6",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"image\": \"https://www.turismo.intoscana.it/content/dam/turismo-intoscana/it/img/homepage/landscape/landscape-desktop.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Monteriggioni\",\n    \"full_address\": \"Monteriggioni, Siena, Tuscany, Italy\",\n    \"image\": \"https://www.turismo.intoscana.it/content/dam/turismo-intoscana/it/img/destinazioni/monteriggioni-header.jpg\",\n    \"order\": 13\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_fadb55311612f5cc",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"image\": \"https://www.visitaretoscana.it/wp-content/uploads/2019/10/paesi-caratteristici-toscana.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Monteriggioni\",\n    \"full_address\": \"Monteriggioni, Siena, Tuscany, Italy\",\n    \"image\": \"https://www.monteriggioni.net/wp-content/uploads/2019/01/Monteriggioni-Toscana-300x200.jpg\",\n    \"order\": 15\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Monte Riggioni\",\n    \"full_address\": \"Monte Riggioni, Siena, Tuscany, Italy\",\n    \"order\": 11\n  }\n]\n",
+    "status_code": 200
+}

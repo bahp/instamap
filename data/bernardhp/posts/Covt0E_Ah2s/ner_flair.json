@@ -1,0 +1,109 @@
+{
+    "text": "El mejor consejo.  Dante Gebel, b\u00fascalo en Youtube.",
+    "labels": [],
+    "entities": [
+        {
+            "text": "El mejor consejo",
+            "start_pos": 0,
+            "end_pos": 16,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8790322740872701
+                }
+            ]
+        },
+        {
+            "text": "Dante Gebel",
+            "start_pos": 19,
+            "end_pos": 30,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.999115377664566
+                }
+            ]
+        },
+        {
+            "text": "Youtube",
+            "start_pos": 43,
+            "end_pos": 50,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.4785812199115753
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "El",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "mejor",
+            "start_pos": 3,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "consejo",
+            "start_pos": 9,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Dante",
+            "start_pos": 19,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "Gebel",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "b\u00fascalo",
+            "start_pos": 32,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 40,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "Youtube",
+            "start_pos": 43,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

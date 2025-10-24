@@ -1,0 +1,671 @@
+{
+    "text": "@craig_richards_photography had planned on photographing the iconic Twelve Apostles at #sunset when he was treated to this unexpected and spectacular #bioluminescence display instead! Although you may not witness sparkling bright blue waves exactly like this along the rugged the Great Ocean Road (we\u2019re just a tad jealous, Craig \ud83d\ude09), we can confirm that this famous coastal #roadtrip in Victoria delivers simply magical scenery on any given day. #discoveraustralia with @craig_richards_photography  - #seeaustralia #visitvictoria #visitgreatoceanroad #greatoceanroad #twelveapostles",
+    "labels": [],
+    "entities": [
+        {
+            "text": "richards",
+            "start_pos": 7,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7199171185493469
+                }
+            ]
+        },
+        {
+            "text": "Twelve Apostles",
+            "start_pos": 68,
+            "end_pos": 83,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8316090106964111
+                }
+            ]
+        },
+        {
+            "text": "Great Ocean Road",
+            "start_pos": 280,
+            "end_pos": 296,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9826754728953043
+                }
+            ]
+        },
+        {
+            "text": "Craig",
+            "start_pos": 324,
+            "end_pos": 329,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.5467466115951538
+                }
+            ]
+        },
+        {
+            "text": "Victoria",
+            "start_pos": 387,
+            "end_pos": 395,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991826415061951
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "@",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "craig",
+            "start_pos": 1,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 6,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "richards",
+            "start_pos": 7,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 16,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "had",
+            "start_pos": 28,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "planned",
+            "start_pos": 32,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 40,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "photographing",
+            "start_pos": 43,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 57,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "iconic",
+            "start_pos": 61,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "Twelve",
+            "start_pos": 68,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Apostles",
+            "start_pos": 75,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 84,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "sunset",
+            "start_pos": 88,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 95,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "he",
+            "start_pos": 100,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 103,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "treated",
+            "start_pos": 107,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 115,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 118,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "unexpected",
+            "start_pos": 123,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 134,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "spectacular",
+            "start_pos": 138,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 150,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "bioluminescence",
+            "start_pos": 151,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "display",
+            "start_pos": 167,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "instead",
+            "start_pos": 175,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "Although",
+            "start_pos": 184,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 193,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "may",
+            "start_pos": 197,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 201,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "witness",
+            "start_pos": 205,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "sparkling",
+            "start_pos": 213,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "bright",
+            "start_pos": 223,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "blue",
+            "start_pos": 230,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "waves",
+            "start_pos": 235,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "exactly",
+            "start_pos": 241,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 249,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 254,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "along",
+            "start_pos": 259,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 265,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "rugged",
+            "start_pos": 269,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 276,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "Great",
+            "start_pos": 280,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "Ocean",
+            "start_pos": 286,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "Road",
+            "start_pos": 292,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 297,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "we",
+            "start_pos": 298,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "\u2019re",
+            "start_pos": 300,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "just",
+            "start_pos": 304,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 309,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "tad",
+            "start_pos": 311,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "jealous",
+            "start_pos": 315,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 322,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "Craig",
+            "start_pos": 324,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude09)",
+            "start_pos": 330,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 332,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "we",
+            "start_pos": 334,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 337,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "confirm",
+            "start_pos": 341,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 349,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 354,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "famous",
+            "start_pos": 359,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "coastal",
+            "start_pos": 366,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 374,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "roadtrip",
+            "start_pos": 375,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 384,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "Victoria",
+            "start_pos": 387,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "delivers",
+            "start_pos": 396,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "simply",
+            "start_pos": 405,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "magical",
+            "start_pos": 412,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "scenery",
+            "start_pos": 420,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 428,
+            "end_pos": 430,
+            "labels": []
+        },
+        {
+            "text": "any",
+            "start_pos": 431,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "given",
+            "start_pos": 435,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "day",
+            "start_pos": 441,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 444,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 446,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "discoveraustralia",
+            "start_pos": 447,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 465,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "craig",
+            "start_pos": 471,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 476,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "richards",
+            "start_pos": 477,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 485,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 486,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 499,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 501,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "seeaustralia",
+            "start_pos": 502,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 515,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "visitvictoria",
+            "start_pos": 516,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 530,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "visitgreatoceanroad",
+            "start_pos": 531,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 551,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "greatoceanroad",
+            "start_pos": 552,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 567,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "twelveapostles",
+            "start_pos": 568,
+            "end_pos": 582,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

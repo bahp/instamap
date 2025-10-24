@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd Quebec , Canada ",
+        "start": 0,
+        "end": 18,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Quebec , Canada "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udde6",
+        "start": 18,
+        "end": 20,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udde6",
+            "location": "Canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Canada",
+        "start": 11,
+        "end": 17,
+        "groupdict": {
+            "name": "Canada",
+            "location": "Canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

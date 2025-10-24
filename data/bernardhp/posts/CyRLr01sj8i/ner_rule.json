@@ -1,0 +1,85 @@
+[
+    {
+        "text": "\ud83d\udccdVienna, Austria ",
+        "start": 0,
+        "end": 17,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Vienna, Austria "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde6\ud83c\uddf9",
+        "start": 17,
+        "end": 19,
+        "groupdict": {
+            "flag": "\ud83c\udde6\ud83c\uddf9",
+            "location": "Austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde6\ud83c\uddf9",
+        "start": 965,
+        "end": 967,
+        "groupdict": {
+            "flag": "\ud83c\udde6\ud83c\uddf9",
+            "location": "Austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Austria",
+        "start": 9,
+        "end": 16,
+        "groupdict": {
+            "name": "Austria",
+            "location": "Austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Austria",
+        "start": 95,
+        "end": 102,
+        "groupdict": {
+            "name": "Austria",
+            "location": "Austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Austria",
+        "start": 245,
+        "end": 252,
+        "groupdict": {
+            "name": "Austria",
+            "location": "Austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "austria",
+        "start": 958,
+        "end": 965,
+        "groupdict": {
+            "name": "austria",
+            "location": "austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

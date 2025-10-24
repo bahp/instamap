@@ -1,0 +1,622 @@
+{
+    "text": "Photo by @joshuacogan | A farmer works in a rice field near Hampi, in the Karnataka state of India. Since much of the state has been on lockdown because of COVID-19, authorities have had to ration rice to citizens, especially in more urban areas. As one of the top rice-producing states in India, Karnataka has also been helping to feed Kerala and other states during the lockdown.  For more explorations of culture, ecology, and agriculture, follow me @joshuacogan.",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Hampi",
+            "start_pos": 60,
+            "end_pos": 65,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996421337127686
+                }
+            ]
+        },
+        {
+            "text": "Karnataka",
+            "start_pos": 74,
+            "end_pos": 83,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8998892307281494
+                }
+            ]
+        },
+        {
+            "text": "India",
+            "start_pos": 93,
+            "end_pos": 98,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998100399971008
+                }
+            ]
+        },
+        {
+            "text": "India",
+            "start_pos": 290,
+            "end_pos": 295,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996758699417114
+                }
+            ]
+        },
+        {
+            "text": "Karnataka",
+            "start_pos": 297,
+            "end_pos": 306,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997445940971375
+                }
+            ]
+        },
+        {
+            "text": "Kerala",
+            "start_pos": 337,
+            "end_pos": 343,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9972695708274841
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Photo",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 6,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 9,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "joshuacogan",
+            "start_pos": 10,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "|",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "farmer",
+            "start_pos": 26,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "works",
+            "start_pos": 33,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 44,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "field",
+            "start_pos": 49,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "near",
+            "start_pos": 55,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Hampi",
+            "start_pos": 60,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 67,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 70,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Karnataka",
+            "start_pos": 74,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "state",
+            "start_pos": 84,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 90,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "India",
+            "start_pos": 93,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "Since",
+            "start_pos": 100,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "much",
+            "start_pos": 106,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 111,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 114,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "state",
+            "start_pos": 118,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 124,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 128,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 133,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "lockdown",
+            "start_pos": 136,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "because",
+            "start_pos": 145,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 153,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "COVID-19",
+            "start_pos": 156,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 164,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "authorities",
+            "start_pos": 166,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 178,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "had",
+            "start_pos": 183,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 187,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "ration",
+            "start_pos": 190,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 197,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 202,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "citizens",
+            "start_pos": 205,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "especially",
+            "start_pos": 215,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 226,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 229,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "urban",
+            "start_pos": 234,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "areas",
+            "start_pos": 240,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 245,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "As",
+            "start_pos": 247,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 250,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 254,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 257,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "top",
+            "start_pos": 261,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "rice-producing",
+            "start_pos": 265,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "states",
+            "start_pos": 280,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 287,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": "India",
+            "start_pos": 290,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 295,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "Karnataka",
+            "start_pos": 297,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 307,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "also",
+            "start_pos": 311,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 316,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "helping",
+            "start_pos": 321,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 329,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "feed",
+            "start_pos": 332,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "Kerala",
+            "start_pos": 337,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 344,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "other",
+            "start_pos": 348,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "states",
+            "start_pos": 354,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "during",
+            "start_pos": 361,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 368,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "lockdown",
+            "start_pos": 372,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 380,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "For",
+            "start_pos": 383,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 387,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "explorations",
+            "start_pos": 392,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 405,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "culture",
+            "start_pos": 408,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 415,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "ecology",
+            "start_pos": 417,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 424,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 426,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "agriculture",
+            "start_pos": 430,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 441,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "follow",
+            "start_pos": 443,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 450,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 453,
+            "end_pos": 454,
+            "labels": []
+        },
+        {
+            "text": "joshuacogan",
+            "start_pos": 454,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 465,
+            "end_pos": 466,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

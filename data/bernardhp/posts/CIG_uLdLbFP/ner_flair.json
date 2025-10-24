@@ -1,0 +1,696 @@
+{
+    "text": "Al-Farid Palace is a palace in the Nabatieh cemeteries in the cities of Saleh, west of Saudi Arabia \ud83c\uddf8\ud83c\udde6   Interested in Ancient History? Shop ancient history gifts over at our website! Link in Bio\ud83d\udcf2  \ud83d\uddffLike this post? Follow @ancientantiquity for more ancient architecture and civilisations.  #ancient #ancients #ancienthistory #ancientruins #ancienttemples #amazonrainforest #ancientcivilization #archaeology #architecturedesign #architecturelover #sumerian #easterisland #Brienfoerster #randallcarlson #Grahamhancock #joeroganexperience #Brightinsight #Egyptians #petra #petrajordan #sphinx #travelingtheworld #Chichenitzaclap #Nikolatesla #pyramids #pyramidsofgiza #chichenitza",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Al-Farid Palace",
+            "start_pos": 0,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9606962502002716
+                }
+            ]
+        },
+        {
+            "text": "Nabatieh",
+            "start_pos": 35,
+            "end_pos": 43,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.988038957118988
+                }
+            ]
+        },
+        {
+            "text": "Saleh",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9980592131614685
+                }
+            ]
+        },
+        {
+            "text": "Saudi Arabia",
+            "start_pos": 87,
+            "end_pos": 99,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9945806562900543
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Al-Farid",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Palace",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "palace",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 31,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "Nabatieh",
+            "start_pos": 35,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "cemeteries",
+            "start_pos": 44,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 55,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 58,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "cities",
+            "start_pos": 62,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 69,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "Saleh",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "west",
+            "start_pos": 79,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 84,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "Saudi",
+            "start_pos": 87,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "Arabia",
+            "start_pos": 93,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf8\ud83c\udde6",
+            "start_pos": 100,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "Interested",
+            "start_pos": 105,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 116,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "Ancient",
+            "start_pos": 119,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 127,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "Shop",
+            "start_pos": 136,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "ancient",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 149,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "gifts",
+            "start_pos": 157,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 163,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 168,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 171,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "website",
+            "start_pos": 175,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "Link",
+            "start_pos": 184,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 189,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "Bio",
+            "start_pos": 192,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf2",
+            "start_pos": 195,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\uddff",
+            "start_pos": 198,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "Like",
+            "start_pos": 199,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 204,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "post",
+            "start_pos": 209,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 215,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 222,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "ancientantiquity",
+            "start_pos": 223,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 240,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 244,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "ancient",
+            "start_pos": 249,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 257,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 270,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "civilisations",
+            "start_pos": 274,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 287,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 290,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "ancient",
+            "start_pos": 291,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 299,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "ancients",
+            "start_pos": 300,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 309,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "ancienthistory",
+            "start_pos": 310,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "ancientruins",
+            "start_pos": 326,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 339,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "ancienttemples",
+            "start_pos": 340,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 355,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "amazonrainforest",
+            "start_pos": 356,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 373,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "ancientcivilization",
+            "start_pos": 374,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 394,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "archaeology",
+            "start_pos": 395,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 407,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "architecturedesign",
+            "start_pos": 408,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 427,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "architecturelover",
+            "start_pos": 428,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 446,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "sumerian",
+            "start_pos": 447,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 456,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "easterisland",
+            "start_pos": 457,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "Brienfoerster",
+            "start_pos": 471,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 485,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "randallcarlson",
+            "start_pos": 486,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 501,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "Grahamhancock",
+            "start_pos": 502,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 516,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "joeroganexperience",
+            "start_pos": 517,
+            "end_pos": 535,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 536,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "Brightinsight",
+            "start_pos": 537,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 551,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "Egyptians",
+            "start_pos": 552,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 562,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "petra",
+            "start_pos": 563,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 569,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": "petrajordan",
+            "start_pos": 570,
+            "end_pos": 581,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 582,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "sphinx",
+            "start_pos": 583,
+            "end_pos": 589,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 590,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "travelingtheworld",
+            "start_pos": 591,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 609,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "Chichenitzaclap",
+            "start_pos": 610,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 626,
+            "end_pos": 627,
+            "labels": []
+        },
+        {
+            "text": "Nikolatesla",
+            "start_pos": 627,
+            "end_pos": 638,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 639,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "pyramids",
+            "start_pos": 640,
+            "end_pos": 648,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 649,
+            "end_pos": 650,
+            "labels": []
+        },
+        {
+            "text": "pyramidsofgiza",
+            "start_pos": 650,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 665,
+            "end_pos": 666,
+            "labels": []
+        },
+        {
+            "text": "chichenitza",
+            "start_pos": 666,
+            "end_pos": 677,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,704 @@
+{
+    "text": "\"It\u2019s a nice feeling knowing places like this exist. This is a natural waterfall next to stunning rice terraces that we found one morning. Sumba Island is one is the more challenging places to travel in Indonesia. The island is massive and missing a lot of infrastructure like roads, hotels, restaurants, etc. We spent 6-8 hours in the car every day on bumpy roads to get to each spot. I think it\u2019s worth it if you\u2019re up for an adventure.\" #discoverindonesia \ud83c\uddee\ud83c\udde9 with @emmett_sparling  #indonesia #sumba #sumbaisland #ricefield #lagoon",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Sumba Island",
+            "start_pos": 139,
+            "end_pos": 151,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.983540952205658
+                }
+            ]
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 203,
+            "end_pos": 212,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9982157945632935
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\"",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 1,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 3,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 6,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "nice",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "feeling",
+            "start_pos": 13,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "knowing",
+            "start_pos": 21,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 29,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 36,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 41,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "exist",
+            "start_pos": 46,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 53,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 58,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "natural",
+            "start_pos": 63,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "waterfall",
+            "start_pos": 71,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "next",
+            "start_pos": 81,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "stunning",
+            "start_pos": 89,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 98,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "terraces",
+            "start_pos": 103,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 112,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "we",
+            "start_pos": 117,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "found",
+            "start_pos": 120,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 126,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "morning",
+            "start_pos": 130,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "Sumba",
+            "start_pos": 139,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "Island",
+            "start_pos": 145,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 152,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 155,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 159,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 162,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 166,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "challenging",
+            "start_pos": 171,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 183,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 190,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 193,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 200,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 203,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 214,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 218,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 225,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "massive",
+            "start_pos": 228,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 236,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "missing",
+            "start_pos": 240,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 248,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "lot",
+            "start_pos": 250,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 254,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "infrastructure",
+            "start_pos": 257,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 272,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "roads",
+            "start_pos": 277,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 282,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "hotels",
+            "start_pos": 284,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 290,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "restaurants",
+            "start_pos": 292,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 303,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "etc",
+            "start_pos": 305,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 308,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "We",
+            "start_pos": 310,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "spent",
+            "start_pos": 313,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "6-8",
+            "start_pos": 319,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "hours",
+            "start_pos": 323,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 329,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 332,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "car",
+            "start_pos": 336,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "every",
+            "start_pos": 340,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "day",
+            "start_pos": 346,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 350,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "bumpy",
+            "start_pos": 353,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "roads",
+            "start_pos": 359,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 365,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "get",
+            "start_pos": 368,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 372,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "each",
+            "start_pos": 375,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "spot",
+            "start_pos": 380,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 384,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 386,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "think",
+            "start_pos": 388,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 394,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 396,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "worth",
+            "start_pos": 399,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 405,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 408,
+            "end_pos": 410,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 411,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "\u2019re",
+            "start_pos": 414,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 418,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 421,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 425,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "adventure",
+            "start_pos": 428,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 437,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 438,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 440,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "discoverindonesia",
+            "start_pos": 441,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\udde9",
+            "start_pos": 459,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 462,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 467,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "emmett",
+            "start_pos": 468,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 474,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "sparling",
+            "start_pos": 475,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 485,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "indonesia",
+            "start_pos": 486,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 496,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "sumba",
+            "start_pos": 497,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 503,
+            "end_pos": 504,
+            "labels": []
+        },
+        {
+            "text": "sumbaisland",
+            "start_pos": 504,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 516,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "ricefield",
+            "start_pos": 517,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 527,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "lagoon",
+            "start_pos": 528,
+            "end_pos": 534,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

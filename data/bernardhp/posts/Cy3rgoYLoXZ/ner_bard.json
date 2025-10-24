@@ -1,0 +1,54 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Eremo delle Carceri\",\n      \"full_address\": \"Via Eremo delle Carceri, 06081 Assisi PG, Italia\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/eremo-delle-carceri-assisi\"\n    },\n    {\n      \"name\": \"Basilica di San Francesco\",\n      \"full_address\": \"Piazza San Francesco, 1, 06081 Assisi PG, Italia\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/basilica-di-san-francesco-assisi\"\n    },\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italia\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italia\"\n    }\n  ]\n}\n```\n\nThe caption mentions the name of the Eremo delle Carceri, its full address, and the order in which it is mentioned in the text. It also mentions the Basilica di San Francesco and the city of Assisi, but without providing their full addresses. In this case, I have assumed that the Basilica di San Francesco is located in the city of Assisi, and I have used the city's address as the full address for the Basilica.",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_dca289c5f397848d",
+    "factuality_queries": null,
+    "text_query": [
+        "eremo delle Carceri, Assisi",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_aa9254901b332123",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Eremo delle Carceri\",\n      \"full_address\": \"Via Eremo delle Carceri, 06081 Assisi PG, Italia\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/eremo-delle-carceri-assisi\"\n    },\n    {\n      \"name\": \"Basilica di San Francesco\",\n      \"full_address\": \"Piazza San Francesco, 1, 06081 Assisi PG, Italia\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/basilica-di-san-francesco-assisi\"\n    },\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italia\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italia\"\n    }\n  ]\n}\n```\n\nThe caption mentions the name of the Eremo delle Carceri, its full address, and the order in which it is mentioned in the text. It also mentions the Basilica di San Francesco and the city of Assisi, but without providing their full addresses. In this case, I have assumed that the Basilica di San Francesco is located in the city of Assisi, and I have used the city's address as the full address for the Basilica."
+            ]
+        },
+        {
+            "id": "rc_8f9ded22ca8889a8",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Eremo delle Carceri\",\n      \"full_address\": \"Via Eremo delle Carceri, 06081 Assisi PG, Italia\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/eremo-delle-carceri-assisi\"\n    },\n    {\n      \"name\": \"Basilica di San Francesco\",\n      \"full_address\": \"Piazza San Francesco, 1, 06081 Assisi PG, Italia\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/basilica-di-san-francesco-assisi\"\n    },\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italia\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/assisi-umbria-italia\"\n    }\n  ]\n}\n```\n\n**Image of Eremo delle Carceri**\n[Image of Eremo delle Carceri, Assisi]\n\n**Image of Basilica di San Francesco**\n[Image of Basilica di San Francesco, Assisi]\n\n**Image of Assisi**\n[Image of Assisi]\n\nThe caption mentions the name of the eremo delle Carceri, and its location, Via Eremo delle Carceri, 06081 Assisi PG, Italia. The order of the location is 1, as it is the first location mentioned in the text.\n\nThe caption also mentions the Basilica di San Francesco, without providing its address. However, the Basilica is a well-known landmark in Assisi, and its address can be easily found online. The order of the location is 2.\n\nFinally, the caption mentions the city of Assisi in general terms. The order of the location is 3."
+            ]
+        },
+        {
+            "id": "rc_4798fd9245424299",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Eremo delle Carceri\",\n      \"full_address\": \"Via Eremo delle Carceri, 06081 Assisi PG, Italia\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/eremo-delle-carceri-assisi\"\n    },\n    {\n      \"name\": \"Basilica di San Francesco d'Assisi\",\n      \"full_address\": \"Piazza San Francesco, 1, 06081 Assisi PG, Italia\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/basilica-di-san-francesco-assisi\"\n    },\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italia\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/assisi-umbria\"\n    }\n  ]\n}\n```\n\nThe caption mentions the name of the eremo delle Carceri, the Basilica di San Francesco d'Assisi, and the city of Assisi. The order of the locations is 1, 2, and 3, respectively, as they are mentioned in the text in that order."
+            ]
+        }
+    ],
+    "links": [
+        "https://www.assisiofm.it/uploads/2085%20(1).jpg",
+        "https://www.assisiofm.it/eremo-delle-carceri-assisi-103-1.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIhMyMQTAVLWCmimDsefdrOGCdRl1mnNdbjblMG0JDZ7PXhC7g4EZMLZgTK4vw",
+        "https://www.sanfrancescoassisi.org/html/ita/include/getImgStd.php?idNews=373&zone=WEBluoghiPhoto&caid=idRif",
+        "https://www.sanfrancescoassisi.org/html/ita/shownews.php?idNews=373&zone=WEBluoghi",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7AnEKEsRZ6ceWku5G_43FjqicaaUVdfXRJ-q-_tGFDSPKMc4SksVdLLltzV9p",
+        "https://www.tripsavvy.com/thmb/3UTCOMY23k8Xd1L6nQa8o7ZYMo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assai-edb1e6887494485689a988d212e11da9.jpg",
+        "https://www.tripsavvy.com/walk-in-the-footsteps-of-st-francis-of-assisi-1507220",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdyCbo2qW2qKdQ96YWDK9kB-7tR69WKMfnfk9Pd3pMA2NNZkWvbtNMAmLMkUcn",
+        "https://www.assisiofm.it/uploads/2085%20(1).jpg",
+        "https://www.assisiofm.it/eremo-delle-carceri-assisi-103-1.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIhMyMQTAVLWCmimDsefdrOGCdRl1mnNdbjblMG0JDZ7PXhC7g4EZMLZgTK4vw",
+        "https://www.sanfrancescoassisi.org/html/ita/include/getImgStd.php?idNews=373&zone=WEBluoghiPhoto&caid=idRif",
+        "https://www.sanfrancescoassisi.org/html/ita/shownews.php?idNews=373&zone=WEBluoghi",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7AnEKEsRZ6ceWku5G_43FjqicaaUVdfXRJ-q-_tGFDSPKMc4SksVdLLltzV9p",
+        "https://www.tripsavvy.com/thmb/3UTCOMY23k8Xd1L6nQa8o7ZYMo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assai-edb1e6887494485689a988d212e11da9.jpg",
+        "https://www.tripsavvy.com/walk-in-the-footsteps-of-st-francis-of-assisi-1507220",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdyCbo2qW2qKdQ96YWDK9kB-7tR69WKMfnfk9Pd3pMA2NNZkWvbtNMAmLMkUcn"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Eremo delle Carceri\",\n      \"full_address\": \"Via Eremo delle Carceri, 06081 Assisi PG, Italia\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/eremo-delle-carceri-assisi\"\n    },\n    {\n      \"name\": \"Basilica di San Francesco\",\n      \"full_address\": \"Piazza San Francesco, 1, 06081 Assisi PG, Italia\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/basilica-di-san-francesco-assisi\"\n    },\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italia\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italia\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverTaiwan ",
+        "start": 310,
+        "end": 328,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverTaiwan "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf9\ud83c\uddfc",
+        "start": 91,
+        "end": 93,
+        "groupdict": {
+            "flag": "\ud83c\uddf9\ud83c\uddfc",
+            "location": "Taiwan, Province of China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

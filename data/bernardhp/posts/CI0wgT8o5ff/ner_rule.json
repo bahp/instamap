@@ -1,0 +1,103 @@
+[
+    {
+        "text": "1. Harads, Sweden: @oskarbakke ",
+        "start": 164,
+        "end": 195,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Harads, Sweden: @oskarbakke "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Montana, USA: @michaelmatti ",
+        "start": 196,
+        "end": 227,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Montana, USA: @michaelmatti "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Georgetown, Maine: @kylefinndempsey ",
+        "start": 228,
+        "end": 267,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Georgetown, Maine: @kylefinndempsey "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Lapland, Finland: @joonaslinkola ",
+        "start": 268,
+        "end": 304,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Lapland, Finland: @joonaslinkola "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5.Rovaniemi, Finland: @meirr ",
+        "start": 305,
+        "end": 334,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Rovaniemi, Finland: @meirr "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "Sweden",
+        "start": 175,
+        "end": 181,
+        "groupdict": {
+            "name": "Sweden",
+            "location": "Sweden"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Finland",
+        "start": 280,
+        "end": 287,
+        "groupdict": {
+            "name": "Finland",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Finland",
+        "start": 318,
+        "end": 325,
+        "groupdict": {
+            "name": "Finland",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

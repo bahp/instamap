@@ -1,0 +1,71 @@
+[
+    {
+        "text": "\ud83d\udea9Founders: @chrisma1105",
+        "start": 18,
+        "end": 41,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Founders: @chrisma1105"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdChosen by: @vale_774!",
+        "start": 42,
+        "end": 64,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Chosen by: @vale_774!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udea9TAG your BEST FRIENDS ",
+        "start": 106,
+        "end": 129,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "TAG your BEST FRIENDS "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde6\ud83c\uddf9",
+        "start": 13,
+        "end": 15,
+        "groupdict": {
+            "flag": "\ud83c\udde6\ud83c\uddf9",
+            "location": "Austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "austria",
+        "start": 6,
+        "end": 13,
+        "groupdict": {
+            "name": "austria",
+            "location": "austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "austria",
+        "start": 214,
+        "end": 221,
+        "groupdict": {
+            "name": "austria",
+            "location": "austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

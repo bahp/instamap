@@ -1,0 +1,152 @@
+{
+    "text": "Have you ever heard of the village of Najac in France? \ud83c\uddeb\ud83c\uddf7\ud83d\ude0d  Photos by @julien_audigier \u2764",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Najac",
+            "start_pos": 38,
+            "end_pos": 43,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9877703189849854
+                }
+            ]
+        },
+        {
+            "text": "France",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999575614929199
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Have",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "heard",
+            "start_pos": 14,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 20,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 23,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 27,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Najac",
+            "start_pos": 38,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "France",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddeb\ud83c\uddf7\ud83d\ude0d",
+            "start_pos": 55,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 60,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 67,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "julien",
+            "start_pos": 71,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "audigier",
+            "start_pos": 78,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

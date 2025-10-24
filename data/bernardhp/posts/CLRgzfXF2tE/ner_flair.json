@@ -1,0 +1,1046 @@
+{
+    "text": "\ud83c\udf0e Tag someone to visit Shanghai with! \ud83d\udcf8 by @youknowcyc\ud83d\udcccShanghai, Hu for short, is a renowned international metropolis drawing more and more attention from all over the world. Situated on the estuary of Yangtze River, it serves as the most influential economic, financial, international trade, and cultural center in East China. Also it is a popular travel destination for visitors to sense the pulsating development of the country. In addition to its modernisation, the city's multicultural flair endows it with a unique glamour. Here, one finds the perfect blend of cultures, the modern and the traditional , and the western and the oriental. New skyscrapers and old Shikumen together draw the skyline of the city. Western customs and Chinese traditions intertwined and formed the city's culture, making a visitor's stay memorable. (\u00a9www.travelchinaguide.com)",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Shanghai",
+            "start_pos": 23,
+            "end_pos": 31,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9978137016296387
+                }
+            ]
+        },
+        {
+            "text": "Shanghai",
+            "start_pos": 55,
+            "end_pos": 63,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998164772987366
+                }
+            ]
+        },
+        {
+            "text": "Hu",
+            "start_pos": 65,
+            "end_pos": 67,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.96598881483078
+                }
+            ]
+        },
+        {
+            "text": "Yangtze River",
+            "start_pos": 202,
+            "end_pos": 215,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9794277548789978
+                }
+            ]
+        },
+        {
+            "text": "East China",
+            "start_pos": 316,
+            "end_pos": 326,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9970730245113373
+                }
+            ]
+        },
+        {
+            "text": "Shikumen",
+            "start_pos": 668,
+            "end_pos": 676,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9624712467193604
+                }
+            ]
+        },
+        {
+            "text": "Western",
+            "start_pos": 716,
+            "end_pos": 723,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9278768301010132
+                }
+            ]
+        },
+        {
+            "text": "Chinese",
+            "start_pos": 736,
+            "end_pos": 743,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9969096779823303
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udf0e",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 2,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "someone",
+            "start_pos": 6,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 14,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Shanghai",
+            "start_pos": 23,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 32,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 40,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "youknowcyc",
+            "start_pos": 44,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccc",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Shanghai",
+            "start_pos": 55,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "Hu",
+            "start_pos": 65,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 68,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "short",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 79,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "renowned",
+            "start_pos": 84,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "international",
+            "start_pos": 93,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "metropolis",
+            "start_pos": 107,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "drawing",
+            "start_pos": 118,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 126,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 131,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 135,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "attention",
+            "start_pos": 140,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 150,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 155,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 159,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 164,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 168,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 173,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "Situated",
+            "start_pos": 175,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 184,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 187,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "estuary",
+            "start_pos": 191,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 199,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "Yangtze",
+            "start_pos": 202,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "River",
+            "start_pos": 210,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 215,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 217,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "serves",
+            "start_pos": 220,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 227,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 230,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 234,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "influential",
+            "start_pos": 239,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "economic",
+            "start_pos": 251,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 259,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "financial",
+            "start_pos": 261,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 270,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "international",
+            "start_pos": 272,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "trade",
+            "start_pos": 286,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 291,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 293,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "cultural",
+            "start_pos": 297,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "center",
+            "start_pos": 306,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 313,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "East",
+            "start_pos": 316,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 321,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 326,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "Also",
+            "start_pos": 328,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 333,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 336,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 339,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "popular",
+            "start_pos": 341,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 349,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "destination",
+            "start_pos": 356,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 368,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "visitors",
+            "start_pos": 372,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 381,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "sense",
+            "start_pos": 384,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 390,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "pulsating",
+            "start_pos": 394,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": "development",
+            "start_pos": 404,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 416,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 419,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "country",
+            "start_pos": 423,
+            "end_pos": 430,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 430,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 432,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "addition",
+            "start_pos": 435,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 444,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 447,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "modernisation",
+            "start_pos": 451,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 464,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 466,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "city",
+            "start_pos": 470,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 474,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "multicultural",
+            "start_pos": 477,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "flair",
+            "start_pos": 491,
+            "end_pos": 496,
+            "labels": []
+        },
+        {
+            "text": "endows",
+            "start_pos": 497,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 504,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 507,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 512,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "unique",
+            "start_pos": 514,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "glamour",
+            "start_pos": 521,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 528,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "Here",
+            "start_pos": 530,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 534,
+            "end_pos": 535,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 536,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "finds",
+            "start_pos": 540,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 546,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "perfect",
+            "start_pos": 550,
+            "end_pos": 557,
+            "labels": []
+        },
+        {
+            "text": "blend",
+            "start_pos": 558,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 564,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": "cultures",
+            "start_pos": 567,
+            "end_pos": 575,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 575,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 577,
+            "end_pos": 580,
+            "labels": []
+        },
+        {
+            "text": "modern",
+            "start_pos": 581,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 588,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 592,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "traditional",
+            "start_pos": 596,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 608,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 610,
+            "end_pos": 613,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 614,
+            "end_pos": 617,
+            "labels": []
+        },
+        {
+            "text": "western",
+            "start_pos": 618,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 626,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 630,
+            "end_pos": 633,
+            "labels": []
+        },
+        {
+            "text": "oriental",
+            "start_pos": 634,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 642,
+            "end_pos": 643,
+            "labels": []
+        },
+        {
+            "text": "New",
+            "start_pos": 644,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "skyscrapers",
+            "start_pos": 648,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 660,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "old",
+            "start_pos": 664,
+            "end_pos": 667,
+            "labels": []
+        },
+        {
+            "text": "Shikumen",
+            "start_pos": 668,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "together",
+            "start_pos": 677,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "draw",
+            "start_pos": 686,
+            "end_pos": 690,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 691,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "skyline",
+            "start_pos": 695,
+            "end_pos": 702,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 703,
+            "end_pos": 705,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 706,
+            "end_pos": 709,
+            "labels": []
+        },
+        {
+            "text": "city",
+            "start_pos": 710,
+            "end_pos": 714,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 714,
+            "end_pos": 715,
+            "labels": []
+        },
+        {
+            "text": "Western",
+            "start_pos": 716,
+            "end_pos": 723,
+            "labels": []
+        },
+        {
+            "text": "customs",
+            "start_pos": 724,
+            "end_pos": 731,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 732,
+            "end_pos": 735,
+            "labels": []
+        },
+        {
+            "text": "Chinese",
+            "start_pos": 736,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "traditions",
+            "start_pos": 744,
+            "end_pos": 754,
+            "labels": []
+        },
+        {
+            "text": "intertwined",
+            "start_pos": 755,
+            "end_pos": 766,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 767,
+            "end_pos": 770,
+            "labels": []
+        },
+        {
+            "text": "formed",
+            "start_pos": 771,
+            "end_pos": 777,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 778,
+            "end_pos": 781,
+            "labels": []
+        },
+        {
+            "text": "city",
+            "start_pos": 782,
+            "end_pos": 786,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 786,
+            "end_pos": 788,
+            "labels": []
+        },
+        {
+            "text": "culture",
+            "start_pos": 789,
+            "end_pos": 796,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 796,
+            "end_pos": 797,
+            "labels": []
+        },
+        {
+            "text": "making",
+            "start_pos": 798,
+            "end_pos": 804,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 805,
+            "end_pos": 806,
+            "labels": []
+        },
+        {
+            "text": "visitor",
+            "start_pos": 807,
+            "end_pos": 814,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 814,
+            "end_pos": 816,
+            "labels": []
+        },
+        {
+            "text": "stay",
+            "start_pos": 817,
+            "end_pos": 821,
+            "labels": []
+        },
+        {
+            "text": "memorable",
+            "start_pos": 822,
+            "end_pos": 831,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 831,
+            "end_pos": 832,
+            "labels": []
+        },
+        {
+            "text": "(\u00a9",
+            "start_pos": 833,
+            "end_pos": 835,
+            "labels": []
+        },
+        {
+            "text": "www.travelchinaguide.com",
+            "start_pos": 835,
+            "end_pos": 859,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 859,
+            "end_pos": 860,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

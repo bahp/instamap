@@ -1,0 +1,1029 @@
+{
+    "text": "Hallgr\u00edmskirkja the heart of Reykjavik, is a Lutheran (Church of Iceland) parish church in Reykjav\u00edk, Iceland. At 74.5 metres (244 ft) tall, it is the largest church in Iceland and among the tallest structures in the country. Have you seen it before?  Credits to the talented: 1. @agnieszkamrowka.photography  2. @_robertorinaldi_ 3. @pebuyck 4. @leonardopicollo \u2022 \u2022 #wheniniceland #Reykjavik #iceland.explore #artofvisuals #guidetoiceland #lostiniceland #jaw_dropping_shots #ig_auroraborealis #ig_iceland #nature_perfection #nightphotography #naturelover_gr #earthpix #earthofficial #bevisuallyinspired #sonyalpha #longexposure_shots #ig_shotz #nightphotography_exclusive #wolrdtravelcaptures #offtoiceland #Hot_shotz #iceland  #longexpoelite #beyondthelands_ #depthsofearth #icelandair #master_shots #Fantastic_earth #nightviewplanet",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Hallgr\u00edmskirkja",
+            "start_pos": 0,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6991400718688965
+                }
+            ]
+        },
+        {
+            "text": "Reykjavik",
+            "start_pos": 29,
+            "end_pos": 38,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9989885687828064
+                }
+            ]
+        },
+        {
+            "text": "Lutheran",
+            "start_pos": 45,
+            "end_pos": 53,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8898985385894775
+                }
+            ]
+        },
+        {
+            "text": "Church of Iceland",
+            "start_pos": 55,
+            "end_pos": 72,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6428427894910177
+                }
+            ]
+        },
+        {
+            "text": "Reykjav\u00edk",
+            "start_pos": 91,
+            "end_pos": 100,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998052716255188
+                }
+            ]
+        },
+        {
+            "text": "Iceland",
+            "start_pos": 102,
+            "end_pos": 109,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998083710670471
+                }
+            ]
+        },
+        {
+            "text": "Iceland",
+            "start_pos": 169,
+            "end_pos": 176,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9983172416687012
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Hallgr\u00edmskirkja",
+            "start_pos": 0,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 16,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "heart",
+            "start_pos": 20,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 26,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Reykjavik",
+            "start_pos": 29,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 40,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Lutheran",
+            "start_pos": 45,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Church",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 62,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "Iceland",
+            "start_pos": 65,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "parish",
+            "start_pos": 74,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 81,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 88,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "Reykjav\u00edk",
+            "start_pos": 91,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 100,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "Iceland",
+            "start_pos": 102,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "At",
+            "start_pos": 111,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "74.5",
+            "start_pos": 114,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "metres",
+            "start_pos": 119,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "244",
+            "start_pos": 127,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "ft",
+            "start_pos": 131,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "tall",
+            "start_pos": 135,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 141,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 144,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 147,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "largest",
+            "start_pos": 151,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 159,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 166,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "Iceland",
+            "start_pos": 169,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 177,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "among",
+            "start_pos": 181,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 187,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "tallest",
+            "start_pos": 191,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "structures",
+            "start_pos": 199,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 210,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 213,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "country",
+            "start_pos": 217,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 224,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 226,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 231,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "seen",
+            "start_pos": 235,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 240,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 243,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 249,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "Credits",
+            "start_pos": 252,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 260,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 263,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "talented",
+            "start_pos": 267,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 275,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 277,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 280,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "agnieszkamrowka.photography",
+            "start_pos": 281,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 310,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "@_",
+            "start_pos": 313,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "robertorinaldi",
+            "start_pos": 315,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 329,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 331,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 334,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "pebuyck",
+            "start_pos": 335,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 343,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "leonardopicollo",
+            "start_pos": 347,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 365,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 367,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "wheniniceland",
+            "start_pos": 368,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 382,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "Reykjavik",
+            "start_pos": 383,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 393,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "iceland.explore",
+            "start_pos": 394,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 410,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "artofvisuals",
+            "start_pos": 411,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 424,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "guidetoiceland",
+            "start_pos": 425,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 440,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "lostiniceland",
+            "start_pos": 441,
+            "end_pos": 454,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 455,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": "jaw",
+            "start_pos": 456,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 459,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "dropping",
+            "start_pos": 460,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 468,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "shots",
+            "start_pos": 469,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 475,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 476,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 478,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "auroraborealis",
+            "start_pos": 479,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 494,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 495,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 497,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "iceland",
+            "start_pos": 498,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 506,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 507,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 513,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "perfection",
+            "start_pos": 514,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 525,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "nightphotography",
+            "start_pos": 526,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 543,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "naturelover",
+            "start_pos": 544,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 555,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "gr",
+            "start_pos": 556,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 559,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "earthpix",
+            "start_pos": 560,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 569,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": "earthofficial",
+            "start_pos": 570,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 584,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "bevisuallyinspired",
+            "start_pos": 585,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 604,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "sonyalpha",
+            "start_pos": 605,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 615,
+            "end_pos": 616,
+            "labels": []
+        },
+        {
+            "text": "longexposure",
+            "start_pos": 616,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 628,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "shots",
+            "start_pos": 629,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 635,
+            "end_pos": 636,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 636,
+            "end_pos": 638,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 638,
+            "end_pos": 639,
+            "labels": []
+        },
+        {
+            "text": "shotz",
+            "start_pos": 639,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 645,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "nightphotography",
+            "start_pos": 646,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 662,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "exclusive",
+            "start_pos": 663,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 673,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "wolrdtravelcaptures",
+            "start_pos": 674,
+            "end_pos": 693,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 694,
+            "end_pos": 695,
+            "labels": []
+        },
+        {
+            "text": "offtoiceland",
+            "start_pos": 695,
+            "end_pos": 707,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 708,
+            "end_pos": 709,
+            "labels": []
+        },
+        {
+            "text": "Hot",
+            "start_pos": 709,
+            "end_pos": 712,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 712,
+            "end_pos": 713,
+            "labels": []
+        },
+        {
+            "text": "shotz",
+            "start_pos": 713,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 719,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "iceland",
+            "start_pos": 720,
+            "end_pos": 727,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 729,
+            "end_pos": 730,
+            "labels": []
+        },
+        {
+            "text": "longexpoelite",
+            "start_pos": 730,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 744,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "beyondthelands",
+            "start_pos": 745,
+            "end_pos": 759,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 759,
+            "end_pos": 760,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 761,
+            "end_pos": 762,
+            "labels": []
+        },
+        {
+            "text": "depthsofearth",
+            "start_pos": 762,
+            "end_pos": 775,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 776,
+            "end_pos": 777,
+            "labels": []
+        },
+        {
+            "text": "icelandair",
+            "start_pos": 777,
+            "end_pos": 787,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 788,
+            "end_pos": 789,
+            "labels": []
+        },
+        {
+            "text": "master",
+            "start_pos": 789,
+            "end_pos": 795,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 795,
+            "end_pos": 796,
+            "labels": []
+        },
+        {
+            "text": "shots",
+            "start_pos": 796,
+            "end_pos": 801,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 802,
+            "end_pos": 803,
+            "labels": []
+        },
+        {
+            "text": "Fantastic",
+            "start_pos": 803,
+            "end_pos": 812,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 812,
+            "end_pos": 813,
+            "labels": []
+        },
+        {
+            "text": "earth",
+            "start_pos": 813,
+            "end_pos": 818,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 819,
+            "end_pos": 820,
+            "labels": []
+        },
+        {
+            "text": "nightviewplanet",
+            "start_pos": 820,
+            "end_pos": 835,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

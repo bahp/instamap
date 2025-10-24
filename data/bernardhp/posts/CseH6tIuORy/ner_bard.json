@@ -1,0 +1,45 @@
+{
+    "content": "Sure, here is the JSON file with the extracted information:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Stift St. Florian\",\n      \"full_address\": \"Stiftstra\u00dfe 1, 4490 St. Florian, Austria\",\n      \"order\": 1,\n      \"directions\": {\n        \"travelMode\": \"driving\",\n        \"distance\": \"1,311 km\",\n        \"duration\": \"13 hours 48 mins\",\n        \"url\": \"https://www.google.com/maps/dir/?api=1&origin=London,+UK&origin_place_id=ChIJdd4hrwug2EcRmSrV3Vo6llI&destination=Stift+St.+Florian,+Stiftstra%C3%9Fe+1,+4490+St.+Florian,+Austria&destination_place_id=ChIJf15N2CG-c0cRkt4dwmUhmL4&travelmode=driving\"\n      }\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/8",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_800259f5fde0402b",
+    "factuality_queries": null,
+    "text_query": [
+        "Stift St. Florian Austria",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_a4e6b7d7375a05ee",
+            "content": [
+                "Sure, here is the JSON file with the extracted information:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Stift St. Florian\",\n      \"full_address\": \"Stiftstra\u00dfe 1, 4490 St. Florian, Austria\",\n      \"order\": 1,\n      \"directions\": {\n        \"travelMode\": \"driving\",\n        \"distance\": \"1,311 km\",\n        \"duration\": \"13 hours 48 mins\",\n        \"url\": \"https://www.google.com/maps/dir/?api=1&origin=London,+UK&origin_place_id=ChIJdd4hrwug2EcRmSrV3Vo6llI&destination=Stift+St.+Florian,+Stiftstra%C3%9Fe+1,+4490+St.+Florian,+Austria&destination_place_id=ChIJf15N2CG-c0cRkt4dwmUhmL4&travelmode=driving\"\n      }\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/8"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=6269138749601293570",
+        "https://maps.google.com/?cid=6269138749601293570",
+        "http://googleusercontent.com/map_content/3",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "https://www.google.com/maps/dir/?api=1&origin=London,+UK&origin_place_id=ChIJdd4hrwug2EcRmSrV3Vo6llI&destination=Stift+St.+Florian,+Stiftstra%C3%9Fe+1,+4490+St.+Florian,+Austria&destination_place_id=ChIJf15N2CG-c0cRkt4dwmUhmL4&travelmode=driving",
+        "http://googleusercontent.com/map_content/8",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "http://googleusercontent.com/url/2",
+        "https://media.istockphoto.com/photos/fujisan-yumeno-ohashi-bridge-at-sunrise-picture-id1227883595?s=612x612",
+        "http://googleusercontent.com/url/1",
+        "https://media.istockphoto.com/photos/lake-tanuki-fuji-japan-picture-id913405856?s=612x612",
+        "http://googleusercontent.com/url/0",
+        "https://media.istockphoto.com/photos/shimoyoshida-honcho-street-in-fujinomiya-japan-picture-id509209392?s=612x612",
+        "http://googleusercontent.com/url/4",
+        "https://maps.google.com/?cid=6269138749601293570",
+        "http://googleusercontent.com/url/5",
+        "https://media.istockphoto.com/photos/shimoyoshida-honcho-street-in-fujinomiya-japan-picture-id509209392?s=612x612",
+        "http://googleusercontent.com/url/6",
+        "https://media.istockphoto.com/photos/lake-tanuki-fuji-japan-picture-id913405856?s=612x612",
+        "http://googleusercontent.com/url/7",
+        "https://media.istockphoto.com/photos/fujisan-yumeno-ohashi-bridge-at-sunrise-picture-id1227883595?s=612x612"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Stift St. Florian\",\n      \"full_address\": \"Stiftstra\u00dfe 1, 4490 St. Florian, Austria\",\n      \"order\": 1,\n      \"directions\": {\n        \"travelMode\": \"driving\",\n        \"distance\": \"1,311 km\",\n        \"duration\": \"13 hours 48 mins\",\n        \"url\": \"https://www.google.com/maps/dir/?api=1&origin=London,+UK&origin_place_id=ChIJdd4hrwug2EcRmSrV3Vo6llI&destination=Stift+St.+Florian,+Stiftstra%C3%9Fe+1,+4490+St.+Florian,+Austria&destination_place_id=ChIJf15N2CG-c0cRkt4dwmUhmL4&travelmode=driving\"\n      }\n    }\n  ]\n}\n",
+    "status_code": 200
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Guatemala",
+        "start": 67,
+        "end": 76,
+        "groupdict": {
+            "name": "Guatemala",
+            "location": "Guatemala"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "guatemala",
+        "start": 266,
+        "end": 275,
+        "groupdict": {
+            "name": "guatemala",
+            "location": "guatemala"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

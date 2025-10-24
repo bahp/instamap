@@ -1,0 +1,60 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italy\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_9a18fe334b15dae8",
+    "factuality_queries": null,
+    "text_query": [
+        "Assisi, Italy",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_afdcb0e70203c9c5",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italy\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_2b37049f1e2ce05c",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Perugia, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italy\"\n    }\n  ]\n}\n```\n\nIn addition to the extracted locations, here are the details of the photographers mentioned in the caption:\n\n* elena__aileen: Elena Aileen is a photographer based in Italy. She specializes in landscape and travel photography.\n[Image of Elena Aileen photographer]\n* minga.mrc: Minga is a photographer based in Italy. He specializes in street and travel photography.\n[Image of Minga photographer]\n* georgelucky1973: George Lucky is a photographer based in Italy. He specializes in landscape and travel photography.\n[Image of George Lucky photographer]\n* chrisma1105: Chris Ma is a photographer based in Italy. He specializes in portrait and travel photography.\n[Image of Chris Ma photographer]"
+            ]
+        },
+        {
+            "id": "rc_015fbf80388df7c3",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Perugia, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italy\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [
+        "https://i.pinimg.com/originals/1a/5e/c5/1a5ec5bdeccf479ba2bf5e137c91ebf2.jpg",
+        "https://www.pinterest.com/pin/sonoma-county-wedding-photographer-in-2023--342695852908881528/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8FjumxX2RcQQS6G-YAQIAH116Q2LjuawxcNeZaMYOhNkLwTCwcRDoLoaR-HB",
+        "https://cdn.shopify.com/s/files/1/0001/8241/9462/files/KarinaCowboy2.png?v=1638986414",
+        "https://madebyminga.com/blogs/journal/inmyminga-shannon-moss",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_cY0Q2qT8jjhxAwvb_wFhlKttGSElfwjV4W61O-vg2WfJ1G_SkVrxnKl4nZDD",
+        "https://m.media-amazon.com/images/I/71lUWXHuT3L._AC_UF1000,1000_QL80_.jpg",
+        "https://www.amazon.com.br/Lucky-George-Unforgettable-Adventures-Photographer/dp/1482764962",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs0Gi7tXkRQ-U_tNK4zGpx9nyNnjbTj2-0qMBzJxKXrX_2-N20Zbr0ICTJTrAt",
+        "https://media.licdn.com/dms/image/C4E03AQEkYomNrFvzDg/profile-displayphoto-shrink_800_800/0/1613178551808?e=2147483647&v=beta&t=S-kblDjaWBS-phHSykKJBylF1T3JlxZIr_3XvSOisyc",
+        "https://www.linkedin.com/in/itschrisma",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo39dxdbR-LhPBvT6BfE_hclpzDVcZsL_015PMrneYEf9UrBOG2rNSTpF5xVL",
+        "https://i.pinimg.com/originals/1a/5e/c5/1a5ec5bdeccf479ba2bf5e137c91ebf2.jpg",
+        "https://www.pinterest.com/pin/sonoma-county-wedding-photographer-in-2023--342695852908881528/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8FjumxX2RcQQS6G-YAQIAH116Q2LjuawxcNeZaMYOhNkLwTCwcRDoLoaR-HB",
+        "https://cdn.shopify.com/s/files/1/0001/8241/9462/files/KarinaCowboy2.png?v=1638986414",
+        "https://madebyminga.com/blogs/journal/inmyminga-shannon-moss",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_cY0Q2qT8jjhxAwvb_wFhlKttGSElfwjV4W61O-vg2WfJ1G_SkVrxnKl4nZDD",
+        "https://m.media-amazon.com/images/I/71lUWXHuT3L._AC_UF1000,1000_QL80_.jpg",
+        "https://www.amazon.com.br/Lucky-George-Unforgettable-Adventures-Photographer/dp/1482764962",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs0Gi7tXkRQ-U_tNK4zGpx9nyNnjbTj2-0qMBzJxKXrX_2-N20Zbr0ICTJTrAt",
+        "https://media.licdn.com/dms/image/C4E03AQEkYomNrFvzDg/profile-displayphoto-shrink_800_800/0/1613178551808?e=2147483647&v=beta&t=S-kblDjaWBS-phHSykKJBylF1T3JlxZIr_3XvSOisyc",
+        "https://www.linkedin.com/in/itschrisma",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo39dxdbR-LhPBvT6BfE_hclpzDVcZsL_015PMrneYEf9UrBOG2rNSTpF5xVL"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"Assisi, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/assisi-italy\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

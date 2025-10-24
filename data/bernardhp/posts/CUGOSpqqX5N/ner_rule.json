@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdDargavs, Russia",
+        "start": 347,
+        "end": 363,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Dargavs, Russia"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf7\ud83c\uddfa",
+        "start": 365,
+        "end": 367,
+        "groupdict": {
+            "flag": "\ud83c\uddf7\ud83c\uddfa",
+            "location": "Russian Federation"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

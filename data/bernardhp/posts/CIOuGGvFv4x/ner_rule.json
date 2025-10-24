@@ -1,0 +1,47 @@
+[
+    {
+        "text": "\ud83d\udea9Founders: @chrisma1105",
+        "start": 53,
+        "end": 76,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Founders: @chrisma1105"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdChosen by: @vale_774!",
+        "start": 77,
+        "end": 99,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Chosen by: @vale_774!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udea9TAG your BEST FRIENDS \u2b07\ufe0f \ud83d\udea9#ig_europa #ig_europe #europe",
+        "start": 141,
+        "end": 197,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "TAG your BEST FRIENDS \u2b07\ufe0f \ud83d\udea9#ig_europa #ig_europe #europe"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 12,
+        "end": 14,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

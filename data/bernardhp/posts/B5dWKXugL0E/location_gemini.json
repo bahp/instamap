@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Big Ben",
+        "subtitle": "Iconic clock tower in London, United Kingdom",
+        "lat": 51.5007,
+        "lon": -0.1246,
+        "type": "clock tower",
+        "class": "landmark",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Westminster",
+        "subtitle": "Historic district in Central London, home to Parliament",
+        "lat": 51.4975,
+        "lon": -0.1357,
+        "type": "district",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 2
+    },
+    {
+        "title": "London",
+        "subtitle": "Capital city of England and the United Kingdom",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3
+    },
+    {
+        "title": "United Kingdom",
+        "subtitle": "Sovereign country in Western Europe",
+        "lat": 55.3781,
+        "lon": -3.436,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "text": "\u201dIn the moonlight\u201d \ud83c\udf0c",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\u201d",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 1,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 4,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "moonlight",
+            "start_pos": 8,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0c",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

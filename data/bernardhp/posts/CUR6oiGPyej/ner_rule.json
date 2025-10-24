@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\udde7\ud83c\uddea",
+        "start": 30,
+        "end": 32,
+        "groupdict": {
+            "flag": "\ud83c\udde7\ud83c\uddea",
+            "location": "Belgium"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Belgium",
+        "start": 23,
+        "end": 30,
+        "groupdict": {
+            "name": "Belgium",
+            "location": "Belgium"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

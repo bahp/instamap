@@ -1,0 +1,62 @@
+[
+    {
+        "text": "\ud83c\udded\ud83c\uddfa",
+        "start": 235,
+        "end": 237,
+        "groupdict": {
+            "flag": "\ud83c\udded\ud83c\uddfa",
+            "location": "Hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udded\ud83c\uddfa",
+        "start": 340,
+        "end": 342,
+        "groupdict": {
+            "flag": "\ud83c\udded\ud83c\uddfa",
+            "location": "Hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Hungary",
+        "start": 26,
+        "end": 33,
+        "groupdict": {
+            "name": "Hungary",
+            "location": "Hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "hungary",
+        "start": 254,
+        "end": 261,
+        "groupdict": {
+            "name": "hungary",
+            "location": "hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "hungary",
+        "start": 333,
+        "end": 340,
+        "groupdict": {
+            "name": "hungary",
+            "location": "hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "text": "\ud83d\udccd Templo tao\u00edsta en el monte Laojun, Luoyang (Henan) -\u9053\u6559\u5723\u5730\u8001\u541b\u5c71\u4e4b\u8001\u541b\u5e99",
+        "start": 56,
+        "end": 121,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Templo tao\u00edsta en el monte Laojun, Luoyang (Henan) -\u9053\u6559\u5723\u5730\u8001\u541b\u5c71\u4e4b\u8001\u541b\u5e99"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccc Todo sobre China en nuestro grupo de Facebook: art\u00edculos, v\u00eddeos, fotos y opiniones sobre China: actualidad, cultura, lengua, viajes, curiosidades, empleo",
+        "start": 981,
+        "end": 1137,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Todo sobre China en nuestro grupo de Facebook: art\u00edculos, v\u00eddeos, fotos y opiniones sobre China: actualidad, cultura, lengua, viajes, curiosidades, empleo"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "China",
+        "start": 913,
+        "end": 918,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 994,
+        "end": 999,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 1073,
+        "end": 1078,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

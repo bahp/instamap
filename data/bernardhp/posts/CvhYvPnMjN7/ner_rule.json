@@ -1,0 +1,24 @@
+[
+    {
+        "text": "\ud83d\udccd\u8299\u84c9\u53e4\u9547\uff0c\u6e56\u5357\u7701",
+        "start": 17,
+        "end": 26,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "\u8299\u84c9\u53e4\u9547\uff0c\u6e56\u5357\u7701"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdFurong Ancient Town, Hunan Province",
+        "start": 27,
+        "end": 63,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Furong Ancient Town, Hunan Province"
+        },
+        "method": "rule",
+        "rule": "icon"
+    }
+]

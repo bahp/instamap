@@ -1,0 +1,48 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dolomites_from_Tre_Cime_di_Lavaredo.jpg/1280px-Dolomites_from_Tre_Cime_di_Lavaredo.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_ce7f517a24eebe6e",
+    "factuality_queries": null,
+    "text_query": [
+        "fairy tale roads in the dolomites",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_79d317c6d4af4e89",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dolomites_from_Tre_Cime_di_Lavaredo.jpg/1280px-Dolomites_from_Tre_Cime_di_Lavaredo.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_ef284ce8476460dc",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Trentino-Alto Adige, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dolomites_South_Tyrol_Italy.jpg/1200px-Dolomites_South_Tyrol_Italy.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```\nThe caption mentions one location:\n* **Dolomites** is a mountain range located in northeastern Italy. It is the highest mountain range in the Alps, and is a popular destination for hiking, skiing, and other outdoor activities.\n[Image of Dolomites]\nThe caption also mentions that the roads in the Dolomites are like something out of a fairytale. This is due to the stunning scenery of the mountains, which includes towering peaks, lush forests, and crystal-clear lakes.\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_5b00e320c894efd0",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Passo_Giau_Dolomites_Italy_2020.jpg/1200px-Passo_Giau_Dolomites_Italy_2020.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nThe caption mentions one location:\n\n* **Dolomites:** a mountain range located in northeastern Italy. It is known for its stunning scenery, including towering peaks, lush valleys, and clear lakes.\n[Image of Dolomites]\n"
+            ]
+        }
+    ],
+    "links": [
+        "https://www.travelandleisure.com/thmb/kryNr00pTPhRi4BtvwmTnvbwrS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-DOLOMITESTG0422-fbe3eee35f6347f895af184866d0523d.jpg",
+        "https://www.travelandleisure.com/travel-guide/dolomites-italy",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl7mxjCX-XBo52zJPe9VyaoFJJFR3avEEK7NpzILgXidJn3jTluoo9FXfpfD8h",
+        "https://www.travelandleisure.com/thmb/kryNr00pTPhRi4BtvwmTnvbwrS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-DOLOMITESTG0422-fbe3eee35f6347f895af184866d0523d.jpg",
+        "https://www.travelandleisure.com/travel-guide/dolomites-italy",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl7mxjCX-XBo52zJPe9VyaoFJJFR3avEEK7NpzILgXidJn3jTluoo9FXfpfD8h",
+        "https://www.travelandleisure.com/thmb/kryNr00pTPhRi4BtvwmTnvbwrS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-DOLOMITESTG0422-fbe3eee35f6347f895af184866d0523d.jpg",
+        "https://www.travelandleisure.com/travel-guide/dolomites-italy",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl7mxjCX-XBo52zJPe9VyaoFJJFR3avEEK7NpzILgXidJn3jTluoo9FXfpfD8h",
+        "https://www.travelandleisure.com/thmb/kryNr00pTPhRi4BtvwmTnvbwrS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-DOLOMITESTG0422-fbe3eee35f6347f895af184866d0523d.jpg",
+        "https://www.travelandleisure.com/travel-guide/dolomites-italy",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl7mxjCX-XBo52zJPe9VyaoFJJFR3avEEK7NpzILgXidJn3jTluoo9FXfpfD8h"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dolomites_from_Tre_Cime_di_Lavaredo.jpg/1280px-Dolomites_from_Tre_Cime_di_Lavaredo.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n",
+    "status_code": 200
+}

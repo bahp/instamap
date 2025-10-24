@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\udde9\ud83c\uddea",
+        "start": 56,
+        "end": 58,
+        "groupdict": {
+            "flag": "\ud83c\udde9\ud83c\uddea",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Germany",
+        "start": 59,
+        "end": 66,
+        "groupdict": {
+            "name": "Germany",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "germany",
+        "start": 365,
+        "end": 372,
+        "groupdict": {
+            "name": "germany",
+            "location": "germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

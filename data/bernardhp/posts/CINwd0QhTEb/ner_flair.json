@@ -1,0 +1,266 @@
+{
+    "text": "The Amalfi Coast is one of the most iconic Mediterranean landscapes \ud83d\ude0d Here, mountains plunge into the sea and roads wind around the edge of cliffs \ud83d\udcab TAG who you would travel here with!  \ud83d\udcf7 @gennaro.rispoli",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Amalfi Coast",
+            "start_pos": 4,
+            "end_pos": 16,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9886324107646942
+                }
+            ]
+        },
+        {
+            "text": "Mediterranean",
+            "start_pos": 43,
+            "end_pos": 56,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8644367456436157
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "The",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "Amalfi",
+            "start_pos": 4,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "Coast",
+            "start_pos": 11,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 17,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 20,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 27,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 31,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "iconic",
+            "start_pos": 36,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "Mediterranean",
+            "start_pos": 43,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "landscapes",
+            "start_pos": 57,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Here",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "mountains",
+            "start_pos": 76,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "plunge",
+            "start_pos": 86,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "into",
+            "start_pos": 93,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 98,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "sea",
+            "start_pos": 102,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 106,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "roads",
+            "start_pos": 110,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "wind",
+            "start_pos": 116,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "around",
+            "start_pos": 121,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 128,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "edge",
+            "start_pos": 132,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 137,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "cliffs",
+            "start_pos": 140,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcab",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "TAG",
+            "start_pos": 149,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 153,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 157,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 161,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 167,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 174,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 179,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 183,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 186,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 188,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "gennaro.rispoli",
+            "start_pos": 189,
+            "end_pos": 204,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

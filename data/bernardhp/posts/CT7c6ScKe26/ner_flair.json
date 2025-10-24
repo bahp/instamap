@@ -1,0 +1,1554 @@
+{
+    "text": "\ud83d\udd18The Hanging Temple\ud83d\udd18 \u26abLocated in Datong City, Shanxi Province, China. \u26abThe Hanging Temple is one of the main tourist attractions and historical sites in the Datong area. \u26abAccording to legend, construction of the temple started at the end of the Northern Wei dynasty (386-534) AD by only one man, a monk named Liaoran and was restored in the 1900th. \u26abThe entire 40 halls and pavilions are all built on cliffs which are over 30 metres (98 ft) from the ground. \u26abInterestingly, the temple is dedicated to not just one religion, but three, with Confucianism, Taoism, and Buddhism all practised within the temple and represented in 78 statues and carvings throughout the temple.  \ud83d\udc49Follow me @ancient.scientist to enjoy more and more posts about our world's marvellous History.\u2764  \ud83d\udce2Dm me for Promotion/ Business/ Advertisement\ud83d\udce9  \ud83d\udcf8I don't own any of these photos and I give all credit to the respective owners. #temple #hangingtempledatong #china #guizhou #hangingtemple #cave #statue #divinities #sculpture #sanctuary #stones #bestplaces #ancientart #ancientworld #explore #explorepage #arqueologia #travelling #archaeology #archeology #heritage #worldheritage #culture #history #heritagesite #commagene #ancientcity",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Datong City",
+            "start_pos": 33,
+            "end_pos": 44,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9975162446498871
+                }
+            ]
+        },
+        {
+            "text": "Shanxi Province",
+            "start_pos": 46,
+            "end_pos": 61,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.907721757888794
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999246597290039
+                }
+            ]
+        },
+        {
+            "text": "Hanging Temple",
+            "start_pos": 75,
+            "end_pos": 89,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7175881266593933
+                }
+            ]
+        },
+        {
+            "text": "Datong",
+            "start_pos": 157,
+            "end_pos": 163,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9972290396690369
+                }
+            ]
+        },
+        {
+            "text": "Northern Wei",
+            "start_pos": 245,
+            "end_pos": 257,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6355217695236206
+                }
+            ]
+        },
+        {
+            "text": "Liaoran",
+            "start_pos": 309,
+            "end_pos": 316,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8414648771286011
+                }
+            ]
+        },
+        {
+            "text": "Confucianism",
+            "start_pos": 540,
+            "end_pos": 552,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9942898750305176
+                }
+            ]
+        },
+        {
+            "text": "Taoism",
+            "start_pos": 554,
+            "end_pos": 560,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9996299743652344
+                }
+            ]
+        },
+        {
+            "text": "Buddhism",
+            "start_pos": 566,
+            "end_pos": 574,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9982851147651672
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "Hanging",
+            "start_pos": 5,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "Temple",
+            "start_pos": 13,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Located",
+            "start_pos": 22,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Datong",
+            "start_pos": 33,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "City",
+            "start_pos": 40,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Shanxi",
+            "start_pos": 46,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "Province",
+            "start_pos": 53,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 71,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Hanging",
+            "start_pos": 75,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "Temple",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 90,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 93,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 100,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "main",
+            "start_pos": 104,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "tourist",
+            "start_pos": 109,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "attractions",
+            "start_pos": 117,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 129,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "historical",
+            "start_pos": 133,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "sites",
+            "start_pos": 144,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 150,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 153,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "Datong",
+            "start_pos": 157,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "area",
+            "start_pos": 164,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 168,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 170,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "According",
+            "start_pos": 171,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 181,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "legend",
+            "start_pos": 184,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 190,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "construction",
+            "start_pos": 192,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 205,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 208,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 212,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "started",
+            "start_pos": 219,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 227,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 230,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "end",
+            "start_pos": 234,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 238,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 241,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "Northern",
+            "start_pos": 245,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "Wei",
+            "start_pos": 254,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "dynasty",
+            "start_pos": 258,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 266,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "386-534",
+            "start_pos": 267,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 274,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "AD",
+            "start_pos": 276,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 279,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "only",
+            "start_pos": 282,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 287,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "man",
+            "start_pos": 291,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 294,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 296,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "monk",
+            "start_pos": 298,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "named",
+            "start_pos": 303,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "Liaoran",
+            "start_pos": 309,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 317,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 321,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "restored",
+            "start_pos": 325,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 334,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 337,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "1900th",
+            "start_pos": 341,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 347,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 349,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 350,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "entire",
+            "start_pos": 354,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "40",
+            "start_pos": 361,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "halls",
+            "start_pos": 364,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 370,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "pavilions",
+            "start_pos": 374,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 384,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 388,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "built",
+            "start_pos": 392,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 398,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "cliffs",
+            "start_pos": 401,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "which",
+            "start_pos": 408,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 414,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 418,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "30",
+            "start_pos": 423,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "metres",
+            "start_pos": 426,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 433,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "98",
+            "start_pos": 434,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "ft",
+            "start_pos": 437,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 439,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 441,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 446,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "ground",
+            "start_pos": 450,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 456,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 458,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "Interestingly",
+            "start_pos": 459,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 472,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 474,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 478,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 485,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "dedicated",
+            "start_pos": 488,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 498,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 501,
+            "end_pos": 504,
+            "labels": []
+        },
+        {
+            "text": "just",
+            "start_pos": 505,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 510,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "religion",
+            "start_pos": 514,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 522,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "but",
+            "start_pos": 524,
+            "end_pos": 527,
+            "labels": []
+        },
+        {
+            "text": "three",
+            "start_pos": 528,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 533,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 535,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "Confucianism",
+            "start_pos": 540,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 552,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "Taoism",
+            "start_pos": 554,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 560,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 562,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "Buddhism",
+            "start_pos": 566,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 575,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "practised",
+            "start_pos": 579,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "within",
+            "start_pos": 589,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 596,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 600,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 607,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "represented",
+            "start_pos": 611,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 623,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "78",
+            "start_pos": 626,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "statues",
+            "start_pos": 629,
+            "end_pos": 636,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 637,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "carvings",
+            "start_pos": 641,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "throughout",
+            "start_pos": 650,
+            "end_pos": 660,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 661,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 665,
+            "end_pos": 671,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 671,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 674,
+            "end_pos": 675,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 675,
+            "end_pos": 681,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 682,
+            "end_pos": 684,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 685,
+            "end_pos": 686,
+            "labels": []
+        },
+        {
+            "text": "ancient.scientist",
+            "start_pos": 686,
+            "end_pos": 703,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 704,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": "enjoy",
+            "start_pos": 707,
+            "end_pos": 712,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 713,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 718,
+            "end_pos": 721,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 722,
+            "end_pos": 726,
+            "labels": []
+        },
+        {
+            "text": "posts",
+            "start_pos": 727,
+            "end_pos": 732,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 733,
+            "end_pos": 738,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 739,
+            "end_pos": 742,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 743,
+            "end_pos": 748,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 748,
+            "end_pos": 750,
+            "labels": []
+        },
+        {
+            "text": "marvellous",
+            "start_pos": 751,
+            "end_pos": 761,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 762,
+            "end_pos": 769,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 769,
+            "end_pos": 770,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 770,
+            "end_pos": 771,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce2",
+            "start_pos": 773,
+            "end_pos": 774,
+            "labels": []
+        },
+        {
+            "text": "Dm",
+            "start_pos": 774,
+            "end_pos": 776,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 777,
+            "end_pos": 779,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 780,
+            "end_pos": 783,
+            "labels": []
+        },
+        {
+            "text": "Promotion",
+            "start_pos": 784,
+            "end_pos": 793,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 793,
+            "end_pos": 794,
+            "labels": []
+        },
+        {
+            "text": "Business",
+            "start_pos": 795,
+            "end_pos": 803,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 803,
+            "end_pos": 804,
+            "labels": []
+        },
+        {
+            "text": "Advertisement",
+            "start_pos": 805,
+            "end_pos": 818,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce9",
+            "start_pos": 818,
+            "end_pos": 819,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 821,
+            "end_pos": 822,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 822,
+            "end_pos": 823,
+            "labels": []
+        },
+        {
+            "text": "do",
+            "start_pos": 824,
+            "end_pos": 826,
+            "labels": []
+        },
+        {
+            "text": "n't",
+            "start_pos": 826,
+            "end_pos": 829,
+            "labels": []
+        },
+        {
+            "text": "own",
+            "start_pos": 830,
+            "end_pos": 833,
+            "labels": []
+        },
+        {
+            "text": "any",
+            "start_pos": 834,
+            "end_pos": 837,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 838,
+            "end_pos": 840,
+            "labels": []
+        },
+        {
+            "text": "these",
+            "start_pos": 841,
+            "end_pos": 846,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 847,
+            "end_pos": 853,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 854,
+            "end_pos": 857,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 858,
+            "end_pos": 859,
+            "labels": []
+        },
+        {
+            "text": "give",
+            "start_pos": 860,
+            "end_pos": 864,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 865,
+            "end_pos": 868,
+            "labels": []
+        },
+        {
+            "text": "credit",
+            "start_pos": 869,
+            "end_pos": 875,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 876,
+            "end_pos": 878,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 879,
+            "end_pos": 882,
+            "labels": []
+        },
+        {
+            "text": "respective",
+            "start_pos": 883,
+            "end_pos": 893,
+            "labels": []
+        },
+        {
+            "text": "owners",
+            "start_pos": 894,
+            "end_pos": 900,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 900,
+            "end_pos": 901,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 902,
+            "end_pos": 903,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 903,
+            "end_pos": 909,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 910,
+            "end_pos": 911,
+            "labels": []
+        },
+        {
+            "text": "hangingtempledatong",
+            "start_pos": 911,
+            "end_pos": 930,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 931,
+            "end_pos": 932,
+            "labels": []
+        },
+        {
+            "text": "china",
+            "start_pos": 932,
+            "end_pos": 937,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 938,
+            "end_pos": 939,
+            "labels": []
+        },
+        {
+            "text": "guizhou",
+            "start_pos": 939,
+            "end_pos": 946,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 947,
+            "end_pos": 948,
+            "labels": []
+        },
+        {
+            "text": "hangingtemple",
+            "start_pos": 948,
+            "end_pos": 961,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 962,
+            "end_pos": 963,
+            "labels": []
+        },
+        {
+            "text": "cave",
+            "start_pos": 963,
+            "end_pos": 967,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 968,
+            "end_pos": 969,
+            "labels": []
+        },
+        {
+            "text": "statue",
+            "start_pos": 969,
+            "end_pos": 975,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 976,
+            "end_pos": 977,
+            "labels": []
+        },
+        {
+            "text": "divinities",
+            "start_pos": 977,
+            "end_pos": 987,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 988,
+            "end_pos": 989,
+            "labels": []
+        },
+        {
+            "text": "sculpture",
+            "start_pos": 989,
+            "end_pos": 998,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 999,
+            "end_pos": 1000,
+            "labels": []
+        },
+        {
+            "text": "sanctuary",
+            "start_pos": 1000,
+            "end_pos": 1009,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1010,
+            "end_pos": 1011,
+            "labels": []
+        },
+        {
+            "text": "stones",
+            "start_pos": 1011,
+            "end_pos": 1017,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1018,
+            "end_pos": 1019,
+            "labels": []
+        },
+        {
+            "text": "bestplaces",
+            "start_pos": 1019,
+            "end_pos": 1029,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1030,
+            "end_pos": 1031,
+            "labels": []
+        },
+        {
+            "text": "ancientart",
+            "start_pos": 1031,
+            "end_pos": 1041,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1042,
+            "end_pos": 1043,
+            "labels": []
+        },
+        {
+            "text": "ancientworld",
+            "start_pos": 1043,
+            "end_pos": 1055,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1056,
+            "end_pos": 1057,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 1057,
+            "end_pos": 1064,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1065,
+            "end_pos": 1066,
+            "labels": []
+        },
+        {
+            "text": "explorepage",
+            "start_pos": 1066,
+            "end_pos": 1077,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1078,
+            "end_pos": 1079,
+            "labels": []
+        },
+        {
+            "text": "arqueologia",
+            "start_pos": 1079,
+            "end_pos": 1090,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1091,
+            "end_pos": 1092,
+            "labels": []
+        },
+        {
+            "text": "travelling",
+            "start_pos": 1092,
+            "end_pos": 1102,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1103,
+            "end_pos": 1104,
+            "labels": []
+        },
+        {
+            "text": "archaeology",
+            "start_pos": 1104,
+            "end_pos": 1115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1116,
+            "end_pos": 1117,
+            "labels": []
+        },
+        {
+            "text": "archeology",
+            "start_pos": 1117,
+            "end_pos": 1127,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1128,
+            "end_pos": 1129,
+            "labels": []
+        },
+        {
+            "text": "heritage",
+            "start_pos": 1129,
+            "end_pos": 1137,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1138,
+            "end_pos": 1139,
+            "labels": []
+        },
+        {
+            "text": "worldheritage",
+            "start_pos": 1139,
+            "end_pos": 1152,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1153,
+            "end_pos": 1154,
+            "labels": []
+        },
+        {
+            "text": "culture",
+            "start_pos": 1154,
+            "end_pos": 1161,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1162,
+            "end_pos": 1163,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 1163,
+            "end_pos": 1170,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1171,
+            "end_pos": 1172,
+            "labels": []
+        },
+        {
+            "text": "heritagesite",
+            "start_pos": 1172,
+            "end_pos": 1184,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1185,
+            "end_pos": 1186,
+            "labels": []
+        },
+        {
+            "text": "commagene",
+            "start_pos": 1186,
+            "end_pos": 1195,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1196,
+            "end_pos": 1197,
+            "labels": []
+        },
+        {
+            "text": "ancientcity",
+            "start_pos": 1197,
+            "end_pos": 1208,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

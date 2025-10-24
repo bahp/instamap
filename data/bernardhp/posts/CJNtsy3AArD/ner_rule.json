@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 45,
+        "end": 47,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 254,
+        "end": 256,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

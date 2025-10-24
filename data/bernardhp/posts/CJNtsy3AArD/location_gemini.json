@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Tower Bridge",
+        "subtitle": "Historic bridge in London",
+        "lat": "51.5055008",
+        "lon": "-0.0754005",
+        "type": "bridge",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "Big Ben",
+        "subtitle": "Clock tower in London, part of Parliament",
+        "lat": "51.5006677",
+        "lon": "-0.1245785",
+        "type": "clock_tower",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "London Eye",
+        "subtitle": "Large Ferris wheel on the South Bank of River Thames",
+        "lat": "51.503324",
+        "lon": "-0.119519",
+        "type": "tourist_attraction",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "City of London",
+        "subtitle": "Historic and financial district of London",
+        "lat": "51.5144573",
+        "lon": "-0.093566",
+        "type": "city_block",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": null
+    },
+    {
+        "title": "London",
+        "subtitle": "Capital city of England and the United Kingdom",
+        "lat": "51.5073219",
+        "lon": "-0.1276474",
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "England",
+        "subtitle": "Country in the United Kingdom",
+        "lat": "52.9239851",
+        "lon": "-1.4429986",
+        "type": "country_region",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "United Kingdom",
+        "subtitle": "Island nation in northwestern Europe",
+        "lat": "54.7023545",
+        "lon": "-3.2765753",
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent in the Northern Hemisphere",
+        "lat": "48.6909605",
+        "lon": "17.5898196",
+        "type": "continent",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 9,
+        "page": null
+    }
+]

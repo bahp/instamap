@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf10\ud83d\udea9Scanno #abruzzo (Aquila)",
+        "start": 13,
+        "end": 39,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Scanno #abruzzo (Aquila)"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 444,
+        "end": 449,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

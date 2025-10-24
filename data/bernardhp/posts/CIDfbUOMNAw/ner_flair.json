@@ -1,0 +1,762 @@
+{
+    "text": "Venezia  \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796 Photo of @r.callegaro VISITATE e SEGUITE la sua bellissima gallery \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796 \ud83d\udcf7 Foto selezionata da @s_e_r_g_i_o____ \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796 BellaItalia_travel Contest Regolamento: Lo scatto che durante la settimana ricever\u00e0 pi\u00f9 like verr\u00e0 ri-postato la Domenica, aggiudicandosi il titolo di \"Scatto della Settimana\" \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796 #italia#italy#europe#viaggi#viaggiare#travel#travelling#trip#landscape#ilikeitaly#excursion#voyage#igersitalia#tourism#colors#panorama#bellaitalia_travel#Ig_Italy#instaitalia#yallersitalia#bellaitalia#italianplaces#whatitalyis#ItaliainunoScatto#venezia#venice",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Venezia",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.24795296788215637
+                }
+            ]
+        },
+        {
+            "text": "la Domenica",
+            "start_pos": 270,
+            "end_pos": 281,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7084057033061981
+                }
+            ]
+        },
+        {
+            "text": "Scatto della Settimana",
+            "start_pos": 312,
+            "end_pos": 334,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7432906329631805
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 508,
+            "end_pos": 513,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9442620873451233
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Venezia",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
+            "start_pos": 9,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 33,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "r.callegaro",
+            "start_pos": 34,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "VISITATE",
+            "start_pos": 46,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "SEGUITE",
+            "start_pos": 57,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 65,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "sua",
+            "start_pos": 68,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "bellissima",
+            "start_pos": 72,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "gallery",
+            "start_pos": 83,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
+            "start_pos": 91,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "Foto",
+            "start_pos": 108,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "selezionata",
+            "start_pos": 113,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 125,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 128,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "s",
+            "start_pos": 129,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 130,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "r",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "g",
+            "start_pos": 135,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 136,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "i",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "o",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "____",
+            "start_pos": 140,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
+            "start_pos": 145,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "BellaItalia",
+            "start_pos": 160,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 171,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 172,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "Contest",
+            "start_pos": 179,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "Regolamento",
+            "start_pos": 187,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 198,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "Lo",
+            "start_pos": 200,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "scatto",
+            "start_pos": 203,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "che",
+            "start_pos": 210,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "durante",
+            "start_pos": 214,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 222,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "settimana",
+            "start_pos": 225,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "ricever\u00e0",
+            "start_pos": 235,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "pi\u00f9",
+            "start_pos": 244,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 248,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "verr\u00e0",
+            "start_pos": 253,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "ri-postato",
+            "start_pos": 259,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 270,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "Domenica",
+            "start_pos": 273,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 281,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "aggiudicandosi",
+            "start_pos": 283,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 298,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "titolo",
+            "start_pos": 301,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 308,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 311,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "Scatto",
+            "start_pos": 312,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "della",
+            "start_pos": 319,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "Settimana",
+            "start_pos": 325,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 334,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
+            "start_pos": 336,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 351,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "italia",
+            "start_pos": 352,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 358,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 359,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 364,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 365,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 371,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "viaggi",
+            "start_pos": 372,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 378,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "viaggiare",
+            "start_pos": 379,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 388,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 389,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 395,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "travelling",
+            "start_pos": 396,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 406,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 407,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 411,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "landscape",
+            "start_pos": 412,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 421,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "ilikeitaly",
+            "start_pos": 422,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 432,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "excursion",
+            "start_pos": 433,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 442,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "voyage",
+            "start_pos": 443,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 449,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "igersitalia",
+            "start_pos": 450,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 461,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "tourism",
+            "start_pos": 462,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 469,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "colors",
+            "start_pos": 470,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 476,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "panorama",
+            "start_pos": 477,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 485,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "bellaitalia",
+            "start_pos": 486,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 497,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 498,
+            "end_pos": 504,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 504,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "Ig",
+            "start_pos": 505,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 507,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 508,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 513,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "instaitalia",
+            "start_pos": 514,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 525,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "yallersitalia",
+            "start_pos": 526,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 539,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "bellaitalia",
+            "start_pos": 540,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 551,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "italianplaces",
+            "start_pos": 552,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 565,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": "whatitalyis",
+            "start_pos": 566,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 577,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "ItaliainunoScatto",
+            "start_pos": 578,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 595,
+            "end_pos": 596,
+            "labels": []
+        },
+        {
+            "text": "venezia",
+            "start_pos": 596,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 603,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": "venice",
+            "start_pos": 604,
+            "end_pos": 610,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

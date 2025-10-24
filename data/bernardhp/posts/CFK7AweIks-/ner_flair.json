@@ -1,0 +1,445 @@
+{
+    "text": "If you were there, you'd be watching the amazing view too ! If Bali is a delicious cake everyone is dying to take a bite of, Nusa Penida is the cherry on top. You can think of the island as a miniature of Bali in a more pristine, unspoilt state  \ud83c\uddee\ud83c\udde9 #discoverNusaPenida with @doyoutravel  #Nusapenida #islandlife #shooting",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Bali",
+            "start_pos": 63,
+            "end_pos": 67,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9933098554611206
+                }
+            ]
+        },
+        {
+            "text": "Nusa Penida",
+            "start_pos": 125,
+            "end_pos": 136,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8606768548488617
+                }
+            ]
+        },
+        {
+            "text": "Bali",
+            "start_pos": 205,
+            "end_pos": 209,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9978068470954895
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "If",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 3,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "were",
+            "start_pos": 7,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 12,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 19,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "'d",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 25,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "watching",
+            "start_pos": 28,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 37,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "amazing",
+            "start_pos": 41,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "view",
+            "start_pos": 49,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "too",
+            "start_pos": 54,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "If",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 63,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 68,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "delicious",
+            "start_pos": 73,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "cake",
+            "start_pos": 83,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "everyone",
+            "start_pos": 88,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "dying",
+            "start_pos": 100,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 106,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 109,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "bite",
+            "start_pos": 116,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 121,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "Nusa",
+            "start_pos": 125,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "Penida",
+            "start_pos": 130,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 137,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 140,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "cherry",
+            "start_pos": 144,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 151,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "top",
+            "start_pos": 154,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 157,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "You",
+            "start_pos": 159,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 163,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "think",
+            "start_pos": 167,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 173,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 176,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 180,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 187,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 190,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "miniature",
+            "start_pos": 192,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 202,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 205,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 210,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 215,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "pristine",
+            "start_pos": 220,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "unspoilt",
+            "start_pos": 230,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "state",
+            "start_pos": 239,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\udde9",
+            "start_pos": 246,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 249,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "discoverNusaPenida",
+            "start_pos": 250,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 269,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 274,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "doyoutravel",
+            "start_pos": 275,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 288,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": "Nusapenida",
+            "start_pos": 289,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 300,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "islandlife",
+            "start_pos": 301,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 312,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "shooting",
+            "start_pos": 313,
+            "end_pos": 321,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

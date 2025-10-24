@@ -1,0 +1,243 @@
+{
+    "text": "\"One of the best pools i\u2019ve truly enjoyed \ud83d\udca6 \ud83d\udccdHotel Kanz Erremal\" Where would you like to be right now?  \ud83c\uddf2\ud83c\udde6 #discovermorocco with @thereal.salma  #poolparty #pool #bestpools",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Hotel Kanz Erremal",
+            "start_pos": 45,
+            "end_pos": 63,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7464973131815592
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\"",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "One",
+            "start_pos": 1,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 5,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 8,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 12,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "pools",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "i",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "\u2019ve",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "truly",
+            "start_pos": 28,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "enjoyed",
+            "start_pos": 34,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udca6",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Hotel",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "Kanz",
+            "start_pos": 51,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Erremal",
+            "start_pos": 56,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "Where",
+            "start_pos": 65,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 71,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 77,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 81,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 89,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "right",
+            "start_pos": 92,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "now",
+            "start_pos": 98,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 101,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf2\ud83c\udde6",
+            "start_pos": 104,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "discovermorocco",
+            "start_pos": 108,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 124,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 129,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "thereal.salma",
+            "start_pos": 130,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 145,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "poolparty",
+            "start_pos": 146,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 156,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "pool",
+            "start_pos": 157,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "bestpools",
+            "start_pos": 163,
+            "end_pos": 172,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

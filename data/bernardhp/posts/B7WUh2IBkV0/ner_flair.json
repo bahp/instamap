@@ -1,0 +1,816 @@
+{
+    "text": "\u2022 Checkout the empty van on the \ud83d\udcbb I\u2019d say it\u2019s a great improvement! \u2022 \ud83d\ude90 Mercedes Spriner 144\u201d \ud83d\udcf8 @lunavans_ \ud83d\udccd Torquay, Victoria, Australia\ud83c\udde6\ud83c\uddfa \u2022 \ud83d\udcf2Follow @van_boy_life for more daily inspiring van life content\ud83e\udd19\ud83c\udffb \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 #mercedessprinter #sprinterconversion #offroadcamper #camperlifestyle #vanliving #vanconversion #alternativeliving #vanlife #vanlifediaries #vanlifeideas #campervan #projectvanlife #vanlifeexplorers #tinyhouse #homeiswhereyouparkit #homeonwheels #vanlove #vanlifers #adventuremobile #vanlifemovement #vanlifecommunity #vanbuild #vanlifesociety #campervan #vandweller #camperlife #vanlifestyle #overland #camperconversion",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Mercedes Spriner",
+            "start_pos": 72,
+            "end_pos": 88,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7360834777355194
+                }
+            ]
+        },
+        {
+            "text": "Torquay",
+            "start_pos": 109,
+            "end_pos": 116,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9984098672866821
+                }
+            ]
+        },
+        {
+            "text": "Victoria",
+            "start_pos": 118,
+            "end_pos": 126,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9984055161476135
+                }
+            ]
+        },
+        {
+            "text": "Australia",
+            "start_pos": 128,
+            "end_pos": 137,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998660087585449
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\u2022",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Checkout",
+            "start_pos": 2,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 11,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "empty",
+            "start_pos": 15,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "van",
+            "start_pos": 21,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 25,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 28,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcbb",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\u2019d",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "say",
+            "start_pos": 38,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "great",
+            "start_pos": 49,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "improvement",
+            "start_pos": 55,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude90",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "Mercedes",
+            "start_pos": 72,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "Spriner",
+            "start_pos": 81,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "144",
+            "start_pos": 89,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "lunavans",
+            "start_pos": 97,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 105,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "Torquay",
+            "start_pos": 109,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "Victoria",
+            "start_pos": 118,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "Australia",
+            "start_pos": 128,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde6\ud83c\uddfa",
+            "start_pos": 137,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 140,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf2",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 143,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 150,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "van",
+            "start_pos": 151,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 154,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "boy",
+            "start_pos": 155,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 158,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "life",
+            "start_pos": 159,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 164,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 168,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "daily",
+            "start_pos": 173,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "inspiring",
+            "start_pos": 179,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "van",
+            "start_pos": 189,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "life",
+            "start_pos": 193,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "content",
+            "start_pos": 198,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd19\ud83c\udffb",
+            "start_pos": 205,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 210,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 216,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 218,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 220,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 222,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 224,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 226,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 230,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 232,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 234,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 238,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 240,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 242,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 244,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "mercedessprinter",
+            "start_pos": 245,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 262,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "sprinterconversion",
+            "start_pos": 263,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 282,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "offroadcamper",
+            "start_pos": 283,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 297,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "camperlifestyle",
+            "start_pos": 298,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 314,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "vanliving",
+            "start_pos": 315,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "vanconversion",
+            "start_pos": 326,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 340,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "alternativeliving",
+            "start_pos": 341,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 359,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "vanlife",
+            "start_pos": 360,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "vanlifediaries",
+            "start_pos": 369,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 384,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "vanlifeideas",
+            "start_pos": 385,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 398,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "campervan",
+            "start_pos": 399,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 409,
+            "end_pos": 410,
+            "labels": []
+        },
+        {
+            "text": "projectvanlife",
+            "start_pos": 410,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 425,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "vanlifeexplorers",
+            "start_pos": 426,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 443,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "tinyhouse",
+            "start_pos": 444,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 454,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "homeiswhereyouparkit",
+            "start_pos": 455,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 476,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "homeonwheels",
+            "start_pos": 477,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 490,
+            "end_pos": 491,
+            "labels": []
+        },
+        {
+            "text": "vanlove",
+            "start_pos": 491,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 499,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "vanlifers",
+            "start_pos": 500,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 510,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "adventuremobile",
+            "start_pos": 511,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 527,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "vanlifemovement",
+            "start_pos": 528,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 544,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "vanlifecommunity",
+            "start_pos": 545,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 562,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "vanbuild",
+            "start_pos": 563,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 572,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "vanlifesociety",
+            "start_pos": 573,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 588,
+            "end_pos": 589,
+            "labels": []
+        },
+        {
+            "text": "campervan",
+            "start_pos": 589,
+            "end_pos": 598,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 599,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": "vandweller",
+            "start_pos": 600,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 611,
+            "end_pos": 612,
+            "labels": []
+        },
+        {
+            "text": "camperlife",
+            "start_pos": 612,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 623,
+            "end_pos": 624,
+            "labels": []
+        },
+        {
+            "text": "vanlifestyle",
+            "start_pos": 624,
+            "end_pos": 636,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 637,
+            "end_pos": 638,
+            "labels": []
+        },
+        {
+            "text": "overland",
+            "start_pos": 638,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 647,
+            "end_pos": 648,
+            "labels": []
+        },
+        {
+            "text": "camperconversion",
+            "start_pos": 648,
+            "end_pos": 664,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

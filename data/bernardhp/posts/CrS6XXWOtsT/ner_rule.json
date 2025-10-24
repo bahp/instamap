@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdMerke Qazaqstan\ud83c\uddf0",
+        "start": 0,
+        "end": 17,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Merke Qazaqstan\ud83c\uddf0"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf0\ud83c\uddff",
+        "start": 16,
+        "end": 18,
+        "groupdict": {
+            "flag": "\ud83c\uddf0\ud83c\uddff",
+            "location": "Kazakhstan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

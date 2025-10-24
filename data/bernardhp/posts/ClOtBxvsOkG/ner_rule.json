@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdRifugio Odle",
+        "start": 89,
+        "end": 102,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Rifugio Odle"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 556,
+        "end": 558,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 591,
+        "end": 593,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 627,
+        "end": 629,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 669,
+        "end": 671,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

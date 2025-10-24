@@ -1,0 +1,822 @@
+{
+    "text": "Captivating beauty of western Norway: nature\u2019s masterpiece!\u2728\ud83d\ude0d  \ud83d\udca1Western Norway is a treasure trove of natural wonders, boasting breathtaking fjords, majestic mountains, cascading waterfalls, and picturesque coastal landscapes. From the iconic Geirangerfjord and N\u00e6r\u00f8yfjord, both UNESCO World Heritage Sites, to the mesmerizing Trolltunga and Preikestolen cliffs, the region\u2019s scenic wonders are a sight to behold.  What is your favorite place or experience in Western Norway? \u2728 Share your most memorable moment or a hidden gem that captured your heart!\ud83d\udc97  \ud83c\udfa5 @the_norwegian_wanderer  \ud83d\udccd Norway  #visitnorway  #athotel  #hikinginnorway  #norway #norge #norsko",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Norway",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.995912492275238
+                }
+            ]
+        },
+        {
+            "text": "Western Norway",
+            "start_pos": 64,
+            "end_pos": 78,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9860761761665344
+                }
+            ]
+        },
+        {
+            "text": "Geirangerfjord",
+            "start_pos": 243,
+            "end_pos": 257,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5259515047073364
+                }
+            ]
+        },
+        {
+            "text": "N\u00e6r\u00f8yfjord",
+            "start_pos": 262,
+            "end_pos": 272,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.649826169013977
+                }
+            ]
+        },
+        {
+            "text": "UNESCO World Heritage Sites",
+            "start_pos": 279,
+            "end_pos": 306,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6685282737016678
+                }
+            ]
+        },
+        {
+            "text": "Trolltunga",
+            "start_pos": 327,
+            "end_pos": 337,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8007454872131348
+                }
+            ]
+        },
+        {
+            "text": "Preikestolen",
+            "start_pos": 342,
+            "end_pos": 354,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.3968547582626343
+                }
+            ]
+        },
+        {
+            "text": "Western Norway",
+            "start_pos": 460,
+            "end_pos": 474,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9870535433292389
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 584,
+            "end_pos": 590,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991076588630676
+                }
+            ]
+        },
+        {
+            "text": "norway",
+            "start_pos": 634,
+            "end_pos": 640,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9011424779891968
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Captivating",
+            "start_pos": 0,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 12,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 19,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "western",
+            "start_pos": 22,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 38,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "masterpiece",
+            "start_pos": 47,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "\u2728\ud83d\ude0d",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udca1",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "Western",
+            "start_pos": 64,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 72,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 79,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "treasure",
+            "start_pos": 84,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "trove",
+            "start_pos": 93,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 99,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "natural",
+            "start_pos": 102,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "wonders",
+            "start_pos": 110,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "boasting",
+            "start_pos": 119,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "breathtaking",
+            "start_pos": 128,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "fjords",
+            "start_pos": 141,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "majestic",
+            "start_pos": 149,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "mountains",
+            "start_pos": 158,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 167,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "cascading",
+            "start_pos": 169,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "waterfalls",
+            "start_pos": 179,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 191,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "picturesque",
+            "start_pos": 195,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "coastal",
+            "start_pos": 207,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "landscapes",
+            "start_pos": 215,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 225,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "From",
+            "start_pos": 227,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 232,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "iconic",
+            "start_pos": 236,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "Geirangerfjord",
+            "start_pos": 243,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 258,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "N\u00e6r\u00f8yfjord",
+            "start_pos": 262,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 272,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "both",
+            "start_pos": 274,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "UNESCO",
+            "start_pos": 279,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "World",
+            "start_pos": 286,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "Heritage",
+            "start_pos": 292,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "Sites",
+            "start_pos": 301,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 306,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 308,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 311,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "mesmerizing",
+            "start_pos": 315,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "Trolltunga",
+            "start_pos": 327,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 338,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "Preikestolen",
+            "start_pos": 342,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "cliffs",
+            "start_pos": 355,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 361,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 363,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "region",
+            "start_pos": 367,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 373,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "scenic",
+            "start_pos": 376,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "wonders",
+            "start_pos": 383,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 391,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 395,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "sight",
+            "start_pos": 397,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 403,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "behold",
+            "start_pos": 406,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 412,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "What",
+            "start_pos": 415,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 420,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 423,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 428,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 437,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 443,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 446,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 457,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "Western",
+            "start_pos": 460,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 468,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 474,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 476,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "Share",
+            "start_pos": 478,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 484,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 489,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "memorable",
+            "start_pos": 494,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "moment",
+            "start_pos": 504,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 511,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 514,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "hidden",
+            "start_pos": 516,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "gem",
+            "start_pos": 523,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 527,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "captured",
+            "start_pos": 532,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 541,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "heart",
+            "start_pos": 546,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 551,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc97",
+            "start_pos": 552,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfa5",
+            "start_pos": 555,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 557,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 558,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 561,
+            "end_pos": 562,
+            "labels": []
+        },
+        {
+            "text": "norwegian",
+            "start_pos": 562,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 571,
+            "end_pos": 572,
+            "labels": []
+        },
+        {
+            "text": "wanderer",
+            "start_pos": 572,
+            "end_pos": 580,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 582,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 584,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 592,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "visitnorway",
+            "start_pos": 593,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 606,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "athotel",
+            "start_pos": 607,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 616,
+            "end_pos": 617,
+            "labels": []
+        },
+        {
+            "text": "hikinginnorway",
+            "start_pos": 617,
+            "end_pos": 631,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 633,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 634,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 641,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "norge",
+            "start_pos": 642,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 648,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "norsko",
+            "start_pos": 649,
+            "end_pos": 655,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

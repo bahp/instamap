@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf2\ud83c\uddf2",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddf2\ud83c\uddf2",
+            "location": "Myanmar"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Myanmar",
+        "start": 62,
+        "end": 69,
+        "groupdict": {
+            "name": "Myanmar",
+            "location": "Myanmar"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

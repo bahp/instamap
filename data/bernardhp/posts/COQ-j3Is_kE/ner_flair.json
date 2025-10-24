@@ -1,0 +1,2700 @@
+{
+    "text": "Tintagel Castle \u2764 Cornwall UK  Congrats @sophies.snapshot The History of Tintagel Castle  A land of Cornish kings  Perched on the north Cornwall coast, Tintagel Castle is one of the most spectacular historic sites in Britain. Its association with King Arthur also makes it one of the most famous. Yet the history of this enigmatic place stretches back centuries before the fabled king. Journey back 1500 years and Tintagel was a bustling stronghold and trading post, bigger than London at the time. In the 5th to 7th centuries AD, over a hundred buildings sprawled across the island (the ruins of many can be seen today), and its residents enjoyed luxury goods imported from the Mediterranean. Here on the salt-sprayed clifftops, the people of Tintagel built substantial stone buildings, used fine table wares and feasted on pork, fish, oysters and wine. Experts believe that it was the royal centre of the kingdom of \u2018Dumnonia\u2019, a residence of the early Cornish kings.  Where history meets legend  It\u2019s easy to imagine why the clifftop fortress inspired tales of King Arthur. It was Geoffrey of Monmouth who first described the connection, writing his History of the Kings of Britain in the 12th century. A mixture of fact and fiction, the book described how Arthur was conceived at Tintagel, with the help of Merlin\u2019s enchantments. Ever since, tales of the legendary king and his wizard have swirled around the atmospheric landscape. And today, when the tides allow, visitors can explore Merlin\u2019s Cave on the beach below the castle.  The medieval castle  Geoffrey\u2019s chronicles united history and magic, kindling the fire for the Arthurian legends we know and love. The stories thrilled people across medieval Britain \u2013 one of whom was the brother of King Henry III. Around 1233, Richard, Earl of Cornwall eagerly exchanged three of his manors to buy the \u2018the island of Tyntagel\u2019 and set about building his castle here. Set on a precipice along the rocky coast, it was not an easy place to build a castle. The atmospheric fortress stood partly on the mainland and (...)  https://www.visitcornwall.com/about-cornwall/blogging-cornwall/h",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Tintagel Castle",
+            "start_pos": 0,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6626767069101334
+                }
+            ]
+        },
+        {
+            "text": "Cornwall UK",
+            "start_pos": 18,
+            "end_pos": 29,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.4486967474222183
+                }
+            ]
+        },
+        {
+            "text": "Cornish",
+            "start_pos": 100,
+            "end_pos": 107,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.965666651725769
+                }
+            ]
+        },
+        {
+            "text": "Cornwall",
+            "start_pos": 136,
+            "end_pos": 144,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8865849375724792
+                }
+            ]
+        },
+        {
+            "text": "Tintagel Castle",
+            "start_pos": 152,
+            "end_pos": 167,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9808896481990814
+                }
+            ]
+        },
+        {
+            "text": "Britain",
+            "start_pos": 217,
+            "end_pos": 224,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9987258315086365
+                }
+            ]
+        },
+        {
+            "text": "Arthur",
+            "start_pos": 252,
+            "end_pos": 258,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.525727391242981
+                }
+            ]
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 414,
+            "end_pos": 422,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9655963778495789
+                }
+            ]
+        },
+        {
+            "text": "London",
+            "start_pos": 479,
+            "end_pos": 485,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9977415800094604
+                }
+            ]
+        },
+        {
+            "text": "Mediterranean",
+            "start_pos": 679,
+            "end_pos": 692,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5831747055053711
+                }
+            ]
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 744,
+            "end_pos": 752,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9984063506126404
+                }
+            ]
+        },
+        {
+            "text": "Dumnonia\u2019",
+            "start_pos": 919,
+            "end_pos": 928,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9518279433250427
+                }
+            ]
+        },
+        {
+            "text": "Cornish",
+            "start_pos": 955,
+            "end_pos": 962,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9902770519256592
+                }
+            ]
+        },
+        {
+            "text": "Arthur",
+            "start_pos": 1069,
+            "end_pos": 1075,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6719774007797241
+                }
+            ]
+        },
+        {
+            "text": "Geoffrey",
+            "start_pos": 1084,
+            "end_pos": 1092,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8821699619293213
+                }
+            ]
+        },
+        {
+            "text": "Monmouth",
+            "start_pos": 1096,
+            "end_pos": 1104,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.44132399559020996
+                }
+            ]
+        },
+        {
+            "text": "History of the Kings of Britain",
+            "start_pos": 1153,
+            "end_pos": 1184,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7730249663194021
+                }
+            ]
+        },
+        {
+            "text": "Arthur",
+            "start_pos": 1260,
+            "end_pos": 1266,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9992352724075317
+                }
+            ]
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 1284,
+            "end_pos": 1292,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9567893743515015
+                }
+            ]
+        },
+        {
+            "text": "Merlin",
+            "start_pos": 1311,
+            "end_pos": 1317,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7649471759796143
+                }
+            ]
+        },
+        {
+            "text": "Merlin\u2019s Cave",
+            "start_pos": 1490,
+            "end_pos": 1503,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5655505160490671
+                }
+            ]
+        },
+        {
+            "text": "Geoffrey",
+            "start_pos": 1557,
+            "end_pos": 1565,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.2750163674354553
+                }
+            ]
+        },
+        {
+            "text": "Arthurian",
+            "start_pos": 1631,
+            "end_pos": 1640,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9486449360847473
+                }
+            ]
+        },
+        {
+            "text": "Britain",
+            "start_pos": 1711,
+            "end_pos": 1718,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9982779026031494
+                }
+            ]
+        },
+        {
+            "text": "Henry III",
+            "start_pos": 1757,
+            "end_pos": 1766,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7979212403297424
+                }
+            ]
+        },
+        {
+            "text": "Richard",
+            "start_pos": 1781,
+            "end_pos": 1788,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9825960397720337
+                }
+            ]
+        },
+        {
+            "text": "Cornwall",
+            "start_pos": 1798,
+            "end_pos": 1806,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.44672471284866333
+                }
+            ]
+        },
+        {
+            "text": "Tyntagel\u2019",
+            "start_pos": 1871,
+            "end_pos": 1880,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9982153177261353
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Tintagel",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Castle",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Cornwall",
+            "start_pos": 18,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "UK",
+            "start_pos": 27,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 31,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "sophies.snapshot",
+            "start_pos": 41,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 58,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 62,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 70,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 73,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "Castle",
+            "start_pos": 82,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "land",
+            "start_pos": 92,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "Cornish",
+            "start_pos": 100,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "kings",
+            "start_pos": 108,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "Perched",
+            "start_pos": 115,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 123,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 126,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "north",
+            "start_pos": 130,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "Cornwall",
+            "start_pos": 136,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "coast",
+            "start_pos": 145,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 150,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 152,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "Castle",
+            "start_pos": 161,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 168,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 171,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 175,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 178,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 182,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "spectacular",
+            "start_pos": 187,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "historic",
+            "start_pos": 199,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "sites",
+            "start_pos": 208,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 214,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "Britain",
+            "start_pos": 217,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 224,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "Its",
+            "start_pos": 226,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "association",
+            "start_pos": 230,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 242,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "King",
+            "start_pos": 247,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "Arthur",
+            "start_pos": 252,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "also",
+            "start_pos": 259,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "makes",
+            "start_pos": 264,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 270,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 273,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 277,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 280,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 284,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "famous",
+            "start_pos": 289,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 295,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "Yet",
+            "start_pos": 297,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 301,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 305,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 313,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 316,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "enigmatic",
+            "start_pos": 321,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 331,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "stretches",
+            "start_pos": 337,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "back",
+            "start_pos": 347,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "centuries",
+            "start_pos": 352,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 362,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 369,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "fabled",
+            "start_pos": 373,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "king",
+            "start_pos": 380,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 384,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "Journey",
+            "start_pos": 386,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "back",
+            "start_pos": 394,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "1500",
+            "start_pos": 399,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": "years",
+            "start_pos": 404,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 410,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 414,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 423,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 427,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "bustling",
+            "start_pos": 429,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "stronghold",
+            "start_pos": 438,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 449,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "trading",
+            "start_pos": 453,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "post",
+            "start_pos": 461,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 465,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "bigger",
+            "start_pos": 467,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "than",
+            "start_pos": 474,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 479,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 486,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 489,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 493,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 497,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 499,
+            "end_pos": 501,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 502,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "5th",
+            "start_pos": 506,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 510,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "7th",
+            "start_pos": 513,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "centuries",
+            "start_pos": 517,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "AD",
+            "start_pos": 527,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 529,
+            "end_pos": 530,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 531,
+            "end_pos": 535,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 536,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "hundred",
+            "start_pos": 538,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "buildings",
+            "start_pos": 546,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "sprawled",
+            "start_pos": 556,
+            "end_pos": 564,
+            "labels": []
+        },
+        {
+            "text": "across",
+            "start_pos": 565,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 572,
+            "end_pos": 575,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 576,
+            "end_pos": 582,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 583,
+            "end_pos": 584,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 584,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "ruins",
+            "start_pos": 588,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 594,
+            "end_pos": 596,
+            "labels": []
+        },
+        {
+            "text": "many",
+            "start_pos": 597,
+            "end_pos": 601,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 602,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 606,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "seen",
+            "start_pos": 609,
+            "end_pos": 613,
+            "labels": []
+        },
+        {
+            "text": "today",
+            "start_pos": 614,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 619,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 620,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 622,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 626,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "residents",
+            "start_pos": 630,
+            "end_pos": 639,
+            "labels": []
+        },
+        {
+            "text": "enjoyed",
+            "start_pos": 640,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "luxury",
+            "start_pos": 648,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "goods",
+            "start_pos": 655,
+            "end_pos": 660,
+            "labels": []
+        },
+        {
+            "text": "imported",
+            "start_pos": 661,
+            "end_pos": 669,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 670,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 675,
+            "end_pos": 678,
+            "labels": []
+        },
+        {
+            "text": "Mediterranean",
+            "start_pos": 679,
+            "end_pos": 692,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 692,
+            "end_pos": 693,
+            "labels": []
+        },
+        {
+            "text": "Here",
+            "start_pos": 694,
+            "end_pos": 698,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 699,
+            "end_pos": 701,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 702,
+            "end_pos": 705,
+            "labels": []
+        },
+        {
+            "text": "salt-sprayed",
+            "start_pos": 706,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "clifftops",
+            "start_pos": 719,
+            "end_pos": 728,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 728,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 730,
+            "end_pos": 733,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 734,
+            "end_pos": 740,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 741,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 744,
+            "end_pos": 752,
+            "labels": []
+        },
+        {
+            "text": "built",
+            "start_pos": 753,
+            "end_pos": 758,
+            "labels": []
+        },
+        {
+            "text": "substantial",
+            "start_pos": 759,
+            "end_pos": 770,
+            "labels": []
+        },
+        {
+            "text": "stone",
+            "start_pos": 771,
+            "end_pos": 776,
+            "labels": []
+        },
+        {
+            "text": "buildings",
+            "start_pos": 777,
+            "end_pos": 786,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 786,
+            "end_pos": 787,
+            "labels": []
+        },
+        {
+            "text": "used",
+            "start_pos": 788,
+            "end_pos": 792,
+            "labels": []
+        },
+        {
+            "text": "fine",
+            "start_pos": 793,
+            "end_pos": 797,
+            "labels": []
+        },
+        {
+            "text": "table",
+            "start_pos": 798,
+            "end_pos": 803,
+            "labels": []
+        },
+        {
+            "text": "wares",
+            "start_pos": 804,
+            "end_pos": 809,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 810,
+            "end_pos": 813,
+            "labels": []
+        },
+        {
+            "text": "feasted",
+            "start_pos": 814,
+            "end_pos": 821,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 822,
+            "end_pos": 824,
+            "labels": []
+        },
+        {
+            "text": "pork",
+            "start_pos": 825,
+            "end_pos": 829,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 829,
+            "end_pos": 830,
+            "labels": []
+        },
+        {
+            "text": "fish",
+            "start_pos": 831,
+            "end_pos": 835,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 835,
+            "end_pos": 836,
+            "labels": []
+        },
+        {
+            "text": "oysters",
+            "start_pos": 837,
+            "end_pos": 844,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 845,
+            "end_pos": 848,
+            "labels": []
+        },
+        {
+            "text": "wine",
+            "start_pos": 849,
+            "end_pos": 853,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 853,
+            "end_pos": 854,
+            "labels": []
+        },
+        {
+            "text": "Experts",
+            "start_pos": 855,
+            "end_pos": 862,
+            "labels": []
+        },
+        {
+            "text": "believe",
+            "start_pos": 863,
+            "end_pos": 870,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 871,
+            "end_pos": 875,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 876,
+            "end_pos": 878,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 879,
+            "end_pos": 882,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 883,
+            "end_pos": 886,
+            "labels": []
+        },
+        {
+            "text": "royal",
+            "start_pos": 887,
+            "end_pos": 892,
+            "labels": []
+        },
+        {
+            "text": "centre",
+            "start_pos": 893,
+            "end_pos": 899,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 900,
+            "end_pos": 902,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 903,
+            "end_pos": 906,
+            "labels": []
+        },
+        {
+            "text": "kingdom",
+            "start_pos": 907,
+            "end_pos": 914,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 915,
+            "end_pos": 917,
+            "labels": []
+        },
+        {
+            "text": "\u2018",
+            "start_pos": 918,
+            "end_pos": 919,
+            "labels": []
+        },
+        {
+            "text": "Dumnonia\u2019",
+            "start_pos": 919,
+            "end_pos": 928,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 928,
+            "end_pos": 929,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 930,
+            "end_pos": 931,
+            "labels": []
+        },
+        {
+            "text": "residence",
+            "start_pos": 932,
+            "end_pos": 941,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 942,
+            "end_pos": 944,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 945,
+            "end_pos": 948,
+            "labels": []
+        },
+        {
+            "text": "early",
+            "start_pos": 949,
+            "end_pos": 954,
+            "labels": []
+        },
+        {
+            "text": "Cornish",
+            "start_pos": 955,
+            "end_pos": 962,
+            "labels": []
+        },
+        {
+            "text": "kings",
+            "start_pos": 963,
+            "end_pos": 968,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 968,
+            "end_pos": 969,
+            "labels": []
+        },
+        {
+            "text": "Where",
+            "start_pos": 971,
+            "end_pos": 976,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 977,
+            "end_pos": 984,
+            "labels": []
+        },
+        {
+            "text": "meets",
+            "start_pos": 985,
+            "end_pos": 990,
+            "labels": []
+        },
+        {
+            "text": "legend",
+            "start_pos": 991,
+            "end_pos": 997,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 999,
+            "end_pos": 1001,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 1001,
+            "end_pos": 1003,
+            "labels": []
+        },
+        {
+            "text": "easy",
+            "start_pos": 1004,
+            "end_pos": 1008,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1009,
+            "end_pos": 1011,
+            "labels": []
+        },
+        {
+            "text": "imagine",
+            "start_pos": 1012,
+            "end_pos": 1019,
+            "labels": []
+        },
+        {
+            "text": "why",
+            "start_pos": 1020,
+            "end_pos": 1023,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1024,
+            "end_pos": 1027,
+            "labels": []
+        },
+        {
+            "text": "clifftop",
+            "start_pos": 1028,
+            "end_pos": 1036,
+            "labels": []
+        },
+        {
+            "text": "fortress",
+            "start_pos": 1037,
+            "end_pos": 1045,
+            "labels": []
+        },
+        {
+            "text": "inspired",
+            "start_pos": 1046,
+            "end_pos": 1054,
+            "labels": []
+        },
+        {
+            "text": "tales",
+            "start_pos": 1055,
+            "end_pos": 1060,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1061,
+            "end_pos": 1063,
+            "labels": []
+        },
+        {
+            "text": "King",
+            "start_pos": 1064,
+            "end_pos": 1068,
+            "labels": []
+        },
+        {
+            "text": "Arthur",
+            "start_pos": 1069,
+            "end_pos": 1075,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1075,
+            "end_pos": 1076,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 1077,
+            "end_pos": 1079,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1080,
+            "end_pos": 1083,
+            "labels": []
+        },
+        {
+            "text": "Geoffrey",
+            "start_pos": 1084,
+            "end_pos": 1092,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1093,
+            "end_pos": 1095,
+            "labels": []
+        },
+        {
+            "text": "Monmouth",
+            "start_pos": 1096,
+            "end_pos": 1104,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 1105,
+            "end_pos": 1108,
+            "labels": []
+        },
+        {
+            "text": "first",
+            "start_pos": 1109,
+            "end_pos": 1114,
+            "labels": []
+        },
+        {
+            "text": "described",
+            "start_pos": 1115,
+            "end_pos": 1124,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1125,
+            "end_pos": 1128,
+            "labels": []
+        },
+        {
+            "text": "connection",
+            "start_pos": 1129,
+            "end_pos": 1139,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1139,
+            "end_pos": 1140,
+            "labels": []
+        },
+        {
+            "text": "writing",
+            "start_pos": 1141,
+            "end_pos": 1148,
+            "labels": []
+        },
+        {
+            "text": "his",
+            "start_pos": 1149,
+            "end_pos": 1152,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 1153,
+            "end_pos": 1160,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1161,
+            "end_pos": 1163,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1164,
+            "end_pos": 1167,
+            "labels": []
+        },
+        {
+            "text": "Kings",
+            "start_pos": 1168,
+            "end_pos": 1173,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1174,
+            "end_pos": 1176,
+            "labels": []
+        },
+        {
+            "text": "Britain",
+            "start_pos": 1177,
+            "end_pos": 1184,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 1185,
+            "end_pos": 1187,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1188,
+            "end_pos": 1191,
+            "labels": []
+        },
+        {
+            "text": "12th",
+            "start_pos": 1192,
+            "end_pos": 1196,
+            "labels": []
+        },
+        {
+            "text": "century",
+            "start_pos": 1197,
+            "end_pos": 1204,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1204,
+            "end_pos": 1205,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 1206,
+            "end_pos": 1207,
+            "labels": []
+        },
+        {
+            "text": "mixture",
+            "start_pos": 1208,
+            "end_pos": 1215,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1216,
+            "end_pos": 1218,
+            "labels": []
+        },
+        {
+            "text": "fact",
+            "start_pos": 1219,
+            "end_pos": 1223,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 1224,
+            "end_pos": 1227,
+            "labels": []
+        },
+        {
+            "text": "fiction",
+            "start_pos": 1228,
+            "end_pos": 1235,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1235,
+            "end_pos": 1236,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1237,
+            "end_pos": 1240,
+            "labels": []
+        },
+        {
+            "text": "book",
+            "start_pos": 1241,
+            "end_pos": 1245,
+            "labels": []
+        },
+        {
+            "text": "described",
+            "start_pos": 1246,
+            "end_pos": 1255,
+            "labels": []
+        },
+        {
+            "text": "how",
+            "start_pos": 1256,
+            "end_pos": 1259,
+            "labels": []
+        },
+        {
+            "text": "Arthur",
+            "start_pos": 1260,
+            "end_pos": 1266,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1267,
+            "end_pos": 1270,
+            "labels": []
+        },
+        {
+            "text": "conceived",
+            "start_pos": 1271,
+            "end_pos": 1280,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 1281,
+            "end_pos": 1283,
+            "labels": []
+        },
+        {
+            "text": "Tintagel",
+            "start_pos": 1284,
+            "end_pos": 1292,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1292,
+            "end_pos": 1293,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 1294,
+            "end_pos": 1298,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1299,
+            "end_pos": 1302,
+            "labels": []
+        },
+        {
+            "text": "help",
+            "start_pos": 1303,
+            "end_pos": 1307,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1308,
+            "end_pos": 1310,
+            "labels": []
+        },
+        {
+            "text": "Merlin",
+            "start_pos": 1311,
+            "end_pos": 1317,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 1317,
+            "end_pos": 1319,
+            "labels": []
+        },
+        {
+            "text": "enchantments",
+            "start_pos": 1320,
+            "end_pos": 1332,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1332,
+            "end_pos": 1333,
+            "labels": []
+        },
+        {
+            "text": "Ever",
+            "start_pos": 1334,
+            "end_pos": 1338,
+            "labels": []
+        },
+        {
+            "text": "since",
+            "start_pos": 1339,
+            "end_pos": 1344,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1344,
+            "end_pos": 1345,
+            "labels": []
+        },
+        {
+            "text": "tales",
+            "start_pos": 1346,
+            "end_pos": 1351,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1352,
+            "end_pos": 1354,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1355,
+            "end_pos": 1358,
+            "labels": []
+        },
+        {
+            "text": "legendary",
+            "start_pos": 1359,
+            "end_pos": 1368,
+            "labels": []
+        },
+        {
+            "text": "king",
+            "start_pos": 1369,
+            "end_pos": 1373,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 1374,
+            "end_pos": 1377,
+            "labels": []
+        },
+        {
+            "text": "his",
+            "start_pos": 1378,
+            "end_pos": 1381,
+            "labels": []
+        },
+        {
+            "text": "wizard",
+            "start_pos": 1382,
+            "end_pos": 1388,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 1389,
+            "end_pos": 1393,
+            "labels": []
+        },
+        {
+            "text": "swirled",
+            "start_pos": 1394,
+            "end_pos": 1401,
+            "labels": []
+        },
+        {
+            "text": "around",
+            "start_pos": 1402,
+            "end_pos": 1408,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1409,
+            "end_pos": 1412,
+            "labels": []
+        },
+        {
+            "text": "atmospheric",
+            "start_pos": 1413,
+            "end_pos": 1424,
+            "labels": []
+        },
+        {
+            "text": "landscape",
+            "start_pos": 1425,
+            "end_pos": 1434,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1434,
+            "end_pos": 1435,
+            "labels": []
+        },
+        {
+            "text": "And",
+            "start_pos": 1436,
+            "end_pos": 1439,
+            "labels": []
+        },
+        {
+            "text": "today",
+            "start_pos": 1440,
+            "end_pos": 1445,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1445,
+            "end_pos": 1446,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 1447,
+            "end_pos": 1451,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1452,
+            "end_pos": 1455,
+            "labels": []
+        },
+        {
+            "text": "tides",
+            "start_pos": 1456,
+            "end_pos": 1461,
+            "labels": []
+        },
+        {
+            "text": "allow",
+            "start_pos": 1462,
+            "end_pos": 1467,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1467,
+            "end_pos": 1468,
+            "labels": []
+        },
+        {
+            "text": "visitors",
+            "start_pos": 1469,
+            "end_pos": 1477,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 1478,
+            "end_pos": 1481,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 1482,
+            "end_pos": 1489,
+            "labels": []
+        },
+        {
+            "text": "Merlin",
+            "start_pos": 1490,
+            "end_pos": 1496,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 1496,
+            "end_pos": 1498,
+            "labels": []
+        },
+        {
+            "text": "Cave",
+            "start_pos": 1499,
+            "end_pos": 1503,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 1504,
+            "end_pos": 1506,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1507,
+            "end_pos": 1510,
+            "labels": []
+        },
+        {
+            "text": "beach",
+            "start_pos": 1511,
+            "end_pos": 1516,
+            "labels": []
+        },
+        {
+            "text": "below",
+            "start_pos": 1517,
+            "end_pos": 1522,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1523,
+            "end_pos": 1526,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 1527,
+            "end_pos": 1533,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1533,
+            "end_pos": 1534,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1536,
+            "end_pos": 1539,
+            "labels": []
+        },
+        {
+            "text": "medieval",
+            "start_pos": 1540,
+            "end_pos": 1548,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 1549,
+            "end_pos": 1555,
+            "labels": []
+        },
+        {
+            "text": "Geoffrey",
+            "start_pos": 1557,
+            "end_pos": 1565,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 1565,
+            "end_pos": 1567,
+            "labels": []
+        },
+        {
+            "text": "chronicles",
+            "start_pos": 1568,
+            "end_pos": 1578,
+            "labels": []
+        },
+        {
+            "text": "united",
+            "start_pos": 1579,
+            "end_pos": 1585,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 1586,
+            "end_pos": 1593,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 1594,
+            "end_pos": 1597,
+            "labels": []
+        },
+        {
+            "text": "magic",
+            "start_pos": 1598,
+            "end_pos": 1603,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1603,
+            "end_pos": 1604,
+            "labels": []
+        },
+        {
+            "text": "kindling",
+            "start_pos": 1605,
+            "end_pos": 1613,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1614,
+            "end_pos": 1617,
+            "labels": []
+        },
+        {
+            "text": "fire",
+            "start_pos": 1618,
+            "end_pos": 1622,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 1623,
+            "end_pos": 1626,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1627,
+            "end_pos": 1630,
+            "labels": []
+        },
+        {
+            "text": "Arthurian",
+            "start_pos": 1631,
+            "end_pos": 1640,
+            "labels": []
+        },
+        {
+            "text": "legends",
+            "start_pos": 1641,
+            "end_pos": 1648,
+            "labels": []
+        },
+        {
+            "text": "we",
+            "start_pos": 1649,
+            "end_pos": 1651,
+            "labels": []
+        },
+        {
+            "text": "know",
+            "start_pos": 1652,
+            "end_pos": 1656,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 1657,
+            "end_pos": 1660,
+            "labels": []
+        },
+        {
+            "text": "love",
+            "start_pos": 1661,
+            "end_pos": 1665,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1665,
+            "end_pos": 1666,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1667,
+            "end_pos": 1670,
+            "labels": []
+        },
+        {
+            "text": "stories",
+            "start_pos": 1671,
+            "end_pos": 1678,
+            "labels": []
+        },
+        {
+            "text": "thrilled",
+            "start_pos": 1679,
+            "end_pos": 1687,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 1688,
+            "end_pos": 1694,
+            "labels": []
+        },
+        {
+            "text": "across",
+            "start_pos": 1695,
+            "end_pos": 1701,
+            "labels": []
+        },
+        {
+            "text": "medieval",
+            "start_pos": 1702,
+            "end_pos": 1710,
+            "labels": []
+        },
+        {
+            "text": "Britain",
+            "start_pos": 1711,
+            "end_pos": 1718,
+            "labels": []
+        },
+        {
+            "text": "\u2013",
+            "start_pos": 1719,
+            "end_pos": 1720,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 1721,
+            "end_pos": 1724,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1725,
+            "end_pos": 1727,
+            "labels": []
+        },
+        {
+            "text": "whom",
+            "start_pos": 1728,
+            "end_pos": 1732,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1733,
+            "end_pos": 1736,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1737,
+            "end_pos": 1740,
+            "labels": []
+        },
+        {
+            "text": "brother",
+            "start_pos": 1741,
+            "end_pos": 1748,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1749,
+            "end_pos": 1751,
+            "labels": []
+        },
+        {
+            "text": "King",
+            "start_pos": 1752,
+            "end_pos": 1756,
+            "labels": []
+        },
+        {
+            "text": "Henry",
+            "start_pos": 1757,
+            "end_pos": 1762,
+            "labels": []
+        },
+        {
+            "text": "III",
+            "start_pos": 1763,
+            "end_pos": 1766,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1766,
+            "end_pos": 1767,
+            "labels": []
+        },
+        {
+            "text": "Around",
+            "start_pos": 1768,
+            "end_pos": 1774,
+            "labels": []
+        },
+        {
+            "text": "1233",
+            "start_pos": 1775,
+            "end_pos": 1779,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1779,
+            "end_pos": 1780,
+            "labels": []
+        },
+        {
+            "text": "Richard",
+            "start_pos": 1781,
+            "end_pos": 1788,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1788,
+            "end_pos": 1789,
+            "labels": []
+        },
+        {
+            "text": "Earl",
+            "start_pos": 1790,
+            "end_pos": 1794,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1795,
+            "end_pos": 1797,
+            "labels": []
+        },
+        {
+            "text": "Cornwall",
+            "start_pos": 1798,
+            "end_pos": 1806,
+            "labels": []
+        },
+        {
+            "text": "eagerly",
+            "start_pos": 1807,
+            "end_pos": 1814,
+            "labels": []
+        },
+        {
+            "text": "exchanged",
+            "start_pos": 1815,
+            "end_pos": 1824,
+            "labels": []
+        },
+        {
+            "text": "three",
+            "start_pos": 1825,
+            "end_pos": 1830,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1831,
+            "end_pos": 1833,
+            "labels": []
+        },
+        {
+            "text": "his",
+            "start_pos": 1834,
+            "end_pos": 1837,
+            "labels": []
+        },
+        {
+            "text": "manors",
+            "start_pos": 1838,
+            "end_pos": 1844,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1845,
+            "end_pos": 1847,
+            "labels": []
+        },
+        {
+            "text": "buy",
+            "start_pos": 1848,
+            "end_pos": 1851,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1852,
+            "end_pos": 1855,
+            "labels": []
+        },
+        {
+            "text": "\u2018",
+            "start_pos": 1856,
+            "end_pos": 1857,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1857,
+            "end_pos": 1860,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 1861,
+            "end_pos": 1867,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1868,
+            "end_pos": 1870,
+            "labels": []
+        },
+        {
+            "text": "Tyntagel\u2019",
+            "start_pos": 1871,
+            "end_pos": 1880,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 1881,
+            "end_pos": 1884,
+            "labels": []
+        },
+        {
+            "text": "set",
+            "start_pos": 1885,
+            "end_pos": 1888,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 1889,
+            "end_pos": 1894,
+            "labels": []
+        },
+        {
+            "text": "building",
+            "start_pos": 1895,
+            "end_pos": 1903,
+            "labels": []
+        },
+        {
+            "text": "his",
+            "start_pos": 1904,
+            "end_pos": 1907,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 1908,
+            "end_pos": 1914,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 1915,
+            "end_pos": 1919,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1919,
+            "end_pos": 1920,
+            "labels": []
+        },
+        {
+            "text": "Set",
+            "start_pos": 1921,
+            "end_pos": 1924,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 1925,
+            "end_pos": 1927,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1928,
+            "end_pos": 1929,
+            "labels": []
+        },
+        {
+            "text": "precipice",
+            "start_pos": 1930,
+            "end_pos": 1939,
+            "labels": []
+        },
+        {
+            "text": "along",
+            "start_pos": 1940,
+            "end_pos": 1945,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1946,
+            "end_pos": 1949,
+            "labels": []
+        },
+        {
+            "text": "rocky",
+            "start_pos": 1950,
+            "end_pos": 1955,
+            "labels": []
+        },
+        {
+            "text": "coast",
+            "start_pos": 1956,
+            "end_pos": 1961,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1961,
+            "end_pos": 1962,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 1963,
+            "end_pos": 1965,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1966,
+            "end_pos": 1969,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 1970,
+            "end_pos": 1973,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 1974,
+            "end_pos": 1976,
+            "labels": []
+        },
+        {
+            "text": "easy",
+            "start_pos": 1977,
+            "end_pos": 1981,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 1982,
+            "end_pos": 1987,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1988,
+            "end_pos": 1990,
+            "labels": []
+        },
+        {
+            "text": "build",
+            "start_pos": 1991,
+            "end_pos": 1996,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1997,
+            "end_pos": 1998,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 1999,
+            "end_pos": 2005,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 2005,
+            "end_pos": 2006,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 2007,
+            "end_pos": 2010,
+            "labels": []
+        },
+        {
+            "text": "atmospheric",
+            "start_pos": 2011,
+            "end_pos": 2022,
+            "labels": []
+        },
+        {
+            "text": "fortress",
+            "start_pos": 2023,
+            "end_pos": 2031,
+            "labels": []
+        },
+        {
+            "text": "stood",
+            "start_pos": 2032,
+            "end_pos": 2037,
+            "labels": []
+        },
+        {
+            "text": "partly",
+            "start_pos": 2038,
+            "end_pos": 2044,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 2045,
+            "end_pos": 2047,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 2048,
+            "end_pos": 2051,
+            "labels": []
+        },
+        {
+            "text": "mainland",
+            "start_pos": 2052,
+            "end_pos": 2060,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 2061,
+            "end_pos": 2064,
+            "labels": []
+        },
+        {
+            "text": "(...)",
+            "start_pos": 2065,
+            "end_pos": 2070,
+            "labels": []
+        },
+        {
+            "text": "https",
+            "start_pos": 2072,
+            "end_pos": 2077,
+            "labels": []
+        },
+        {
+            "text": "://",
+            "start_pos": 2077,
+            "end_pos": 2080,
+            "labels": []
+        },
+        {
+            "text": "www.visitcornwall.com",
+            "start_pos": 2080,
+            "end_pos": 2101,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 2101,
+            "end_pos": 2102,
+            "labels": []
+        },
+        {
+            "text": "about-cornwall",
+            "start_pos": 2102,
+            "end_pos": 2116,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 2116,
+            "end_pos": 2117,
+            "labels": []
+        },
+        {
+            "text": "blogging-cornwall",
+            "start_pos": 2117,
+            "end_pos": 2134,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 2134,
+            "end_pos": 2135,
+            "labels": []
+        },
+        {
+            "text": "h",
+            "start_pos": 2135,
+            "end_pos": 2136,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

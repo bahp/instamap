@@ -1,0 +1,51 @@
+{
+    "text": "Snowy days\u2744 \ud83d\udcf8: @momentsofgregory",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Snowy",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "days",
+            "start_pos": 6,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "\u2744",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "momentsofgregory",
+            "start_pos": 16,
+            "end_pos": 32,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

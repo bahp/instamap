@@ -1,0 +1,38 @@
+[
+    {
+        "text": "Turkey",
+        "start": 57,
+        "end": 63,
+        "groupdict": {
+            "name": "Turkey",
+            "location": "Turkey"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Turkey",
+        "start": 307,
+        "end": 313,
+        "groupdict": {
+            "name": "Turkey",
+            "location": "Turkey"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "turkey",
+        "start": 698,
+        "end": 704,
+        "groupdict": {
+            "name": "turkey",
+            "location": "turkey"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

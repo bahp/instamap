@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd : Pamplona, Spain ",
+        "start": 0,
+        "end": 20,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " : Pamplona, Spain "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 20,
+        "end": 22,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Spain",
+        "start": 14,
+        "end": 19,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

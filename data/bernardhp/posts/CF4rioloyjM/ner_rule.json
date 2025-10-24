@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddef\ud83c\uddf4",
+        "start": 131,
+        "end": 133,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf4",
+            "location": "Jordan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "jordan",
+        "start": 157,
+        "end": 163,
+        "groupdict": {
+            "name": "jordan",
+            "location": "jordan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,189 @@
+{
+    "text": "Who\u2019s looking forward to the snowy winter days in New York City? \u2603\u26f8\u2728\ud83c\udf28 Photos by @marzenka_   Tag your best travel photos with #travellingthroughtheworld",
+    "labels": [],
+    "entities": [
+        {
+            "text": "New York City",
+            "start_pos": 50,
+            "end_pos": 63,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.945155660311381
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Who",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 3,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "looking",
+            "start_pos": 6,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "forward",
+            "start_pos": 14,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 25,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "snowy",
+            "start_pos": 29,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "winter",
+            "start_pos": 35,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "days",
+            "start_pos": 42,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "New",
+            "start_pos": 50,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "York",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "City",
+            "start_pos": 59,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "\u2603\u26f8\u2728\ud83c\udf28",
+            "start_pos": 65,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 70,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 77,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "marzenka",
+            "start_pos": 81,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 93,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 97,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 102,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 107,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 114,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 121,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "travellingthroughtheworld",
+            "start_pos": 127,
+            "end_pos": 152,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

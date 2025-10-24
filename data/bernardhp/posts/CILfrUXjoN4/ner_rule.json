@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdRonda, M\u00e1laga #spain #espa\u00f1a",
+        "start": 50,
+        "end": 79,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Ronda, M\u00e1laga #spain #espa\u00f1a"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 119,
+        "end": 121,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "spain",
+        "start": 66,
+        "end": 71,
+        "groupdict": {
+            "name": "spain",
+            "location": "spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Spain",
+        "start": 113,
+        "end": 118,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

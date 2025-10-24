@@ -1,0 +1,73 @@
+[
+    {
+        "text": "\ud83c\udf0d\ud83c\uddee\ud83c\uddf9 Torre di Pisa ",
+        "start": 0,
+        "end": 18,
+        "groupdict": {
+            "icon": "\ud83c\udf0d",
+            "location": "\ud83c\uddee\ud83c\uddf9 Torre di Pisa "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 1,
+        "end": 3,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 18,
+        "end": 20,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 36,
+        "end": 38,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "italy",
+        "start": 24,
+        "end": 29,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "italy",
+        "start": 31,
+        "end": 36,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

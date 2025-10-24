@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverChina ",
+        "start": 700,
+        "end": 717,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverChina "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddf3",
+        "start": 91,
+        "end": 93,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddf3",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "China",
+        "start": 8,
+        "end": 13,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,247 @@
+{
+    "text": "Do the Duomo di Milano and Galleria Vittorio Emanuele line up like this?  Photoshop \ud83e\udd14\u2753 \u2764 \ud83c\uddee\ud83c\uddf9   Congrats @jan9.0  Use #map_of_Italy #map_of_europe",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Duomo di Milano",
+            "start_pos": 7,
+            "end_pos": 22,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.9416676163673401
+                }
+            ]
+        },
+        {
+            "text": "Galleria Vittorio Emanuele",
+            "start_pos": 27,
+            "end_pos": 53,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6741562883059183
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 124,
+            "end_pos": 129,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.985759437084198
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Do",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 3,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "Duomo",
+            "start_pos": 7,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Milano",
+            "start_pos": 16,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 23,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Galleria",
+            "start_pos": 27,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "Vittorio",
+            "start_pos": 36,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Emanuele",
+            "start_pos": 45,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "line",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 62,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 67,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "Photoshop",
+            "start_pos": 74,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd14\u2753",
+            "start_pos": 84,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 89,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 94,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "jan9.0",
+            "start_pos": 104,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 112,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 117,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 121,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 124,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 130,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 131,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 135,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 138,
+            "end_pos": 144,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

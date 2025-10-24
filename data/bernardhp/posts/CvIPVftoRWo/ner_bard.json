@@ -1,0 +1,42 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Bocas Del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"order\": 1,\n        \"image\": \"https://images.unsplash.com/photo-1658085786820-e363764b020b?ixlib=rb-4.0.3&ixid=MnwxNjU0NTk1fDF8MHxwaG90b3xwbGw=-&ixqs=IxQAA&auto=format&fit=crop&w=1400&q=80\"\n    },\n    {\n        \"name\": \"Selina Bocas del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"order\": 2,\n        \"image\": \"https://images.unsplash.com/photo-1602732268698-06d31515ab4f?ixlib=rb-4.0.3&ixid=MnwxNjU0NTk1fDF8MHxwaG90b3xwbGw=-&ixqs=IxQAA&auto=format&fit=crop&w=1400&q=80\"\n    }\n]\n```",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_9f645772cbfc73de",
+    "factuality_queries": null,
+    "text_query": [
+        "Bocas del Toro, Panama",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_16f372d39cfdfe71",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Bocas Del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"order\": 1,\n        \"image\": \"https://images.unsplash.com/photo-1658085786820-e363764b020b?ixlib=rb-4.0.3&ixid=MnwxNjU0NTk1fDF8MHxwaG90b3xwbGw=-&ixqs=IxQAA&auto=format&fit=crop&w=1400&q=80\"\n    },\n    {\n        \"name\": \"Selina Bocas del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"order\": 2,\n        \"image\": \"https://images.unsplash.com/photo-1602732268698-06d31515ab4f?ixlib=rb-4.0.3&ixid=MnwxNjU0NTk1fDF8MHxwaG90b3xwbGw=-&ixqs=IxQAA&auto=format&fit=crop&w=1400&q=80\"\n    }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_201c470b1e6c6ade",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Bocas del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"image\": \"https://static.wixstatic.com/media/58c59b_5ac39009b4c9464755f37359/v1/fill/w=512,h=288,al=c/58c59b_5ac39009b4c9464755f37359-1678121260/selina-bocas-del-toro-panama-travel-blog.jpg\",\n        \"order\": 1\n    }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_155e5dcbd9417603",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Bocas del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"order\": 1,\n        \"image_url\": \"[Image of Bocas del Toro, Panama]\"\n    }\n]\n```"
+            ]
+        }
+    ],
+    "links": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ce/b6/ae/monolocosurfschool-islacolon.jpg?w=700&h=500&s=1",
+        "https://www.tripadvisor.com/Tourism-g298425-Bocas_del_Toro_Province-Vacations.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX0wO-Jg1CyW_e8UfmqM4avZaYA35TCDXDJ-0LOkdXMVEbGk0lWwTbxLo-lDok",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ce/b6/ae/monolocosurfschool-islacolon.jpg?w=700&h=500&s=1",
+        "https://www.tripadvisor.com/Tourism-g298425-Bocas_del_Toro_Province-Vacations.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX0wO-Jg1CyW_e8UfmqM4avZaYA35TCDXDJ-0LOkdXMVEbGk0lWwTbxLo-lDok"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n    {\n        \"name\": \"Bocas Del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"order\": 1,\n        \"image\": \"https://images.unsplash.com/photo-1658085786820-e363764b020b?ixlib=rb-4.0.3&ixid=MnwxNjU0NTk1fDF8MHxwaG90b3xwbGw=-&ixqs=IxQAA&auto=format&fit=crop&w=1400&q=80\"\n    },\n    {\n        \"name\": \"Selina Bocas del Toro\",\n        \"full_address\": \"Bocas del Toro, Panama\",\n        \"order\": 2,\n        \"image\": \"https://images.unsplash.com/photo-1602732268698-06d31515ab4f?ixlib=rb-4.0.3&ixid=MnwxNjU0NTk1fDF8MHxwaG90b3xwbGw=-&ixqs=IxQAA&auto=format&fit=crop&w=1400&q=80\"\n    }\n]\n",
+    "status_code": 200
+}

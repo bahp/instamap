@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Taormina",
+        "subtitle": "Historic town on the east coast of Sicily, Italy",
+        "lat": 37.8525,
+        "lon": 15.2891,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 1
+    },
+    {
+        "title": "Messina",
+        "subtitle": "Major port city in northeast Sicily, Italy",
+        "lat": 38.1939,
+        "lon": 15.5562,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 2
+    },
+    {
+        "title": "Sicily",
+        "subtitle": "Italian island and autonomous region in the Mediterranean Sea",
+        "lat": 37.5999,
+        "lon": 14.0153,
+        "type": "region",
+        "class": "boundary",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 3
+    },
+    {
+        "title": "Italy",
+        "subtitle": "Country in Southern Europe, known for its rich history",
+        "lat": 41.8719,
+        "lon": 12.5674,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 5,
+        "page": null
+    }
+]

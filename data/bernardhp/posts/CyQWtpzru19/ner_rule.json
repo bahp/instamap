@@ -1,0 +1,84 @@
+[
+    {
+        "text": "\ud83d\udcda Cafebrer\u00eda El P\u00e9ndulo ",
+        "start": 0,
+        "end": 24,
+        "groupdict": {
+            "icon": "\ud83d\udcda",
+            "location": " Cafebrer\u00eda El P\u00e9ndulo "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdMexico City, Mexico",
+        "start": 27,
+        "end": 47,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Mexico City, Mexico"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf2\ud83c\uddfd",
+        "start": 416,
+        "end": 418,
+        "groupdict": {
+            "flag": "\ud83c\uddf2\ud83c\uddfd",
+            "location": "Mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Mexico",
+        "start": 28,
+        "end": 34,
+        "groupdict": {
+            "name": "Mexico",
+            "location": "Mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Mexico",
+        "start": 41,
+        "end": 47,
+        "groupdict": {
+            "name": "Mexico",
+            "location": "Mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Mexico",
+        "start": 197,
+        "end": 203,
+        "groupdict": {
+            "name": "Mexico",
+            "location": "Mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "ireland",
+        "start": 1484,
+        "end": 1491,
+        "groupdict": {
+            "name": "ireland",
+            "location": "ireland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

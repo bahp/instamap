@@ -1,0 +1,25 @@
+{
+    "content": "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Fairy Glen\",\n      \"full_address\": \"Fairy Glen, Isle of Skye, Scotland\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Quiraing\",\n      \"full_address\": \"Quiraing, Isle of Skye, Scotland\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Fairy glen\",\n      \"full_address\": \"Fairy glen, Isle of Skye, Scotland\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Fairy pool\",\n      \"full_address\": \"Fairy pool, Isle of Skye, Scotland\",\n      \"order\": 4\n    }\n  ]\n}\n```\nI hope this is helpful!",
+    "conversation_id": "c_5488e61e6b3c7949",
+    "response_id": "r_e38cd61c0ae84740",
+    "factuality_queries": null,
+    "text_query": [
+        "Please construct a json file extracting for each of the locations in the following caption the name (name), the full address (full_address) and the order (order) in which it was found in the text.",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_47aa42037ff19e6a",
+            "content": [
+                "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Fairy Glen\",\n      \"full_address\": \"Fairy Glen, Isle of Skye, Scotland\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Quiraing\",\n      \"full_address\": \"Quiraing, Isle of Skye, Scotland\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Fairy glen\",\n      \"full_address\": \"Fairy glen, Isle of Skye, Scotland\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Fairy pool\",\n      \"full_address\": \"Fairy pool, Isle of Skye, Scotland\",\n      \"order\": 4\n    }\n  ]\n}\n```\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2YTNiOGY2NWRlMDIyN2FiY2RhODA5NzMyYTQ2MDEzNmJkMDU3MDQyZDg&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Fairy Glen\",\n      \"full_address\": \"Fairy Glen, Isle of Skye, Scotland\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Quiraing\",\n      \"full_address\": \"Quiraing, Isle of Skye, Scotland\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Fairy glen\",\n      \"full_address\": \"Fairy glen, Isle of Skye, Scotland\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Fairy pool\",\n      \"full_address\": \"Fairy pool, Isle of Skye, Scotland\",\n      \"order\": 4\n    }\n  ]\n}\n",
+    "status_code": 200
+}

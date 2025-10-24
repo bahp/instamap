@@ -1,0 +1,806 @@
+{
+    "text": "Oltre al Lago di Braies c'\u00e8 di pi\u00f9 \ud83d\ude0d \u2935 Per esempio, restando su itinerari facili e adatti anche alle famiglie, vi consigliamo di fare la semplice passeggiata che porta a Malga Foresta (foto 3).  \ud83d\udc49 Si parte dal lago dove, lungo la sponda occidentale, si seguono le indicazioni e il largo sentiero 19 (pianeggiante e ideale anche per le famiglie con bambini piccoli).  In meno di un'ora arriverete in un luogo idilliaco e immerso nel verde, dove si trova la malga.   Ci siete mai stati?   \u25b2 Photo: @matteo.ghisu \u25b2 Tag: #dolomitireview \u2060 \u25b2 Follow: @dolomitireview\u2060  Seguici anche su Facebook e sul sito (link in bio) \u2b06",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Oltre al Lago di Braies",
+            "start_pos": 0,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7426173210144043
+                }
+            ]
+        },
+        {
+            "text": "Malga Foresta",
+            "start_pos": 170,
+            "end_pos": 183,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7018741965293884
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Oltre",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 6,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Lago",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 14,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Braies",
+            "start_pos": 17,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "c'\u00e8",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "pi\u00f9",
+            "start_pos": 31,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\u2935",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Per",
+            "start_pos": 39,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "esempio",
+            "start_pos": 43,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "restando",
+            "start_pos": 52,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 61,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "itinerari",
+            "start_pos": 64,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "facili",
+            "start_pos": 74,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "adatti",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "anche",
+            "start_pos": 90,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "alle",
+            "start_pos": 96,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "famiglie",
+            "start_pos": 101,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "vi",
+            "start_pos": 111,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "consigliamo",
+            "start_pos": 114,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 126,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "fare",
+            "start_pos": 129,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 134,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "semplice",
+            "start_pos": 137,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "passeggiata",
+            "start_pos": 146,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "che",
+            "start_pos": 158,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "porta",
+            "start_pos": 162,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 168,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "Malga",
+            "start_pos": 170,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "Foresta",
+            "start_pos": 176,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 184,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "foto",
+            "start_pos": 185,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 190,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 191,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 192,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 195,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "Si",
+            "start_pos": 197,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "parte",
+            "start_pos": 200,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "dal",
+            "start_pos": 206,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "lago",
+            "start_pos": 210,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "dove",
+            "start_pos": 215,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 219,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "lungo",
+            "start_pos": 221,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 227,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "sponda",
+            "start_pos": 230,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "occidentale",
+            "start_pos": 237,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 248,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 250,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "seguono",
+            "start_pos": 253,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "le",
+            "start_pos": 261,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "indicazioni",
+            "start_pos": 264,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 278,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "largo",
+            "start_pos": 281,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "sentiero",
+            "start_pos": 287,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "19",
+            "start_pos": 296,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 299,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "pianeggiante",
+            "start_pos": 300,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 313,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "ideale",
+            "start_pos": 315,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "anche",
+            "start_pos": 322,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "per",
+            "start_pos": 328,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "le",
+            "start_pos": 332,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "famiglie",
+            "start_pos": 335,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 344,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "bambini",
+            "start_pos": 348,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "piccoli",
+            "start_pos": 356,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 364,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 367,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "meno",
+            "start_pos": 370,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 375,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": "un'ora",
+            "start_pos": 378,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "arriverete",
+            "start_pos": 385,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 396,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 399,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "luogo",
+            "start_pos": 402,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "idilliaco",
+            "start_pos": 408,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 418,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "immerso",
+            "start_pos": 420,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "nel",
+            "start_pos": 428,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "verde",
+            "start_pos": 432,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 437,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "dove",
+            "start_pos": 439,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 444,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "trova",
+            "start_pos": 447,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 453,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "malga",
+            "start_pos": 456,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 461,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "Ci",
+            "start_pos": 465,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "siete",
+            "start_pos": 468,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "mai",
+            "start_pos": 474,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "stati",
+            "start_pos": 478,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 483,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "\u25b2",
+            "start_pos": 487,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 489,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 494,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 496,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "matteo.ghisu",
+            "start_pos": 497,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "\u25b2",
+            "start_pos": 510,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 512,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 515,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 517,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "dolomitireview",
+            "start_pos": 518,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 533,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "\u25b2",
+            "start_pos": 535,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 537,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 543,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 545,
+            "end_pos": 546,
+            "labels": []
+        },
+        {
+            "text": "dolomitireview",
+            "start_pos": 546,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 560,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "Seguici",
+            "start_pos": 563,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": "anche",
+            "start_pos": 571,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 577,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "Facebook",
+            "start_pos": 580,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 589,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "sul",
+            "start_pos": 591,
+            "end_pos": 594,
+            "labels": []
+        },
+        {
+            "text": "sito",
+            "start_pos": 595,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 600,
+            "end_pos": 601,
+            "labels": []
+        },
+        {
+            "text": "link",
+            "start_pos": 601,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 606,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "bio",
+            "start_pos": 609,
+            "end_pos": 612,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 612,
+            "end_pos": 613,
+            "labels": []
+        },
+        {
+            "text": "\u2b06",
+            "start_pos": 614,
+            "end_pos": 615,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

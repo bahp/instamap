@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccd Alberobello, Italy",
+        "start": 331,
+        "end": 351,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Alberobello, Italy"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 58,
+        "end": 60,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 353,
+        "end": 355,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Italy",
+        "start": 50,
+        "end": 55,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Italy",
+        "start": 346,
+        "end": 351,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

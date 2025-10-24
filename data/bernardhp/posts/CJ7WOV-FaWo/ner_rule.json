@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccc Yosemite National Park, USA ",
+        "start": 489,
+        "end": 519,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Yosemite National Park, USA "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf8",
+        "start": 519,
+        "end": 521,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "location": "United States"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

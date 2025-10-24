@@ -1,0 +1,105 @@
+{
+    "text": "Endless emotions on the road that leads to the three peaks of Lavaredo \ud83c\uddee\ud83c\uddf9",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Lavaredo",
+            "start_pos": 62,
+            "end_pos": 70,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9652091860771179
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Endless",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "emotions",
+            "start_pos": 8,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 17,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 20,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "road",
+            "start_pos": 24,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 29,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "leads",
+            "start_pos": 34,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 40,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 43,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "three",
+            "start_pos": 47,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "peaks",
+            "start_pos": 53,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "Lavaredo",
+            "start_pos": 62,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 71,
+            "end_pos": 73,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

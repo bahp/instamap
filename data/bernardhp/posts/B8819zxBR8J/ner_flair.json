@@ -1,0 +1,243 @@
+{
+    "text": "The Italian Dolomites Trail. What an magic place with never ending views. Who would you bring here? \ud83d\ude0d \u2022 Photo by @alessia_b71  Follow @nicehike and tag #nicehike for feature",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Italian Dolomites Trail",
+            "start_pos": 4,
+            "end_pos": 27,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8769837816556295
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "The",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "Italian",
+            "start_pos": 4,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "Dolomites",
+            "start_pos": 12,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Trail",
+            "start_pos": 22,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "What",
+            "start_pos": 29,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 34,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "magic",
+            "start_pos": 37,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 43,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 49,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "never",
+            "start_pos": 54,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "ending",
+            "start_pos": 60,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "views",
+            "start_pos": 67,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Who",
+            "start_pos": 74,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 78,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 84,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "bring",
+            "start_pos": 88,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 94,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 100,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 104,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 110,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "alessia",
+            "start_pos": 114,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 121,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "b71",
+            "start_pos": 122,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 127,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "nicehike",
+            "start_pos": 135,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 144,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "tag",
+            "start_pos": 148,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 152,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "nicehike",
+            "start_pos": 153,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 162,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "feature",
+            "start_pos": 166,
+            "end_pos": 173,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

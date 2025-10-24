@@ -1,0 +1,1014 @@
+{
+    "text": "\"\"Perseids over the Bohemian Forest\" \ud83c\udf0c Did you see the shooting stars last week? Thanks to the amazing weather conditions without the moon, I witnessed over 70 meteors in just a few hours. This photograph features the brightest Perseids I was able to capture overnight on August 12-13, when The Perseid Meteor Shower peaks. The composite image was taken from B\u0159ezn\u00edk on the northern edge of the Luzensk\u00e9 valley in \u0160umava National Park. The whole location is in the middle of wild forests and is one of the darkest places in the Czech Republic. The night sky includes the central arch of our Milky Way Galaxy and the planets Saturn and Jupiter on the left side of the Milky Way. Make a wish! \u2728\" \ud83c\udde8\ud83c\uddff #discoverczechrepublic with @tomashavel  #czecia #star #shootingstars #meteorshower",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Bohemian Forest",
+            "start_pos": 20,
+            "end_pos": 35,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6268476247787476
+                }
+            ]
+        },
+        {
+            "text": "The Perseid Meteor Shower",
+            "start_pos": 291,
+            "end_pos": 316,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7158878594636917
+                }
+            ]
+        },
+        {
+            "text": "B\u0159ezn\u00edk",
+            "start_pos": 359,
+            "end_pos": 366,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9884781241416931
+                }
+            ]
+        },
+        {
+            "text": "Luzensk\u00e9",
+            "start_pos": 395,
+            "end_pos": 403,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8553915619850159
+                }
+            ]
+        },
+        {
+            "text": "\u0160umava National Park",
+            "start_pos": 414,
+            "end_pos": 434,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9820377429326376
+                }
+            ]
+        },
+        {
+            "text": "Czech Republic",
+            "start_pos": 528,
+            "end_pos": 542,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9983919560909271
+                }
+            ]
+        },
+        {
+            "text": "Milky Way Galaxy",
+            "start_pos": 591,
+            "end_pos": 607,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.4854096273581187
+                }
+            ]
+        },
+        {
+            "text": "Saturn",
+            "start_pos": 624,
+            "end_pos": 630,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5209899544715881
+                }
+            ]
+        },
+        {
+            "text": "Jupiter",
+            "start_pos": 635,
+            "end_pos": 642,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5643617510795593
+                }
+            ]
+        },
+        {
+            "text": "Milky Way",
+            "start_pos": 667,
+            "end_pos": 676,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9506646692752838
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\"\"",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "Perseids",
+            "start_pos": 2,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 11,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 16,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Bohemian",
+            "start_pos": 20,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Forest",
+            "start_pos": 29,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0c",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Did",
+            "start_pos": 39,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 43,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 47,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 51,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "shooting",
+            "start_pos": 55,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "stars",
+            "start_pos": 64,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "last",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "week",
+            "start_pos": 75,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "Thanks",
+            "start_pos": 81,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 88,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 91,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "amazing",
+            "start_pos": 95,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "weather",
+            "start_pos": 103,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "conditions",
+            "start_pos": 111,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "without",
+            "start_pos": 122,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 130,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "moon",
+            "start_pos": 134,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 140,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "witnessed",
+            "start_pos": 142,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 152,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "70",
+            "start_pos": 157,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "meteors",
+            "start_pos": 160,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 168,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "just",
+            "start_pos": 171,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 176,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "few",
+            "start_pos": 178,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "hours",
+            "start_pos": 182,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 187,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 189,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "photograph",
+            "start_pos": 194,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "features",
+            "start_pos": 205,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 214,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "brightest",
+            "start_pos": 218,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "Perseids",
+            "start_pos": 228,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 237,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 239,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "able",
+            "start_pos": 243,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 248,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "capture",
+            "start_pos": 251,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "overnight",
+            "start_pos": 259,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 269,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "August",
+            "start_pos": 272,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "12-13",
+            "start_pos": 279,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 284,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 286,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 291,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "Perseid",
+            "start_pos": 295,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "Meteor",
+            "start_pos": 303,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "Shower",
+            "start_pos": 310,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "peaks",
+            "start_pos": 317,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 322,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 324,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "composite",
+            "start_pos": 328,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "image",
+            "start_pos": 338,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 344,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 348,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 354,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "B\u0159ezn\u00edk",
+            "start_pos": 359,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 367,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 370,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "northern",
+            "start_pos": 374,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "edge",
+            "start_pos": 383,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 388,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 391,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "Luzensk\u00e9",
+            "start_pos": 395,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": "valley",
+            "start_pos": 404,
+            "end_pos": 410,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 411,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "\u0160umava",
+            "start_pos": 414,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "National",
+            "start_pos": 421,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "Park",
+            "start_pos": 430,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 434,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 436,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "whole",
+            "start_pos": 440,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "location",
+            "start_pos": 446,
+            "end_pos": 454,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 455,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 458,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 461,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "middle",
+            "start_pos": 465,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 472,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "wild",
+            "start_pos": 475,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "forests",
+            "start_pos": 480,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 488,
+            "end_pos": 491,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 492,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 495,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 499,
+            "end_pos": 501,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 502,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "darkest",
+            "start_pos": 506,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 514,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 521,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 524,
+            "end_pos": 527,
+            "labels": []
+        },
+        {
+            "text": "Czech",
+            "start_pos": 528,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "Republic",
+            "start_pos": 534,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 542,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 544,
+            "end_pos": 547,
+            "labels": []
+        },
+        {
+            "text": "night",
+            "start_pos": 548,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "sky",
+            "start_pos": 554,
+            "end_pos": 557,
+            "labels": []
+        },
+        {
+            "text": "includes",
+            "start_pos": 558,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 567,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": "central",
+            "start_pos": 571,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "arch",
+            "start_pos": 579,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 584,
+            "end_pos": 586,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 587,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "Milky",
+            "start_pos": 591,
+            "end_pos": 596,
+            "labels": []
+        },
+        {
+            "text": "Way",
+            "start_pos": 597,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": "Galaxy",
+            "start_pos": 601,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 608,
+            "end_pos": 611,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 612,
+            "end_pos": 615,
+            "labels": []
+        },
+        {
+            "text": "planets",
+            "start_pos": 616,
+            "end_pos": 623,
+            "labels": []
+        },
+        {
+            "text": "Saturn",
+            "start_pos": 624,
+            "end_pos": 630,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 631,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "Jupiter",
+            "start_pos": 635,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 643,
+            "end_pos": 645,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 646,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "left",
+            "start_pos": 650,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "side",
+            "start_pos": 655,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 660,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 663,
+            "end_pos": 666,
+            "labels": []
+        },
+        {
+            "text": "Milky",
+            "start_pos": 667,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "Way",
+            "start_pos": 673,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 676,
+            "end_pos": 677,
+            "labels": []
+        },
+        {
+            "text": "Make",
+            "start_pos": 678,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 683,
+            "end_pos": 684,
+            "labels": []
+        },
+        {
+            "text": "wish",
+            "start_pos": 685,
+            "end_pos": 689,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 689,
+            "end_pos": 690,
+            "labels": []
+        },
+        {
+            "text": "\u2728\"",
+            "start_pos": 691,
+            "end_pos": 693,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\uddff",
+            "start_pos": 694,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 697,
+            "end_pos": 698,
+            "labels": []
+        },
+        {
+            "text": "discoverczechrepublic",
+            "start_pos": 698,
+            "end_pos": 719,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 720,
+            "end_pos": 724,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 725,
+            "end_pos": 726,
+            "labels": []
+        },
+        {
+            "text": "tomashavel",
+            "start_pos": 726,
+            "end_pos": 736,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 738,
+            "end_pos": 739,
+            "labels": []
+        },
+        {
+            "text": "czecia",
+            "start_pos": 739,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 746,
+            "end_pos": 747,
+            "labels": []
+        },
+        {
+            "text": "star",
+            "start_pos": 747,
+            "end_pos": 751,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 752,
+            "end_pos": 753,
+            "labels": []
+        },
+        {
+            "text": "shootingstars",
+            "start_pos": 753,
+            "end_pos": 766,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 767,
+            "end_pos": 768,
+            "labels": []
+        },
+        {
+            "text": "meteorshower",
+            "start_pos": 768,
+            "end_pos": 780,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

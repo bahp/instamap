@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdHozenji Yamakazu 1 Chome-1-16 Nanba, Chuo Ward, Osaka, 542-0076",
+        "start": 356,
+        "end": 420,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Hozenji Yamakazu 1 Chome-1-16 Nanba, Chuo Ward, Osaka, 542-0076"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Japan",
+        "start": 29,
+        "end": 34,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 337,
+        "end": 342,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 462,
+        "end": 467,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Germany",
+        "start": 33,
+        "end": 40,
+        "groupdict": {
+            "name": "Germany",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "maldives",
+        "start": 536,
+        "end": 544,
+        "groupdict": {
+            "name": "maldives",
+            "location": "maldives"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdShilily Huangshan",
+        "start": 131,
+        "end": 149,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Shilily Huangshan"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddf3",
+        "start": 10,
+        "end": 12,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddf3",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "china",
+        "start": 204,
+        "end": 209,
+        "groupdict": {
+            "name": "china",
+            "location": "china"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 430,
+        "end": 435,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

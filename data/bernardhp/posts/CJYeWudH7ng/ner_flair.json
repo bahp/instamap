@@ -1,0 +1,163 @@
+{
+    "text": "Padua, Italy \ud83c\uddee\ud83c\uddf9  Congrats @blogsognoitaliano  Use #map_of_Italy #map_of_europe",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Padua",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9963527917861938
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 7,
+            "end_pos": 12,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997099041938782
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 58,
+            "end_pos": 63,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9901365041732788
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Padua",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 5,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 7,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 17,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "blogsognoitaliano",
+            "start_pos": 27,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 46,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 51,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 55,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 58,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 65,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 69,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 72,
+            "end_pos": 78,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

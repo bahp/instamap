@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Dolomites\",\n    \"full_address\": \"Dolomites, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Dolomites,_South_Tyrol,_Italy.jpg/220px-The_Dolomites,_South_Tyrol,_Italy.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Lago di Braies\",\n    \"full_address\": \"Lago di Braies, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lago_di_Braies_-_2005.jpg/220px-Lago_di_Braies_-_2005.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Near Bolzano\",\n    \"full_address\": \"Bolzano, Trentino-Alto Adige, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bolzano,_Italy_in_2013.jpg/220px-Bolzano,_Italy_in_2013.jpg\",\n    \"order\": 3\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_eae84770e97437c0",
+    "factuality_queries": null,
+    "text_query": [
+        "Where did most sculptures appear?",
+        4
+    ],
+    "choices": [
+        {
+            "id": "rc_304470ffbe880528",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Dolomites\",\n    \"full_address\": \"Dolomites, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Dolomites,_South_Tyrol,_Italy.jpg/220px-The_Dolomites,_South_Tyrol,_Italy.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Lago di Braies\",\n    \"full_address\": \"Lago di Braies, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lago_di_Braies_-_2005.jpg/220px-Lago_di_Braies_-_2005.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Near Bolzano\",\n    \"full_address\": \"Bolzano, Trentino-Alto Adige, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bolzano,_Italy_in_2013.jpg/220px-Bolzano,_Italy_in_2013.jpg\",\n    \"order\": 3\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_dfca24b1b6854791",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Dolomites\",\n    \"full_address\": \"Dolomites, Italy\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tre_Cime_di_Lavaredo.jpg/220px-Tre_Cime_di_Lavaredo.jpg\"\n  },\n  {\n    \"name\": \"Lago di Braies\",\n    \"full_address\": \"Lago di Braies, Italy\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lago_di_Braies_view_from_the_summit_of_Croda_Rossa.jpg/220px-Lago_di_Braies_view_from_the_summit_of_Croda_Rossa.jpg\"\n  },\n  {\n    \"name\": \"Near Bozen\",\n    \"full_address\": \"Near Bozen, Italy\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/South_Tyrol_Italy_%28Bozen%29.jpg/220px-South_Tyrol_Italy_%28Bozen%29.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_da32058e7ef1bb45",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Dolomites\",\n    \"full_address\": \"Dolomites, Trentino-Alto Adige, Italy\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dolomites_Italy.jpg/220px-Dolomites_Italy.jpg\"\n  },\n  {\n    \"name\": \"Lago di Braies\",\n    \"full_address\": \"Lago di Braies, South Tyrol, Italy\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lago_di_Braies,_South_Tyrol,_Italy.jpg/220px-Lago_di_Braies,_South_Tyrol,_Italy.jpg\"\n  },\n  {\n    \"name\": \"Near Bozen\",\n    \"full_address\": \"Near Bozen, South Tyrol, Italy\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bolzano_city_panorama.jpg/220px-Bolzano_city_panorama.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Dolomites\",\n    \"full_address\": \"Dolomites, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Dolomites,_South_Tyrol,_Italy.jpg/220px-The_Dolomites,_South_Tyrol,_Italy.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Lago di Braies\",\n    \"full_address\": \"Lago di Braies, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lago_di_Braies_-_2005.jpg/220px-Lago_di_Braies_-_2005.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Near Bolzano\",\n    \"full_address\": \"Bolzano, Trentino-Alto Adige, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bolzano,_Italy_in_2013.jpg/220px-Bolzano,_Italy_in_2013.jpg\",\n    \"order\": 3\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,155 @@
+{
+    "text": "Villa Cimbrone, Ravello \ud83c\udf05  \ud83d\udcf8: @julien_audigier  #ravello #italy",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Villa Cimbrone",
+            "start_pos": 0,
+            "end_pos": 14,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8861149251461029
+                }
+            ]
+        },
+        {
+            "text": "Ravello",
+            "start_pos": 16,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.5084793567657471
+                }
+            ]
+        },
+        {
+            "text": "audigier",
+            "start_pos": 38,
+            "end_pos": 46,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8103597164154053
+                }
+            ]
+        },
+        {
+            "text": "ravello",
+            "start_pos": 49,
+            "end_pos": 56,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8552252054214478
+                }
+            ]
+        },
+        {
+            "text": "italy",
+            "start_pos": 58,
+            "end_pos": 63,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9708398580551147
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Villa",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Cimbrone",
+            "start_pos": 6,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 14,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Ravello",
+            "start_pos": 16,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf05",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "julien",
+            "start_pos": 31,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "audigier",
+            "start_pos": 38,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "ravello",
+            "start_pos": 49,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 58,
+            "end_pos": 63,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

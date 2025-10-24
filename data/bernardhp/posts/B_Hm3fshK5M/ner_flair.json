@@ -1,0 +1,2798 @@
+{
+    "text": "\"I went into this bike adventure by myself, self isolating. I was challenged everyday to wake up & ride another day. I never thought of quitting! This is the one thing in my life that was able to keep up with me. I was free! My body hurt. I often thought about the Buddha. what it meant for him to sit under the tree. I saw I too was working on myself in such a way that only I had the power to heal everything within me! My mind exhausted from being hyperactive all day everyday. The constant opinions that were never asked for & me never bringing up the bike trip cause it wasn\u2019t for anybody but myself. But when people see you on your bike they come! I realised something so clearly & already understood. When you do something so extreme & out of the box like this the consequences & consistent opinions are extreme! I worked from intuition, logic & my own research, educating myself about what was to come or could happen. The reality I stumbled upon was that so many people speak from lack of experience, education & all second hand information. Most things people said was wrong. It\u2019s funny how the cautious people always have to have an opinion! Only a few understood & knew challenges were necessary for growth! The Nullarbor was the most beautiful, spiritual place I have ever been! My mind quieted down & I became the ride. There was not a day I ever became scared because I trusted that I was prepared enough for anything to happen. Therefore if I heard a sound in complete darkness I would sit up, listen, search & get ready! I became a warrior. Pain sucked but taught me to take as many breaks as possible. I saw so much beauty when I stopped. The ride had no time frame! I became patient. I spoke to myself everyday about how I was feeling to understand who I was! I made sure I was never complacent! Every road train that passed I got off the road & waved. Sometimes I\u2019d be off the road for 20min. I waved at every person who passed me on the opposite side! I did this because when I was feeling horrible (or content) I knew being kind kept my soul strong. Whatever was happening to me was for me!\" | Reposted from @soyfuladventures  Use #bikewander to be featured!",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Buddha",
+            "start_pos": 265,
+            "end_pos": 271,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8576686382293701
+                }
+            ]
+        },
+        {
+            "text": "Nullarbor",
+            "start_pos": 1224,
+            "end_pos": 1233,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.385685533285141
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\"",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "went",
+            "start_pos": 3,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "into",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 13,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "bike",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "adventure",
+            "start_pos": 23,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 33,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "myself",
+            "start_pos": 36,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "self",
+            "start_pos": 44,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "isolating",
+            "start_pos": 49,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 60,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 62,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "challenged",
+            "start_pos": 66,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "everyday",
+            "start_pos": 77,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "wake",
+            "start_pos": 89,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 94,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 97,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "ride",
+            "start_pos": 99,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "another",
+            "start_pos": 104,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "day",
+            "start_pos": 112,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "never",
+            "start_pos": 119,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "thought",
+            "start_pos": 125,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 133,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "quitting",
+            "start_pos": 136,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 144,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 146,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 151,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 154,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 158,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "thing",
+            "start_pos": 162,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 168,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 171,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "life",
+            "start_pos": 174,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 179,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 184,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "able",
+            "start_pos": 188,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 193,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "keep",
+            "start_pos": 196,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 201,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 204,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 209,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 211,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 215,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "free",
+            "start_pos": 219,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 223,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "My",
+            "start_pos": 225,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "body",
+            "start_pos": 228,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "hurt",
+            "start_pos": 233,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 237,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 239,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "often",
+            "start_pos": 241,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "thought",
+            "start_pos": 247,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 255,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 261,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "Buddha",
+            "start_pos": 265,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 271,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "what",
+            "start_pos": 273,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 278,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "meant",
+            "start_pos": 281,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 287,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "him",
+            "start_pos": 291,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 295,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "sit",
+            "start_pos": 298,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "under",
+            "start_pos": 302,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 308,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "tree",
+            "start_pos": 312,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 316,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 318,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "saw",
+            "start_pos": 320,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "too",
+            "start_pos": 326,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 330,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "working",
+            "start_pos": 334,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 342,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "myself",
+            "start_pos": 345,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 352,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "such",
+            "start_pos": 355,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 360,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "way",
+            "start_pos": 362,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 366,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "only",
+            "start_pos": 371,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 376,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": "had",
+            "start_pos": 378,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 382,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "power",
+            "start_pos": 386,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 392,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "heal",
+            "start_pos": 395,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "everything",
+            "start_pos": 400,
+            "end_pos": 410,
+            "labels": []
+        },
+        {
+            "text": "within",
+            "start_pos": 411,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 418,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 420,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "My",
+            "start_pos": 422,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "mind",
+            "start_pos": 425,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "exhausted",
+            "start_pos": 430,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 440,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "being",
+            "start_pos": 445,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "hyperactive",
+            "start_pos": 451,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 463,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "day",
+            "start_pos": 467,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "everyday",
+            "start_pos": 471,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 479,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 481,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "constant",
+            "start_pos": 485,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "opinions",
+            "start_pos": 494,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 503,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "were",
+            "start_pos": 508,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "never",
+            "start_pos": 513,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "asked",
+            "start_pos": 519,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 525,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 529,
+            "end_pos": 530,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 531,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "never",
+            "start_pos": 534,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "bringing",
+            "start_pos": 540,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 549,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 552,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "bike",
+            "start_pos": 556,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 561,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "cause",
+            "start_pos": 566,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 572,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 575,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "n\u2019t",
+            "start_pos": 578,
+            "end_pos": 581,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 582,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "anybody",
+            "start_pos": 586,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "but",
+            "start_pos": 594,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "myself",
+            "start_pos": 598,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 604,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "But",
+            "start_pos": 606,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 610,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 615,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 622,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 626,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 630,
+            "end_pos": 632,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 633,
+            "end_pos": 637,
+            "labels": []
+        },
+        {
+            "text": "bike",
+            "start_pos": 638,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "they",
+            "start_pos": 643,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "come",
+            "start_pos": 648,
+            "end_pos": 652,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 652,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 654,
+            "end_pos": 655,
+            "labels": []
+        },
+        {
+            "text": "realised",
+            "start_pos": 656,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "something",
+            "start_pos": 665,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 675,
+            "end_pos": 677,
+            "labels": []
+        },
+        {
+            "text": "clearly",
+            "start_pos": 678,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 686,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "already",
+            "start_pos": 688,
+            "end_pos": 695,
+            "labels": []
+        },
+        {
+            "text": "understood",
+            "start_pos": 696,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 706,
+            "end_pos": 707,
+            "labels": []
+        },
+        {
+            "text": "When",
+            "start_pos": 708,
+            "end_pos": 712,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 713,
+            "end_pos": 716,
+            "labels": []
+        },
+        {
+            "text": "do",
+            "start_pos": 717,
+            "end_pos": 719,
+            "labels": []
+        },
+        {
+            "text": "something",
+            "start_pos": 720,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 730,
+            "end_pos": 732,
+            "labels": []
+        },
+        {
+            "text": "extreme",
+            "start_pos": 733,
+            "end_pos": 740,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 741,
+            "end_pos": 742,
+            "labels": []
+        },
+        {
+            "text": "out",
+            "start_pos": 743,
+            "end_pos": 746,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 747,
+            "end_pos": 749,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 750,
+            "end_pos": 753,
+            "labels": []
+        },
+        {
+            "text": "box",
+            "start_pos": 754,
+            "end_pos": 757,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 758,
+            "end_pos": 762,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 763,
+            "end_pos": 767,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 768,
+            "end_pos": 771,
+            "labels": []
+        },
+        {
+            "text": "consequences",
+            "start_pos": 772,
+            "end_pos": 784,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 785,
+            "end_pos": 786,
+            "labels": []
+        },
+        {
+            "text": "consistent",
+            "start_pos": 787,
+            "end_pos": 797,
+            "labels": []
+        },
+        {
+            "text": "opinions",
+            "start_pos": 798,
+            "end_pos": 806,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 807,
+            "end_pos": 810,
+            "labels": []
+        },
+        {
+            "text": "extreme",
+            "start_pos": 811,
+            "end_pos": 818,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 818,
+            "end_pos": 819,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 820,
+            "end_pos": 821,
+            "labels": []
+        },
+        {
+            "text": "worked",
+            "start_pos": 822,
+            "end_pos": 828,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 829,
+            "end_pos": 833,
+            "labels": []
+        },
+        {
+            "text": "intuition",
+            "start_pos": 834,
+            "end_pos": 843,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 843,
+            "end_pos": 844,
+            "labels": []
+        },
+        {
+            "text": "logic",
+            "start_pos": 845,
+            "end_pos": 850,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 851,
+            "end_pos": 852,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 853,
+            "end_pos": 855,
+            "labels": []
+        },
+        {
+            "text": "own",
+            "start_pos": 856,
+            "end_pos": 859,
+            "labels": []
+        },
+        {
+            "text": "research",
+            "start_pos": 860,
+            "end_pos": 868,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 868,
+            "end_pos": 869,
+            "labels": []
+        },
+        {
+            "text": "educating",
+            "start_pos": 870,
+            "end_pos": 879,
+            "labels": []
+        },
+        {
+            "text": "myself",
+            "start_pos": 880,
+            "end_pos": 886,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 887,
+            "end_pos": 892,
+            "labels": []
+        },
+        {
+            "text": "what",
+            "start_pos": 893,
+            "end_pos": 897,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 898,
+            "end_pos": 901,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 902,
+            "end_pos": 904,
+            "labels": []
+        },
+        {
+            "text": "come",
+            "start_pos": 905,
+            "end_pos": 909,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 910,
+            "end_pos": 912,
+            "labels": []
+        },
+        {
+            "text": "could",
+            "start_pos": 913,
+            "end_pos": 918,
+            "labels": []
+        },
+        {
+            "text": "happen",
+            "start_pos": 919,
+            "end_pos": 925,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 925,
+            "end_pos": 926,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 927,
+            "end_pos": 930,
+            "labels": []
+        },
+        {
+            "text": "reality",
+            "start_pos": 931,
+            "end_pos": 938,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 939,
+            "end_pos": 940,
+            "labels": []
+        },
+        {
+            "text": "stumbled",
+            "start_pos": 941,
+            "end_pos": 949,
+            "labels": []
+        },
+        {
+            "text": "upon",
+            "start_pos": 950,
+            "end_pos": 954,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 955,
+            "end_pos": 958,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 959,
+            "end_pos": 963,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 964,
+            "end_pos": 966,
+            "labels": []
+        },
+        {
+            "text": "many",
+            "start_pos": 967,
+            "end_pos": 971,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 972,
+            "end_pos": 978,
+            "labels": []
+        },
+        {
+            "text": "speak",
+            "start_pos": 979,
+            "end_pos": 984,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 985,
+            "end_pos": 989,
+            "labels": []
+        },
+        {
+            "text": "lack",
+            "start_pos": 990,
+            "end_pos": 994,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 995,
+            "end_pos": 997,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 998,
+            "end_pos": 1008,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1008,
+            "end_pos": 1009,
+            "labels": []
+        },
+        {
+            "text": "education",
+            "start_pos": 1010,
+            "end_pos": 1019,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 1020,
+            "end_pos": 1021,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 1022,
+            "end_pos": 1025,
+            "labels": []
+        },
+        {
+            "text": "second",
+            "start_pos": 1026,
+            "end_pos": 1032,
+            "labels": []
+        },
+        {
+            "text": "hand",
+            "start_pos": 1033,
+            "end_pos": 1037,
+            "labels": []
+        },
+        {
+            "text": "information",
+            "start_pos": 1038,
+            "end_pos": 1049,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1049,
+            "end_pos": 1050,
+            "labels": []
+        },
+        {
+            "text": "Most",
+            "start_pos": 1051,
+            "end_pos": 1055,
+            "labels": []
+        },
+        {
+            "text": "things",
+            "start_pos": 1056,
+            "end_pos": 1062,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 1063,
+            "end_pos": 1069,
+            "labels": []
+        },
+        {
+            "text": "said",
+            "start_pos": 1070,
+            "end_pos": 1074,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1075,
+            "end_pos": 1078,
+            "labels": []
+        },
+        {
+            "text": "wrong",
+            "start_pos": 1079,
+            "end_pos": 1084,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1084,
+            "end_pos": 1085,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 1086,
+            "end_pos": 1088,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 1088,
+            "end_pos": 1090,
+            "labels": []
+        },
+        {
+            "text": "funny",
+            "start_pos": 1091,
+            "end_pos": 1096,
+            "labels": []
+        },
+        {
+            "text": "how",
+            "start_pos": 1097,
+            "end_pos": 1100,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1101,
+            "end_pos": 1104,
+            "labels": []
+        },
+        {
+            "text": "cautious",
+            "start_pos": 1105,
+            "end_pos": 1113,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 1114,
+            "end_pos": 1120,
+            "labels": []
+        },
+        {
+            "text": "always",
+            "start_pos": 1121,
+            "end_pos": 1127,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 1128,
+            "end_pos": 1132,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1133,
+            "end_pos": 1135,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 1136,
+            "end_pos": 1140,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 1141,
+            "end_pos": 1143,
+            "labels": []
+        },
+        {
+            "text": "opinion",
+            "start_pos": 1144,
+            "end_pos": 1151,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1151,
+            "end_pos": 1152,
+            "labels": []
+        },
+        {
+            "text": "Only",
+            "start_pos": 1153,
+            "end_pos": 1157,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1158,
+            "end_pos": 1159,
+            "labels": []
+        },
+        {
+            "text": "few",
+            "start_pos": 1160,
+            "end_pos": 1163,
+            "labels": []
+        },
+        {
+            "text": "understood",
+            "start_pos": 1164,
+            "end_pos": 1174,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 1175,
+            "end_pos": 1176,
+            "labels": []
+        },
+        {
+            "text": "knew",
+            "start_pos": 1177,
+            "end_pos": 1181,
+            "labels": []
+        },
+        {
+            "text": "challenges",
+            "start_pos": 1182,
+            "end_pos": 1192,
+            "labels": []
+        },
+        {
+            "text": "were",
+            "start_pos": 1193,
+            "end_pos": 1197,
+            "labels": []
+        },
+        {
+            "text": "necessary",
+            "start_pos": 1198,
+            "end_pos": 1207,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 1208,
+            "end_pos": 1211,
+            "labels": []
+        },
+        {
+            "text": "growth",
+            "start_pos": 1212,
+            "end_pos": 1218,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1218,
+            "end_pos": 1219,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1220,
+            "end_pos": 1223,
+            "labels": []
+        },
+        {
+            "text": "Nullarbor",
+            "start_pos": 1224,
+            "end_pos": 1233,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1234,
+            "end_pos": 1237,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1238,
+            "end_pos": 1241,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 1242,
+            "end_pos": 1246,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 1247,
+            "end_pos": 1256,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1256,
+            "end_pos": 1257,
+            "labels": []
+        },
+        {
+            "text": "spiritual",
+            "start_pos": 1258,
+            "end_pos": 1267,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 1268,
+            "end_pos": 1273,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1274,
+            "end_pos": 1275,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 1276,
+            "end_pos": 1280,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 1281,
+            "end_pos": 1285,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 1286,
+            "end_pos": 1290,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1290,
+            "end_pos": 1291,
+            "labels": []
+        },
+        {
+            "text": "My",
+            "start_pos": 1292,
+            "end_pos": 1294,
+            "labels": []
+        },
+        {
+            "text": "mind",
+            "start_pos": 1295,
+            "end_pos": 1299,
+            "labels": []
+        },
+        {
+            "text": "quieted",
+            "start_pos": 1300,
+            "end_pos": 1307,
+            "labels": []
+        },
+        {
+            "text": "down",
+            "start_pos": 1308,
+            "end_pos": 1312,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 1313,
+            "end_pos": 1314,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1315,
+            "end_pos": 1316,
+            "labels": []
+        },
+        {
+            "text": "became",
+            "start_pos": 1317,
+            "end_pos": 1323,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1324,
+            "end_pos": 1327,
+            "labels": []
+        },
+        {
+            "text": "ride",
+            "start_pos": 1328,
+            "end_pos": 1332,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1332,
+            "end_pos": 1333,
+            "labels": []
+        },
+        {
+            "text": "There",
+            "start_pos": 1334,
+            "end_pos": 1339,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1340,
+            "end_pos": 1343,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 1344,
+            "end_pos": 1347,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1348,
+            "end_pos": 1349,
+            "labels": []
+        },
+        {
+            "text": "day",
+            "start_pos": 1350,
+            "end_pos": 1353,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1354,
+            "end_pos": 1355,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 1356,
+            "end_pos": 1360,
+            "labels": []
+        },
+        {
+            "text": "became",
+            "start_pos": 1361,
+            "end_pos": 1367,
+            "labels": []
+        },
+        {
+            "text": "scared",
+            "start_pos": 1368,
+            "end_pos": 1374,
+            "labels": []
+        },
+        {
+            "text": "because",
+            "start_pos": 1375,
+            "end_pos": 1382,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1383,
+            "end_pos": 1384,
+            "labels": []
+        },
+        {
+            "text": "trusted",
+            "start_pos": 1385,
+            "end_pos": 1392,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 1393,
+            "end_pos": 1397,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1398,
+            "end_pos": 1399,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1400,
+            "end_pos": 1403,
+            "labels": []
+        },
+        {
+            "text": "prepared",
+            "start_pos": 1404,
+            "end_pos": 1412,
+            "labels": []
+        },
+        {
+            "text": "enough",
+            "start_pos": 1413,
+            "end_pos": 1419,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 1420,
+            "end_pos": 1423,
+            "labels": []
+        },
+        {
+            "text": "anything",
+            "start_pos": 1424,
+            "end_pos": 1432,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1433,
+            "end_pos": 1435,
+            "labels": []
+        },
+        {
+            "text": "happen",
+            "start_pos": 1436,
+            "end_pos": 1442,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1442,
+            "end_pos": 1443,
+            "labels": []
+        },
+        {
+            "text": "Therefore",
+            "start_pos": 1444,
+            "end_pos": 1453,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 1454,
+            "end_pos": 1456,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1457,
+            "end_pos": 1458,
+            "labels": []
+        },
+        {
+            "text": "heard",
+            "start_pos": 1459,
+            "end_pos": 1464,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1465,
+            "end_pos": 1466,
+            "labels": []
+        },
+        {
+            "text": "sound",
+            "start_pos": 1467,
+            "end_pos": 1472,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 1473,
+            "end_pos": 1475,
+            "labels": []
+        },
+        {
+            "text": "complete",
+            "start_pos": 1476,
+            "end_pos": 1484,
+            "labels": []
+        },
+        {
+            "text": "darkness",
+            "start_pos": 1485,
+            "end_pos": 1493,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1494,
+            "end_pos": 1495,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 1496,
+            "end_pos": 1501,
+            "labels": []
+        },
+        {
+            "text": "sit",
+            "start_pos": 1502,
+            "end_pos": 1505,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 1506,
+            "end_pos": 1508,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1508,
+            "end_pos": 1509,
+            "labels": []
+        },
+        {
+            "text": "listen",
+            "start_pos": 1510,
+            "end_pos": 1516,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1516,
+            "end_pos": 1517,
+            "labels": []
+        },
+        {
+            "text": "search",
+            "start_pos": 1518,
+            "end_pos": 1524,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 1525,
+            "end_pos": 1526,
+            "labels": []
+        },
+        {
+            "text": "get",
+            "start_pos": 1527,
+            "end_pos": 1530,
+            "labels": []
+        },
+        {
+            "text": "ready",
+            "start_pos": 1531,
+            "end_pos": 1536,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1536,
+            "end_pos": 1537,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1538,
+            "end_pos": 1539,
+            "labels": []
+        },
+        {
+            "text": "became",
+            "start_pos": 1540,
+            "end_pos": 1546,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1547,
+            "end_pos": 1548,
+            "labels": []
+        },
+        {
+            "text": "warrior",
+            "start_pos": 1549,
+            "end_pos": 1556,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1556,
+            "end_pos": 1557,
+            "labels": []
+        },
+        {
+            "text": "Pain",
+            "start_pos": 1558,
+            "end_pos": 1562,
+            "labels": []
+        },
+        {
+            "text": "sucked",
+            "start_pos": 1563,
+            "end_pos": 1569,
+            "labels": []
+        },
+        {
+            "text": "but",
+            "start_pos": 1570,
+            "end_pos": 1573,
+            "labels": []
+        },
+        {
+            "text": "taught",
+            "start_pos": 1574,
+            "end_pos": 1580,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 1581,
+            "end_pos": 1583,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1584,
+            "end_pos": 1586,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 1587,
+            "end_pos": 1591,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 1592,
+            "end_pos": 1594,
+            "labels": []
+        },
+        {
+            "text": "many",
+            "start_pos": 1595,
+            "end_pos": 1599,
+            "labels": []
+        },
+        {
+            "text": "breaks",
+            "start_pos": 1600,
+            "end_pos": 1606,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 1607,
+            "end_pos": 1609,
+            "labels": []
+        },
+        {
+            "text": "possible",
+            "start_pos": 1610,
+            "end_pos": 1618,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1618,
+            "end_pos": 1619,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1620,
+            "end_pos": 1621,
+            "labels": []
+        },
+        {
+            "text": "saw",
+            "start_pos": 1622,
+            "end_pos": 1625,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 1626,
+            "end_pos": 1628,
+            "labels": []
+        },
+        {
+            "text": "much",
+            "start_pos": 1629,
+            "end_pos": 1633,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 1634,
+            "end_pos": 1640,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 1641,
+            "end_pos": 1645,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1646,
+            "end_pos": 1647,
+            "labels": []
+        },
+        {
+            "text": "stopped",
+            "start_pos": 1648,
+            "end_pos": 1655,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1655,
+            "end_pos": 1656,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1657,
+            "end_pos": 1660,
+            "labels": []
+        },
+        {
+            "text": "ride",
+            "start_pos": 1661,
+            "end_pos": 1665,
+            "labels": []
+        },
+        {
+            "text": "had",
+            "start_pos": 1666,
+            "end_pos": 1669,
+            "labels": []
+        },
+        {
+            "text": "no",
+            "start_pos": 1670,
+            "end_pos": 1672,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 1673,
+            "end_pos": 1677,
+            "labels": []
+        },
+        {
+            "text": "frame",
+            "start_pos": 1678,
+            "end_pos": 1683,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1683,
+            "end_pos": 1684,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1685,
+            "end_pos": 1686,
+            "labels": []
+        },
+        {
+            "text": "became",
+            "start_pos": 1687,
+            "end_pos": 1693,
+            "labels": []
+        },
+        {
+            "text": "patient",
+            "start_pos": 1694,
+            "end_pos": 1701,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1701,
+            "end_pos": 1702,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1703,
+            "end_pos": 1704,
+            "labels": []
+        },
+        {
+            "text": "spoke",
+            "start_pos": 1705,
+            "end_pos": 1710,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1711,
+            "end_pos": 1713,
+            "labels": []
+        },
+        {
+            "text": "myself",
+            "start_pos": 1714,
+            "end_pos": 1720,
+            "labels": []
+        },
+        {
+            "text": "everyday",
+            "start_pos": 1721,
+            "end_pos": 1729,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 1730,
+            "end_pos": 1735,
+            "labels": []
+        },
+        {
+            "text": "how",
+            "start_pos": 1736,
+            "end_pos": 1739,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1740,
+            "end_pos": 1741,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1742,
+            "end_pos": 1745,
+            "labels": []
+        },
+        {
+            "text": "feeling",
+            "start_pos": 1746,
+            "end_pos": 1753,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1754,
+            "end_pos": 1756,
+            "labels": []
+        },
+        {
+            "text": "understand",
+            "start_pos": 1757,
+            "end_pos": 1767,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 1768,
+            "end_pos": 1771,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1772,
+            "end_pos": 1773,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1774,
+            "end_pos": 1777,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1777,
+            "end_pos": 1778,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1779,
+            "end_pos": 1780,
+            "labels": []
+        },
+        {
+            "text": "made",
+            "start_pos": 1781,
+            "end_pos": 1785,
+            "labels": []
+        },
+        {
+            "text": "sure",
+            "start_pos": 1786,
+            "end_pos": 1790,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1791,
+            "end_pos": 1792,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1793,
+            "end_pos": 1796,
+            "labels": []
+        },
+        {
+            "text": "never",
+            "start_pos": 1797,
+            "end_pos": 1802,
+            "labels": []
+        },
+        {
+            "text": "complacent",
+            "start_pos": 1803,
+            "end_pos": 1813,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1813,
+            "end_pos": 1814,
+            "labels": []
+        },
+        {
+            "text": "Every",
+            "start_pos": 1815,
+            "end_pos": 1820,
+            "labels": []
+        },
+        {
+            "text": "road",
+            "start_pos": 1821,
+            "end_pos": 1825,
+            "labels": []
+        },
+        {
+            "text": "train",
+            "start_pos": 1826,
+            "end_pos": 1831,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 1832,
+            "end_pos": 1836,
+            "labels": []
+        },
+        {
+            "text": "passed",
+            "start_pos": 1837,
+            "end_pos": 1843,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1844,
+            "end_pos": 1845,
+            "labels": []
+        },
+        {
+            "text": "got",
+            "start_pos": 1846,
+            "end_pos": 1849,
+            "labels": []
+        },
+        {
+            "text": "off",
+            "start_pos": 1850,
+            "end_pos": 1853,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1854,
+            "end_pos": 1857,
+            "labels": []
+        },
+        {
+            "text": "road",
+            "start_pos": 1858,
+            "end_pos": 1862,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 1863,
+            "end_pos": 1864,
+            "labels": []
+        },
+        {
+            "text": "waved",
+            "start_pos": 1865,
+            "end_pos": 1870,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1870,
+            "end_pos": 1871,
+            "labels": []
+        },
+        {
+            "text": "Sometimes",
+            "start_pos": 1872,
+            "end_pos": 1881,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1882,
+            "end_pos": 1883,
+            "labels": []
+        },
+        {
+            "text": "\u2019d",
+            "start_pos": 1883,
+            "end_pos": 1885,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 1886,
+            "end_pos": 1888,
+            "labels": []
+        },
+        {
+            "text": "off",
+            "start_pos": 1889,
+            "end_pos": 1892,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1893,
+            "end_pos": 1896,
+            "labels": []
+        },
+        {
+            "text": "road",
+            "start_pos": 1897,
+            "end_pos": 1901,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 1902,
+            "end_pos": 1905,
+            "labels": []
+        },
+        {
+            "text": "20min",
+            "start_pos": 1906,
+            "end_pos": 1911,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1911,
+            "end_pos": 1912,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1913,
+            "end_pos": 1914,
+            "labels": []
+        },
+        {
+            "text": "waved",
+            "start_pos": 1915,
+            "end_pos": 1920,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 1921,
+            "end_pos": 1923,
+            "labels": []
+        },
+        {
+            "text": "every",
+            "start_pos": 1924,
+            "end_pos": 1929,
+            "labels": []
+        },
+        {
+            "text": "person",
+            "start_pos": 1930,
+            "end_pos": 1936,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 1937,
+            "end_pos": 1940,
+            "labels": []
+        },
+        {
+            "text": "passed",
+            "start_pos": 1941,
+            "end_pos": 1947,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 1948,
+            "end_pos": 1950,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 1951,
+            "end_pos": 1953,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1954,
+            "end_pos": 1957,
+            "labels": []
+        },
+        {
+            "text": "opposite",
+            "start_pos": 1958,
+            "end_pos": 1966,
+            "labels": []
+        },
+        {
+            "text": "side",
+            "start_pos": 1967,
+            "end_pos": 1971,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1971,
+            "end_pos": 1972,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1973,
+            "end_pos": 1974,
+            "labels": []
+        },
+        {
+            "text": "did",
+            "start_pos": 1975,
+            "end_pos": 1978,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 1979,
+            "end_pos": 1983,
+            "labels": []
+        },
+        {
+            "text": "because",
+            "start_pos": 1984,
+            "end_pos": 1991,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 1992,
+            "end_pos": 1996,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1997,
+            "end_pos": 1998,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 1999,
+            "end_pos": 2002,
+            "labels": []
+        },
+        {
+            "text": "feeling",
+            "start_pos": 2003,
+            "end_pos": 2010,
+            "labels": []
+        },
+        {
+            "text": "horrible",
+            "start_pos": 2011,
+            "end_pos": 2019,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 2020,
+            "end_pos": 2021,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 2021,
+            "end_pos": 2023,
+            "labels": []
+        },
+        {
+            "text": "content",
+            "start_pos": 2024,
+            "end_pos": 2031,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 2031,
+            "end_pos": 2032,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 2033,
+            "end_pos": 2034,
+            "labels": []
+        },
+        {
+            "text": "knew",
+            "start_pos": 2035,
+            "end_pos": 2039,
+            "labels": []
+        },
+        {
+            "text": "being",
+            "start_pos": 2040,
+            "end_pos": 2045,
+            "labels": []
+        },
+        {
+            "text": "kind",
+            "start_pos": 2046,
+            "end_pos": 2050,
+            "labels": []
+        },
+        {
+            "text": "kept",
+            "start_pos": 2051,
+            "end_pos": 2055,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 2056,
+            "end_pos": 2058,
+            "labels": []
+        },
+        {
+            "text": "soul",
+            "start_pos": 2059,
+            "end_pos": 2063,
+            "labels": []
+        },
+        {
+            "text": "strong",
+            "start_pos": 2064,
+            "end_pos": 2070,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 2070,
+            "end_pos": 2071,
+            "labels": []
+        },
+        {
+            "text": "Whatever",
+            "start_pos": 2072,
+            "end_pos": 2080,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 2081,
+            "end_pos": 2084,
+            "labels": []
+        },
+        {
+            "text": "happening",
+            "start_pos": 2085,
+            "end_pos": 2094,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 2095,
+            "end_pos": 2097,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 2098,
+            "end_pos": 2100,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 2101,
+            "end_pos": 2104,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 2105,
+            "end_pos": 2108,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 2109,
+            "end_pos": 2111,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 2111,
+            "end_pos": 2112,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 2112,
+            "end_pos": 2113,
+            "labels": []
+        },
+        {
+            "text": "|",
+            "start_pos": 2114,
+            "end_pos": 2115,
+            "labels": []
+        },
+        {
+            "text": "Reposted",
+            "start_pos": 2116,
+            "end_pos": 2124,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 2125,
+            "end_pos": 2129,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 2130,
+            "end_pos": 2131,
+            "labels": []
+        },
+        {
+            "text": "soyfuladventures",
+            "start_pos": 2131,
+            "end_pos": 2147,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 2149,
+            "end_pos": 2152,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 2153,
+            "end_pos": 2154,
+            "labels": []
+        },
+        {
+            "text": "bikewander",
+            "start_pos": 2154,
+            "end_pos": 2164,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 2165,
+            "end_pos": 2167,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 2168,
+            "end_pos": 2170,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 2171,
+            "end_pos": 2179,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 2179,
+            "end_pos": 2180,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

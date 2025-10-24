@@ -1,0 +1,165 @@
+{
+    "text": "Who would you like to spend the night with in this cave hotel? #discoverturkey\ud83c\uddf9\ud83c\uddf7 with @localcavehouse  #capadoccia #turkey #cavehouse",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Who",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 4,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 10,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 19,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "spend",
+            "start_pos": 22,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 28,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "night",
+            "start_pos": 32,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 38,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 43,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 46,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "cave",
+            "start_pos": 51,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "hotel",
+            "start_pos": 56,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "discoverturkey",
+            "start_pos": 64,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf9\ud83c\uddf7",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 81,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "localcavehouse",
+            "start_pos": 87,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "capadoccia",
+            "start_pos": 104,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "turkey",
+            "start_pos": 116,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "cavehouse",
+            "start_pos": 124,
+            "end_pos": 133,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

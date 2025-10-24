@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf10\ud83d\udea9Assisi #basilicadisanfrancesco (Perugia)",
+        "start": 16,
+        "end": 58,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Assisi #basilicadisanfrancesco (Perugia)"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 462,
+        "end": 467,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

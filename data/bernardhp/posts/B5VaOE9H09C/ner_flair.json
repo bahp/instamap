@@ -1,0 +1,650 @@
+{
+    "text": "\ud83d\udca7TRAVEL DROP OF THE DAY\ud83d\udca7 26/11/2019 ____________________________________ \ud83c\udfc6 Belongs to the talented: \ud83d\udc49\ud83c\udffb @koulamelachrinaki ********************************************** \ud83d\udcf7 Location: Arachova, Greece \ud83c\uddec\ud83c\uddf7 Photo selected by: \ud83c\udf10 Admin: @insta_ksou *********************************************** \ud83c\udfc6 Congratulations \ud83c\udfc6 ----------------------------------------------- Please take some time to visit our featured artist's gallery and feel free to spread your love and support! ----------------------------------------------- For a chance to be featured, \u27a1Follow: @travel_drops_ \u27a1Tag: #travel_drops ____________________________________ Don't forget to mention where your photo was taken.  ____________________________________",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Arachova",
+            "start_pos": 181,
+            "end_pos": 189,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8517274260520935
+                }
+            ]
+        },
+        {
+            "text": "Greece",
+            "start_pos": 191,
+            "end_pos": 197,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.657025158405304
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udca7",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "TRAVEL",
+            "start_pos": 1,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "DROP",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "OF",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "THE",
+            "start_pos": 16,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "DAY",
+            "start_pos": 20,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udca7",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "26",
+            "start_pos": 25,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "11",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "2019",
+            "start_pos": 31,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "____________________________________",
+            "start_pos": 36,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfc6",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Belongs",
+            "start_pos": 75,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 83,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 86,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "talented",
+            "start_pos": 90,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49\ud83c\udffb",
+            "start_pos": 100,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "koulamelachrinaki",
+            "start_pos": 104,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "**********************************************",
+            "start_pos": 122,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "Location",
+            "start_pos": 171,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 179,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "Arachova",
+            "start_pos": 181,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "Greece",
+            "start_pos": 191,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddec\ud83c\uddf7",
+            "start_pos": 198,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 201,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "selected",
+            "start_pos": 207,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 216,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 218,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf10",
+            "start_pos": 220,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "Admin",
+            "start_pos": 222,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 227,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "insta",
+            "start_pos": 230,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 235,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "ksou",
+            "start_pos": 236,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "***********************************************",
+            "start_pos": 241,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfc6",
+            "start_pos": 289,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "Congratulations",
+            "start_pos": 291,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfc6",
+            "start_pos": 307,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "-----------------------------------------------",
+            "start_pos": 309,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "Please",
+            "start_pos": 357,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 364,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "some",
+            "start_pos": 369,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 374,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 379,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 382,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 388,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 392,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "artist",
+            "start_pos": 401,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 407,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "gallery",
+            "start_pos": 410,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 418,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "feel",
+            "start_pos": 422,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "free",
+            "start_pos": 427,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 432,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "spread",
+            "start_pos": 435,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 442,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "love",
+            "start_pos": 447,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 452,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "support",
+            "start_pos": 456,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 463,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "-----------------------------------------------",
+            "start_pos": 465,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "For",
+            "start_pos": 513,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 517,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "chance",
+            "start_pos": 519,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 526,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 529,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 532,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 540,
+            "end_pos": 541,
+            "labels": []
+        },
+        {
+            "text": "\u27a1",
+            "start_pos": 542,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 543,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 549,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 551,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 552,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 558,
+            "end_pos": 559,
+            "labels": []
+        },
+        {
+            "text": "drops",
+            "start_pos": 559,
+            "end_pos": 564,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 564,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "\u27a1",
+            "start_pos": 566,
+            "end_pos": 567,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 567,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 570,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 572,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 573,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 579,
+            "end_pos": 580,
+            "labels": []
+        },
+        {
+            "text": "drops",
+            "start_pos": 580,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "____________________________________",
+            "start_pos": 586,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "Do",
+            "start_pos": 623,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "n't",
+            "start_pos": 625,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "forget",
+            "start_pos": 629,
+            "end_pos": 635,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 636,
+            "end_pos": 638,
+            "labels": []
+        },
+        {
+            "text": "mention",
+            "start_pos": 639,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 647,
+            "end_pos": 652,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 653,
+            "end_pos": 657,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 658,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 664,
+            "end_pos": 667,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 668,
+            "end_pos": 673,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 673,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "____________________________________",
+            "start_pos": 676,
+            "end_pos": 712,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

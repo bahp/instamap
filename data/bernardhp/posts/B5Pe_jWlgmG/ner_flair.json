@@ -1,0 +1,152 @@
+{
+    "text": "\ud83d\udccdPorto , Portugal \ud83c\uddf5\ud83c\uddf9 \ud83d\udcf7: @igor_eezo Follow @citybestviews for the best urban photo\ud83d\udc46",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Porto",
+            "start_pos": 1,
+            "end_pos": 6,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9736979007720947
+                }
+            ]
+        },
+        {
+            "text": "Portugal",
+            "start_pos": 9,
+            "end_pos": 17,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999518394470215
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Porto",
+            "start_pos": 1,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 7,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Portugal",
+            "start_pos": 9,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf5\ud83c\uddf9",
+            "start_pos": 18,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "igor",
+            "start_pos": 25,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 29,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "eezo",
+            "start_pos": 30,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 35,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "citybestviews",
+            "start_pos": 43,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 57,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 61,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 65,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "urban",
+            "start_pos": 70,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 76,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc46",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

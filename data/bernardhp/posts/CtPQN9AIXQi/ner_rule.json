@@ -1,0 +1,46 @@
+[
+    {
+        "text": "\ud83d\udccdNeist point lighthouse",
+        "start": 94,
+        "end": 117,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Neist point lighthouse"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd faire glen ",
+        "start": 142,
+        "end": 155,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " faire glen "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdIsle of Skye ",
+        "start": 165,
+        "end": 179,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Isle of Skye "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdLoch Fada",
+        "start": 206,
+        "end": 216,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Loch Fada"
+        },
+        "method": "rule",
+        "rule": "icon"
+    }
+]

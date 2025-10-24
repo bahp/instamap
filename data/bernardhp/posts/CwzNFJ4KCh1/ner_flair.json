@@ -1,0 +1,1000 @@
+{
+    "text": "\ud83c\udde8\ud83c\udded Switzerland\u2019s Best-Kept Secret  \ud83d\udc8e Everybody visits Interlaken when travelling to Switzerland, but have you heard of Valle Maggia in Ticino canton?  \ud83e\uddda\u200d\u2640 Escape to Valle Maggia for a Swiss getaway you\u2019ll never forget! With pristine nature, serene waterfalls, and charming Swiss villages, this region is a fairytale.   \ud83d\udccdValle Maggia, Switzerland \ud83c\udde8\ud83c\udded  \ud83d\udcccSave This For Your Next Trip To Switzerland.   \ud83d\udc47Follow @zenwander for more travel tips. . . . . . #switzerland #mountains #schweiz #swissalps #myswitzerland #nature #inlovewithswitzerland #hiking #swiss #alps #wanderlust #visitswitzerland #travel  #suisse #landscape #ticino #naturephotography #relaxing  #switzerlandpictures #swissmountains #switzerlandwonderland #switzerland_vacations #photography #autumnbliss #waterfall #foroglio #stonevillage",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Switzerland",
+            "start_pos": 3,
+            "end_pos": 14,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9995594620704651
+                }
+            ]
+        },
+        {
+            "text": "Interlaken",
+            "start_pos": 54,
+            "end_pos": 64,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9392961859703064
+                }
+            ]
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 84,
+            "end_pos": 95,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998974800109863
+                }
+            ]
+        },
+        {
+            "text": "Valle Maggia",
+            "start_pos": 119,
+            "end_pos": 131,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.4738723933696747
+                }
+            ]
+        },
+        {
+            "text": "Ticino",
+            "start_pos": 135,
+            "end_pos": 141,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9969415068626404
+                }
+            ]
+        },
+        {
+            "text": "Valle Maggia",
+            "start_pos": 165,
+            "end_pos": 177,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7008156478404999
+                }
+            ]
+        },
+        {
+            "text": "Swiss",
+            "start_pos": 184,
+            "end_pos": 189,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9981029033660889
+                }
+            ]
+        },
+        {
+            "text": "Swiss",
+            "start_pos": 273,
+            "end_pos": 278,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9992820620536804
+                }
+            ]
+        },
+        {
+            "text": "Valle Maggia",
+            "start_pos": 320,
+            "end_pos": 332,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.40537677705287933
+                }
+            ]
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 334,
+            "end_pos": 345,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999113082885742
+                }
+            ]
+        },
+        {
+            "text": "Save This For Your Next Trip To Switzerland",
+            "start_pos": 351,
+            "end_pos": 394,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8587004840373993
+                }
+            ]
+        },
+        {
+            "text": "switzerland",
+            "start_pos": 450,
+            "end_pos": 461,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7241507768630981
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udde8\ud83c\udded",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 3,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 14,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Best-Kept",
+            "start_pos": 17,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Secret",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc8e",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "Everybody",
+            "start_pos": 37,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "visits",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "Interlaken",
+            "start_pos": 54,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 65,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "travelling",
+            "start_pos": 70,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 81,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 84,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "but",
+            "start_pos": 97,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 101,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 106,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "heard",
+            "start_pos": 110,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 116,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "Valle",
+            "start_pos": 119,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "Maggia",
+            "start_pos": 125,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 132,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "Ticino",
+            "start_pos": 135,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "canton",
+            "start_pos": 142,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 148,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\uddda\u200d\u2640",
+            "start_pos": 151,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "Escape",
+            "start_pos": 155,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 162,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "Valle",
+            "start_pos": 165,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "Maggia",
+            "start_pos": 171,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 178,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "Swiss",
+            "start_pos": 184,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "getaway",
+            "start_pos": 190,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 198,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "\u2019ll",
+            "start_pos": 201,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "never",
+            "start_pos": 205,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "forget",
+            "start_pos": 211,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 217,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "With",
+            "start_pos": 219,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "pristine",
+            "start_pos": 224,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 233,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 239,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "serene",
+            "start_pos": 241,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "waterfalls",
+            "start_pos": 248,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 258,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 260,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "charming",
+            "start_pos": 264,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "Swiss",
+            "start_pos": 273,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "villages",
+            "start_pos": 279,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 287,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 289,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "region",
+            "start_pos": 294,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 301,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 304,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "fairytale",
+            "start_pos": 306,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 315,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 319,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "Valle",
+            "start_pos": 320,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "Maggia",
+            "start_pos": 326,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 332,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 334,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\udded",
+            "start_pos": 346,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccc",
+            "start_pos": 350,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "Save",
+            "start_pos": 351,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 356,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "For",
+            "start_pos": 361,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "Your",
+            "start_pos": 365,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "Next",
+            "start_pos": 370,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "Trip",
+            "start_pos": 375,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "To",
+            "start_pos": 380,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 383,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 394,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc47",
+            "start_pos": 398,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 399,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 406,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "zenwander",
+            "start_pos": 407,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 417,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 421,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 426,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "tips",
+            "start_pos": 433,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 437,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 439,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 441,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 443,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 445,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 447,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 449,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "switzerland",
+            "start_pos": 450,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 462,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "mountains",
+            "start_pos": 463,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 473,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "schweiz",
+            "start_pos": 474,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 482,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "swissalps",
+            "start_pos": 483,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 493,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": "myswitzerland",
+            "start_pos": 494,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 508,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 509,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 516,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "inlovewithswitzerland",
+            "start_pos": 517,
+            "end_pos": 538,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 539,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "hiking",
+            "start_pos": 540,
+            "end_pos": 546,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 547,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "swiss",
+            "start_pos": 548,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 554,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "alps",
+            "start_pos": 555,
+            "end_pos": 559,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 560,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "wanderlust",
+            "start_pos": 561,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 572,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "visitswitzerland",
+            "start_pos": 573,
+            "end_pos": 589,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 590,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 591,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 599,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": "suisse",
+            "start_pos": 600,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 607,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "landscape",
+            "start_pos": 608,
+            "end_pos": 617,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 618,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": "ticino",
+            "start_pos": 619,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 626,
+            "end_pos": 627,
+            "labels": []
+        },
+        {
+            "text": "naturephotography",
+            "start_pos": 627,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 645,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "relaxing",
+            "start_pos": 646,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 656,
+            "end_pos": 657,
+            "labels": []
+        },
+        {
+            "text": "switzerlandpictures",
+            "start_pos": 657,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 677,
+            "end_pos": 678,
+            "labels": []
+        },
+        {
+            "text": "swissmountains",
+            "start_pos": 678,
+            "end_pos": 692,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 693,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "switzerlandwonderland",
+            "start_pos": 694,
+            "end_pos": 715,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 716,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "switzerland",
+            "start_pos": 717,
+            "end_pos": 728,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 728,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "vacations",
+            "start_pos": 729,
+            "end_pos": 738,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 739,
+            "end_pos": 740,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 740,
+            "end_pos": 751,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 752,
+            "end_pos": 753,
+            "labels": []
+        },
+        {
+            "text": "autumnbliss",
+            "start_pos": 753,
+            "end_pos": 764,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 765,
+            "end_pos": 766,
+            "labels": []
+        },
+        {
+            "text": "waterfall",
+            "start_pos": 766,
+            "end_pos": 775,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 776,
+            "end_pos": 777,
+            "labels": []
+        },
+        {
+            "text": "foroglio",
+            "start_pos": 777,
+            "end_pos": 785,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 786,
+            "end_pos": 787,
+            "labels": []
+        },
+        {
+            "text": "stonevillage",
+            "start_pos": 787,
+            "end_pos": 799,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

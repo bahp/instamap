@@ -1,0 +1,22 @@
+{
+    "content": "Sure, here is the json file:\n```json\n{\n    \"locations\": [\n        {\n            \"name\": \"Vegan Ramen Uzu\",\n            \"full_address\": \"Kyoto\",\n            \"order\": 1\n        }\n    ]\n}\n```\nI hope this is helpful!",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_9e5dad0bf840c905",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_4cff2a2eb07971dc",
+            "content": [
+                "Sure, here is the json file:\n```json\n{\n    \"locations\": [\n        {\n            \"name\": \"Vegan Ramen Uzu\",\n            \"full_address\": \"Kyoto\",\n            \"order\": 1\n        }\n    ]\n}\n```\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2YTg1M2IxYmVlMDIyNzlmNzc4ODAyNWFlZDFlMWUzZDJjYjU5NzQ3YTY&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n    \"locations\": [\n        {\n            \"name\": \"Vegan Ramen Uzu\",\n            \"full_address\": \"Kyoto\",\n            \"order\": 1\n        }\n    ]\n}\n",
+    "status_code": 200
+}

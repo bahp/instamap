@@ -1,0 +1,472 @@
+{
+    "text": "Mentally wondering around the gorgeous streets of Italy \u2600\ud83c\uddee\ud83c\uddf9 Do you have a favourite Italian city or town?  Trulli di Alberobello, located in the southern region of Puglia, is a magical World Heritage Site known for its narrow streets, traditional architecture and storybook-like features. Would you visit this beautiful commune?  \ud83d\udccd Alberobello, Italy  \ud83c\uddee\ud83c\uddf9 #discoverItaly with @micheizzo",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Italy",
+            "start_pos": 50,
+            "end_pos": 55,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996077418327332
+                }
+            ]
+        },
+        {
+            "text": "Italian",
+            "start_pos": 84,
+            "end_pos": 91,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9959717392921448
+                }
+            ]
+        },
+        {
+            "text": "Trulli di Alberobello",
+            "start_pos": 107,
+            "end_pos": 128,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.909923772017161
+                }
+            ]
+        },
+        {
+            "text": "Puglia",
+            "start_pos": 164,
+            "end_pos": 170,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996076226234436
+                }
+            ]
+        },
+        {
+            "text": "Alberobello",
+            "start_pos": 332,
+            "end_pos": 343,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8001986145973206
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 345,
+            "end_pos": 350,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998818635940552
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Mentally",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "wondering",
+            "start_pos": 9,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "around",
+            "start_pos": 19,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 26,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "gorgeous",
+            "start_pos": 30,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "streets",
+            "start_pos": 39,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 50,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "\u2600\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 56,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Do",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 63,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 67,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 74,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "Italian",
+            "start_pos": 84,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "city",
+            "start_pos": 92,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "town",
+            "start_pos": 100,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "Trulli",
+            "start_pos": 107,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 114,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "Alberobello",
+            "start_pos": 117,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 128,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 130,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 138,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 141,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "southern",
+            "start_pos": 145,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "region",
+            "start_pos": 154,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 161,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "Puglia",
+            "start_pos": 164,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 170,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 172,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "magical",
+            "start_pos": 177,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "World",
+            "start_pos": 185,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "Heritage",
+            "start_pos": 191,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "Site",
+            "start_pos": 200,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "known",
+            "start_pos": 205,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 211,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 215,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "narrow",
+            "start_pos": 219,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "streets",
+            "start_pos": 226,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 233,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "traditional",
+            "start_pos": 235,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 247,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 260,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "storybook-like",
+            "start_pos": 264,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "features",
+            "start_pos": 279,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 287,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "Would",
+            "start_pos": 289,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 295,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 299,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 305,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 310,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "commune",
+            "start_pos": 320,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 327,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 330,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "Alberobello",
+            "start_pos": 332,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 343,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 345,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 352,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 355,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "discoverItaly",
+            "start_pos": 356,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 370,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 375,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "micheizzo",
+            "start_pos": 376,
+            "end_pos": 385,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

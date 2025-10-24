@@ -1,0 +1,165 @@
+{
+    "text": "Sunday morning \ud83c\udf1e \u0e01\u0e32\u0e41\u0e1f\u0e14\u0e35\u0e46\u0e22\u0e32\u0e21\u0e40\u0e0a\u0e49\u0e32 @journeycoffee_chiangrai  \u0e2a\u0e19\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e1e\u0e32\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e01\u0e14\u0e25\u0e34\u0e07\u0e04\u0e4c\u0e17\u0e35\u0e48 Bio \u0e2b\u0e19\u0e49\u0e32\u0e42\u0e1b\u0e23\u0e44\u0e1f\u0e25\u0e4c\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u0e19\u0e30\u0e04\u0e30 #\u0e23\u0e31\u0e1a\u0e08\u0e49\u0e32\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27 #\u0e41\u0e1a\u0e01\u0e40\u0e1b\u0e49\u0e21\u0e32\u0e43\u0e1a\u0e40\u0e14\u0e35\u0e22\u0e27\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e40\u0e23\u0e32\u0e1e\u0e32\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e40\u0e2d\u0e07 #\u0e01\u0e34\u0e19\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e40\u0e15\u0e35\u0e22\u0e27\u0e41\u0e2d\u0e48\u0e27\u0e40\u0e08\u0e35\u0e22\u0e07\u0e2e\u0e32\u0e22 #\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22 #momo_rider4 #\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e35\u0e48\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27 #\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01 #\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e35\u0e48\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22",
+    "labels": [],
+    "entities": [
+        {
+            "text": "chiangrai",
+            "start_pos": 47,
+            "end_pos": 56,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.48577553033828735
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Sunday",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "morning",
+            "start_pos": 7,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf1e",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "\u0e01\u0e32\u0e41\u0e1f\u0e14\u0e35",
+            "start_pos": 17,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\u0e46",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "\u0e22\u0e32\u0e21\u0e40\u0e0a\u0e49\u0e32",
+            "start_pos": 24,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "journeycoffee",
+            "start_pos": 33,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "chiangrai",
+            "start_pos": 47,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "\u0e2a\u0e19\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e1e\u0e32\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e01\u0e14\u0e25\u0e34\u0e07\u0e04\u0e4c\u0e17\u0e35\u0e48",
+            "start_pos": 58,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "Bio",
+            "start_pos": 87,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "\u0e2b\u0e19\u0e49\u0e32\u0e42\u0e1b\u0e23\u0e44\u0e1f\u0e25\u0e4c\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u0e19\u0e30\u0e04\u0e30",
+            "start_pos": 91,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "#\u0e23\u0e31\u0e1a\u0e08\u0e49\u0e32\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27",
+            "start_pos": 113,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "#\u0e41\u0e1a\u0e01\u0e40\u0e1b\u0e49\u0e21\u0e32\u0e43\u0e1a\u0e40\u0e14\u0e35\u0e22\u0e27\u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e40\u0e23\u0e32\u0e1e\u0e32\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e40\u0e2d\u0e07",
+            "start_pos": 128,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "#\u0e01\u0e34\u0e19\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e40\u0e15\u0e35\u0e22\u0e27\u0e41\u0e2d\u0e48\u0e27\u0e40\u0e08\u0e35\u0e22\u0e07\u0e2e\u0e32\u0e22",
+            "start_pos": 165,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "#\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22",
+            "start_pos": 193,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 203,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "momo",
+            "start_pos": 204,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "rider4",
+            "start_pos": 209,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "#\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e35\u0e48\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27",
+            "start_pos": 216,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "#\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01",
+            "start_pos": 232,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "#\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e35\u0e48\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22",
+            "start_pos": 245,
+            "end_pos": 274,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

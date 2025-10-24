@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdLao Lading Island",
+        "start": 82,
+        "end": 100,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Lao Lading Island"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "thailand",
+        "start": 245,
+        "end": 253,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

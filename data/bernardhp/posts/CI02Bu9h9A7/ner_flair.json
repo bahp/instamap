@@ -1,0 +1,128 @@
+{
+    "text": "Quebec - Canada \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d . Pics by \u2728@patricetardif\u2728 #bestplacestogo for a feature \u2764",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Quebec",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9983388185501099
+                }
+            ]
+        },
+        {
+            "text": "Canada",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991242289543152
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Quebec",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 7,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Canada",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "start_pos": 16,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Pics",
+            "start_pos": 22,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 27,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "\u2728@",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "patricetardif",
+            "start_pos": 32,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "bestplacestogo",
+            "start_pos": 48,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 63,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "feature",
+            "start_pos": 69,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

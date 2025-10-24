@@ -1,0 +1,482 @@
+{
+    "text": "A photo I took while filming for my Travel Photography Accelerator 2.0 course last week... October is one of my favourite times to explore this area of Bali, and so I made every effort to spend as much time as possible here last month. With the rice approaching harvest, it offers an incredible colour contrast between the yellow rice terraces and green produce, mostly chillis, being farmed nearby \ud83c\udf3e\ud83c\udf0b",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Travel Photography Accelerator 2.0",
+            "start_pos": 36,
+            "end_pos": 70,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6886363327503204
+                }
+            ]
+        },
+        {
+            "text": "Bali",
+            "start_pos": 152,
+            "end_pos": 156,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9978251457214355
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "A",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 2,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "took",
+            "start_pos": 10,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "while",
+            "start_pos": 15,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "filming",
+            "start_pos": 21,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 29,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 33,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "Travel",
+            "start_pos": 36,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "Photography",
+            "start_pos": 43,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Accelerator",
+            "start_pos": 55,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "2.0",
+            "start_pos": 67,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "course",
+            "start_pos": 71,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "last",
+            "start_pos": 78,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "week",
+            "start_pos": 83,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "...",
+            "start_pos": 87,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "October",
+            "start_pos": 91,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 99,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 102,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 106,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 109,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 112,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "times",
+            "start_pos": 122,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 128,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 131,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 139,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "area",
+            "start_pos": 144,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 149,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 152,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 156,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 158,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 162,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 165,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "made",
+            "start_pos": 167,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "every",
+            "start_pos": 172,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "effort",
+            "start_pos": 178,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 185,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "spend",
+            "start_pos": 188,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 194,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "much",
+            "start_pos": 197,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 202,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 207,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "possible",
+            "start_pos": 210,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 219,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "last",
+            "start_pos": 224,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "month",
+            "start_pos": 229,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 234,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "With",
+            "start_pos": 236,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 241,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 245,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "approaching",
+            "start_pos": 250,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "harvest",
+            "start_pos": 262,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 269,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 271,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "offers",
+            "start_pos": 274,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 281,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "incredible",
+            "start_pos": 284,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "colour",
+            "start_pos": 295,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "contrast",
+            "start_pos": 302,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "between",
+            "start_pos": 311,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 319,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "yellow",
+            "start_pos": 323,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 330,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "terraces",
+            "start_pos": 335,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 344,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "green",
+            "start_pos": 348,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "produce",
+            "start_pos": 354,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 361,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "mostly",
+            "start_pos": 363,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "chillis",
+            "start_pos": 370,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 377,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "being",
+            "start_pos": 379,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "farmed",
+            "start_pos": 385,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "nearby",
+            "start_pos": 392,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf3e\ud83c\udf0b",
+            "start_pos": 399,
+            "end_pos": 401,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Istanbul",
+        "subtitle": "Major city in Turkey, straddling Europe and Asia",
+        "lat": 41.0082,
+        "lon": 28.9784,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent in the Northern Hemisphere",
+        "lat": 48.69096,
+        "lon": 17.51864,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 2
+    },
+    {
+        "title": "Italy",
+        "subtitle": "European country with a long Mediterranean coastline",
+        "lat": 41.87194,
+        "lon": 12.56738,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.7,
+        "rank": 3
+    },
+    {
+        "title": "North America",
+        "subtitle": "Third largest continent",
+        "lat": 54.526,
+        "lon": -105.2551,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.6,
+        "rank": 4
+    },
+    {
+        "title": "Asia",
+        "subtitle": "Earth's largest and most populous continent",
+        "lat": 34.0479,
+        "lon": 100.6197,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.7,
+        "rank": 5
+    }
+]

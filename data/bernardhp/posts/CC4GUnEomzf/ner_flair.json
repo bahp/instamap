@@ -1,0 +1,218 @@
+{
+    "text": "\"Casual dips in the Italian Riviera! \ud83d\udca6 \ud83c\uddee\ud83c\uddf9 Are you planning to travel this summer?\" \ud83c\uddee\ud83c\uddf9 #discoveritaly  with @jeremyaustiin   #Italy #riviera #summervibes",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Italian Riviera",
+            "start_pos": 20,
+            "end_pos": 35,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7537001073360443
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 125,
+            "end_pos": 130,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.98234623670578
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\"",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Casual",
+            "start_pos": 1,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "dips",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 16,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Italian",
+            "start_pos": 20,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "Riviera",
+            "start_pos": 28,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udca6",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "Are",
+            "start_pos": 42,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 46,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "planning",
+            "start_pos": 50,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 62,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 69,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "summer",
+            "start_pos": 74,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 83,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "discoveritaly",
+            "start_pos": 87,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 102,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "jeremyaustiin",
+            "start_pos": 108,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 124,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 125,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "riviera",
+            "start_pos": 132,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 140,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "summervibes",
+            "start_pos": 141,
+            "end_pos": 152,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "text": "China",
+        "start": 52,
+        "end": 57,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "china",
+        "start": 595,
+        "end": 600,
+        "groupdict": {
+            "name": "china",
+            "location": "china"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

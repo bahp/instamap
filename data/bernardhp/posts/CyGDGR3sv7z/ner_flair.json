@@ -1,0 +1,340 @@
+{
+    "text": "Falling season in Almaty, Kazakhstan!\u2728\ud83c\udf42 \u2728Who\u2019d you like to walk with here under golden leaves?\ud83e\udd29  \ud83d\udcfd by @adilet_rakhmetolla  \ud83c\udfc2 @saken_kagarov  \ud83d\udccdTerrenkur, Almaty, Kazakhstan\ud83c\uddf0\ud83c\uddff  \ud83c\udfb6 Adrian Berenguer - October",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Almaty",
+            "start_pos": 18,
+            "end_pos": 24,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9990449547767639
+                }
+            ]
+        },
+        {
+            "text": "Kazakhstan",
+            "start_pos": 26,
+            "end_pos": 36,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998400211334229
+                }
+            ]
+        },
+        {
+            "text": "Terrenkur",
+            "start_pos": 142,
+            "end_pos": 151,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.995017945766449
+                }
+            ]
+        },
+        {
+            "text": "Almaty",
+            "start_pos": 153,
+            "end_pos": 159,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998950958251953
+                }
+            ]
+        },
+        {
+            "text": "Kazakhstan",
+            "start_pos": 161,
+            "end_pos": 171,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999991774559021
+                }
+            ]
+        },
+        {
+            "text": "Adrian Berenguer",
+            "start_pos": 177,
+            "end_pos": 193,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9997939169406891
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Falling",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "season",
+            "start_pos": 8,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Almaty",
+            "start_pos": 18,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "Kazakhstan",
+            "start_pos": 26,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "!\u2728\ud83c\udf42",
+            "start_pos": 36,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "Who",
+            "start_pos": 41,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "\u2019d",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 47,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 51,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 56,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "walk",
+            "start_pos": 59,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 64,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 69,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "under",
+            "start_pos": 74,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "golden",
+            "start_pos": 80,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "leaves",
+            "start_pos": 87,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd29",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcfd",
+            "start_pos": 97,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 99,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "adilet",
+            "start_pos": 103,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "rakhmetolla",
+            "start_pos": 110,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfc2",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "saken",
+            "start_pos": 126,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "kagarov",
+            "start_pos": 132,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 141,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "Terrenkur",
+            "start_pos": 142,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "Almaty",
+            "start_pos": 153,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "Kazakhstan",
+            "start_pos": 161,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf0\ud83c\uddff",
+            "start_pos": 171,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfb6",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "Adrian",
+            "start_pos": 177,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "Berenguer",
+            "start_pos": 184,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 194,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "October",
+            "start_pos": 196,
+            "end_pos": 203,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

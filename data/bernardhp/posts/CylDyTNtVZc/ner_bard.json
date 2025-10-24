@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Serralunga d'Alba\",\n    \"full_address\": \"Serralunga d'Alba, Piedmont, Italy\",\n    \"image\": \"https://www.italiatour.com/images/Serralunga-dAlba-Piemonte-Italy-pictures-1600-900-c1d7d5.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Piedmont\",\n    \"full_address\": \"Piedmont, Italy\",\n    \"image\": \"https://www.turismoinpiemonte.it/content/uploads/2013/09/immagine-guida-turistica-piemonte_2013_12_05_1720_48.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Langhe\",\n    \"full_address\": \"Langhe, Piedmont, Italy\",\n    \"image\": \"https://www.turismoinpiemonte.it/content/uploads/2022/03/paesaggi-langhe-3-1024x683.jpg\",\n    \"order\": 8\n  }\n]\n```",
+    "conversation_id": "c_06a8570cace66980",
+    "response_id": "r_6673604521baae02",
+    "factuality_queries": null,
+    "text_query": [
+        "Serralunga d'Alba, Cuneo, Italy",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_b27c6201fcb9aee3",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Serralunga d'Alba\",\n    \"full_address\": \"Serralunga d'Alba, Piedmont, Italy\",\n    \"image\": \"https://www.italiatour.com/images/Serralunga-dAlba-Piemonte-Italy-pictures-1600-900-c1d7d5.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Piedmont\",\n    \"full_address\": \"Piedmont, Italy\",\n    \"image\": \"https://www.turismoinpiemonte.it/content/uploads/2013/09/immagine-guida-turistica-piemonte_2013_12_05_1720_48.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Langhe\",\n    \"full_address\": \"Langhe, Piedmont, Italy\",\n    \"image\": \"https://www.turismoinpiemonte.it/content/uploads/2022/03/paesaggi-langhe-3-1024x683.jpg\",\n    \"order\": 8\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_a92a6604c8fff040",
+            "content": [
+                "Here's the JSON file with the extracted locations:\n\n```json\n[\n  {\n    \"name\": \"Serralunga d'Alba\",\n    \"full_address\": \"Serralunga d'Alba, Cuneo, Piedmont, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Serralunga_d%27Alba_panorama.jpg/1200px-Serralunga_d%27Alba_panorama.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Piedmont\",\n    \"full_address\": \"Piedmont, Italy\",\n    \"image\": \"https://www.turismotorino.org/sites/default/files/styles/fullwidth_gallery/public/2021-10/DSCF0087_0.jpg?itok=9z37qY-o\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_03e4294770c4470f",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Serralunga d'Alba\",\n    \"full_address\": \"Serralunga d'Alba, Cuneo, Piedmont, Italy\",\n    \"image\": \"https://www.turismoinlanga.it/wp-content/uploads/2016/07/serralunga-dAlba.jpg\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Serralunga d'Alba\",\n    \"full_address\": \"Serralunga d'Alba, Piedmont, Italy\",\n    \"image\": \"https://www.italiatour.com/images/Serralunga-dAlba-Piemonte-Italy-pictures-1600-900-c1d7d5.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Piedmont\",\n    \"full_address\": \"Piedmont, Italy\",\n    \"image\": \"https://www.turismoinpiemonte.it/content/uploads/2013/09/immagine-guida-turistica-piemonte_2013_12_05_1720_48.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Langhe\",\n    \"full_address\": \"Langhe, Piedmont, Italy\",\n    \"image\": \"https://www.turismoinpiemonte.it/content/uploads/2022/03/paesaggi-langhe-3-1024x683.jpg\",\n    \"order\": 8\n  }\n]\n",
+    "status_code": 200
+}

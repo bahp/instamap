@@ -1,0 +1,117 @@
+[
+    {
+        "text": "\ud83d\udccdUnagi Obana",
+        "start": 187,
+        "end": 199,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Unagi Obana"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdTsujihan ZEITAKU DONJapan, \u3012103-0027 Tokyo, Chuo City, Nihonbashi, 3 Chome\u22121\u221215 \u4e45\u6804\u30d3\u30eb \uff11\u968e",
+        "start": 286,
+        "end": 374,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Tsujihan ZEITAKU DONJapan, \u3012103-0027 Tokyo, Chuo City, Nihonbashi, 3 Chome\u22121\u221215 \u4e45\u6804\u30d3\u30eb \uff11\u968e"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdNakiryu",
+        "start": 405,
+        "end": 413,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Nakiryu"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdUdon Shin",
+        "start": 520,
+        "end": 530,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Udon Shin"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdTonkatsu Marushichi Fukagawa Fudo",
+        "start": 630,
+        "end": 664,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Tonkatsu Marushichi Fukagawa Fudo"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Japan",
+        "start": 256,
+        "end": 261,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 414,
+        "end": 419,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 531,
+        "end": 536,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 665,
+        "end": 670,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 733,
+        "end": 738,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

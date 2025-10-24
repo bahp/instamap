@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdLofoten, Norway",
+        "start": 321,
+        "end": 337,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Lofoten, Norway"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf4",
+        "start": 339,
+        "end": 341,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf4",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Norway",
+        "start": 138,
+        "end": 144,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 229,
+        "end": 235,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 331,
+        "end": 337,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

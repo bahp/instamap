@@ -1,0 +1,153 @@
+{
+    "text": "\u8d8a\u591c\u8d8a\u7f8e\u7684\u676d\u5dde\u57ce\u968d\u95a3\u2728 \u8fd9\u591c\u666f\u7f8e\u5f97\u4e0d\u8981\u4e0d\u8981\u4e86\ud83d\ude0d\u2764  \ud83d\udcf8: @jasmineyang1116   \uff03\u60f3\u4e86\u89e3\u66f4\u591a\u4e2d\u56fd\u65c5\u6e38\u8d44\u8baf\uff01\uff1f \ud83d\udd25\u6b22\u8fce\u70b9\u51fb\u5173\u6ce8\u6211\u4eec\u7c89\u4e1d\u9875\uff5c\u6bcf\u65e5\u66f4\u65b0 \u2714Facebook: #\u73a9\u8f6c\u4e2d\u56fd \u2714Group : #\u4e2d\u56fd\u65c5\u6e38\u4e16\u754c \u2714Instagram : travel2china88  #\u4e2d\u56fd #\u6d59\u6c5f #\u676d\u5dde",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\u8d8a\u591c\u8d8a\u7f8e\u7684\u676d\u5dde\u57ce\u968d\u95a3\u2728",
+            "start_pos": 0,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "\u8fd9\u591c\u666f\u7f8e\u5f97\u4e0d\u8981\u4e0d\u8981\u4e86\ud83d\ude0d\u2764",
+            "start_pos": 12,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 29,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "jasmineyang1116",
+            "start_pos": 30,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "\uff03\u60f3\u4e86\u89e3\u66f4\u591a\u4e2d\u56fd\u65c5\u6e38\u8d44\u8baf\uff01",
+            "start_pos": 48,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "\uff1f",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd25\u6b22\u8fce\u70b9\u51fb\u5173\u6ce8\u6211\u4eec\u7c89\u4e1d\u9875\uff5c\u6bcf\u65e5\u66f4\u65b0",
+            "start_pos": 63,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "\u2714",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "Facebook",
+            "start_pos": 82,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "#\u73a9\u8f6c\u4e2d\u56fd",
+            "start_pos": 92,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "\u2714",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "Group",
+            "start_pos": 99,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 105,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "#\u4e2d\u56fd\u65c5\u6e38\u4e16\u754c",
+            "start_pos": 107,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "\u2714",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "Instagram",
+            "start_pos": 116,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "travel2china88",
+            "start_pos": 128,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "#\u4e2d\u56fd",
+            "start_pos": 144,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "#\u6d59\u6c5f",
+            "start_pos": 148,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "#\u676d\u5dde",
+            "start_pos": 152,
+            "end_pos": 155,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,314 @@
+{
+    "text": "A lofoten classic \ud83d\ude0d\ud83c\uddf3\ud83c\uddf4 ~ Double Tap \ud83c\udf0d \ud83d\udccd Location: Lofoten, Norway \ud83d\udcf8 Photo by: @przemo_  \u2022 \u2022 \u2022 \u2022 #norway #norgefoto #norwaytravel #bestofnorway #norgerundt #norgebilder #norwayraw #norwaytrip #naturebrilliance #norway_nature",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Lofoten",
+            "start_pos": 49,
+            "end_pos": 56,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.4171036183834076
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 58,
+            "end_pos": 64,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.989737331867218
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "A",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "lofoten",
+            "start_pos": 2,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "classic",
+            "start_pos": 10,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 18,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "~",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Double",
+            "start_pos": 24,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "Tap",
+            "start_pos": 31,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0d",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Location",
+            "start_pos": 39,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "Lofoten",
+            "start_pos": 49,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 56,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 58,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 67,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 73,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "przemo",
+            "start_pos": 78,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 96,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "norgefoto",
+            "start_pos": 104,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "norwaytravel",
+            "start_pos": 115,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 128,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "bestofnorway",
+            "start_pos": 129,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "norgerundt",
+            "start_pos": 143,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 154,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "norgebilder",
+            "start_pos": 155,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 167,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "norwayraw",
+            "start_pos": 168,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 178,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "norwaytrip",
+            "start_pos": 179,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 190,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "naturebrilliance",
+            "start_pos": 191,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 209,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 215,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 216,
+            "end_pos": 222,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

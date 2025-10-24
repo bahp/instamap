@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Malta\",\n    \"full_address\": \"Malta\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Malta.svg/220px-Malta.svg\"\n  },\n  {\n    \"name\": \"Valletta\",\n    \"full_address\": \"Valletta, Malta\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Valletta_from_Upper_Barrakka_Gardens.jpg/220px-Valletta_from_Upper_Barrakka_Gardens.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_756384fc5d025779",
+    "factuality_queries": null,
+    "text_query": [
+        "Who are the members of the Order of Malta?",
+        4
+    ],
+    "choices": [
+        {
+            "id": "rc_6d28734ecbbb9104",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Malta\",\n    \"full_address\": \"Malta\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Malta.svg/220px-Malta.svg\"\n  },\n  {\n    \"name\": \"Valletta\",\n    \"full_address\": \"Valletta, Malta\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Valletta_from_Upper_Barrakka_Gardens.jpg/220px-Valletta_from_Upper_Barrakka_Gardens.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_1f793d0adff3def8",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Malta\",\n    \"full_address\": \"Malta\",\n    \"order\": 1,\n    \"image\": \"https://www.visitmalta.com/assets/uploads/malta%20islands/malta-islands.jpg\"\n  },\n  {\n    \"name\": \"Valletta\",\n    \"full_address\": \"Valletta, Malta\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Valletta_from_Birgu.jpg/220px-Valletta_from_Birgu.jpg\"\n  },\n  {\n    \"name\": \"Europe\",\n    \"full_address\": \"Europe\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_Europe.svg/220px-Flag_of_Europe.svg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_1ac1875a6705cf16",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Malta\",\n    \"full_address\": \"Malta\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Malta.svg/220px-Flag_of_Malta.svg\"\n  },\n  {\n    \"name\": \"Valletta\",\n    \"full_address\": \"Valletta, Malta\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Valletta_Malta.jpg/220px-Valletta_Malta.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Malta\",\n    \"full_address\": \"Malta\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Malta.svg/220px-Malta.svg\"\n  },\n  {\n    \"name\": \"Valletta\",\n    \"full_address\": \"Valletta, Malta\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Valletta_from_Upper_Barrakka_Gardens.jpg/220px-Valletta_from_Upper_Barrakka_Gardens.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

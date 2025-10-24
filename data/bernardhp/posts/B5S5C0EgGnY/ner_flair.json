@@ -1,0 +1,128 @@
+{
+    "text": "Iseltwald - Switzerland \ud83d\udc99\ud83d\udc99\ud83d\udc99 . Pics by \u2728@swissmonamour\u2728 #bestplacestogo for a feature \ud83d\udc99",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Iseltwald",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9630125761032104
+                }
+            ]
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 12,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.998540997505188
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Iseltwald",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 12,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc99\ud83d\udc99\ud83d\udc99",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Pics",
+            "start_pos": 30,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "\u2728@",
+            "start_pos": 38,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "swissmonamour",
+            "start_pos": 40,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "bestplacestogo",
+            "start_pos": 56,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 71,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "feature",
+            "start_pos": 77,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc99",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

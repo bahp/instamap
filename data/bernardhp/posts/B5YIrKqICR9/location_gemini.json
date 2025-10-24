@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Hallstatt",
+        "subtitle": "Picturesque village in Upper Austria",
+        "lat": 47.563,
+        "lon": 13.6496,
+        "type": "village",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Lake Hallstatt",
+        "subtitle": "Large lake in the Salzkammergut region of Austria",
+        "lat": 47.591,
+        "lon": 13.659,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2
+    },
+    {
+        "title": "Austria",
+        "subtitle": "Landlocked country in Central Europe",
+        "lat": 47.5162,
+        "lon": 14.5501,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3
+    }
+]

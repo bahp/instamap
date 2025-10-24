@@ -1,0 +1,953 @@
+{
+    "text": "\ud83d\udd18The Castle of Coca\ud83d\udd18 \u26abIt is a castle located in the Coca municipality, central Spain.  \u26abThe castle was constructed in the 15th century and has been considered to be one of the best examples of Spanish Mudejar brickwork which incorporates Moorish Muslim design and construction with Gothic architecture.  \u26abThe double walls are 2.5 m thick and it's circled by a deep dry moat.  \u26abIt's made up of two square baileys separated by a passageway.  \u26abBoth show polygonal towers at the corners. Due to its great splendour, it was used more as a palace than as a fortress.  \ud83d\udc49 Follow me @ancient.scientist to enjoy more and more posts about our world's marvellous History.\ud83d\ude09  \ud83d\udce9Dm me for Promotion/ Business/ Partnership\ud83d\udce9  \ud83d\udcf8 Photo by @conchipal",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Coca municipality",
+            "start_pos": 52,
+            "end_pos": 69,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.751585990190506
+                }
+            ]
+        },
+        {
+            "text": "Spain",
+            "start_pos": 79,
+            "end_pos": 84,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9994888305664062
+                }
+            ]
+        },
+        {
+            "text": "Spanish",
+            "start_pos": 193,
+            "end_pos": 200,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9907376170158386
+                }
+            ]
+        },
+        {
+            "text": "Moorish Muslim",
+            "start_pos": 238,
+            "end_pos": 252,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9220154583454132
+                }
+            ]
+        },
+        {
+            "text": "Gothic",
+            "start_pos": 282,
+            "end_pos": 288,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9781623482704163
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "Castle",
+            "start_pos": 5,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 12,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Coca",
+            "start_pos": 15,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 25,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 37,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 45,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 48,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "Coca",
+            "start_pos": 52,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "municipality",
+            "start_pos": 57,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "central",
+            "start_pos": 71,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "Spain",
+            "start_pos": 79,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 88,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 92,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 99,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "constructed",
+            "start_pos": 103,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 115,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 118,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "15th",
+            "start_pos": 122,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "century",
+            "start_pos": 127,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 135,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 139,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 143,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "considered",
+            "start_pos": 148,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 159,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 162,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 165,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 169,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 172,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 176,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "examples",
+            "start_pos": 181,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 190,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "Spanish",
+            "start_pos": 193,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "Mudejar",
+            "start_pos": 201,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "brickwork",
+            "start_pos": 209,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "which",
+            "start_pos": 219,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "incorporates",
+            "start_pos": 225,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "Moorish",
+            "start_pos": 238,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "Muslim",
+            "start_pos": 246,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "design",
+            "start_pos": 253,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 260,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "construction",
+            "start_pos": 264,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 277,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "Gothic",
+            "start_pos": 282,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 289,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 301,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 304,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 305,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "double",
+            "start_pos": 309,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "walls",
+            "start_pos": 316,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 322,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "2.5",
+            "start_pos": 326,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "m",
+            "start_pos": 330,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "thick",
+            "start_pos": 332,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 338,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 342,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 344,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "circled",
+            "start_pos": 347,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 355,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 358,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "deep",
+            "start_pos": 360,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "dry",
+            "start_pos": 365,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "moat",
+            "start_pos": 369,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 373,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 376,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 377,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 379,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "made",
+            "start_pos": 382,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 387,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 390,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "two",
+            "start_pos": 393,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "square",
+            "start_pos": 397,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": "baileys",
+            "start_pos": 404,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "separated",
+            "start_pos": 412,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 422,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 425,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "passageway",
+            "start_pos": 427,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 437,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 440,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "Both",
+            "start_pos": 441,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "show",
+            "start_pos": 446,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "polygonal",
+            "start_pos": 451,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "towers",
+            "start_pos": 461,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 468,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 471,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "corners",
+            "start_pos": 475,
+            "end_pos": 482,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 482,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "Due",
+            "start_pos": 484,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 488,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 491,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": "great",
+            "start_pos": 495,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "splendour",
+            "start_pos": 501,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 510,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 512,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 515,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "used",
+            "start_pos": 519,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 524,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 529,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 532,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "palace",
+            "start_pos": 534,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "than",
+            "start_pos": 541,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 546,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 549,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "fortress",
+            "start_pos": 551,
+            "end_pos": 559,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 559,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 562,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 564,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 571,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 574,
+            "end_pos": 575,
+            "labels": []
+        },
+        {
+            "text": "ancient.scientist",
+            "start_pos": 575,
+            "end_pos": 592,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 593,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "enjoy",
+            "start_pos": 596,
+            "end_pos": 601,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 602,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 607,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 611,
+            "end_pos": 615,
+            "labels": []
+        },
+        {
+            "text": "posts",
+            "start_pos": 616,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 622,
+            "end_pos": 627,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 628,
+            "end_pos": 631,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 632,
+            "end_pos": 637,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 637,
+            "end_pos": 639,
+            "labels": []
+        },
+        {
+            "text": "marvellous",
+            "start_pos": 640,
+            "end_pos": 650,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 651,
+            "end_pos": 658,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 658,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude09",
+            "start_pos": 659,
+            "end_pos": 660,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce9",
+            "start_pos": 662,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "Dm",
+            "start_pos": 663,
+            "end_pos": 665,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 666,
+            "end_pos": 668,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 669,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "Promotion",
+            "start_pos": 673,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 682,
+            "end_pos": 683,
+            "labels": []
+        },
+        {
+            "text": "Business",
+            "start_pos": 684,
+            "end_pos": 692,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 692,
+            "end_pos": 693,
+            "labels": []
+        },
+        {
+            "text": "Partnership",
+            "start_pos": 694,
+            "end_pos": 705,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce9",
+            "start_pos": 705,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 708,
+            "end_pos": 709,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 710,
+            "end_pos": 715,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 716,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 719,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "conchipal",
+            "start_pos": 720,
+            "end_pos": 729,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

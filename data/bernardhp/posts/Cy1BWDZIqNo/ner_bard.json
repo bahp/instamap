@@ -1,0 +1,25 @@
+{
+    "content": "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"06081 Assisi, Province of Perugia, Italy\",\n      \"order\": 1\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/0",
+    "conversation_id": "c_8d660f05e97ff834",
+    "response_id": "r_77c42712889eef49",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_b495d741b43f2895",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"06081 Assisi, Province of Perugia, Italy\",\n      \"order\": 1\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/0"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=15030792884162716588",
+        "https://maps.google.com/?cid=15030792884162716588",
+        "http://googleusercontent.com/map_content/0",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Assisi\",\n      \"full_address\": \"06081 Assisi, Province of Perugia, Italy\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

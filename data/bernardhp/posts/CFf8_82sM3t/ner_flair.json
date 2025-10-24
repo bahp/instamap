@@ -1,0 +1,457 @@
+{
+    "text": "Have you followed @jameslloydcole yet? He posts unique photos of beautiful architecture all over the U.K. Like this incredible set of castle from Scotland, down to southern England. Follow @jameslloydcole to see more. \u2014 Which castle is your favourite? We would love to spend a few nights in the third \ud83e\udd2f\ud83c\udff0 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 Tag #AllAboutAdventures for a chance to be featured!",
+    "labels": [],
+    "entities": [
+        {
+            "text": "U.K.",
+            "start_pos": 101,
+            "end_pos": 105,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9856422543525696
+                }
+            ]
+        },
+        {
+            "text": "Scotland",
+            "start_pos": 146,
+            "end_pos": 154,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9988356232643127
+                }
+            ]
+        },
+        {
+            "text": "England",
+            "start_pos": 173,
+            "end_pos": 180,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9994144439697266
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Have",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "followed",
+            "start_pos": 9,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 18,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "jameslloydcole",
+            "start_pos": 19,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "yet",
+            "start_pos": 34,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "He",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "posts",
+            "start_pos": 42,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "unique",
+            "start_pos": 48,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 62,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 65,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 75,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 88,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 92,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 97,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "U.K.",
+            "start_pos": 101,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "Like",
+            "start_pos": 106,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 111,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "incredible",
+            "start_pos": 116,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "set",
+            "start_pos": 127,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 131,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 134,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 141,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "Scotland",
+            "start_pos": 146,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 154,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "down",
+            "start_pos": 156,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 161,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "southern",
+            "start_pos": 164,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "England",
+            "start_pos": 173,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 180,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 182,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "jameslloydcole",
+            "start_pos": 190,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 205,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 208,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 212,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 216,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 218,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "Which",
+            "start_pos": 220,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 226,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 233,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 236,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 241,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 250,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "We",
+            "start_pos": 252,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 255,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "love",
+            "start_pos": 261,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 266,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "spend",
+            "start_pos": 269,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 275,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "few",
+            "start_pos": 277,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "nights",
+            "start_pos": 281,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 288,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 291,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "third",
+            "start_pos": 295,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd2f\ud83c\udff0",
+            "start_pos": 301,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 304,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 318,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 322,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "AllAboutAdventures",
+            "start_pos": 323,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 342,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "chance",
+            "start_pos": 348,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 355,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 358,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 361,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 369,
+            "end_pos": 370,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Harbin Ice & Snow World",
+        "subtitle": "Main venue of the Harbin Ice Festival",
+        "lat": 45.8365,
+        "lon": 126.5689,
+        "type": "theme park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 1
+    },
+    {
+        "title": "Harbin Ice Festival",
+        "subtitle": "Annual winter festival in Harbin, China",
+        "lat": 45.8365,
+        "lon": 126.5689,
+        "type": "festival",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2
+    },
+    {
+        "title": "Harbin",
+        "subtitle": "Capital city of Heilongjiang, China",
+        "lat": 45.75,
+        "lon": 126.6333,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3
+    },
+    {
+        "title": "China",
+        "subtitle": "Country in East Asia",
+        "lat": 39.9042,
+        "lon": 116.4074,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.99,
+        "rank": 4
+    }
+]

@@ -1,0 +1,617 @@
+{
+    "text": "LOCATION: Vegan Ramen Uzu, Kyoto  This is must add to your Japan bucket list \ud83c\udf5c Dining while surrounded by stunning art from teamLab is such an awesome experience \u2728 also the flavour of the ramen here is legit so tasty too!!  What\u2019s your favourite type of Japanese noodle?   #teamlab #teamlabplanets #teamlabtokyo #veganramen #veganjapan #veganjapanesefood #veganramenuzukyoto #japanesefood #japantravel #japanlife #japan #kyoto #kyotojapan #kyototrip #japanfood #ramen #ramennoodles #ramenlover #japanlover",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Vegan Ramen Uzu",
+            "start_pos": 10,
+            "end_pos": 25,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8887797991434733
+                }
+            ]
+        },
+        {
+            "text": "Kyoto  This",
+            "start_pos": 27,
+            "end_pos": 38,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7020933330059052
+                }
+            ]
+        },
+        {
+            "text": "Japan",
+            "start_pos": 59,
+            "end_pos": 64,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9919571876525879
+                }
+            ]
+        },
+        {
+            "text": "teamLab",
+            "start_pos": 124,
+            "end_pos": 131,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.5885134935379028
+                }
+            ]
+        },
+        {
+            "text": "Japanese",
+            "start_pos": 254,
+            "end_pos": 262,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9925026893615723
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "LOCATION",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Vegan",
+            "start_pos": 10,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Ramen",
+            "start_pos": 16,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Uzu",
+            "start_pos": 22,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 27,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 34,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "must",
+            "start_pos": 42,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "add",
+            "start_pos": 47,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 59,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "bucket",
+            "start_pos": 65,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "list",
+            "start_pos": 72,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf5c",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "Dining",
+            "start_pos": 79,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "while",
+            "start_pos": 86,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "surrounded",
+            "start_pos": 92,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 103,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "stunning",
+            "start_pos": 106,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "art",
+            "start_pos": 115,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 119,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "teamLab",
+            "start_pos": 124,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 132,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "such",
+            "start_pos": 135,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 140,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "awesome",
+            "start_pos": 143,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 151,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "also",
+            "start_pos": 164,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 169,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "flavour",
+            "start_pos": 173,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 181,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 184,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "ramen",
+            "start_pos": 188,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 194,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 199,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "legit",
+            "start_pos": 202,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 208,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "tasty",
+            "start_pos": 211,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "too",
+            "start_pos": 217,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 220,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 221,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "What",
+            "start_pos": 224,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 228,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 231,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 236,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "type",
+            "start_pos": 246,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 251,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "Japanese",
+            "start_pos": 254,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "noodle",
+            "start_pos": 263,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 269,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 273,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "teamlab",
+            "start_pos": 274,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 282,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "teamlabplanets",
+            "start_pos": 283,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 298,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "teamlabtokyo",
+            "start_pos": 299,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 312,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "veganramen",
+            "start_pos": 313,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "veganjapan",
+            "start_pos": 325,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 336,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "veganjapanesefood",
+            "start_pos": 337,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 355,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "veganramenuzukyoto",
+            "start_pos": 356,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 375,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "japanesefood",
+            "start_pos": 376,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 389,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "japantravel",
+            "start_pos": 390,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 402,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": "japanlife",
+            "start_pos": 403,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 413,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "japan",
+            "start_pos": 414,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 420,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "kyoto",
+            "start_pos": 421,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 427,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "kyotojapan",
+            "start_pos": 428,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 439,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "kyototrip",
+            "start_pos": 440,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 450,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "japanfood",
+            "start_pos": 451,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 461,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "ramen",
+            "start_pos": 462,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 468,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "ramennoodles",
+            "start_pos": 469,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 482,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "ramenlover",
+            "start_pos": 483,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 494,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "japanlover",
+            "start_pos": 495,
+            "end_pos": 505,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

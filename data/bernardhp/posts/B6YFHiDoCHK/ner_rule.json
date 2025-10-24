@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdYamagata, Japan ",
+        "start": 57,
+        "end": 74,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Yamagata, Japan "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 74,
+        "end": 76,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Japan",
+        "start": 22,
+        "end": 27,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 68,
+        "end": 73,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

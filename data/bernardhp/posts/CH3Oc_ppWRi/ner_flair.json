@@ -1,0 +1,609 @@
+{
+    "text": "Buonasera \ud83c\udf1b  . COMPLIMENTI A: @eleonora.boschi . \ud83d\udccdLOCALIT\u00c0:  #Volterra #Pisa #Toscana  FOUNDER: @Dontanolarosa  ADMIN: @SiciliaV70 @roberta.lucchesi  TAG: @Don_in_italy #Don_in_italy .  #italia #italy #visititaly #borghipiubelli #italyvacations #autumnvibes\ud83c\udf41 #italien #tuscany #visittoscana #bestvacations  #italyphoto #bestplacestogo #bestitaly #italyiloveyou #beautifuldestinations #italydestinations #madeinitaly #besttravel #italian_trips #\u610f\u5927\u5229 #\u0625\u064a\u0637\u0627\u0644\u064a\u0627#\u0418\u0442\u0430\u043b\u0438\u044f #\u30a4\u30bf\u30ea\u30a2 #dii_pisa #dii_211120 #dii_eleonora.boschi",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Buonasera",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf1b",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "COMPLIMENTI",
+            "start_pos": 15,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "eleonora.boschi",
+            "start_pos": 31,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "LOCALIT\u00c0",
+            "start_pos": 50,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Volterra",
+            "start_pos": 62,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "Pisa",
+            "start_pos": 72,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "Toscana",
+            "start_pos": 78,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "FOUNDER",
+            "start_pos": 87,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "Dontanolarosa",
+            "start_pos": 97,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "ADMIN",
+            "start_pos": 112,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "SiciliaV70",
+            "start_pos": 120,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "roberta.lucchesi",
+            "start_pos": 132,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "TAG",
+            "start_pos": 150,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 153,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "Don",
+            "start_pos": 156,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 160,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 163,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "Don",
+            "start_pos": 170,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 173,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 174,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 176,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 177,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 183,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 186,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "italia",
+            "start_pos": 187,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 194,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 195,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 201,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "visititaly",
+            "start_pos": 202,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "borghipiubelli",
+            "start_pos": 214,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "italyvacations",
+            "start_pos": 230,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 245,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "autumnvibes",
+            "start_pos": 246,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf41",
+            "start_pos": 257,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 259,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "italien",
+            "start_pos": 260,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 268,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "tuscany",
+            "start_pos": 269,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 277,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "visittoscana",
+            "start_pos": 278,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 291,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "bestvacations",
+            "start_pos": 292,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 307,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "italyphoto",
+            "start_pos": 308,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 319,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "bestplacestogo",
+            "start_pos": 320,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 335,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "bestitaly",
+            "start_pos": 336,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "italyiloveyou",
+            "start_pos": 347,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 361,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 362,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 384,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "italydestinations",
+            "start_pos": 385,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 403,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "madeinitaly",
+            "start_pos": 404,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 416,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "besttravel",
+            "start_pos": 417,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 428,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "italian",
+            "start_pos": 429,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 436,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "trips",
+            "start_pos": 437,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "#\u610f\u5927\u5229",
+            "start_pos": 443,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "#\u0625\u064a\u0637\u0627\u0644\u064a\u0627#",
+            "start_pos": 448,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "\u0418\u0442\u0430\u043b\u0438\u044f",
+            "start_pos": 457,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "#\u30a4\u30bf\u30ea\u30a2",
+            "start_pos": 464,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "dii",
+            "start_pos": 471,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 474,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "pisa",
+            "start_pos": 475,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 480,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "dii",
+            "start_pos": 481,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 484,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "211120",
+            "start_pos": 485,
+            "end_pos": 491,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 492,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "dii",
+            "start_pos": 493,
+            "end_pos": 496,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 496,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "eleonora.boschi",
+            "start_pos": 497,
+            "end_pos": 512,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

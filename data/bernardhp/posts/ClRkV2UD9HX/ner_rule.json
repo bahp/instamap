@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdMirador de la Figuerassa, Catalu\u00f1a",
+        "start": 0,
+        "end": 35,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Mirador de la Figuerassa, Catalu\u00f1a"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "spain",
+        "start": 540,
+        "end": 545,
+        "groupdict": {
+            "name": "spain",
+            "location": "spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

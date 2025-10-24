@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Mekong River Delta\",\n    \"full_address\": \"Mekong River Delta, Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mekong_Delta_Vietnam.jpg/220px-Mekong_Delta_Vietnam.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Vietnam\",\n    \"full_address\": \"Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Vietnam.svg/220px-Flag_of_Vietnam.svg\",\n    \"order\": 2\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_1a6bc86f72941c35",
+    "factuality_queries": null,
+    "text_query": [
+        "water lily in mekong delta",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_4ba5f63c4101cbf5",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Mekong River Delta\",\n    \"full_address\": \"Mekong River Delta, Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mekong_Delta_Vietnam.jpg/220px-Mekong_Delta_Vietnam.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Vietnam\",\n    \"full_address\": \"Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Vietnam.svg/220px-Flag_of_Vietnam.svg\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_0faedbf350dae237",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Mekong River Delta\",\n    \"full_address\": \"Mekong River Delta, Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mekong_River,_My_Tho,_Vietnam.jpg/220px-Mekong_River,_My_Tho,_Vietnam.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Vietnam\",\n    \"full_address\": \"Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Vietnam.svg/220px-Flag_of_Vietnam.svg\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_f22fb28ffa228991",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Mekong River Delta\",\n    \"full_address\": \"Mekong River Delta, Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mekong_Delta,_Vietnam.jpg/220px-Mekong_Delta,_Vietnam.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Vietnam\",\n    \"full_address\": \"Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Vietnam.svg/220px-Flag_of_Vietnam.svg\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Mekong River Delta\",\n    \"full_address\": \"Mekong River Delta, Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mekong_Delta_Vietnam.jpg/220px-Mekong_Delta_Vietnam.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Vietnam\",\n    \"full_address\": \"Vietnam\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Vietnam.svg/220px-Flag_of_Vietnam.svg\",\n    \"order\": 2\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "1. Campobasso, Molise by @evgenylushpin \ud83c\udfa8 ",
+        "start": 43,
+        "end": 85,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Campobasso, Molise by @evgenylushpin \ud83c\udfa8 "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Bologna by @ansharphoto ",
+        "start": 125,
+        "end": 152,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Bologna by @ansharphoto "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Sirmione by @the__mirk ",
+        "start": 153,
+        "end": 179,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Sirmione by @the__mirk "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Verona by @matteoorighi ",
+        "start": 233,
+        "end": 260,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Verona by @matteoorighi "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Tremosine by @cristinaproietti_photo ",
+        "start": 261,
+        "end": 301,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Tremosine by @cristinaproietti_photo "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Colosseum, Rome by @danieleragazzini",
+        "start": 302,
+        "end": 341,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Colosseum, Rome by @danieleragazzini"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 16,
+        "end": 18,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 22,
+        "end": 24,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Italy",
+        "start": 10,
+        "end": 15,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Italy",
+        "start": 382,
+        "end": 387,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

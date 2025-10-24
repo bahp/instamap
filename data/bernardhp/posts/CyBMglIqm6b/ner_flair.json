@@ -1,0 +1,384 @@
+{
+    "text": "Top places in England part 2\u2728 Arundel\ud83d\ude0d  Before you go, make sure the castle is open at that time. Castle Arundel is usually the most important reason for visiting Arundel\ud83d\ude0a  #england #visitengland #arundel #castle #uk #visituk #mustvisit #explore #exploremore #travelling",
+    "labels": [],
+    "entities": [
+        {
+            "text": "England",
+            "start_pos": 14,
+            "end_pos": 21,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.998675525188446
+                }
+            ]
+        },
+        {
+            "text": "Arundel",
+            "start_pos": 30,
+            "end_pos": 37,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8565762639045715
+                }
+            ]
+        },
+        {
+            "text": "Castle Arundel",
+            "start_pos": 98,
+            "end_pos": 112,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8734563887119293
+                }
+            ]
+        },
+        {
+            "text": "Arundel",
+            "start_pos": 163,
+            "end_pos": 170,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5343799591064453
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Top",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 4,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 11,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "England",
+            "start_pos": 14,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "part",
+            "start_pos": 22,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Arundel",
+            "start_pos": 30,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Before",
+            "start_pos": 40,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 47,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "go",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "make",
+            "start_pos": 55,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "sure",
+            "start_pos": 60,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 65,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 69,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 76,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "open",
+            "start_pos": 79,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 84,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 87,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 92,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "Castle",
+            "start_pos": 98,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "Arundel",
+            "start_pos": 105,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 113,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "usually",
+            "start_pos": 116,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 124,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 128,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "important",
+            "start_pos": 133,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "reason",
+            "start_pos": 143,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 150,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "visiting",
+            "start_pos": 154,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "Arundel",
+            "start_pos": 163,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0a",
+            "start_pos": 170,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 173,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "england",
+            "start_pos": 174,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "visitengland",
+            "start_pos": 183,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 196,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "arundel",
+            "start_pos": 197,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 205,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "castle",
+            "start_pos": 206,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "uk",
+            "start_pos": 214,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 217,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "visituk",
+            "start_pos": 218,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 226,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "mustvisit",
+            "start_pos": 227,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 237,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 238,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 246,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "exploremore",
+            "start_pos": 247,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 259,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "travelling",
+            "start_pos": 260,
+            "end_pos": 270,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdOld Quebec City, Canada ",
+        "start": 93,
+        "end": 118,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Old Quebec City, Canada "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udde6",
+        "start": 118,
+        "end": 120,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udde6",
+            "location": "Canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Canada",
+        "start": 111,
+        "end": 117,
+        "groupdict": {
+            "name": "Canada",
+            "location": "Canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

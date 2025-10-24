@@ -1,0 +1,75 @@
+{
+    "text": "Winter wonderland in Norway \u2744 Photo by @arts.and.tech",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Norway",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991029500961304
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Winter",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "wonderland",
+            "start_pos": 7,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 18,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\u2744",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 30,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 36,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "arts.and.tech",
+            "start_pos": 40,
+            "end_pos": 53,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

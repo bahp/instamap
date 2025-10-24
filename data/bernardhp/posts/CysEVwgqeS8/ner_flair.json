@@ -1,0 +1,45 @@
+{
+    "text": "This is a Unique Country\ud83c\uddf0\ud83c\uddff",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "This",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 5,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Unique",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Country",
+            "start_pos": 17,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf0\ud83c\uddff",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

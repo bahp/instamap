@@ -1,0 +1,109 @@
+[
+    {
+        "text": "\ud83d\udccdYurakucho - \u6709\u697d\u753a ",
+        "start": 0,
+        "end": 17,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Yurakucho - \u6709\u697d\u753a "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 17,
+        "end": 19,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 317,
+        "end": 319,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 334,
+        "end": 336,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddf7",
+        "start": 341,
+        "end": 343,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddf7",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Japan",
+        "start": 196,
+        "end": 201,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 246,
+        "end": 251,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 275,
+        "end": 280,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 368,
+        "end": 373,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

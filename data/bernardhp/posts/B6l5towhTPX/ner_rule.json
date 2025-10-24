@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd New York, USA\ud83c\uddfa",
+        "start": 424,
+        "end": 440,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " New York, USA\ud83c\uddfa"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf8",
+        "start": 439,
+        "end": 441,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "location": "United States"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

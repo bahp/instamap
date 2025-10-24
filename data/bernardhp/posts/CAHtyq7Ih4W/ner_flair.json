@@ -1,0 +1,838 @@
+{
+    "text": "\ud83c\uddef\ud83c\uddf4 #discoverjordan with @thefreedomcomplex : \"Next up on the list is Jordan - it was a really close call between Portugal and Jordan for places you wanted to see on the feed, so here\u2019s one from the amazing city of mysteries - Petra \ud83c\udfdb this place fascinated me more than almost any other place I have been - on par with the pyramids in Egypt! ...\u27bf... Petra was carved out of desert rock, with tools and precision unknown to anyone really \ud83e\udd2f - the construction started over 2000 years ago and carried on for 800 years! These incredible carvings measured up to 44m tall and 11m deep! How the heck did they do it?! \"",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Jordan",
+            "start_pos": 69,
+            "end_pos": 75,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9644225239753723
+                }
+            ]
+        },
+        {
+            "text": "Portugal",
+            "start_pos": 113,
+            "end_pos": 121,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9971281886100769
+                }
+            ]
+        },
+        {
+            "text": "Jordan",
+            "start_pos": 126,
+            "end_pos": 132,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9914191961288452
+                }
+            ]
+        },
+        {
+            "text": "Petra",
+            "start_pos": 226,
+            "end_pos": 231,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5782707333564758
+                }
+            ]
+        },
+        {
+            "text": "Egypt",
+            "start_pos": 334,
+            "end_pos": 339,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9972007274627686
+                }
+            ]
+        },
+        {
+            "text": "Petra",
+            "start_pos": 349,
+            "end_pos": 354,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.340707004070282
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddef\ud83c\uddf4",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "discoverjordan",
+            "start_pos": 4,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 19,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "thefreedomcomplex",
+            "start_pos": 25,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "Next",
+            "start_pos": 46,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 54,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 57,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "list",
+            "start_pos": 61,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 66,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "Jordan",
+            "start_pos": 69,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 76,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 81,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "really",
+            "start_pos": 87,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "close",
+            "start_pos": 94,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "call",
+            "start_pos": 100,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "between",
+            "start_pos": 105,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "Portugal",
+            "start_pos": 113,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 122,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "Jordan",
+            "start_pos": 126,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 133,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 137,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 144,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "wanted",
+            "start_pos": 148,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 155,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 158,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 162,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 165,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "feed",
+            "start_pos": 169,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 173,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 175,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 178,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 182,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 185,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 189,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 194,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "amazing",
+            "start_pos": 198,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "city",
+            "start_pos": 206,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 211,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "mysteries",
+            "start_pos": 214,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 224,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "Petra",
+            "start_pos": 226,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfdb",
+            "start_pos": 232,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 234,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 239,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "fascinated",
+            "start_pos": 245,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 256,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 259,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "than",
+            "start_pos": 264,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "almost",
+            "start_pos": 269,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "any",
+            "start_pos": 276,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "other",
+            "start_pos": 280,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 286,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 292,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 294,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 299,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 304,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 306,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "par",
+            "start_pos": 309,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 313,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 318,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "pyramids",
+            "start_pos": 322,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 331,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "Egypt",
+            "start_pos": 334,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 339,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "...\u27bf..",
+            "start_pos": 341,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 347,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "Petra",
+            "start_pos": 349,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 355,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "carved",
+            "start_pos": 359,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "out",
+            "start_pos": 366,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 370,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "desert",
+            "start_pos": 373,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "rock",
+            "start_pos": 380,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 384,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 386,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "tools",
+            "start_pos": 391,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 397,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "precision",
+            "start_pos": 401,
+            "end_pos": 410,
+            "labels": []
+        },
+        {
+            "text": "unknown",
+            "start_pos": 411,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 419,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "anyone",
+            "start_pos": 422,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "really",
+            "start_pos": 429,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd2f",
+            "start_pos": 436,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 438,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 440,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "construction",
+            "start_pos": 444,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": "started",
+            "start_pos": 457,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 465,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "2000",
+            "start_pos": 470,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "years",
+            "start_pos": 475,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": "ago",
+            "start_pos": 481,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 485,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "carried",
+            "start_pos": 489,
+            "end_pos": 496,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 497,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 500,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "800",
+            "start_pos": 504,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "years",
+            "start_pos": 508,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 513,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "These",
+            "start_pos": 515,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "incredible",
+            "start_pos": 521,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "carvings",
+            "start_pos": 532,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "measured",
+            "start_pos": 541,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 550,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 553,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "44m",
+            "start_pos": 556,
+            "end_pos": 559,
+            "labels": []
+        },
+        {
+            "text": "tall",
+            "start_pos": 560,
+            "end_pos": 564,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 565,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "11m",
+            "start_pos": 569,
+            "end_pos": 572,
+            "labels": []
+        },
+        {
+            "text": "deep",
+            "start_pos": 573,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 577,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "How",
+            "start_pos": 579,
+            "end_pos": 582,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 583,
+            "end_pos": 586,
+            "labels": []
+        },
+        {
+            "text": "heck",
+            "start_pos": 587,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "did",
+            "start_pos": 592,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "they",
+            "start_pos": 596,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": "do",
+            "start_pos": 601,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 604,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 606,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 607,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 609,
+            "end_pos": 610,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

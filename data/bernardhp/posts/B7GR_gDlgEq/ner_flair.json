@@ -1,0 +1,325 @@
+{
+    "text": "\"Stepped into the Asgard. The torii is a traditional Japanese artificial gate building where it symbolically marks the transition from the mundane to the sacred, like the holy Mt. Fuji.\" \u2014 \ud83d\udccd#DiscoverJapan \u2014 \ud83d\udcf8 Photo and caption taken by @rkrkrk",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Asgard",
+            "start_pos": 18,
+            "end_pos": 24,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7977315187454224
+                }
+            ]
+        },
+        {
+            "text": "Japanese",
+            "start_pos": 53,
+            "end_pos": 61,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9986767172813416
+                }
+            ]
+        },
+        {
+            "text": "Mt. Fuji",
+            "start_pos": 176,
+            "end_pos": 184,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8116840124130249
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\"",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Stepped",
+            "start_pos": 1,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "into",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 14,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Asgard",
+            "start_pos": 18,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 26,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "torii",
+            "start_pos": 30,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 36,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "traditional",
+            "start_pos": 41,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "Japanese",
+            "start_pos": 53,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "artificial",
+            "start_pos": 62,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "gate",
+            "start_pos": 73,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "building",
+            "start_pos": 78,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 87,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 93,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "symbolically",
+            "start_pos": 96,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "marks",
+            "start_pos": 109,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 115,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "transition",
+            "start_pos": 119,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 130,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 135,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "mundane",
+            "start_pos": 139,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 147,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 150,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "sacred",
+            "start_pos": 154,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 160,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 162,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 167,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "holy",
+            "start_pos": 171,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "Mt.",
+            "start_pos": 176,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "Fuji",
+            "start_pos": 180,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 184,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 185,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 187,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd#",
+            "start_pos": 189,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "DiscoverJapan",
+            "start_pos": 191,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 205,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 207,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 209,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 215,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "caption",
+            "start_pos": 219,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 227,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 233,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "rkrkrk",
+            "start_pos": 237,
+            "end_pos": 243,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

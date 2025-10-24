@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Romania",
+        "start": 27,
+        "end": 34,
+        "groupdict": {
+            "name": "Romania",
+            "location": "Romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "romania",
+        "start": 176,
+        "end": 183,
+        "groupdict": {
+            "name": "romania",
+            "location": "romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

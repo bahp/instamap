@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Bremen, Germany\",\n    \"full_address\": \"Bremen, Germany\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2018/01/15/06/16/bremen-3087804_960_720.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_acc3519cbe948649",
+    "factuality_queries": null,
+    "text_query": [
+        "Bremen, Germany",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_ced71388ac27fe59",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Bremen, Germany\",\n    \"full_address\": \"Bremen, Germany\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2018/01/15/06/16/bremen-3087804_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_fa3c705b04922395",
+            "content": [
+                "Sure, here is the location you requested in JSON format:\n```json\n[\n  {\n    \"name\": \"Bremen\",\n    \"full_address\": \"Bremen, Germany\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_cf2eed70a8f9be41",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Bremen\",\n    \"full_address\": \"Bremen, Germany\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/09/27/12/34/bremen-4861151_960_720.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Bremen, Germany\",\n    \"full_address\": \"Bremen, Germany\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2018/01/15/06/16/bremen-3087804_960_720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

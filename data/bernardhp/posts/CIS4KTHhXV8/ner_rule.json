@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccd Sweden ",
+        "start": 0,
+        "end": 9,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Sweden "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf8\ud83c\uddea",
+        "start": 9,
+        "end": 11,
+        "groupdict": {
+            "flag": "\ud83c\uddf8\ud83c\uddea",
+            "location": "Sweden"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Sweden",
+        "start": 2,
+        "end": 8,
+        "groupdict": {
+            "name": "Sweden",
+            "location": "Sweden"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "sweden",
+        "start": 344,
+        "end": 350,
+        "groupdict": {
+            "name": "sweden",
+            "location": "sweden"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

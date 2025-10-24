@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Whitby Abbey",
+        "subtitle": "7th-century Christian monastery ruins on East Cliff",
+        "lat": 54.4891,
+        "lon": -0.6092,
+        "type": "abbey",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null
+    },
+    {
+        "title": "East Cliff",
+        "subtitle": "Cliff above Whitby where the abbey is situated",
+        "lat": 54.489,
+        "lon": -0.607,
+        "type": "cliff",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": null
+    },
+    {
+        "title": "Whitby",
+        "subtitle": "Coastal town in North Yorkshire, England",
+        "lat": 54.4859,
+        "lon": -0.6122,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": null
+    },
+    {
+        "title": "North Yorkshire",
+        "subtitle": "Ceremonial county in England",
+        "lat": 54.2185,
+        "lon": -1.334,
+        "type": "county",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 5,
+        "page": null
+    },
+    {
+        "title": "England",
+        "subtitle": "Country in the United Kingdom",
+        "lat": 52.3555,
+        "lon": -1.1743,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "Cholmley House",
+        "subtitle": "Building housing the Whitby Abbey site museum",
+        "lat": 54.4893,
+        "lon": -0.6097,
+        "type": "building",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "London",
+        "subtitle": "Capital city of England and the United Kingdom",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Paris",
+        "subtitle": "Capital city of France",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "USA",
+        "subtitle": "Country in North America",
+        "lat": 37.0902,
+        "lon": -95.7129,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    }
+]

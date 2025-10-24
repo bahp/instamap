@@ -1,0 +1,40 @@
+[
+    {
+        "text": "3. Mount Rainier National Park with @jguzmannn ",
+        "start": 181,
+        "end": 228,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Mount Rainier National Park with @jguzmannn "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Redwoods, California with @jguzmannn ",
+        "start": 229,
+        "end": 269,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Redwoods, California with @jguzmannn "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf8",
+        "start": 379,
+        "end": 381,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "location": "United States"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

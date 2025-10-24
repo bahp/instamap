@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf0d LOCATION: \ud83c\uddee\ud83c\uddf9 #lombardia \ud83c\udfc6SELECTED",
+        "start": 107,
+        "end": 142,
+        "groupdict": {
+            "icon": "\ud83c\udf0d",
+            "location": " LOCATION: \ud83c\uddee\ud83c\uddf9 #lombardia \ud83c\udfc6SELECTED"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 119,
+        "end": 121,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

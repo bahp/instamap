@@ -1,0 +1,92 @@
+[
+    {
+        "text": "1. Cheddar Gorge, Somerset \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f ",
+        "start": 84,
+        "end": 119,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Cheddar Gorge, Somerset \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Wheal Coates, Cornwall \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f ",
+        "start": 120,
+        "end": 154,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Wheal Coates, Cornwall \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Invermoriston Bridge, Scottish Highlands \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f ",
+        "start": 155,
+        "end": 207,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Invermoriston Bridge, Scottish Highlands \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Brecon Beacons, Wales \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f ",
+        "start": 208,
+        "end": 241,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Brecon Beacons, Wales \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Whitby Abbey, Yorkshire \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f ",
+        "start": 242,
+        "end": 277,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Whitby Abbey, Yorkshire \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. St Michael\u2019s Mount, Cornwall \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f ",
+        "start": 278,
+        "end": 318,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "St Michael\u2019s Mount, Cornwall \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 23,
+        "end": 25,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

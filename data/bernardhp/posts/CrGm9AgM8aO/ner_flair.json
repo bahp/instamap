@@ -1,0 +1,133 @@
+{
+    "text": "Norway \ud83c\uddf3\ud83c\uddf4 \ud83d\udcf8 @renebjerregaard . . #norway #scandinavia #north #nordic",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Norway",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998461008071899
+                }
+            ]
+        },
+        {
+            "text": "norway",
+            "start_pos": 34,
+            "end_pos": 40,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9934414625167847
+                }
+            ]
+        },
+        {
+            "text": "scandinavia",
+            "start_pos": 42,
+            "end_pos": 53,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9629122018814087
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Norway",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 7,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "renebjerregaard",
+            "start_pos": 13,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 29,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 33,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 34,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "scandinavia",
+            "start_pos": 42,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "north",
+            "start_pos": 55,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "nordic",
+            "start_pos": 62,
+            "end_pos": 68,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

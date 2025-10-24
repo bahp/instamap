@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf0d Luogo : \ud83c\uddee\ud83c\uddf9 #puglia ",
+        "start": 55,
+        "end": 76,
+        "groupdict": {
+            "icon": "\ud83c\udf0d",
+            "location": " Luogo : \ud83c\uddee\ud83c\uddf9 #puglia "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 65,
+        "end": 67,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

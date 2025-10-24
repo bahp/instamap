@@ -1,0 +1,93 @@
+{
+    "text": "Select by @mattberthou \ud83d\udcf7 : @grzegorzphoto  Site : \ud83c\uddee\ud83c\uddf8 iceland",
+    "labels": [],
+    "entities": [
+        {
+            "text": "iceland",
+            "start_pos": 53,
+            "end_pos": 60,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9982988238334656
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Select",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 7,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "mattberthou",
+            "start_pos": 11,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "grzegorzphoto",
+            "start_pos": 28,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "Site",
+            "start_pos": 43,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf8",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "iceland",
+            "start_pos": 53,
+            "end_pos": 60,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

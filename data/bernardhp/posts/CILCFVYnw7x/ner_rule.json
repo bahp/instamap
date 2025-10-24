@@ -1,0 +1,50 @@
+[
+    {
+        "text": "\ud83c\uddee\ud83c\uddf8",
+        "start": 737,
+        "end": 739,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf8",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Iceland",
+        "start": 31,
+        "end": 38,
+        "groupdict": {
+            "name": "Iceland",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "iceland",
+        "start": 710,
+        "end": 717,
+        "groupdict": {
+            "name": "iceland",
+            "location": "iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "iceland",
+        "start": 730,
+        "end": 737,
+        "groupdict": {
+            "name": "iceland",
+            "location": "iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

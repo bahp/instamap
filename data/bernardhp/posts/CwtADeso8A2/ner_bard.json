@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"Chongqing\",\n    \"full_address\": \"Chongqing, China\",\n    \"order\": 1,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/chongqing/images/chongqing.jpg\"\n  },\n  {\n    \"name\": \"Summer Palace\",\n    \"full_address\": \"Summer Palace, Yanshan District, Beijing, China\",\n    \"order\": 2,\n    \"image\": \"https://www.chinahighlights.com/beijing/summer-palace.jpg\"\n  },\n  {\n    \"name\": \"Tian Tan Buddha\",\n    \"full_address\": \"Ngong Ping, Lantau Island, Hong Kong, China\",\n    \"order\": 3,\n    \"image\": \"https://www.klook.com/blog/wp-content/uploads/2019/04/tian-tan-buddha-hong-kong.jpg\"\n  },\n  {\n    \"name\": \"The Westlake\",\n    \"full_address\": \"Hanghou, China\",\n    \"order\": 4,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/hangzhou/images/westlake.jpg\"\n  },\n  {\n    \"name\": \"The Westlake\",\n    \"full_address\": \"Hanghou, China\",\n    \"order\": 5,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/hangzhou/images/westlake.jpg\"\n  }\n]\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_7ea9df29b287ffa2",
+    "response_id": "r_dbd398727bb612e8",
+    "factuality_queries": null,
+    "text_query": [
+        "[",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_111ec66db19a749d",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"Chongqing\",\n    \"full_address\": \"Chongqing, China\",\n    \"order\": 1,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/chongqing/images/chongqing.jpg\"\n  },\n  {\n    \"name\": \"Summer Palace\",\n    \"full_address\": \"Summer Palace, Yanshan District, Beijing, China\",\n    \"order\": 2,\n    \"image\": \"https://www.chinahighlights.com/beijing/summer-palace.jpg\"\n  },\n  {\n    \"name\": \"Tian Tan Buddha\",\n    \"full_address\": \"Ngong Ping, Lantau Island, Hong Kong, China\",\n    \"order\": 3,\n    \"image\": \"https://www.klook.com/blog/wp-content/uploads/2019/04/tian-tan-buddha-hong-kong.jpg\"\n  },\n  {\n    \"name\": \"The Westlake\",\n    \"full_address\": \"Hanghou, China\",\n    \"order\": 4,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/hangzhou/images/westlake.jpg\"\n  },\n  {\n    \"name\": \"The Westlake\",\n    \"full_address\": \"Hanghou, China\",\n    \"order\": 5,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/hangzhou/images/westlake.jpg\"\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_6d09156b6ed7a121",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"Chongqing, China\",\n    \"full_address\": \"Chongqing, China\",\n    \"order\": 1,\n    \"image\": \"https://www.travelchinaguide.com/images/china_travel_destinations/chongqing/chongqing_night_view.jpg\"\n  },\n  {\n    \"name\": \"Summer Palace, Beijing, China\",\n    \"full_address\": \"19 Yiheyuan Rd, Haidian District, Beijing, China, 100091\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Yihe_Yuan_Summer_Palace_Beijing_China.jpg/1200px-Yihe_Yuan_Summer_Palace_Beijing_China.jpg\"\n  },\n  {\n    \"name\": \"Tian Tan Buddha, Hong Kong, China\",\n    \"full_address\": \"Ngong Ping Rd, Ngong Ping, Lantau Island, Hong Kong\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tian_Tan_Buddha.jpg/1200px-Tian_Tan_Buddha.jpg\"\n  },\n  {\n    \"name\": \"The Westlake, Hangzhou, China\",\n    \"full_address\": \"West Lake, Hangzhou, China\",\n    \"order\": 4,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/West_Lake_Hangzhou.jpg/1200px-West_Lake_Hangzhou.jpg\"\n  },\n  {\n    \"name\": \"The Westlake, Hangzhou, China\",\n    \"full_address\": \"West Lake, Hangzhou, China\",\n    \"order\": 5,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/West_Lake_Hangzhou.jpg/1200px-West_Lake_Hangzhou.jpg\"\n  }\n]\n```\n\nI have added images to each location where possible. Please let me know if you have any other questions."
+            ]
+        },
+        {
+            "id": "rc_4d1a9d7c7d066a6a",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"Chongqing, China\",\n    \"full_address\": \"Chongqing, China\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chongqing_skyline_at_night.jpg/1280px-Chongqing_skyline_at_night.jpg\"\n  },\n  {\n    \"name\": \"Summer Palace, Beijing, China\",\n    \"full_address\": \"Summer Palace, Beijing, China\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Beijing_Summer_Palace_panorama.jpg/1280px-Beijing_Summer_Palace_panorama.jpg\"\n  },\n  {\n    \"name\": \"Tian Tan Buddha, Hong Kong, China\",\n    \"full_address\": \"Tian Tan Buddha, Ngong Ping, Lantau Island, Hong Kong, China\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tian_Tan_Buddha.jpg/1280px-Tian_Tan_Buddha.jpg\"\n  },\n  {\n    \"name\": \"The West Lake, Hangzhou, China\",\n    \"full_address\": \"The West Lake, Hangzhou, China\",\n    \"order\": 4,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/West_Lake_Hangzhou.jpg/1280px-West_Lake_Hangzhou.jpg\"\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Chongqing\",\n    \"full_address\": \"Chongqing, China\",\n    \"order\": 1,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/chongqing/images/chongqing.jpg\"\n  },\n  {\n    \"name\": \"Summer Palace\",\n    \"full_address\": \"Summer Palace, Yanshan District, Beijing, China\",\n    \"order\": 2,\n    \"image\": \"https://www.chinahighlights.com/beijing/summer-palace.jpg\"\n  },\n  {\n    \"name\": \"Tian Tan Buddha\",\n    \"full_address\": \"Ngong Ping, Lantau Island, Hong Kong, China\",\n    \"order\": 3,\n    \"image\": \"https://www.klook.com/blog/wp-content/uploads/2019/04/tian-tan-buddha-hong-kong.jpg\"\n  },\n  {\n    \"name\": \"The Westlake\",\n    \"full_address\": \"Hanghou, China\",\n    \"order\": 4,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/hangzhou/images/westlake.jpg\"\n  },\n  {\n    \"name\": \"The Westlake\",\n    \"full_address\": \"Hanghou, China\",\n    \"order\": 5,\n    \"image\": \"https://www.travelchinaguide.com/cityguide/hangzhou/images/westlake.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

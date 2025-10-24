@@ -1,0 +1,48 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Via dei Librai\",\n      \"full_address\": \"Via dei Librai, Naples, Italy\",\n      \"image\": \"https://www.instagram.com/p/B8a6nN5n65s/\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Naples\",\n      \"full_address\": \"Naples, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Naples_Italy_panorama.jpg/1280px-Naples_Italy_panorama.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_23a9ca6f178cd8e4",
+    "factuality_queries": null,
+    "text_query": [
+        "via dei librai",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_7aec1f9a506271a3",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Via dei Librai\",\n      \"full_address\": \"Via dei Librai, Naples, Italy\",\n      \"image\": \"https://www.instagram.com/p/B8a6nN5n65s/\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Naples\",\n      \"full_address\": \"Naples, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Naples_Italy_panorama.jpg/1280px-Naples_Italy_panorama.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_6f04b7521e97299a",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Naples, Italy\",\n      \"full_address\": \"Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Naples_panorama.jpg/1200px-Naples_panorama.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nThe caption mentions two locations:\n\n* **Naples, Italy** is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. Naples is a major tourist destination, known for its history, art, culture, and food.\n[Image of Naples, Italy]\n\n* **Via dei Librai** is a street in Naples, Italy that is known for its many bookstores. The street is located in the historic center of the city, near the Spaccanapoli shopping district.\n[Image of Via dei Librai, Naples, Italy]\n\nThe caption also mentions several hashtags that are related to books and bookselling. These hashtags suggest that the author of the caption is a book lover and enjoys visiting bookstores."
+            ]
+        },
+        {
+            "id": "rc_db911c5419d83234",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Via dei Librai\",\n      \"full_address\": \"Via dei Librai, 80134 Naples, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Via_dei_Librai_(Naples).jpg/1200px-Via_dei_Librai_(Naples).jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Naples\",\n      \"full_address\": \"Naples, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Naples_Italy_Panoramic_View_from_Castel_Sant_Elmo.jpg/1280px-Naples_Italy_Panoramic_View_from_Castel_Sant_Elmo.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [
+        "https://cdn.contexttravel.com/image/upload/w_1500,q_60/v1661527362/blog/12%20Things%20to%20do%20in%20Naples/naples_hero.jpg",
+        "https://www.contexttravel.com/blog/articles/things-to-do-in-naples-italy",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-P2y8b7RLcoZ_o-Z1ULiYZby9n9slcr5N0oqyvOyCrJH1YdrQiyYhXD-jamK0",
+        "https://mywowo.net/media/images/cache/napoli_spaccanapoli_05_san_biagio_dei_librai_jpg_1200_630_cover_85.jpg",
+        "https://mywowo.net/en/italy/naples/spaccanapoli/san-biagio-dei-librai",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV3t0nXdCRRp9fhDHCOJrcDpuv7LizFsDHBVJqLPilOj6YcLhKDNSn7ypJafVC",
+        "https://cdn.contexttravel.com/image/upload/w_1500,q_60/v1661527362/blog/12%20Things%20to%20do%20in%20Naples/naples_hero.jpg",
+        "https://www.contexttravel.com/blog/articles/things-to-do-in-naples-italy",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-P2y8b7RLcoZ_o-Z1ULiYZby9n9slcr5N0oqyvOyCrJH1YdrQiyYhXD-jamK0",
+        "https://mywowo.net/media/images/cache/napoli_spaccanapoli_05_san_biagio_dei_librai_jpg_1200_630_cover_85.jpg",
+        "https://mywowo.net/en/italy/naples/spaccanapoli/san-biagio-dei-librai",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV3t0nXdCRRp9fhDHCOJrcDpuv7LizFsDHBVJqLPilOj6YcLhKDNSn7ypJafVC"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Via dei Librai\",\n      \"full_address\": \"Via dei Librai, Naples, Italy\",\n      \"image\": \"https://www.instagram.com/p/B8a6nN5n65s/\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Naples\",\n      \"full_address\": \"Naples, Italy\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Naples_Italy_panorama.jpg/1280px-Naples_Italy_panorama.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd : Budapest, Hungary ",
+        "start": 0,
+        "end": 22,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " : Budapest, Hungary "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udded\ud83c\uddfa",
+        "start": 22,
+        "end": 24,
+        "groupdict": {
+            "flag": "\ud83c\udded\ud83c\uddfa",
+            "location": "Hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Hungary",
+        "start": 14,
+        "end": 21,
+        "groupdict": {
+            "name": "Hungary",
+            "location": "Hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

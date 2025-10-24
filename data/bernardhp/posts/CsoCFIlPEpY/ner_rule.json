@@ -1,0 +1,58 @@
+[
+    {
+        "text": "\ud83d\udccd#\u30ed\u30fc\u30bd\u30f3\u5bcc\u58eb\u6cb3\u53e3\u6e56\u753a\u5f79\u5834\u524d\u5e97 ",
+        "start": 40,
+        "end": 57,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "#\u30ed\u30fc\u30bd\u30f3\u5bcc\u58eb\u6cb3\u53e3\u6e56\u753a\u5f79\u5834\u524d\u5e97 "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd#\u672c\u753a\u901a\u5546\u5e97\u8857",
+        "start": 58,
+        "end": 66,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "#\u672c\u753a\u901a\u5546\u5e97\u8857"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd#\u5bcc\u58eb\u5c71\u5922\u306e\u5927\u6a4b ",
+        "start": 67,
+        "end": 77,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "#\u5bcc\u58eb\u5c71\u5922\u306e\u5927\u6a4b "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd#\u6cb3\u53e3\u6d45\u9593\u795e\u793e #\u5929\u7a7a\u306e\u9ce5\u5c45 ",
+        "start": 78,
+        "end": 94,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "#\u6cb3\u53e3\u6d45\u9593\u795e\u793e #\u5929\u7a7a\u306e\u9ce5\u5c45 "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

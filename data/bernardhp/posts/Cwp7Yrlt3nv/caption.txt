@@ -1,0 +1,17 @@
+¡Este trucazo es indispensable si eres programador web!
+
+Comparte tu localhost con cualquiera en segundos.
+¡Con una URL accesible en todo el mundo con HTTPS!
+
+Así puedes ir enseñando el trabajo que llevas a tus colegas y compañeros de trabajo. 
+
+$ brew install cloudflared
+$ cloudflared tunnel —url http://localhost:3000
+
+Es una alternativa a ngrok.
+
+Para instalar en tu sistema operativo busca: “cloudflare tunnel cli” y en la documentación te explica paso a paso.
+
+¿Qué te parece el truco? ¡Deja tu like!
+
+#programacion #programador #programadores #software #informatica

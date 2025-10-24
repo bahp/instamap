@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd Serengeti , Tanzania ",
+        "start": 0,
+        "end": 23,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Serengeti , Tanzania "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf9\ud83c\uddff",
+        "start": 23,
+        "end": 25,
+        "groupdict": {
+            "flag": "\ud83c\uddf9\ud83c\uddff",
+            "location": "Tanzania, United Republic of"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

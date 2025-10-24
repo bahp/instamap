@@ -1,0 +1,440 @@
+{
+    "text": "Autumn \ud83c\udf41  \"A forest in the water. Autumn sure is approaching quick. My favourite place to spend it is in Asia. The climate is perfect for traveling and the orange scenery is gorgeous there. Probably won\u2019t be able to visit this year with everything going on.\" \ud83c\udde8\ud83c\uddf3 #discoverChina with @kaiyhun  #china #autumn #Asia #forest",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Asia",
+            "start_pos": 105,
+            "end_pos": 109,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9974581599235535
+                }
+            ]
+        },
+        {
+            "text": "Asia",
+            "start_pos": 308,
+            "end_pos": 312,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9358234405517578
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Autumn",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf41",
+            "start_pos": 7,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 11,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "forest",
+            "start_pos": 13,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 20,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 23,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "water",
+            "start_pos": 27,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "Autumn",
+            "start_pos": 34,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "sure",
+            "start_pos": 41,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 46,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "approaching",
+            "start_pos": 49,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "quick",
+            "start_pos": 61,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "My",
+            "start_pos": 68,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 71,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 81,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 87,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "spend",
+            "start_pos": 90,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 96,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 99,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 102,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "Asia",
+            "start_pos": 105,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 111,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "climate",
+            "start_pos": 115,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 123,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "perfect",
+            "start_pos": 126,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 134,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "traveling",
+            "start_pos": 138,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 148,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 152,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "orange",
+            "start_pos": 156,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "scenery",
+            "start_pos": 163,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 171,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "gorgeous",
+            "start_pos": 174,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 183,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 188,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "Probably",
+            "start_pos": 190,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "wo",
+            "start_pos": 199,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "n\u2019t",
+            "start_pos": 201,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 205,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "able",
+            "start_pos": 208,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 213,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 216,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 222,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "year",
+            "start_pos": 227,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 232,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "everything",
+            "start_pos": 237,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "going",
+            "start_pos": 248,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 254,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 256,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 257,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\uddf3",
+            "start_pos": 259,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 262,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "discoverChina",
+            "start_pos": 263,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 277,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 282,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "kaiyhun",
+            "start_pos": 283,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 292,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "china",
+            "start_pos": 293,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 299,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "autumn",
+            "start_pos": 300,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 307,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "Asia",
+            "start_pos": 308,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 313,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "forest",
+            "start_pos": 314,
+            "end_pos": 320,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

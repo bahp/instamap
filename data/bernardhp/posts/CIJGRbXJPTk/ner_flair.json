@@ -1,0 +1,168 @@
+{
+    "text": "Christmas is Coming \u2764 Vienna, Austria  Congrats @chaulafanita  Use #map_of_europe #Vienna",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Vienna",
+            "start_pos": 22,
+            "end_pos": 28,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6625193357467651
+                }
+            ]
+        },
+        {
+            "text": "Austria",
+            "start_pos": 30,
+            "end_pos": 37,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9073392152786255
+                }
+            ]
+        },
+        {
+            "text": "europe",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.4921864867210388
+                }
+            ]
+        },
+        {
+            "text": "Vienna",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.998568058013916
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Christmas",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "Coming",
+            "start_pos": 13,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Vienna",
+            "start_pos": 22,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Austria",
+            "start_pos": 30,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 39,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "chaulafanita",
+            "start_pos": 49,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 63,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 68,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 72,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "Vienna",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

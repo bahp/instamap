@@ -1,0 +1,62 @@
+[
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 343,
+        "end": 345,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Japan",
+        "start": 113,
+        "end": 118,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 228,
+        "end": 233,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 330,
+        "end": 335,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 375,
+        "end": 380,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

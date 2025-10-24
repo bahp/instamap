@@ -1,0 +1,698 @@
+{
+    "text": "This views can't get better\ud83d\ude0d. Have you been to \ud83d\udccdValley of Fire State Park, Nevada? . \ud83c\uddfa\ud83c\uddf2Follow \ud83d\udc49@explore.the.usa \ud83d\udc48 For More Amazing Travelling Destinations. . \ud83d\udcf8@christopherballadarez @v_outdoors\ud83d\udcaf . . . . . . . . #archesnps #archesnationalpark #valleyoffirestatepark #travelnevada #valleyoffire  #nevadacityca  #utahroadtrip  #californiastateparks #nationalparkusa  #coastalhighway #californiaexplored #californiahiking #utahisbeautiful #roadtripusa  #nevadaroadtrip  #nevadastateparks  #yosemitenps #yosemitevillage  #roadtrip2020 #travelideas #yosemitelive #travelphotography #usatravel #usatour  #national_park_photography #nationalparkgeek #roadtripphotography #roadtripcalifornia #roadtripamerica",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Valley of Fire State Park",
+            "start_pos": 48,
+            "end_pos": 73,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7557268381118775
+                }
+            ]
+        },
+        {
+            "text": "Nevada",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9990174770355225
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "This",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "views",
+            "start_pos": 5,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "ca",
+            "start_pos": 11,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "n't",
+            "start_pos": 13,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "get",
+            "start_pos": 17,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "better",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 30,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 35,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 39,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "Valley",
+            "start_pos": 48,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 55,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "Fire",
+            "start_pos": 58,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "State",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "Park",
+            "start_pos": 69,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Nevada",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddfa\ud83c\uddf2",
+            "start_pos": 85,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 87,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49@",
+            "start_pos": 94,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "explore.the.usa",
+            "start_pos": 96,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc48",
+            "start_pos": 112,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "For",
+            "start_pos": 114,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "More",
+            "start_pos": 118,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "Amazing",
+            "start_pos": 123,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "Travelling",
+            "start_pos": 131,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "Destinations",
+            "start_pos": 142,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 154,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 156,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8@",
+            "start_pos": 158,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "christopherballadarez",
+            "start_pos": 160,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "v",
+            "start_pos": 183,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 184,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "outdoors",
+            "start_pos": 185,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcaf",
+            "start_pos": 193,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 195,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 197,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 199,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 201,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 203,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 205,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 207,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 209,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 211,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "archesnps",
+            "start_pos": 212,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 222,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "archesnationalpark",
+            "start_pos": 223,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 242,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "valleyoffirestatepark",
+            "start_pos": 243,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 265,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "travelnevada",
+            "start_pos": 266,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 279,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "valleyoffire",
+            "start_pos": 280,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 294,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "nevadacityca",
+            "start_pos": 295,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 309,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "utahroadtrip",
+            "start_pos": 310,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "californiastateparks",
+            "start_pos": 325,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "nationalparkusa",
+            "start_pos": 347,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 364,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "coastalhighway",
+            "start_pos": 365,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 380,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "californiaexplored",
+            "start_pos": 381,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 400,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "californiahiking",
+            "start_pos": 401,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 418,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "utahisbeautiful",
+            "start_pos": 419,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 435,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "roadtripusa",
+            "start_pos": 436,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 449,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "nevadaroadtrip",
+            "start_pos": 450,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 466,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "nevadastateparks",
+            "start_pos": 467,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 485,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "yosemitenps",
+            "start_pos": 486,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 498,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "yosemitevillage",
+            "start_pos": 499,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 516,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "roadtrip2020",
+            "start_pos": 517,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 530,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "travelideas",
+            "start_pos": 531,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 543,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "yosemitelive",
+            "start_pos": 544,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 557,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "travelphotography",
+            "start_pos": 558,
+            "end_pos": 575,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 576,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "usatravel",
+            "start_pos": 577,
+            "end_pos": 586,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 587,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "usatour",
+            "start_pos": 588,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 597,
+            "end_pos": 598,
+            "labels": []
+        },
+        {
+            "text": "national",
+            "start_pos": 598,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 606,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "park",
+            "start_pos": 607,
+            "end_pos": 611,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 611,
+            "end_pos": 612,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 612,
+            "end_pos": 623,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 624,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "nationalparkgeek",
+            "start_pos": 625,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 642,
+            "end_pos": 643,
+            "labels": []
+        },
+        {
+            "text": "roadtripphotography",
+            "start_pos": 643,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 663,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "roadtripcalifornia",
+            "start_pos": 664,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 683,
+            "end_pos": 684,
+            "labels": []
+        },
+        {
+            "text": "roadtripamerica",
+            "start_pos": 684,
+            "end_pos": 699,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

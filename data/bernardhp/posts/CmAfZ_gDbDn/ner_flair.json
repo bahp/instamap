@@ -1,0 +1,255 @@
+{
+    "text": "Sembalun land that is given a lot of beauty  #sembalun #folkscenery #discoverearth  #djiera #djiglobal #lombok #discovery #rinjani #visit #beautifuldestinations  #wonderfulindonesia #folkindonesia #folkscenery #earthpix #earth",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Sembalun",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.32273125648498535
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Sembalun",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "land",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 19,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "given",
+            "start_pos": 22,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "lot",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 34,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 37,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "sembalun",
+            "start_pos": 46,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "folkscenery",
+            "start_pos": 56,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "discoverearth",
+            "start_pos": 69,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "djiera",
+            "start_pos": 85,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "djiglobal",
+            "start_pos": 93,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "lombok",
+            "start_pos": 104,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 111,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "discovery",
+            "start_pos": 112,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 122,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "rinjani",
+            "start_pos": 123,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 132,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 139,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "wonderfulindonesia",
+            "start_pos": 163,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "folkindonesia",
+            "start_pos": 183,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 197,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "folkscenery",
+            "start_pos": 198,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 210,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "earthpix",
+            "start_pos": 211,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 220,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "earth",
+            "start_pos": 221,
+            "end_pos": 226,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

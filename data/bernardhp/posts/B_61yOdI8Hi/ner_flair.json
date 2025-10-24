@@ -1,0 +1,355 @@
+{
+    "text": "\ud83c\uddef\ud83c\uddf5#discoverjapan : The Yokote Kamakura Matsuri, also known as Yokote Snow Festival, has been an annual tradition in Akita Prefecture for nearly half a millennium. In this case, kamakura refers to the snow huts that are the highlight of the festival. Picture by :  @hrk1108",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Yokote Kamakura Matsuri",
+            "start_pos": 23,
+            "end_pos": 46,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7818593283494314
+                }
+            ]
+        },
+        {
+            "text": "Yokote Snow Festival",
+            "start_pos": 62,
+            "end_pos": 82,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9543039997418722
+                }
+            ]
+        },
+        {
+            "text": "Akita Prefecture",
+            "start_pos": 116,
+            "end_pos": 132,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9838267266750336
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddef\ud83c\uddf5#",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "discoverjapan",
+            "start_pos": 3,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 19,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Yokote",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Kamakura",
+            "start_pos": 30,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Matsuri",
+            "start_pos": 39,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "also",
+            "start_pos": 48,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "known",
+            "start_pos": 53,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "Yokote",
+            "start_pos": 62,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "Snow",
+            "start_pos": 69,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Festival",
+            "start_pos": 74,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 84,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 88,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 93,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "annual",
+            "start_pos": 96,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "tradition",
+            "start_pos": 103,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 113,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "Akita",
+            "start_pos": 116,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "Prefecture",
+            "start_pos": 122,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 133,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "nearly",
+            "start_pos": 137,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "half",
+            "start_pos": 144,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 149,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "millennium",
+            "start_pos": 151,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 161,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 163,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 166,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "case",
+            "start_pos": 171,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "kamakura",
+            "start_pos": 177,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "refers",
+            "start_pos": 186,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 193,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 196,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "snow",
+            "start_pos": 200,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "huts",
+            "start_pos": 205,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 210,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 215,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 219,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "highlight",
+            "start_pos": 223,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 233,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 236,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "festival",
+            "start_pos": 240,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 248,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "Picture",
+            "start_pos": 250,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 258,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 261,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 264,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "hrk1108",
+            "start_pos": 265,
+            "end_pos": 272,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

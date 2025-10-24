@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Thailand",
+        "start": 55,
+        "end": 63,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 217,
+        "end": 225,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

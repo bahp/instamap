@@ -1,0 +1,534 @@
+{
+    "text": "Se llama Playa del Silencio y est\u00e1 en Cudillero, Asturias. Esta incre\u00edble playa te sorprende tanto por su costa accidentada, como por el contraste de sus aguas con la naturaleza verde que la envuelve. Un lugar para pasar un d\u00eda hasta el atardecer y desconectar de los me gusta, las notas de voz y los quehaceres. Etiqueta a la persona con la que quieres desconectar.\u2060 \u2060 Foto v\u00eda @asturias_ig",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Se llama Playa del Silencio y est\u00e1 en",
+            "start_pos": 0,
+            "end_pos": 37,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8010498397052288
+                }
+            ]
+        },
+        {
+            "text": "Cudillero",
+            "start_pos": 38,
+            "end_pos": 47,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5373780131340027
+                }
+            ]
+        },
+        {
+            "text": "Asturias",
+            "start_pos": 49,
+            "end_pos": 57,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9740740656852722
+                }
+            ]
+        },
+        {
+            "text": "asturias",
+            "start_pos": 380,
+            "end_pos": 388,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.46484342217445374
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Se",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "llama",
+            "start_pos": 3,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Playa",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 15,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Silencio",
+            "start_pos": 19,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "est\u00e1",
+            "start_pos": 30,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Cudillero",
+            "start_pos": 38,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "Asturias",
+            "start_pos": 49,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "Esta",
+            "start_pos": 59,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "incre\u00edble",
+            "start_pos": 64,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "playa",
+            "start_pos": 74,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "te",
+            "start_pos": 80,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "sorprende",
+            "start_pos": 83,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "tanto",
+            "start_pos": 93,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "por",
+            "start_pos": 99,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 103,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "costa",
+            "start_pos": 106,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "accidentada",
+            "start_pos": 112,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "como",
+            "start_pos": 125,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "por",
+            "start_pos": 130,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 134,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "contraste",
+            "start_pos": 137,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 147,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "sus",
+            "start_pos": 150,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "aguas",
+            "start_pos": 154,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 160,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 164,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "naturaleza",
+            "start_pos": 167,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "verde",
+            "start_pos": 178,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 184,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 188,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "envuelve",
+            "start_pos": 191,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 199,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "Un",
+            "start_pos": 201,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "lugar",
+            "start_pos": 204,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 210,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "pasar",
+            "start_pos": 215,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 221,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "d\u00eda",
+            "start_pos": 224,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "hasta",
+            "start_pos": 228,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 234,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "atardecer",
+            "start_pos": 237,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 247,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "desconectar",
+            "start_pos": 249,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 261,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 264,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 268,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "gusta",
+            "start_pos": 271,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "las",
+            "start_pos": 278,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "notas",
+            "start_pos": 282,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 288,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "voz",
+            "start_pos": 291,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 295,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 297,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "quehaceres",
+            "start_pos": 301,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 311,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "Etiqueta",
+            "start_pos": 313,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 322,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 324,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "persona",
+            "start_pos": 327,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 335,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 339,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 342,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "quieres",
+            "start_pos": 346,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "desconectar",
+            "start_pos": 354,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 365,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 366,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "Foto",
+            "start_pos": 370,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "v\u00eda",
+            "start_pos": 375,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 379,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "asturias",
+            "start_pos": 380,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 388,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 389,
+            "end_pos": 391,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

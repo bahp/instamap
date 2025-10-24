@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverJapan ",
+        "start": 899,
+        "end": 916,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverJapan "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 16,
+        "end": 18,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

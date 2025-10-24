@@ -1,0 +1,320 @@
+{
+    "text": "\ud83c\udf0d\ud83c\uddee\ud83c\uddf9 Duomo di San Giorgio, Ragusa \ud83c\uddee\ud83c\uddf9\ud83c\udf0f  #italy #italy\ud83c\uddee\ud83c\uddf9 #italytravel #italytrip #madeinitaly #whatitalyis #visitiraly #italytour #italyfood #photos_of_italy  #italyiloveyou #traveler #seascape #igersitalia #vacation #tourism   \ud83d\udcf8 @consuelorotri",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Duomo di San Giorgio",
+            "start_pos": 4,
+            "end_pos": 24,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8732062578201294
+                }
+            ]
+        },
+        {
+            "text": "Ragusa",
+            "start_pos": 26,
+            "end_pos": 32,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5886653065681458
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udf0d\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "Duomo",
+            "start_pos": 4,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "San",
+            "start_pos": 13,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Giorgio",
+            "start_pos": 17,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "Ragusa",
+            "start_pos": 26,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9\ud83c\udf0f",
+            "start_pos": 33,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 39,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 46,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "italytravel",
+            "start_pos": 55,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "italytrip",
+            "start_pos": 68,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "madeinitaly",
+            "start_pos": 79,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "whatitalyis",
+            "start_pos": 92,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "visitiraly",
+            "start_pos": 105,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "italytour",
+            "start_pos": 117,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 127,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "italyfood",
+            "start_pos": 128,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 139,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 145,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 146,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 148,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 149,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 156,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "italyiloveyou",
+            "start_pos": 157,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 171,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "traveler",
+            "start_pos": 172,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 181,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "seascape",
+            "start_pos": 182,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 191,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "igersitalia",
+            "start_pos": 192,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 204,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "vacation",
+            "start_pos": 205,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "tourism",
+            "start_pos": 215,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 225,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 227,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "consuelorotri",
+            "start_pos": 228,
+            "end_pos": 241,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

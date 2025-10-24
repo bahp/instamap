@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\udded\ud83c\uddfa",
+        "start": 36,
+        "end": 38,
+        "groupdict": {
+            "flag": "\ud83c\udded\ud83c\uddfa",
+            "location": "Hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Hungary",
+        "start": 10,
+        "end": 17,
+        "groupdict": {
+            "name": "Hungary",
+            "location": "Hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "hungary",
+        "start": 19,
+        "end": 26,
+        "groupdict": {
+            "name": "hungary",
+            "location": "hungary"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

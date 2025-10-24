@@ -1,0 +1,26 @@
+[
+    {
+        "text": "ITALY",
+        "start": 93,
+        "end": 98,
+        "groupdict": {
+            "name": "ITALY",
+            "location": "ITALY"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "italy",
+        "start": 746,
+        "end": 751,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

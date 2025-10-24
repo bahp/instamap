@@ -1,0 +1,361 @@
+{
+    "text": "Royal Palace of Caserta, Italy \ud83c\uddee\ud83c\uddf9\u2764 Have you ever been to this place? \ud83d\udc47 Photos by : 1 - @dralbarias 2 - @francescolp4 3 - @fnc_86 4 - @davide_losapio 5, 6, 7, 8, 9, 10 - @mimmo.schiavo",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Royal Palace of Caserta",
+            "start_pos": 0,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6555423736572266
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999772846698761
+                }
+            ]
+        },
+        {
+            "text": "losapio",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9177513718605042
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Royal",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Palace",
+            "start_pos": 6,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Caserta",
+            "start_pos": 16,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9\u2764",
+            "start_pos": 31,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 35,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 40,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 44,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 49,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 54,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 57,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 62,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc47",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 71,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "dralbarias",
+            "start_pos": 88,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 99,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 101,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "francescolp4",
+            "start_pos": 104,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 121,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "fnc",
+            "start_pos": 122,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "86",
+            "start_pos": 126,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "4",
+            "start_pos": 129,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "davide",
+            "start_pos": 134,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 140,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "losapio",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "5",
+            "start_pos": 149,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 150,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "6",
+            "start_pos": 152,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 153,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "7",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 156,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "8",
+            "start_pos": 158,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "9",
+            "start_pos": 161,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 164,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 167,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "mimmo.schiavo",
+            "start_pos": 170,
+            "end_pos": 183,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

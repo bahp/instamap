@@ -1,0 +1,111 @@
+{
+    "text": "Snowy Days in Budapest \u2744 Photo by @krenn_imre #planet_locations",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Budapest",
+            "start_pos": 14,
+            "end_pos": 22,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9619355201721191
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Snowy",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Days",
+            "start_pos": 6,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 11,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "Budapest",
+            "start_pos": 14,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "\u2744",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 31,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "krenn",
+            "start_pos": 35,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "imre",
+            "start_pos": 41,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "planet",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "locations",
+            "start_pos": 54,
+            "end_pos": 63,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

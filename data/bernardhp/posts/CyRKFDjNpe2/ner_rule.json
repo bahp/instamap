@@ -1,0 +1,38 @@
+[
+    {
+        "text": "Malta",
+        "start": 57,
+        "end": 62,
+        "groupdict": {
+            "name": "Malta",
+            "location": "Malta"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "malta",
+        "start": 467,
+        "end": 472,
+        "groupdict": {
+            "name": "malta",
+            "location": "malta"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "malta",
+        "start": 476,
+        "end": 481,
+        "groupdict": {
+            "name": "malta",
+            "location": "malta"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

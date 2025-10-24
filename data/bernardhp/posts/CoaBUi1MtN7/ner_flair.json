@@ -1,0 +1,189 @@
+{
+    "text": "\ud83d\udca1Tenoch Huerta - \u201cHaz un pinche gol para que se caiga el estadio\u201d  #tenochhuerta #namor #wakandaforever #actor #actriz #actuacion",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Tenoch Huerta",
+            "start_pos": 1,
+            "end_pos": 14,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7195936441421509
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udca1",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Tenoch",
+            "start_pos": 1,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "Huerta",
+            "start_pos": 8,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Haz",
+            "start_pos": 18,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "pinche",
+            "start_pos": 25,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "gol",
+            "start_pos": 32,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 36,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 41,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "se",
+            "start_pos": 45,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "caiga",
+            "start_pos": 48,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 54,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "estadio",
+            "start_pos": 57,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "tenochhuerta",
+            "start_pos": 68,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "namor",
+            "start_pos": 82,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "wakandaforever",
+            "start_pos": 89,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "actor",
+            "start_pos": 105,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 111,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "actriz",
+            "start_pos": 112,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "actuacion",
+            "start_pos": 120,
+            "end_pos": 129,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

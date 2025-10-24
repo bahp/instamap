@@ -1,0 +1,1678 @@
+{
+    "text": "\ud83d\udc47 Details  \ud83e\udd29 This hike has really overwhelmed me! A beautiful ridge walk with an all-round view that makes you dreaming. This hike is one of my top hikes that I have done this year. Not only the ridge (called Arnigrat) is the highlight of the hike - also the beautiful nature, which shows itself on the whole trail is to enjoy. The hike is located in the canton of Obwalden in Switzerland.  \u2757One thing in advance: the hike is not to be underestimated in terms of altitude and the ridge is marked blue-white (alpine route / T3+ / T4). Please read all the information carefully.  \u2714 You should be surefooted, as the grade is narrow. Technically it is not demanding and you do not need any additional equipment. If you don\u2019t have any alpine experience, take a person with you, who already has experience. If you have already done alpine tours, then this one will most likely not be a problem for you.  \ud83d\udccd Starting point is St\u00f6ckalp (OW)  \ud83e\udd7e follow the waymarks in the direction of Stepfen, Wandelen and from there follow the alpine hike trail (blue-white) over the arnigrat and then towards fl\u00fceli ranft.  \u27a1 17 KM \u2b06 1300 HM \u2b07 1600 HM    \u2754If you have any questions, let me know in the comments - I will try to answer all of them.  \ud83d\udc49 save this Post for your next hike",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Arnigrat",
+            "start_pos": 209,
+            "end_pos": 217,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8171664476394653
+                }
+            ]
+        },
+        {
+            "text": "Obwalden",
+            "start_pos": 365,
+            "end_pos": 373,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9987674951553345
+                }
+            ]
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 377,
+            "end_pos": 388,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999097585678101
+                }
+            ]
+        },
+        {
+            "text": "St\u00f6ckalp",
+            "start_pos": 918,
+            "end_pos": 926,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.3592729866504669
+                }
+            ]
+        },
+        {
+            "text": "Stepfen",
+            "start_pos": 975,
+            "end_pos": 982,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9848161935806274
+                }
+            ]
+        },
+        {
+            "text": "Wandelen",
+            "start_pos": 984,
+            "end_pos": 992,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8475974798202515
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udc47",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Details",
+            "start_pos": 2,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd29",
+            "start_pos": 11,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 13,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 23,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "really",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "overwhelmed",
+            "start_pos": 34,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 46,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 52,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "ridge",
+            "start_pos": 62,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "walk",
+            "start_pos": 68,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 73,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "all-round",
+            "start_pos": 81,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "view",
+            "start_pos": 91,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 96,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "makes",
+            "start_pos": 101,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 107,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "dreaming",
+            "start_pos": 111,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 121,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 126,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 131,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 134,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 138,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 141,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "top",
+            "start_pos": 144,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "hikes",
+            "start_pos": 148,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 154,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 161,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "done",
+            "start_pos": 166,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 171,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "year",
+            "start_pos": 176,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 180,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "Not",
+            "start_pos": 182,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "only",
+            "start_pos": 186,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 191,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "ridge",
+            "start_pos": 195,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 201,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "called",
+            "start_pos": 202,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "Arnigrat",
+            "start_pos": 209,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 217,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 219,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 222,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "highlight",
+            "start_pos": 226,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 236,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 239,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 243,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 248,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "also",
+            "start_pos": 250,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 255,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 259,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 269,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 275,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "which",
+            "start_pos": 277,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "shows",
+            "start_pos": 283,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "itself",
+            "start_pos": 289,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 296,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 299,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "whole",
+            "start_pos": 303,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "trail",
+            "start_pos": 309,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 315,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 318,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "enjoy",
+            "start_pos": 321,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 326,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 328,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 332,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 337,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 340,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 348,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 351,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "canton",
+            "start_pos": 355,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 362,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "Obwalden",
+            "start_pos": 365,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 374,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 377,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 388,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "\u2757",
+            "start_pos": 391,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "One",
+            "start_pos": 392,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "thing",
+            "start_pos": 396,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 402,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "advance",
+            "start_pos": 405,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 412,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 414,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 418,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 423,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 426,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 430,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 433,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "underestimated",
+            "start_pos": 436,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 451,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "terms",
+            "start_pos": 454,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 460,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "altitude",
+            "start_pos": 463,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 472,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 476,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "ridge",
+            "start_pos": 480,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 486,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "marked",
+            "start_pos": 489,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "blue-white",
+            "start_pos": 496,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 507,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "alpine",
+            "start_pos": 508,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "route",
+            "start_pos": 515,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 521,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "T3",
+            "start_pos": 523,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "+",
+            "start_pos": 525,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 527,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "T4",
+            "start_pos": 529,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 531,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 532,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "Please",
+            "start_pos": 534,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "read",
+            "start_pos": 541,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 546,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 550,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "information",
+            "start_pos": 554,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "carefully",
+            "start_pos": 566,
+            "end_pos": 575,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 575,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "\u2714",
+            "start_pos": 578,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "You",
+            "start_pos": 580,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "should",
+            "start_pos": 584,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 591,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "surefooted",
+            "start_pos": 594,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 604,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 606,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 609,
+            "end_pos": 612,
+            "labels": []
+        },
+        {
+            "text": "grade",
+            "start_pos": 613,
+            "end_pos": 618,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 619,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "narrow",
+            "start_pos": 622,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 628,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "Technically",
+            "start_pos": 630,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 642,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 645,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 648,
+            "end_pos": 651,
+            "labels": []
+        },
+        {
+            "text": "demanding",
+            "start_pos": 652,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 662,
+            "end_pos": 665,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 666,
+            "end_pos": 669,
+            "labels": []
+        },
+        {
+            "text": "do",
+            "start_pos": 670,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 673,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "need",
+            "start_pos": 677,
+            "end_pos": 681,
+            "labels": []
+        },
+        {
+            "text": "any",
+            "start_pos": 682,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "additional",
+            "start_pos": 686,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "equipment",
+            "start_pos": 697,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 706,
+            "end_pos": 707,
+            "labels": []
+        },
+        {
+            "text": "If",
+            "start_pos": 708,
+            "end_pos": 710,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 711,
+            "end_pos": 714,
+            "labels": []
+        },
+        {
+            "text": "do",
+            "start_pos": 715,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "n\u2019t",
+            "start_pos": 717,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 721,
+            "end_pos": 725,
+            "labels": []
+        },
+        {
+            "text": "any",
+            "start_pos": 726,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "alpine",
+            "start_pos": 730,
+            "end_pos": 736,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 737,
+            "end_pos": 747,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 747,
+            "end_pos": 748,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 749,
+            "end_pos": 753,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 754,
+            "end_pos": 755,
+            "labels": []
+        },
+        {
+            "text": "person",
+            "start_pos": 756,
+            "end_pos": 762,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 763,
+            "end_pos": 767,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 768,
+            "end_pos": 771,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 771,
+            "end_pos": 772,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 773,
+            "end_pos": 776,
+            "labels": []
+        },
+        {
+            "text": "already",
+            "start_pos": 777,
+            "end_pos": 784,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 785,
+            "end_pos": 788,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 789,
+            "end_pos": 799,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 799,
+            "end_pos": 800,
+            "labels": []
+        },
+        {
+            "text": "If",
+            "start_pos": 801,
+            "end_pos": 803,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 804,
+            "end_pos": 807,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 808,
+            "end_pos": 812,
+            "labels": []
+        },
+        {
+            "text": "already",
+            "start_pos": 813,
+            "end_pos": 820,
+            "labels": []
+        },
+        {
+            "text": "done",
+            "start_pos": 821,
+            "end_pos": 825,
+            "labels": []
+        },
+        {
+            "text": "alpine",
+            "start_pos": 826,
+            "end_pos": 832,
+            "labels": []
+        },
+        {
+            "text": "tours",
+            "start_pos": 833,
+            "end_pos": 838,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 838,
+            "end_pos": 839,
+            "labels": []
+        },
+        {
+            "text": "then",
+            "start_pos": 840,
+            "end_pos": 844,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 845,
+            "end_pos": 849,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 850,
+            "end_pos": 853,
+            "labels": []
+        },
+        {
+            "text": "will",
+            "start_pos": 854,
+            "end_pos": 858,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 859,
+            "end_pos": 863,
+            "labels": []
+        },
+        {
+            "text": "likely",
+            "start_pos": 864,
+            "end_pos": 870,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 871,
+            "end_pos": 874,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 875,
+            "end_pos": 877,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 878,
+            "end_pos": 879,
+            "labels": []
+        },
+        {
+            "text": "problem",
+            "start_pos": 880,
+            "end_pos": 887,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 888,
+            "end_pos": 891,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 892,
+            "end_pos": 895,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 895,
+            "end_pos": 896,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 898,
+            "end_pos": 899,
+            "labels": []
+        },
+        {
+            "text": "Starting",
+            "start_pos": 900,
+            "end_pos": 908,
+            "labels": []
+        },
+        {
+            "text": "point",
+            "start_pos": 909,
+            "end_pos": 914,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 915,
+            "end_pos": 917,
+            "labels": []
+        },
+        {
+            "text": "St\u00f6ckalp",
+            "start_pos": 918,
+            "end_pos": 926,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 927,
+            "end_pos": 928,
+            "labels": []
+        },
+        {
+            "text": "OW",
+            "start_pos": 928,
+            "end_pos": 930,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 930,
+            "end_pos": 931,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd7e",
+            "start_pos": 933,
+            "end_pos": 934,
+            "labels": []
+        },
+        {
+            "text": "follow",
+            "start_pos": 935,
+            "end_pos": 941,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 942,
+            "end_pos": 945,
+            "labels": []
+        },
+        {
+            "text": "waymarks",
+            "start_pos": 946,
+            "end_pos": 954,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 955,
+            "end_pos": 957,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 958,
+            "end_pos": 961,
+            "labels": []
+        },
+        {
+            "text": "direction",
+            "start_pos": 962,
+            "end_pos": 971,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 972,
+            "end_pos": 974,
+            "labels": []
+        },
+        {
+            "text": "Stepfen",
+            "start_pos": 975,
+            "end_pos": 982,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 982,
+            "end_pos": 983,
+            "labels": []
+        },
+        {
+            "text": "Wandelen",
+            "start_pos": 984,
+            "end_pos": 992,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 993,
+            "end_pos": 996,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 997,
+            "end_pos": 1001,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 1002,
+            "end_pos": 1007,
+            "labels": []
+        },
+        {
+            "text": "follow",
+            "start_pos": 1008,
+            "end_pos": 1014,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1015,
+            "end_pos": 1018,
+            "labels": []
+        },
+        {
+            "text": "alpine",
+            "start_pos": 1019,
+            "end_pos": 1025,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 1026,
+            "end_pos": 1030,
+            "labels": []
+        },
+        {
+            "text": "trail",
+            "start_pos": 1031,
+            "end_pos": 1036,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 1037,
+            "end_pos": 1038,
+            "labels": []
+        },
+        {
+            "text": "blue-white",
+            "start_pos": 1038,
+            "end_pos": 1048,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 1048,
+            "end_pos": 1049,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 1050,
+            "end_pos": 1054,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1055,
+            "end_pos": 1058,
+            "labels": []
+        },
+        {
+            "text": "arnigrat",
+            "start_pos": 1059,
+            "end_pos": 1067,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 1068,
+            "end_pos": 1071,
+            "labels": []
+        },
+        {
+            "text": "then",
+            "start_pos": 1072,
+            "end_pos": 1076,
+            "labels": []
+        },
+        {
+            "text": "towards",
+            "start_pos": 1077,
+            "end_pos": 1084,
+            "labels": []
+        },
+        {
+            "text": "fl\u00fceli",
+            "start_pos": 1085,
+            "end_pos": 1091,
+            "labels": []
+        },
+        {
+            "text": "ranft",
+            "start_pos": 1092,
+            "end_pos": 1097,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1097,
+            "end_pos": 1098,
+            "labels": []
+        },
+        {
+            "text": "\u27a1",
+            "start_pos": 1100,
+            "end_pos": 1101,
+            "labels": []
+        },
+        {
+            "text": "17",
+            "start_pos": 1102,
+            "end_pos": 1104,
+            "labels": []
+        },
+        {
+            "text": "KM",
+            "start_pos": 1105,
+            "end_pos": 1107,
+            "labels": []
+        },
+        {
+            "text": "\u2b06",
+            "start_pos": 1108,
+            "end_pos": 1109,
+            "labels": []
+        },
+        {
+            "text": "1300",
+            "start_pos": 1110,
+            "end_pos": 1114,
+            "labels": []
+        },
+        {
+            "text": "HM",
+            "start_pos": 1115,
+            "end_pos": 1117,
+            "labels": []
+        },
+        {
+            "text": "\u2b07",
+            "start_pos": 1118,
+            "end_pos": 1119,
+            "labels": []
+        },
+        {
+            "text": "1600",
+            "start_pos": 1120,
+            "end_pos": 1124,
+            "labels": []
+        },
+        {
+            "text": "HM",
+            "start_pos": 1125,
+            "end_pos": 1127,
+            "labels": []
+        },
+        {
+            "text": "\u2754",
+            "start_pos": 1131,
+            "end_pos": 1132,
+            "labels": []
+        },
+        {
+            "text": "If",
+            "start_pos": 1132,
+            "end_pos": 1134,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 1135,
+            "end_pos": 1138,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 1139,
+            "end_pos": 1143,
+            "labels": []
+        },
+        {
+            "text": "any",
+            "start_pos": 1144,
+            "end_pos": 1147,
+            "labels": []
+        },
+        {
+            "text": "questions",
+            "start_pos": 1148,
+            "end_pos": 1157,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1157,
+            "end_pos": 1158,
+            "labels": []
+        },
+        {
+            "text": "let",
+            "start_pos": 1159,
+            "end_pos": 1162,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 1163,
+            "end_pos": 1165,
+            "labels": []
+        },
+        {
+            "text": "know",
+            "start_pos": 1166,
+            "end_pos": 1170,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 1171,
+            "end_pos": 1173,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1174,
+            "end_pos": 1177,
+            "labels": []
+        },
+        {
+            "text": "comments",
+            "start_pos": 1178,
+            "end_pos": 1186,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 1187,
+            "end_pos": 1188,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 1189,
+            "end_pos": 1190,
+            "labels": []
+        },
+        {
+            "text": "will",
+            "start_pos": 1191,
+            "end_pos": 1195,
+            "labels": []
+        },
+        {
+            "text": "try",
+            "start_pos": 1196,
+            "end_pos": 1199,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 1200,
+            "end_pos": 1202,
+            "labels": []
+        },
+        {
+            "text": "answer",
+            "start_pos": 1203,
+            "end_pos": 1209,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 1210,
+            "end_pos": 1213,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1214,
+            "end_pos": 1216,
+            "labels": []
+        },
+        {
+            "text": "them",
+            "start_pos": 1217,
+            "end_pos": 1221,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1221,
+            "end_pos": 1222,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 1224,
+            "end_pos": 1225,
+            "labels": []
+        },
+        {
+            "text": "save",
+            "start_pos": 1226,
+            "end_pos": 1230,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 1231,
+            "end_pos": 1235,
+            "labels": []
+        },
+        {
+            "text": "Post",
+            "start_pos": 1236,
+            "end_pos": 1240,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 1241,
+            "end_pos": 1244,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 1245,
+            "end_pos": 1249,
+            "labels": []
+        },
+        {
+            "text": "next",
+            "start_pos": 1250,
+            "end_pos": 1254,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 1255,
+            "end_pos": 1259,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 86,
+        "end": 88,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Spain",
+        "start": 89,
+        "end": 94,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "spain",
+        "start": 403,
+        "end": 408,
+        "groupdict": {
+            "name": "spain",
+            "location": "spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

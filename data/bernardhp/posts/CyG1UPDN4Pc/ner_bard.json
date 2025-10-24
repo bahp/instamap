@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Milan\",\n    \"full_address\": \"Milan, Lombardy, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Milan_from_the_air_with_Tower_Bridge.jpg/220px-Milan_from_the_air_with_Tower_Bridge.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\",\n    \"order\": 2\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_74c7470492bc9128",
+    "factuality_queries": null,
+    "text_query": [
+        "Milan",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_d842902e73ccbf1a",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Milan\",\n    \"full_address\": \"Milan, Lombardy, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Milan_from_the_air_with_Tower_Bridge.jpg/220px-Milan_from_the_air_with_Tower_Bridge.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_091f60546e9b5b26",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Milan\",\n    \"full_address\": \"Milan, Lombardy, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Milan_skyline.jpg/220px-Milan_skyline.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_c66b3bb8f29be05a",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Milan\",\n    \"full_address\": \"Milan, Lombardy, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Milan_from_the_air_with_Tower_Bridge.jpg/220px-Milan_from_the_air_with_Tower_Bridge.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Milan\",\n    \"full_address\": \"Milan, Lombardy, Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Milan_from_the_air_with_Tower_Bridge.jpg/220px-Milan_from_the_air_with_Tower_Bridge.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\",\n    \"order\": 2\n  }\n]\n",
+    "status_code": 200
+}

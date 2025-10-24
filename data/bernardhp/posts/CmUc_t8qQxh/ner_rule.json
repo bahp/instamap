@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdLocations",
+        "start": 69,
+        "end": 79,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Locations"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddee",
+        "start": 21,
+        "end": 23,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddee",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

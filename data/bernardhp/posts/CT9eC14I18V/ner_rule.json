@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf4",
+        "start": 40,
+        "end": 42,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf4",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Norway",
+        "start": 31,
+        "end": 37,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

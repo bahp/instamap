@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Paris",
+        "subtitle": "Capital city of France",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Champs de Mars",
+        "subtitle": "Large public greenspace in Paris",
+        "lat": 48.8561,
+        "lon": 2.2982,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 1
+    },
+    {
+        "title": "Eiffel Tower",
+        "subtitle": "Iconic wrought-iron lattice tower in Paris",
+        "lat": 48.8584,
+        "lon": 2.2945,
+        "type": "tower",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 1
+    },
+    {
+        "title": "Pont Alexandre III",
+        "subtitle": "Ornate arch bridge over Seine River",
+        "lat": 48.8638,
+        "lon": 2.3134,
+        "type": "bridge",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 2
+    },
+    {
+        "title": "Place des Vosges",
+        "subtitle": "Oldest planned square in Paris",
+        "lat": 48.8552,
+        "lon": 2.3639,
+        "type": "square",
+        "class": "leisure",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 3
+    },
+    {
+        "title": "Sacr\u00e9-C\u0153ur Basilica",
+        "subtitle": "Roman Catholic basilica atop Montmartre",
+        "lat": 48.8867,
+        "lon": 2.3431,
+        "type": "basilica",
+        "class": "place_of_worship",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 4
+    },
+    {
+        "title": "Montmartre",
+        "subtitle": "Historic hill and neighborhood in Paris",
+        "lat": 48.8867,
+        "lon": 2.3431,
+        "type": "neighborhood",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 4
+    }
+]

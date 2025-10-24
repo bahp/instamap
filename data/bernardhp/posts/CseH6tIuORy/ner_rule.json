@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udcda\ud83d\udcda Stift St",
+        "start": 8,
+        "end": 19,
+        "groupdict": {
+            "icon": "\ud83d\udcda",
+            "location": " Stift St"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "austria",
+        "start": 34,
+        "end": 41,
+        "groupdict": {
+            "name": "austria",
+            "location": "austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

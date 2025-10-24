@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd : London, United Kingdom ",
+        "start": 0,
+        "end": 27,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " : London, United Kingdom "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 27,
+        "end": 29,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "United Kingdom",
+        "start": 12,
+        "end": 26,
+        "groupdict": {
+            "name": "United Kingdom",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

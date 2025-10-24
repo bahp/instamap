@@ -1,0 +1,83 @@
+[
+    {
+        "text": "\ud83d\udccdNanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02",
+        "start": 120,
+        "end": 153,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Nanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdRice Terrace Villa Sasayuri-ann",
+        "start": 154,
+        "end": 186,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Rice Terrace Villa Sasayuri-ann"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdNipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a",
+        "start": 198,
+        "end": 238,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 28,
+        "end": 30,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Japan",
+        "start": 22,
+        "end": 27,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 86,
+        "end": 91,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 285,
+        "end": 290,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf8\ud83c\udde6",
+        "start": 100,
+        "end": 102,
+        "groupdict": {
+            "flag": "\ud83c\uddf8\ud83c\udde6",
+            "location": "Saudi Arabia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Saudi Arabia",
+        "start": 87,
+        "end": 99,
+        "groupdict": {
+            "name": "Saudi Arabia",
+            "location": "Saudi Arabia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

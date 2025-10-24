@@ -1,0 +1,336 @@
+{
+    "text": "Aurora borealis over Troms\u00f8 \ud83c\uddf3\ud83c\uddf4 ~ Double Tap \ud83c\udf0d \ud83d\udccd Location: Troms\u00f8, Norway \ud83d\udcf8 Photo by: @vegasti1 \u2022 \u2022 \u2022 \u2022 #norway #norgefoto #norwaytravel #bestofnorway #norgerundt #norgebilder #norwayraw #norwaytrip #naturebrilliance #norway_nature",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Aurora",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5461432933807373
+                }
+            ]
+        },
+        {
+            "text": "Troms\u00f8",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.32670196890830994
+                }
+            ]
+        },
+        {
+            "text": "Troms\u00f8",
+            "start_pos": 58,
+            "end_pos": 64,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9539522528648376
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 66,
+            "end_pos": 72,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9966238737106323
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Aurora",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "borealis",
+            "start_pos": 7,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 16,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "Troms\u00f8",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "~",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Double",
+            "start_pos": 33,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "Tap",
+            "start_pos": 40,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0d",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "Location",
+            "start_pos": 48,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 56,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "Troms\u00f8",
+            "start_pos": 58,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 66,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 75,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 81,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "vegasti1",
+            "start_pos": 86,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 97,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 99,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 101,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 104,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 111,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "norgefoto",
+            "start_pos": 112,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 122,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "norwaytravel",
+            "start_pos": 123,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 136,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "bestofnorway",
+            "start_pos": 137,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 150,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "norgerundt",
+            "start_pos": 151,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "norgebilder",
+            "start_pos": 163,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "norwayraw",
+            "start_pos": 176,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 186,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "norwaytrip",
+            "start_pos": 187,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 198,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "naturebrilliance",
+            "start_pos": 199,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 216,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 217,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 223,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 224,
+            "end_pos": 230,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,22 @@
+{
+    "content": "Sure, here is the code:\n\n```python\nimport json\n\ncaption = \"\"\"Here are some cheap fast foods you can find in Japan under $10! \ud83d\udcb4\ud83e\udd29\ud83c\udf8c\n\n\ud83d\udca1It\u2019s common for Japanese fast food restaurants to offer more healthy and fresh options compared to their American counterparts, such as salads, grilled fish sandwiches, and rice bowls.\n\n\ud83c\udff7\ufe0f Tag someone visiting soon and let them know!\n\n\ud83c\udfa5 @brianplascencia \u2728\n\n\ud83d\udccdJapan\n\n#japanfood #japanfood #japanesefood #foodporn #reels #cheapbuy #ilovejapan\n\"\"\"\n\nlocations = [\n    {\n        \"name\": \"Japan\",\n        \"full_address\": \"Japan\",\n        \"order\": 0\n    }\n]\n\nlocation_data = {\"locations\": locations}\n\nwith open(\"locations.json\", \"w\") as outfile:\n    json.dump(location_data, outfile, indent=4)\n```\n\nThis code creates the following JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Japan\",\n      \"full_address\": \"Japan\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_0558ec5705c53e68",
+    "response_id": "r_53f26a33f4bd408d",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_6569df049a2135a8",
+            "content": [
+                "Sure, here is the code:\n\n```python\nimport json\n\ncaption = \"\"\"Here are some cheap fast foods you can find in Japan under $10! \ud83d\udcb4\ud83e\udd29\ud83c\udf8c\n\n\ud83d\udca1It\u2019s common for Japanese fast food restaurants to offer more healthy and fresh options compared to their American counterparts, such as salads, grilled fish sandwiches, and rice bowls.\n\n\ud83c\udff7\ufe0f Tag someone visiting soon and let them know!\n\n\ud83c\udfa5 @brianplascencia \u2728\n\n\ud83d\udccdJapan\n\n#japanfood #japanfood #japanesefood #foodporn #reels #cheapbuy #ilovejapan\n\"\"\"\n\nlocations = [\n    {\n        \"name\": \"Japan\",\n        \"full_address\": \"Japan\",\n        \"order\": 0\n    }\n]\n\nlocation_data = {\"locations\": locations}\n\nwith open(\"locations.json\", \"w\") as outfile:\n    json.dump(location_data, outfile, indent=4)\n```\n\nThis code creates the following JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Japan\",\n      \"full_address\": \"Japan\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2YTk0YTk0Njg1MGE0Y2E2YjI1NTA2Y2U1N2MyYzk4ZDdlMDBmMDhjMzA&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "python",
+    "code": "\nimport json\n\ncaption = \"\"\"Here are some cheap fast foods you can find in Japan under $10! \ud83d\udcb4\ud83e\udd29\ud83c\udf8c\n\n\ud83d\udca1It\u2019s common for Japanese fast food restaurants to offer more healthy and fresh options compared to their American counterparts, such as salads, grilled fish sandwiches, and rice bowls.\n\n\ud83c\udff7\ufe0f Tag someone visiting soon and let them know!\n\n\ud83c\udfa5 @brianplascencia \u2728\n\n\ud83d\udccdJapan\n\n#japanfood #japanfood #japanesefood #foodporn #reels #cheapbuy #ilovejapan\n\"\"\"\n\nlocations = [\n    {\n        \"name\": \"Japan\",\n        \"full_address\": \"Japan\",\n        \"order\": 0\n    }\n]\n\nlocation_data = {\"locations\": locations}\n\nwith open(\"locations.json\", \"w\") as outfile:\n    json.dump(location_data, outfile, indent=4)\n",
+    "status_code": 200
+}

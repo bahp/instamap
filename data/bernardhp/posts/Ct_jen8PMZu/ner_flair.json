@@ -1,0 +1,284 @@
+{
+    "text": "*** \u5929\u6388\u5eb5/\u77f3\u6a4b Tenju-an Temple/Stone Bridge  \u6df1\u3044\u68ee\u306e\u3088\u3046\u306a\u5883\u5185\u306b\u6d6e\u304b\u3076\u9f8d\u306e\u80cc\u306e\u3088\u3046\u306b\u3082\u898b\u3048\u308b\u77f3\u6a4b\u3002\u81ea\u7136\u3068\u4eba\u5de5\u306e\u5bfe\u6bd4\u306e\u3088\u3046\u3067\u3044\u3066\u3001\u3053\u306e\uff12\u3064\u304c\u63c3\u3046\u3053\u3068\u3067\u7985\u306e\u4e16\u754c\u89b3\u304c\u5b8c\u6210\u3057\u307e\u3059  * #\u4eac\u90fd  #\u5357\u7985\u5bfa #\u5929\u6388\u5eb5 #\u82d4 #\u6df1\u7dd1  #kyoto  #nanzenji #tenjuan  #summer #zen #moss  #traditional  #amazing #beautiful  #breathtaking  #goodtimes #\u30d5\u30a1\u30a4\u30f3\u30c0\u30fc\u8d8a\u3057\u306e\u79c1\u306e\u4e16\u754c #\u305d\u3046\u3060\u4eac\u90fd\u884c\u3053\u3046",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Tenju-an Temple",
+            "start_pos": 11,
+            "end_pos": 26,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.5858134180307388
+                }
+            ]
+        },
+        {
+            "text": "Stone Bridge",
+            "start_pos": 27,
+            "end_pos": 39,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8134765326976776
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "***",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "\u5929\u6388\u5eb5/\u77f3\u6a4b",
+            "start_pos": 4,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "Tenju-an",
+            "start_pos": 11,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Temple",
+            "start_pos": 20,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "Stone",
+            "start_pos": 27,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Bridge",
+            "start_pos": 33,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "\u6df1\u3044\u68ee\u306e\u3088\u3046\u306a\u5883\u5185\u306b\u6d6e\u304b\u3076\u9f8d\u306e\u80cc\u306e\u3088\u3046\u306b\u3082\u898b\u3048\u308b\u77f3\u6a4b\u3002\u81ea\u7136\u3068\u4eba\u5de5\u306e\u5bfe\u6bd4\u306e\u3088\u3046\u3067\u3044\u3066\u3001\u3053\u306e",
+            "start_pos": 41,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "\uff12",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "\u3064\u304c\u63c3\u3046\u3053\u3068\u3067\u7985\u306e\u4e16\u754c\u89b3\u304c\u5b8c\u6210\u3057\u307e\u3059",
+            "start_pos": 86,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "*",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "#\u4eac\u90fd",
+            "start_pos": 108,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "#\u5357\u7985\u5bfa",
+            "start_pos": 113,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "#\u5929\u6388\u5eb5",
+            "start_pos": 118,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "#\u82d4",
+            "start_pos": 123,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "#\u6df1\u7dd1",
+            "start_pos": 126,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "kyoto",
+            "start_pos": 132,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "nanzenji",
+            "start_pos": 140,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 149,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "tenjuan",
+            "start_pos": 150,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "summer",
+            "start_pos": 160,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 167,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "zen",
+            "start_pos": 168,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 172,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "moss",
+            "start_pos": 173,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 179,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "traditional",
+            "start_pos": 180,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 193,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "amazing",
+            "start_pos": 194,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 202,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 203,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "breathtaking",
+            "start_pos": 215,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "goodtimes",
+            "start_pos": 230,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "#\u30d5\u30a1\u30a4\u30f3\u30c0",
+            "start_pos": 240,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "\u30fc",
+            "start_pos": 246,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "\u8d8a\u3057\u306e\u79c1\u306e\u4e16\u754c",
+            "start_pos": 247,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "#\u305d\u3046\u3060\u4eac\u90fd\u884c\u3053\u3046",
+            "start_pos": 255,
+            "end_pos": 264,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

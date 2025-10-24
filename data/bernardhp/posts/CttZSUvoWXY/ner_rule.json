@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdEchizen Daibutsu, Fukui",
+        "start": 60,
+        "end": 84,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Echizen Daibutsu, Fukui"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 55,
+        "end": 57,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Japan",
+        "start": 49,
+        "end": 54,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

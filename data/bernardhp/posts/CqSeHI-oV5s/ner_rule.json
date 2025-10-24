@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdJapan",
+        "start": 327,
+        "end": 333,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Japan",
+        "start": 47,
+        "end": 52,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 328,
+        "end": 333,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

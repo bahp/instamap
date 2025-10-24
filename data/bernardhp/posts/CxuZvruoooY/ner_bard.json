@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Grosvenor Square, Mayfair\",\n    \"full_address\": \"Grosvenor Square, Mayfair, London W1K 6LD\",\n    \"order\": 1\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_78de7955968391f5",
+    "factuality_queries": null,
+    "text_query": [
+        "The @everaftergarden will open in Grosvenor Square, Mayfair from 16 November to 19 December.",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_75d80a562f2a625b",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Grosvenor Square, Mayfair\",\n    \"full_address\": \"Grosvenor Square, Mayfair, London W1K 6LD\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_de7630aa126088f0",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Grosvenor Square, Mayfair\",\n    \"full_address\": \"Grosvenor Square, Mayfair, London, W1K 6LD, UK\",\n    \"order\": 0\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_9184766f12ead138",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Grosvenor Square, Mayfair\",\n    \"full_address\": \"Grosvenor Square, Mayfair, London, W1K 6LD\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Grosvenor Square, Mayfair\",\n    \"full_address\": \"Grosvenor Square, Mayfair, London W1K 6LD\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

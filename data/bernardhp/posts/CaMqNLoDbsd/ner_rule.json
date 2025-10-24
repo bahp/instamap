@@ -1,0 +1,26 @@
+[
+    {
+        "text": "sweden",
+        "start": 992,
+        "end": 998,
+        "groupdict": {
+            "name": "sweden",
+            "location": "sweden"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "sweden",
+        "start": 1084,
+        "end": 1090,
+        "groupdict": {
+            "name": "sweden",
+            "location": "sweden"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

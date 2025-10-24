@@ -1,0 +1,218 @@
+{
+    "text": "Pov: Just found the most beautiful bridge in Japan! \ud83e\udd0d\ud83c\uddef\ud83c\uddf5\ud83d\uddfb \ud83d\udccdFujisan Yumeno Ohashi Bridge  . . #mtfuji #japan #70200mm #bealpha #shootandwander #pov",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Japan",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9986249208450317
+                }
+            ]
+        },
+        {
+            "text": "Fujisan Yumeno Ohashi Bridge",
+            "start_pos": 58,
+            "end_pos": 86,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5654279813170433
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Pov",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "Just",
+            "start_pos": 5,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "found",
+            "start_pos": 10,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 16,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 20,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 25,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "bridge",
+            "start_pos": 35,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd0d\ud83c\uddef\ud83c\uddf5\ud83d\uddfb",
+            "start_pos": 52,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "Fujisan",
+            "start_pos": 58,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "Yumeno",
+            "start_pos": 66,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "Ohashi",
+            "start_pos": 73,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "Bridge",
+            "start_pos": 80,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "mtfuji",
+            "start_pos": 93,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 100,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "japan",
+            "start_pos": 101,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "70200mm",
+            "start_pos": 108,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "bealpha",
+            "start_pos": 117,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "shootandwander",
+            "start_pos": 126,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 141,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "pov",
+            "start_pos": 142,
+            "end_pos": 145,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

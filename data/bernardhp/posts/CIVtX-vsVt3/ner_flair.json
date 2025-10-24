@@ -1,0 +1,33 @@
+{
+    "text": "beautiful corner house \ud83c\udfe0",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "beautiful",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "corner",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "house",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfe0",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

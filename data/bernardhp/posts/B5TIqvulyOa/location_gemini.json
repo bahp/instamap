@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Salar de Uyuni",
+        "subtitle": "World's largest salt flat",
+        "lat": -20.1333,
+        "lon": -67.65,
+        "type": "salt flat",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Bolivia",
+        "subtitle": "South American country",
+        "lat": -16.290154,
+        "lon": -63.588653,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2
+    },
+    {
+        "title": "Bolivian Altiplano",
+        "subtitle": "High plateau region in Bolivia",
+        "lat": -19.0,
+        "lon": -67.0,
+        "type": "plateau",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 3
+    },
+    {
+        "title": "Amazon Basin (Bolivia)",
+        "subtitle": "Rainforest region in eastern Bolivia",
+        "lat": -10.9997,
+        "lon": -66.0754,
+        "type": "basin",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 4
+    },
+    {
+        "title": "Andes Highlands (Bolivia)",
+        "subtitle": "Mountainous area in western Bolivia",
+        "lat": -17.0,
+        "lon": -67.0,
+        "type": "mountain range",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 5
+    }
+]

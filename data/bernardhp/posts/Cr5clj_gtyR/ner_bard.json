@@ -1,0 +1,35 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Fujisan Yumeno Ohashi Bridge\",\n      \"full_address\": \"Fujiyoshida, Yamanashi Prefecture 403-0001, Japan\",\n      \"order\": 1,\n      \"image\": \"https://media.istockphoto.com/photos/fujisan-yumeno-ohashi-bridge-at-sunrise-picture-id1227883595?s=612x612\"\n    },\n    {\n      \"name\": \"Lake Tanuki\",\n      \"full_address\": \"Yoshida, Fujinomiya, Shizuoka Prefecture 418-0102, Japan\",\n      \"order\": 2,\n      \"image\": \"https://media.istockphoto.com/photos/lake-tanuki-fuji-japan-picture-id913405856?s=612x612\"\n    },\n    {\n      \"name\": \"Shimoyoshida Honcho street\",\n      \"full_address\": \"Shimoyoshida, Fujinomiya, Shizuoka Prefecture 418-0095, Japan\",\n      \"order\": 3,\n      \"image\": \"https://media.istockphoto.com/photos/shimoyoshida-honcho-street-in-fujinomiya-japan-picture-id509209392?s=612x612\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_1d9444146bb73e9c",
+    "factuality_queries": null,
+    "text_query": [
+        "locations of Mt.Fuji \ud83d\uddfb in the caption",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_6b9494105e0e25da",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Fujisan Yumeno Ohashi Bridge\",\n      \"full_address\": \"Fujiyoshida, Yamanashi Prefecture 403-0001, Japan\",\n      \"order\": 1,\n      \"image\": \"https://media.istockphoto.com/photos/fujisan-yumeno-ohashi-bridge-at-sunrise-picture-id1227883595?s=612x612\"\n    },\n    {\n      \"name\": \"Lake Tanuki\",\n      \"full_address\": \"Yoshida, Fujinomiya, Shizuoka Prefecture 418-0102, Japan\",\n      \"order\": 2,\n      \"image\": \"https://media.istockphoto.com/photos/lake-tanuki-fuji-japan-picture-id913405856?s=612x612\"\n    },\n    {\n      \"name\": \"Shimoyoshida Honcho street\",\n      \"full_address\": \"Shimoyoshida, Fujinomiya, Shizuoka Prefecture 418-0095, Japan\",\n      \"order\": 3,\n      \"image\": \"https://media.istockphoto.com/photos/shimoyoshida-honcho-street-in-fujinomiya-japan-picture-id509209392?s=612x612\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_06a1c4a69b937aa7",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Fujisan Yumeno Ohashi Bridge\",\n      \"full_address\": \"Fujisan, Yamanashi Prefecture 401-1103, Japan\",\n      \"image\": \"https://images.unsplash.com/photo-1588731430500-317fc7360e2f?ixlib=rb-4.0.3&ixid=MnwzEhM0OTx0dQ&ixsm=auto&s=001c8d069a5211d1c239fa6a608d8f35&auto=format&fit=crop&w=800&q=60\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Lake Tanuki\",\n      \"full_address\": \"Fujisan, Yamanashi Prefecture 401-1103, Japan\",\n      \"image\": \"https://images.unsplash.com/photo-1617497127274-2c605762591d?ixlib=rb-4.0.3&ixid=MnwzEhM0OTx0dQ&ixsm=auto&s=456f075cb8509f414f0a9273727df3d6&auto=format&fit=crop&w=800&q=60\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Shimoyoshida Honcho street\",\n      \"full_address\": \"Fujisan, Yamanashi Prefecture 401-1103, Japan\",\n      \"image\": \"https://images.unsplash.com/photo-1606515547751-88868006a441?ixlib=rb-4.0.3&ixid=MnwzEhM0OTx0dQ&ixsm=auto&s=f20460216125657759799b348c183e28&auto=format&fit=crop&w=800&q=60\",\n      \"order\": 3\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_aea210c87f285f90",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Fujisan Yumeno Ohashi Bridge\",\n      \"full_address\": \"Fujinomiya, Shizuoka Prefecture 418-0001, Japan\",\n      \"order\": 1,\n      \"image\": \"https://cdn.pixabay.com/photo/2022/09/18/13/34/fuji-san-yumeno-ohashi-bridge-7303762_960_720.jpg\"\n    },\n    {\n      \"name\": \"Lake Tanuki\",\n      \"full_address\": \"Fujiyoshida, Yamanashi Prefecture 403-0001, Japan\",\n      \"order\": 2,\n      \"image\": \"https://cdn.pixabay.com/photo/2016/04/12/00/47/lake-saiko-4207028_960_720.jpg\"\n    },\n    {\n      \"name\": \"Shimoyoshida Honcho street\",\n      \"full_address\": \"Fujiyoshida, Yamanashi Prefecture 403-0001, Japan\",\n      \"order\": 3,\n      \"image\": \"https://cdn.pixabay.com/photo/2023/02/17/19/13/shimoyoshida-honcho-street-in-fujiyoshida-japan-5346546_960_720.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Fujisan Yumeno Ohashi Bridge\",\n      \"full_address\": \"Fujiyoshida, Yamanashi Prefecture 403-0001, Japan\",\n      \"order\": 1,\n      \"image\": \"https://media.istockphoto.com/photos/fujisan-yumeno-ohashi-bridge-at-sunrise-picture-id1227883595?s=612x612\"\n    },\n    {\n      \"name\": \"Lake Tanuki\",\n      \"full_address\": \"Yoshida, Fujinomiya, Shizuoka Prefecture 418-0102, Japan\",\n      \"order\": 2,\n      \"image\": \"https://media.istockphoto.com/photos/lake-tanuki-fuji-japan-picture-id913405856?s=612x612\"\n    },\n    {\n      \"name\": \"Shimoyoshida Honcho street\",\n      \"full_address\": \"Shimoyoshida, Fujinomiya, Shizuoka Prefecture 418-0095, Japan\",\n      \"order\": 3,\n      \"image\": \"https://media.istockphoto.com/photos/shimoyoshida-honcho-street-in-fujinomiya-japan-picture-id509209392?s=612x612\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

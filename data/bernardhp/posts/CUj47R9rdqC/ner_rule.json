@@ -1,0 +1,38 @@
+[
+    {
+        "text": "Norway",
+        "start": 15,
+        "end": 21,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 290,
+        "end": 296,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 787,
+        "end": 793,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

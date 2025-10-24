@@ -1,0 +1,966 @@
+{
+    "text": "This is one of my favorite places overlooking Lisbon. This specific one is the ponto final restaurant that became very well known for the series \u201cla casa de papel\u201d and the queue for dinner is huge (so book before you come). You can always watch the sunset with this view in the river garden ahead.  \ud83d\udccd Restaurante Ponto final  \ud83d\udc1aCacilhas, Almada  \ud83d\udee5You can go by boat. \ud83c\udf9fThe value of the boat ticket is 3\u20ac. \ud83d\ude8bYou can use the Lisboa viva pass if you have one. \u23f0The trip is about 10 minutes.  save & share if you like it \ud83e\udef6\ud83c\udffc - #lisbon #lisboa #VisitLisbon #VisitPortugal #ThePrettyCitties #OnGoogleMaps #BBCTravel #BeautifulDestinations #ShotonIphone #sunsetspots #TravellingThroughtTheWorld #TLPicks#IAmTraveller  #sunsetinlisbon #KingsVillage #PortugalLovers #chaicatraveltolisbon",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Lisbon",
+            "start_pos": 46,
+            "end_pos": 52,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.99885094165802
+                }
+            ]
+        },
+        {
+            "text": "Restaurante Ponto final  \ud83d\udc1aCacilhas",
+            "start_pos": 301,
+            "end_pos": 335,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7924837708473206
+                }
+            ]
+        },
+        {
+            "text": "Almada",
+            "start_pos": 337,
+            "end_pos": 343,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.4716262221336365
+                }
+            ]
+        },
+        {
+            "text": "Lisboa",
+            "start_pos": 420,
+            "end_pos": 426,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6112560033798218
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "This",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 5,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 8,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 12,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 18,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "overlooking",
+            "start_pos": 34,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Lisbon",
+            "start_pos": 46,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "specific",
+            "start_pos": 59,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 68,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 72,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 75,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "ponto",
+            "start_pos": 79,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "final",
+            "start_pos": 85,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "restaurant",
+            "start_pos": 91,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 102,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "became",
+            "start_pos": 107,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "very",
+            "start_pos": 114,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "well",
+            "start_pos": 119,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "known",
+            "start_pos": 124,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 130,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 134,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "series",
+            "start_pos": 138,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 145,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 146,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "casa",
+            "start_pos": 149,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 154,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "papel",
+            "start_pos": 157,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 164,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 168,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "queue",
+            "start_pos": 172,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 178,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "dinner",
+            "start_pos": 182,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 189,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "huge",
+            "start_pos": 192,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 197,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 198,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "book",
+            "start_pos": 201,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 206,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 213,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "come",
+            "start_pos": 217,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 221,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 222,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "You",
+            "start_pos": 224,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 228,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "always",
+            "start_pos": 232,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "watch",
+            "start_pos": 239,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 245,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "sunset",
+            "start_pos": 249,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 256,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 261,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "view",
+            "start_pos": 266,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 271,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 274,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "river",
+            "start_pos": 278,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "garden",
+            "start_pos": 284,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "ahead",
+            "start_pos": 291,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 296,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 299,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "Restaurante",
+            "start_pos": 301,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "Ponto",
+            "start_pos": 313,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "final",
+            "start_pos": 319,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc1a",
+            "start_pos": 326,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "Cacilhas",
+            "start_pos": 327,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 335,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "Almada",
+            "start_pos": 337,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udee5",
+            "start_pos": 345,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "You",
+            "start_pos": 346,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 350,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "go",
+            "start_pos": 354,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 357,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "boat",
+            "start_pos": 360,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 364,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf9f",
+            "start_pos": 366,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 367,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "value",
+            "start_pos": 371,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 377,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 380,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "boat",
+            "start_pos": 384,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "ticket",
+            "start_pos": 389,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 396,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 399,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "\u20ac",
+            "start_pos": 400,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 401,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude8b",
+            "start_pos": 403,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "You",
+            "start_pos": 404,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 408,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "use",
+            "start_pos": 412,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 416,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "Lisboa",
+            "start_pos": 420,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "viva",
+            "start_pos": 427,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "pass",
+            "start_pos": 432,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 437,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 440,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 444,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 449,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 452,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "\u23f0",
+            "start_pos": 454,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 455,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 459,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 464,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 467,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 473,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "minutes",
+            "start_pos": 476,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 483,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "save",
+            "start_pos": 486,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 491,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "share",
+            "start_pos": 493,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 499,
+            "end_pos": 501,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 502,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 506,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 511,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udef6\ud83c\udffc",
+            "start_pos": 514,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 517,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 519,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "lisbon",
+            "start_pos": 520,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 527,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "lisboa",
+            "start_pos": 528,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 535,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "VisitLisbon",
+            "start_pos": 536,
+            "end_pos": 547,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 548,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "VisitPortugal",
+            "start_pos": 549,
+            "end_pos": 562,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 563,
+            "end_pos": 564,
+            "labels": []
+        },
+        {
+            "text": "ThePrettyCitties",
+            "start_pos": 564,
+            "end_pos": 580,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 581,
+            "end_pos": 582,
+            "labels": []
+        },
+        {
+            "text": "OnGoogleMaps",
+            "start_pos": 582,
+            "end_pos": 594,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 595,
+            "end_pos": 596,
+            "labels": []
+        },
+        {
+            "text": "BBCTravel",
+            "start_pos": 596,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 606,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "BeautifulDestinations",
+            "start_pos": 607,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 629,
+            "end_pos": 630,
+            "labels": []
+        },
+        {
+            "text": "ShotonIphone",
+            "start_pos": 630,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 643,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": "sunsetspots",
+            "start_pos": 644,
+            "end_pos": 655,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 656,
+            "end_pos": 657,
+            "labels": []
+        },
+        {
+            "text": "TravellingThroughtTheWorld",
+            "start_pos": 657,
+            "end_pos": 683,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 684,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "TLPicks",
+            "start_pos": 685,
+            "end_pos": 692,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 692,
+            "end_pos": 693,
+            "labels": []
+        },
+        {
+            "text": "IAmTraveller",
+            "start_pos": 693,
+            "end_pos": 705,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 707,
+            "end_pos": 708,
+            "labels": []
+        },
+        {
+            "text": "sunsetinlisbon",
+            "start_pos": 708,
+            "end_pos": 722,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 723,
+            "end_pos": 724,
+            "labels": []
+        },
+        {
+            "text": "KingsVillage",
+            "start_pos": 724,
+            "end_pos": 736,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 737,
+            "end_pos": 738,
+            "labels": []
+        },
+        {
+            "text": "PortugalLovers",
+            "start_pos": 738,
+            "end_pos": 752,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 753,
+            "end_pos": 754,
+            "labels": []
+        },
+        {
+            "text": "chaicatraveltolisbon",
+            "start_pos": 754,
+            "end_pos": 774,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

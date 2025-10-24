@@ -1,0 +1,978 @@
+{
+    "text": "I spent the most vibrant time of the year with its reddest landscapes here in Kyoto\ud83d\ude0d  This could be one of my favorite trips to Kyoto by far due to how unpopulated it was. I could really spend time to just observe the place, which made my photography experience that much better\ud83d\ude0c I wish my photographs could showcase that same feeling I had of isolation and peace. w/ @meyou.mae   \ud83d\udce3 MY \u201cBLACK FRIDAY SALE\u201d HAS STARTED AND ENDS ON THE 30th! USE CODE \u201cBLKFRI30\u201d AT CHECK OUT\ud83e\udd18\ud83c\udffc Don\u2019t miss out because every preset pack will be 30% off!\ud83e\udd73 I have been using my autumn preset pack for all my autumn photos including some portrait shot in autumn, so this is your chance to grab them while it\u2019s on sale! #hellofrom Kyoto, Japan",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Kyoto",
+            "start_pos": 78,
+            "end_pos": 83,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9710795879364014
+                }
+            ]
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 128,
+            "end_pos": 133,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9938015341758728
+                }
+            ]
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 706,
+            "end_pos": 711,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9766414761543274
+                }
+            ]
+        },
+        {
+            "text": "Japan",
+            "start_pos": 713,
+            "end_pos": 718,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998186230659485
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "I",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "spent",
+            "start_pos": 2,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 8,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 12,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "vibrant",
+            "start_pos": 17,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 25,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 33,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "year",
+            "start_pos": 37,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 42,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 47,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "reddest",
+            "start_pos": 51,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "landscapes",
+            "start_pos": 59,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 75,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 78,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 86,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "could",
+            "start_pos": 91,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 100,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 104,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 107,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 110,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "trips",
+            "start_pos": 119,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 125,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 128,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 134,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "far",
+            "start_pos": 137,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "due",
+            "start_pos": 141,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 145,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "how",
+            "start_pos": 148,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "unpopulated",
+            "start_pos": 152,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 164,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 167,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 170,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 172,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "could",
+            "start_pos": 174,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "really",
+            "start_pos": 180,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "spend",
+            "start_pos": 187,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 193,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 198,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "just",
+            "start_pos": 201,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "observe",
+            "start_pos": 206,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 214,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 218,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 223,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "which",
+            "start_pos": 225,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "made",
+            "start_pos": 231,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 236,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 239,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 251,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 262,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "much",
+            "start_pos": 267,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "better",
+            "start_pos": 272,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0c",
+            "start_pos": 278,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 280,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "wish",
+            "start_pos": 282,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 287,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": "photographs",
+            "start_pos": 290,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "could",
+            "start_pos": 302,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "showcase",
+            "start_pos": 308,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 317,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "same",
+            "start_pos": 322,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "feeling",
+            "start_pos": 327,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 335,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "had",
+            "start_pos": 337,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 341,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "isolation",
+            "start_pos": 344,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 354,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "peace",
+            "start_pos": 358,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "w",
+            "start_pos": 365,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 366,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "meyou.mae",
+            "start_pos": 369,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce3",
+            "start_pos": 381,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "MY",
+            "start_pos": 383,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 386,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "BLACK",
+            "start_pos": 387,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "FRIDAY",
+            "start_pos": 393,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "SALE",
+            "start_pos": 400,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 404,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "HAS",
+            "start_pos": 406,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "STARTED",
+            "start_pos": 410,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "AND",
+            "start_pos": 418,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "ENDS",
+            "start_pos": 422,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "ON",
+            "start_pos": 427,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "THE",
+            "start_pos": 430,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "30th",
+            "start_pos": 434,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 438,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "USE",
+            "start_pos": 440,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "CODE",
+            "start_pos": 444,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "\u201c",
+            "start_pos": 449,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "BLKFRI30",
+            "start_pos": 450,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "\u201d",
+            "start_pos": 458,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "AT",
+            "start_pos": 460,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "CHECK",
+            "start_pos": 463,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "OUT",
+            "start_pos": 469,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd18\ud83c\udffc",
+            "start_pos": 472,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "Do",
+            "start_pos": 475,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "n\u2019t",
+            "start_pos": 477,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": "miss",
+            "start_pos": 481,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "out",
+            "start_pos": 486,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "because",
+            "start_pos": 490,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "every",
+            "start_pos": 498,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "preset",
+            "start_pos": 504,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "pack",
+            "start_pos": 511,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "will",
+            "start_pos": 516,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 521,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "30",
+            "start_pos": 524,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "%",
+            "start_pos": 526,
+            "end_pos": 527,
+            "labels": []
+        },
+        {
+            "text": "off",
+            "start_pos": 528,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 531,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd73",
+            "start_pos": 532,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 534,
+            "end_pos": 535,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 536,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 541,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "using",
+            "start_pos": 546,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 552,
+            "end_pos": 554,
+            "labels": []
+        },
+        {
+            "text": "autumn",
+            "start_pos": 555,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "preset",
+            "start_pos": 562,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "pack",
+            "start_pos": 569,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 574,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 578,
+            "end_pos": 581,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 582,
+            "end_pos": 584,
+            "labels": []
+        },
+        {
+            "text": "autumn",
+            "start_pos": 585,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 592,
+            "end_pos": 598,
+            "labels": []
+        },
+        {
+            "text": "including",
+            "start_pos": 599,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "some",
+            "start_pos": 609,
+            "end_pos": 613,
+            "labels": []
+        },
+        {
+            "text": "portrait",
+            "start_pos": 614,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "shot",
+            "start_pos": 623,
+            "end_pos": 627,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 628,
+            "end_pos": 630,
+            "labels": []
+        },
+        {
+            "text": "autumn",
+            "start_pos": 631,
+            "end_pos": 637,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 637,
+            "end_pos": 638,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 639,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 642,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 647,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 650,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "chance",
+            "start_pos": 655,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 662,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "grab",
+            "start_pos": 665,
+            "end_pos": 669,
+            "labels": []
+        },
+        {
+            "text": "them",
+            "start_pos": 670,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "while",
+            "start_pos": 675,
+            "end_pos": 680,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 681,
+            "end_pos": 683,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 683,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 686,
+            "end_pos": 688,
+            "labels": []
+        },
+        {
+            "text": "sale",
+            "start_pos": 689,
+            "end_pos": 693,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 693,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 695,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "hellofrom",
+            "start_pos": 696,
+            "end_pos": 705,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 706,
+            "end_pos": 711,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 711,
+            "end_pos": 712,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 713,
+            "end_pos": 718,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

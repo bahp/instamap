@@ -1,0 +1,14 @@
+[
+    {
+        "text": "Hong Kong",
+        "start": 34,
+        "end": 43,
+        "groupdict": {
+            "name": "Hong Kong",
+            "location": "Hong Kong"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

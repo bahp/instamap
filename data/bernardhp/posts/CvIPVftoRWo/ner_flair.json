@@ -1,0 +1,194 @@
+{
+    "text": "Bocas del Toro is where you want to be \ud83c\udf34  \ud83d\udcf8 @daniel.collado1623  \ud83d\udccdBocas Del Toro @selinapanama   #selinabocas #selinalife #selina #selinapanama",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Bocas del Toro",
+            "start_pos": 0,
+            "end_pos": 14,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.937029242515564
+                }
+            ]
+        },
+        {
+            "text": "Bocas Del Toro",
+            "start_pos": 66,
+            "end_pos": 80,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.827546497186025
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Bocas",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 6,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Toro",
+            "start_pos": 10,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 18,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "want",
+            "start_pos": 28,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 33,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 36,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf34",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "daniel.collado1623",
+            "start_pos": 45,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "Bocas",
+            "start_pos": 66,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "Del",
+            "start_pos": 72,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "Toro",
+            "start_pos": 76,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "selinapanama",
+            "start_pos": 82,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 97,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "selinabocas",
+            "start_pos": 98,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 110,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "selinalife",
+            "start_pos": 111,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 122,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "selina",
+            "start_pos": 123,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 130,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "selinapanama",
+            "start_pos": 131,
+            "end_pos": 143,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,139 @@
+{
+    "text": "Petronas Tower. Kuala Lumpur.  #malaysia #kl #kualalumpur #asia #petronas",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Petronas Tower",
+            "start_pos": 0,
+            "end_pos": 14,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.9440118074417114
+                }
+            ]
+        },
+        {
+            "text": "Kuala Lumpur",
+            "start_pos": 16,
+            "end_pos": 28,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9982411861419678
+                }
+            ]
+        },
+        {
+            "text": "malaysia",
+            "start_pos": 32,
+            "end_pos": 40,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9943134784698486
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Petronas",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Tower",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 14,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Kuala",
+            "start_pos": 16,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Lumpur",
+            "start_pos": 22,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "malaysia",
+            "start_pos": 32,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "kl",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "kualalumpur",
+            "start_pos": 46,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "asia",
+            "start_pos": 59,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "petronas",
+            "start_pos": 65,
+            "end_pos": 73,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

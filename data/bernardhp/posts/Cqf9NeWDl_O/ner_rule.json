@@ -1,0 +1,80 @@
+[
+    {
+        "text": "1. Reef Beach",
+        "start": 197,
+        "end": 210,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Reef Beach"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Luskentyre Beach",
+        "start": 212,
+        "end": 231,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Luskentyre Beach"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Achmelvich Beach",
+        "start": 233,
+        "end": 252,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Achmelvich Beach"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Oldshoremore Beach",
+        "start": 254,
+        "end": 275,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Oldshoremore Beach"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Sandwood Bay",
+        "start": 277,
+        "end": 292,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Sandwood Bay"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Coral Beach",
+        "start": 294,
+        "end": 308,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Coral Beach"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    }
+]

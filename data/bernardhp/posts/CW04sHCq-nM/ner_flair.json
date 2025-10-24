@@ -1,0 +1,795 @@
+{
+    "text": "Nature\u2019s paradise in Indonesia \u26f0\ud83c\udf3f   With its incredible diversity, cultural history and natural sights, it\u2019s no wonder that Indonesia is such a popular travel destination. Most people decide to visit for its impressive temples, adventurous beaches or blooming natural parks and unforgettable views like this - have you ever been? If not, is Indonesia on your bucketlist?  \ud83d\udccdPhotos and places in Indonesia: 1. Tumpak Sewu 2. Tegallalang 3. Tegallalang 4. Nusa Penida 5. Kelimutu National Park 6. Bromo Tengger Semeru 7. Wae Rebo Village 8. Broken Beach 9. Tumpak Sewu  \ud83c\uddee\ud83c\udde9 #discoverIndonesia with @malthezimakoff",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Indonesia",
+            "start_pos": 21,
+            "end_pos": 30,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9989427924156189
+                }
+            ]
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 124,
+            "end_pos": 133,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999551773071289
+                }
+            ]
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 341,
+            "end_pos": 350,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9983004927635193
+                }
+            ]
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 394,
+            "end_pos": 403,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9980948567390442
+                }
+            ]
+        },
+        {
+            "text": "Tumpak Sewu",
+            "start_pos": 408,
+            "end_pos": 419,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6540742069482803
+                }
+            ]
+        },
+        {
+            "text": "Tegallalang",
+            "start_pos": 423,
+            "end_pos": 434,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7103326320648193
+                }
+            ]
+        },
+        {
+            "text": "Tegallalang",
+            "start_pos": 438,
+            "end_pos": 449,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5273724794387817
+                }
+            ]
+        },
+        {
+            "text": "Nusa Penida",
+            "start_pos": 453,
+            "end_pos": 464,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9593824744224548
+                }
+            ]
+        },
+        {
+            "text": "Kelimutu National Park",
+            "start_pos": 468,
+            "end_pos": 490,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9694140752156576
+                }
+            ]
+        },
+        {
+            "text": "Bromo Tengger Semeru",
+            "start_pos": 494,
+            "end_pos": 514,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7512725194295248
+                }
+            ]
+        },
+        {
+            "text": "Wae Rebo Village",
+            "start_pos": 518,
+            "end_pos": 534,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6622530817985535
+                }
+            ]
+        },
+        {
+            "text": "Broken Beach",
+            "start_pos": 538,
+            "end_pos": 550,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7385863661766052
+                }
+            ]
+        },
+        {
+            "text": "Tumpak Sewu",
+            "start_pos": 554,
+            "end_pos": 565,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7547408044338226
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Nature",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 6,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "paradise",
+            "start_pos": 9,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 18,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 21,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "\u26f0\ud83c\udf3f",
+            "start_pos": 31,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "With",
+            "start_pos": 36,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 41,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "incredible",
+            "start_pos": 45,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "diversity",
+            "start_pos": 56,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "cultural",
+            "start_pos": 67,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 76,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 84,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "natural",
+            "start_pos": 88,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "sights",
+            "start_pos": 96,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 104,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 106,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "no",
+            "start_pos": 109,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "wonder",
+            "start_pos": 112,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 119,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 124,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 134,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "such",
+            "start_pos": 137,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "popular",
+            "start_pos": 144,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 152,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "destination",
+            "start_pos": 159,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 170,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "Most",
+            "start_pos": 172,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 177,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "decide",
+            "start_pos": 184,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 191,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 194,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 200,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 204,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "impressive",
+            "start_pos": 208,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "temples",
+            "start_pos": 219,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 226,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "adventurous",
+            "start_pos": 228,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "beaches",
+            "start_pos": 240,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 248,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "blooming",
+            "start_pos": 251,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "natural",
+            "start_pos": 260,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "parks",
+            "start_pos": 268,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 274,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "unforgettable",
+            "start_pos": 278,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "views",
+            "start_pos": 292,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 298,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 303,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 308,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 310,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 315,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 319,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 324,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 328,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "If",
+            "start_pos": 330,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 333,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 336,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 338,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 341,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 351,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 354,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "bucketlist",
+            "start_pos": 359,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 369,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 372,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 373,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 380,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 384,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 391,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 394,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 403,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 405,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "Tumpak",
+            "start_pos": 408,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "Sewu",
+            "start_pos": 415,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 420,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "Tegallalang",
+            "start_pos": 423,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 435,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "Tegallalang",
+            "start_pos": 438,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 450,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "Nusa",
+            "start_pos": 453,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "Penida",
+            "start_pos": 458,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "5.",
+            "start_pos": 465,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "Kelimutu",
+            "start_pos": 468,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "National",
+            "start_pos": 477,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "Park",
+            "start_pos": 486,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "6.",
+            "start_pos": 491,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "Bromo",
+            "start_pos": 494,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "Tengger",
+            "start_pos": 500,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "Semeru",
+            "start_pos": 508,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "7.",
+            "start_pos": 515,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "Wae",
+            "start_pos": 518,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "Rebo",
+            "start_pos": 522,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "Village",
+            "start_pos": 527,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "8.",
+            "start_pos": 535,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "Broken",
+            "start_pos": 538,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "Beach",
+            "start_pos": 545,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "9.",
+            "start_pos": 551,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "Tumpak",
+            "start_pos": 554,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "Sewu",
+            "start_pos": 561,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\udde9",
+            "start_pos": 567,
+            "end_pos": 569,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 570,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "discoverIndonesia",
+            "start_pos": 571,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 589,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 594,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "malthezimakoff",
+            "start_pos": 595,
+            "end_pos": 609,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

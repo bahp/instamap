@@ -1,0 +1,14 @@
+[
+    {
+        "text": "spain",
+        "start": 80,
+        "end": 85,
+        "groupdict": {
+            "name": "spain",
+            "location": "spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

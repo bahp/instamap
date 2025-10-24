@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Vatican City",
+        "subtitle": "Smallest independent state in the world, within Rome",
+        "lat": 41.9029,
+        "lon": 12.4534,
+        "type": "city_state",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "St. Peter's Basilica",
+        "subtitle": "Prominent papal basilica in Vatican City",
+        "lat": 41.9022,
+        "lon": 12.4539,
+        "type": "basilica",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "St. Peter's Square",
+        "subtitle": "Large plaza in front of St. Peter's Basilica",
+        "lat": 41.9022,
+        "lon": 12.4504,
+        "type": "plaza",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null
+    },
+    {
+        "title": "Rome",
+        "subtitle": "Capital city of Italy, also known as 'Eternal City'",
+        "lat": 41.9028,
+        "lon": 12.4964,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Lungotevere",
+        "subtitle": "Riverside promenades and roads along the Tiber in Rome",
+        "lat": 41.8902,
+        "lon": 12.4922,
+        "type": "riverbank_walk",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": null
+    }
+]

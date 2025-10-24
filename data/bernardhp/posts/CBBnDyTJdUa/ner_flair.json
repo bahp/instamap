@@ -1,0 +1,237 @@
+{
+    "text": "\u00bfTe apetece ver el atardecer frente al mar? En nuestro Parque Natural de Cabo de Gata-N\u00edjar podr\u00e1s disfrutar de espectaculares atardeceres como \u00e9ste, a tan s\u00f3lo un paso de nuestras instalaciones. www.campingcabodegata.com",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Parque Natural de Cabo de",
+            "start_pos": 55,
+            "end_pos": 80,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7991583228111268
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\u00bf",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Te",
+            "start_pos": 1,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "apetece",
+            "start_pos": 4,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "ver",
+            "start_pos": 12,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "atardecer",
+            "start_pos": 19,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "frente",
+            "start_pos": 29,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 36,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "mar",
+            "start_pos": 39,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "En",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "nuestro",
+            "start_pos": 47,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Parque",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "Natural",
+            "start_pos": 62,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 70,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "Cabo",
+            "start_pos": 73,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "Gata-N\u00edjar",
+            "start_pos": 81,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "podr\u00e1s",
+            "start_pos": 92,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "disfrutar",
+            "start_pos": 99,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 109,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "espectaculares",
+            "start_pos": 112,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "atardeceres",
+            "start_pos": 127,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "como",
+            "start_pos": 139,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "\u00e9ste",
+            "start_pos": 144,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 148,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 150,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "tan",
+            "start_pos": 152,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "s\u00f3lo",
+            "start_pos": 156,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 161,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "paso",
+            "start_pos": 164,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 169,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "nuestras",
+            "start_pos": 172,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "instalaciones",
+            "start_pos": 181,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 194,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "www.campingcabodegata.com",
+            "start_pos": 196,
+            "end_pos": 221,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

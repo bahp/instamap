@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"Sto\u0308ckalp (OW)\",\n    \"full_address\": \"Sto\u0308ckalp, 6375 Oberwil im Kanton Obwalden, Switzerland\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Stepfen, Wandelen\",\n    \"full_address\": \"Stepfen, Wandelen, Switzerland\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Arnigrat\",\n    \"full_address\": \"Arnigrat, Obwalden, Switzerland\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Flu\u0308eli Ranft\",\n    \"full_address\": \"Flu\u0308eli Ranft, 6377 Sachseln, Switzerland\",\n    \"order\": 4\n  }\n]\n```\n\nI made some assumptions about the full addresses of the locations. Please let me know if you have any questions.",
+    "conversation_id": "c_7ea9df29b287ffa2",
+    "response_id": "r_618e53206a7e8b33",
+    "factuality_queries": null,
+    "text_query": [
+        "17 KM \u2b06\ufe0f 1300 HM \u2b07\ufe0f 1600 HM",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_2b9c2eef52352976",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"Sto\u0308ckalp (OW)\",\n    \"full_address\": \"Sto\u0308ckalp, 6375 Oberwil im Kanton Obwalden, Switzerland\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Stepfen, Wandelen\",\n    \"full_address\": \"Stepfen, Wandelen, Switzerland\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Arnigrat\",\n    \"full_address\": \"Arnigrat, Obwalden, Switzerland\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Flu\u0308eli Ranft\",\n    \"full_address\": \"Flu\u0308eli Ranft, 6377 Sachseln, Switzerland\",\n    \"order\": 4\n  }\n]\n```\n\nI made some assumptions about the full addresses of the locations. Please let me know if you have any questions."
+            ]
+        },
+        {
+            "id": "rc_28fb7f4f690c26b7",
+            "content": [
+                "Sure, here is the JSON file:\n\n\n```json\n[\n    {\n        \"name\": \"St\u00f6ckalp (OW)\",\n        \"full_address\": \"St\u00f6ckalp, 6362 Engelberg, Switzerland\",\n        \"order\": 1\n    },\n    {\n        \"name\": \"Stepfen\",\n        \"full_address\": \"Stepfen, 6362 Engelberg, Switzerland\",\n        \"order\": 2\n    },\n    {\n        \"name\": \"Wandelen\",\n        \"full_address\": \"Wandelen, 6362 Engelberg, Switzerland\",\n        \"order\": 3\n    },\n    {\n        \"name\": \"Arnigrat\",\n        \"full_address\": \"Engelberg, 6362, Switzerland\",\n        \"order\": 4\n    },\n    {\n        \"name\": \"Fl\u00fceli Ranft\",\n        \"full_address\": \"Fl\u00fceli Ranft, 6393 Fl\u00fchli, Switzerland\",\n        \"order\": 5\n    }\n]\n```\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_f3fb11b13cb785da",
+            "content": [
+                "Sure, here is the JSON file:\n\n\n```json\n[\n  {\n    \"name\": \"St\u00f6ckalp (OW)\",\n    \"full_address\": \"St\u00f6ckalp, 6053 Obwalden, Schweiz\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Stepfen\",\n    \"full_address\": \"Stepfen, 6053 Obwalden, Schweiz\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Wandelen\",\n    \"full_address\": \"Wandelen, 6053 Obwalden, Schweiz\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Arnigrat\",\n    \"full_address\": \"Arnigrat, Obwalden, Schweiz\",\n    \"order\": 4\n  },\n  {\n    \"name\": \"Fl\u00fceli Ranft\",\n    \"full_address\": \"Fl\u00fceli Ranft, 6053 Obwalden, Schweiz\",\n    \"order\": 5\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Sto\u0308ckalp (OW)\",\n    \"full_address\": \"Sto\u0308ckalp, 6375 Oberwil im Kanton Obwalden, Switzerland\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Stepfen, Wandelen\",\n    \"full_address\": \"Stepfen, Wandelen, Switzerland\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Arnigrat\",\n    \"full_address\": \"Arnigrat, Obwalden, Switzerland\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Flu\u0308eli Ranft\",\n    \"full_address\": \"Flu\u0308eli Ranft, 6377 Sachseln, Switzerland\",\n    \"order\": 4\n  }\n]\n",
+    "status_code": 200
+}

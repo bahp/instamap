@@ -1,0 +1,141 @@
+[
+    {
+        "text": "1. Castillo de Colomares by @pdamian_gomez \u2764\ufe0f",
+        "start": 44,
+        "end": 89,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Castillo de Colomares by @pdamian_gomez \u2764\ufe0f"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Ronda by @accadaniel \u2764\ufe0f",
+        "start": 90,
+        "end": 116,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Ronda by @accadaniel \u2764\ufe0f"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Seville by @clementinegueulet \u2764\ufe0f",
+        "start": 117,
+        "end": 152,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Seville by @clementinegueulet \u2764\ufe0f"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Caminito del Rey by @tennawinter \u2764\ufe0f ",
+        "start": 233,
+        "end": 272,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Caminito del Rey by @tennawinter \u2764\ufe0f "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Segovia by @gerardosilvaserrano \u2764\ufe0f",
+        "start": 273,
+        "end": 310,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Segovia by @gerardosilvaserrano \u2764\ufe0f"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Burgos by @markvzquez \u2764\ufe0f",
+        "start": 311,
+        "end": 338,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Burgos by @markvzquez \u2764\ufe0f"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Tella by @manuelangelmara \u2764\ufe0f",
+        "start": 339,
+        "end": 370,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Tella by @manuelangelmara \u2764\ufe0f"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Toledo by @ournextflight \u2764\ufe0f",
+        "start": 371,
+        "end": 402,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Toledo by @ournextflight \u2764\ufe0f"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83d\udccdLocations:",
+        "start": 31,
+        "end": 42,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Locations:"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 26,
+        "end": 28,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Spain",
+        "start": 20,
+        "end": 25,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

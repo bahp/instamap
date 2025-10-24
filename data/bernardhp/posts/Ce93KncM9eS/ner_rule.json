@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccc Wyoming, USA ",
+        "start": 310,
+        "end": 325,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Wyoming, USA "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf8",
+        "start": 16,
+        "end": 18,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "location": "United States"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf8",
+        "start": 274,
+        "end": 276,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "location": "United States"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf8",
+        "start": 305,
+        "end": 307,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "location": "United States"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf8",
+        "start": 325,
+        "end": 327,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf8",
+            "location": "United States"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

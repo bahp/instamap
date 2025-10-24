@@ -1,0 +1,572 @@
+{
+    "text": "Northern light magic \u2728 Have you ever seen the Northern Lights in person before?  If not (or if you\u2019d like to witness their beauty again), Norway is a great location for spotting this natural phenomenon. Some of the best areas in Norway are Troms\u00f8, Kirkenes and Lofoten, all known to be in the heart of the aurora zone.   \ud83d\udccdLofoten, Norway  \ud83c\uddf3\ud83c\uddf4 #discoverNorway with @alex_stead",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Northern Lights",
+            "start_pos": 46,
+            "end_pos": 61,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.5007479041814804
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 138,
+            "end_pos": 144,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999183416366577
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 229,
+            "end_pos": 235,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9985297918319702
+                }
+            ]
+        },
+        {
+            "text": "Troms\u00f8",
+            "start_pos": 240,
+            "end_pos": 246,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.998552143573761
+                }
+            ]
+        },
+        {
+            "text": "Kirkenes",
+            "start_pos": 248,
+            "end_pos": 256,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9982417821884155
+                }
+            ]
+        },
+        {
+            "text": "Lofoten",
+            "start_pos": 261,
+            "end_pos": 268,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9863870143890381
+                }
+            ]
+        },
+        {
+            "text": "Lofoten",
+            "start_pos": 322,
+            "end_pos": 329,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.997623860836029
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 331,
+            "end_pos": 337,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999685287475586
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Northern",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "light",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "magic",
+            "start_pos": 15,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 23,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 28,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 32,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "seen",
+            "start_pos": 37,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 42,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Northern",
+            "start_pos": 46,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Lights",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 62,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "person",
+            "start_pos": 65,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 72,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "If",
+            "start_pos": 81,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "not",
+            "start_pos": 84,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 89,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 92,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 95,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "\u2019d",
+            "start_pos": 98,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 101,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 106,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "witness",
+            "start_pos": 109,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "their",
+            "start_pos": 117,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 123,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "again",
+            "start_pos": 130,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 135,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 136,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 138,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 145,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 148,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "great",
+            "start_pos": 150,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "location",
+            "start_pos": 156,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 165,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "spotting",
+            "start_pos": 169,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 178,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "natural",
+            "start_pos": 183,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "phenomenon",
+            "start_pos": 191,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 201,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "Some",
+            "start_pos": 203,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 208,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 211,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 215,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "areas",
+            "start_pos": 220,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 226,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 229,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 236,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "Troms\u00f8",
+            "start_pos": 240,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 246,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "Kirkenes",
+            "start_pos": 248,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 257,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "Lofoten",
+            "start_pos": 261,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 268,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 270,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "known",
+            "start_pos": 274,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 280,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 283,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 286,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 289,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "heart",
+            "start_pos": 293,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 299,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 302,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "aurora",
+            "start_pos": 306,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "zone",
+            "start_pos": 313,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 317,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 321,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "Lofoten",
+            "start_pos": 322,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 329,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 331,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 339,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 342,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "discoverNorway",
+            "start_pos": 343,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 358,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "alex",
+            "start_pos": 364,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "stead",
+            "start_pos": 369,
+            "end_pos": 374,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

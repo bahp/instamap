@@ -1,0 +1,83 @@
+[
+    {
+        "text": "\ud83d\udccd Mentawai tribe",
+        "start": 261,
+        "end": 277,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Mentawai tribe"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd Pototoga Island",
+        "start": 278,
+        "end": 295,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Pototoga Island"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd Bukit Lawang",
+        "start": 296,
+        "end": 310,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Bukit Lawang"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\udde9",
+        "start": 406,
+        "end": 408,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde9\ud83c\uddea",
+        "start": 410,
+        "end": 412,
+        "groupdict": {
+            "flag": "\ud83c\udde9\ud83c\uddea",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Indonesia",
+        "start": 395,
+        "end": 404,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "indonesia",
+        "start": 703,
+        "end": 712,
+        "groupdict": {
+            "name": "indonesia",
+            "location": "indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

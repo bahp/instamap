@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Big Ben",
+        "subtitle": "Iconic clock tower in London",
+        "lat": 51.5007,
+        "lon": -0.1246,
+        "type": "clock tower",
+        "class": "building",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "London",
+        "subtitle": "Capital city of England",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent",
+        "lat": 50.0,
+        "lon": 10.0,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.7,
+        "rank": 9,
+        "page": null
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Olderdalen\",\n      \"full_address\": \"Olderdalen, Norway\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658913_71fcd5399b_z.jpg\"\n    },\n    {\n      \"name\": \"Briksdalsbreen\",\n      \"full_address\": \"Briksdalsbreen, Norway\",\n      \"order\": 2,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658918_e20d15f3a3_z.jpg\"\n    },\n    {\n      \"name\": \"Norway\",\n      \"full_address\": \"Norway\",\n      \"order\": 3,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658907_1e71b72f2b_z.jpg\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_8d660f05e97ff834",
+    "response_id": "r_d590a7f8109cc446",
+    "factuality_queries": null,
+    "text_query": [
+        "midnight hike in norway",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_9fe4a54f329ec08d",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Olderdalen\",\n      \"full_address\": \"Olderdalen, Norway\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658913_71fcd5399b_z.jpg\"\n    },\n    {\n      \"name\": \"Briksdalsbreen\",\n      \"full_address\": \"Briksdalsbreen, Norway\",\n      \"order\": 2,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658918_e20d15f3a3_z.jpg\"\n    },\n    {\n      \"name\": \"Norway\",\n      \"full_address\": \"Norway\",\n      \"order\": 3,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658907_1e71b72f2b_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_3e9f66f67a7aee0c",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Norway\",\n      \"full_address\": \"Norway\",\n      \"order\": 5,\n      \"image\": \"https://static.flickr.com/2023/11/29/40976089275_28f360477a_z.jpg\"\n    },\n    {\n      \"name\": \"Oldedalen\",\n      \"full_address\": \"Oldedalen, Stryn, Norway\",\n      \"order\": 6,\n      \"image\": \"https://static.flickr.com/2023/11/29/40976089271_12795268c9_z.jpg\"\n    },\n    {\n      \"name\": \"Briksdalsbreen\",\n      \"full_address\": \"Briksdalsbreen, Norway\",\n      \"order\": 7,\n      \"image\": \"https://static.flickr.com/2023/11/29/40976089266_7003903914_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_285b0a55d366f738",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Oldedalen\",\n      \"full_address\": \"Oldedalen, Norway\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680659120_867e73199c_z.jpg\"\n    },\n    {\n      \"name\": \"Briksdalsbreen\",\n      \"full_address\": \"Briksdalsbreen, Norway\",\n      \"order\": 2,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680659125_3039202892_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Olderdalen\",\n      \"full_address\": \"Olderdalen, Norway\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658913_71fcd5399b_z.jpg\"\n    },\n    {\n      \"name\": \"Briksdalsbreen\",\n      \"full_address\": \"Briksdalsbreen, Norway\",\n      \"order\": 2,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658918_e20d15f3a3_z.jpg\"\n    },\n    {\n      \"name\": \"Norway\",\n      \"full_address\": \"Norway\",\n      \"order\": 3,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658907_1e71b72f2b_z.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

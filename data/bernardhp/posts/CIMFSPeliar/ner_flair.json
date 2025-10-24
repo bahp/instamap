@@ -1,0 +1,129 @@
+{
+    "text": "Manarola, is a charming and romantic town that will leave you in awe!   \ud83d\udcf8 @kyrenian",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Manarola",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6336722373962402
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Manarola",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "charming",
+            "start_pos": 15,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "romantic",
+            "start_pos": 28,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "town",
+            "start_pos": 37,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 42,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "will",
+            "start_pos": 47,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "leave",
+            "start_pos": 52,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 58,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 62,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "awe",
+            "start_pos": 65,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "kyrenian",
+            "start_pos": 75,
+            "end_pos": 83,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

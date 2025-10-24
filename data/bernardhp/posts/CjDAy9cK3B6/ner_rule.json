@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdKoh PhiPhi Leh Lagoon ,Thailand ",
+        "start": 60,
+        "end": 93,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Koh PhiPhi Leh Lagoon ,Thailand "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Thailand",
+        "start": 84,
+        "end": 92,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 111,
+        "end": 119,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 144,
+        "end": 152,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 208,
+        "end": 216,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

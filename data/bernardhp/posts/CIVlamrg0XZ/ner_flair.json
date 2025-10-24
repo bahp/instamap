@@ -1,0 +1,163 @@
+{
+    "text": "Glasgow \u2764 United Kingdom  Congrats @lang_shot_photography Use #map_of_europe #Glasgow",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Glasgow",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7308894991874695
+                }
+            ]
+        },
+        {
+            "text": "United Kingdom",
+            "start_pos": 10,
+            "end_pos": 24,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.7426378130912781
+                }
+            ]
+        },
+        {
+            "text": "Glasgow",
+            "start_pos": 78,
+            "end_pos": 85,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9559686779975891
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Glasgow",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "United",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Kingdom",
+            "start_pos": 17,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 26,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "lang",
+            "start_pos": 36,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "shot",
+            "start_pos": 41,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 46,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 58,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 63,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 67,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 70,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "Glasgow",
+            "start_pos": 78,
+            "end_pos": 85,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

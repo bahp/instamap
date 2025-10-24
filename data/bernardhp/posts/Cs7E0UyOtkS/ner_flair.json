@@ -1,0 +1,171 @@
+{
+    "text": "10 places to see in the UK #uktravel  . . . . #uktravelblogger #visitbritain #visituk #lovegreatbritain #placestosee #travelguide",
+    "labels": [],
+    "entities": [
+        {
+            "text": "UK",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9993355870246887
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "10",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 3,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 13,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 17,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 20,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "UK",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "uktravel",
+            "start_pos": 28,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "uktravelblogger",
+            "start_pos": 47,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "visitbritain",
+            "start_pos": 64,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "visituk",
+            "start_pos": 78,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "lovegreatbritain",
+            "start_pos": 87,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "placestosee",
+            "start_pos": 105,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "travelguide",
+            "start_pos": 118,
+            "end_pos": 129,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdKoh Lipe,Thailand ",
+        "start": 75,
+        "end": 94,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Koh Lipe,Thailand "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Thailand",
+        "start": 85,
+        "end": 93,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 112,
+        "end": 120,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 145,
+        "end": 153,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 204,
+        "end": 212,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddee\ud83c\udde9",
+        "start": 459,
+        "end": 461,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Indonesia",
+        "start": 203,
+        "end": 212,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "indonesia",
+        "start": 486,
+        "end": 495,
+        "groupdict": {
+            "name": "indonesia",
+            "location": "indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

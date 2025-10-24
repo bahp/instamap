@@ -1,0 +1,2044 @@
+{
+    "text": "Buon weekend da un posto magico al confine tra il Trentino e l'Altoadige! Numerosi sono i sentieri che portano quassu\u0300: dall'Alpe di Siusi, dai Bagni di Lavina Bianca, dal Gardeccia e da Campitello di Fassa.  Partendo da quest'ultimo paesino si arriva al rifugio Micheluzzi. Lasciato il rifugio ci si incammina su terreno pianeggiante per la lunghissima val Duron, su lussureggianti prati erbosi, una valle un po' sperduta, quasi fuori dal tempo, ma affascinante, stretta a sud dalle cime del Catinaccio d'Antermoia e a nord da quelle del Sassolungo. Frequentemente ci si imbatte negli yak che pascolano allegramente ai lati della nostra strada,  oltre a mucche, capre e cavalli. Presso malga Docoldaura la strada sale e si entra in un vallone e si sale al Passo Duron, su sentiero su prati, lasciando a destra la deviazione per il rifugio Sassopiatto.  Dal Passo Duron finalmente si ammira un bel panorama verso la val Duron, l'Alpe di Siusi e il gruppo del Sassolungo.  Da qua, proprio sotto i magnifici Denti di Terrarossa vi consigliamo di fare un ultimo sforzo per riposarsi e rifocillarsi al Rifugio all'Alpe di Tires, posto che fa da spartiacque  tra Catinaccio e l'Alpe di Siusi! Ringraziamo il bravissimo Luca @lucacirulli per la meravigliosa foto!  Seguiteci anche sulle altre due nostre gallerie @trentinodascoprire @altoadigedascoprire e @sudtiroldascoprire dedicate esclusivamente all'Altoadige-Su\u0308dtirol! #trentino #valdifassa #italiait #catinaccio #rosengarten #visittrentino #altoadige #southtyrol #sudtirol #dolomiti #unesco #su\u0308dtirol #visitsouthtyrol #instatrentino #ilikeitaly #trekking #ig_altoadige #yallersitalia #top_italia_photo #ok_europe #igworldclub #ig_worldclub #italia #mountains #italy #trentinoaltodige #ig_italia #ig_italy #altoadigedascoprire #trentinodascoprire",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Trentino",
+            "start_pos": 50,
+            "end_pos": 58,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8268719911575317
+                }
+            ]
+        },
+        {
+            "text": "di Siusi",
+            "start_pos": 130,
+            "end_pos": 138,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8918139338493347
+                }
+            ]
+        },
+        {
+            "text": "dai Bagni di Lavina Bianca",
+            "start_pos": 140,
+            "end_pos": 166,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9041383504867554
+                }
+            ]
+        },
+        {
+            "text": "dal Gardeccia e da Campitello di Fassa",
+            "start_pos": 168,
+            "end_pos": 206,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7900562456675938
+                }
+            ]
+        },
+        {
+            "text": "Duron",
+            "start_pos": 358,
+            "end_pos": 363,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7855141162872314
+                }
+            ]
+        },
+        {
+            "text": "Duron",
+            "start_pos": 920,
+            "end_pos": 925,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.49500545859336853
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Buon",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "weekend",
+            "start_pos": 5,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "posto",
+            "start_pos": 19,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "magico",
+            "start_pos": 25,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "confine",
+            "start_pos": 35,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "tra",
+            "start_pos": 43,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "Trentino",
+            "start_pos": 50,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "l'Altoadige",
+            "start_pos": 61,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Numerosi",
+            "start_pos": 74,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "sono",
+            "start_pos": 83,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "i",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "sentieri",
+            "start_pos": 90,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "che",
+            "start_pos": 99,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "portano",
+            "start_pos": 103,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "quassu",
+            "start_pos": 111,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "\u0300",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 118,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "dall'Alpe",
+            "start_pos": 120,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 130,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "Siusi",
+            "start_pos": 133,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "dai",
+            "start_pos": 140,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "Bagni",
+            "start_pos": 144,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 150,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "Lavina",
+            "start_pos": 153,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "Bianca",
+            "start_pos": 160,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 166,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "dal",
+            "start_pos": 168,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "Gardeccia",
+            "start_pos": 172,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 184,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "Campitello",
+            "start_pos": 187,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 198,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "Fassa",
+            "start_pos": 201,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 206,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "Partendo",
+            "start_pos": 209,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 218,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "quest'ultimo",
+            "start_pos": 221,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "paesino",
+            "start_pos": 234,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 242,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "arriva",
+            "start_pos": 245,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 252,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "rifugio",
+            "start_pos": 255,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "Micheluzzi",
+            "start_pos": 263,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 273,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "Lasciato",
+            "start_pos": 275,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 284,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "rifugio",
+            "start_pos": 287,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "ci",
+            "start_pos": 295,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 298,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "incammina",
+            "start_pos": 301,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 311,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "terreno",
+            "start_pos": 314,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "pianeggiante",
+            "start_pos": 322,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "per",
+            "start_pos": 335,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 339,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "lunghissima",
+            "start_pos": 342,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "val",
+            "start_pos": 354,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "Duron",
+            "start_pos": 358,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 365,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "lussureggianti",
+            "start_pos": 368,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "prati",
+            "start_pos": 383,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "erbosi",
+            "start_pos": 389,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 395,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 397,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "valle",
+            "start_pos": 401,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 407,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "po",
+            "start_pos": 410,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "'",
+            "start_pos": 412,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "sperduta",
+            "start_pos": 414,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 422,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "quasi",
+            "start_pos": 424,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "fuori",
+            "start_pos": 430,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "dal",
+            "start_pos": 436,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "tempo",
+            "start_pos": 440,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 445,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "ma",
+            "start_pos": 447,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "affascinante",
+            "start_pos": 450,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 462,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "stretta",
+            "start_pos": 464,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 472,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "sud",
+            "start_pos": 474,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "dalle",
+            "start_pos": 478,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "cime",
+            "start_pos": 484,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 489,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "Catinaccio",
+            "start_pos": 493,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "d'Antermoia",
+            "start_pos": 504,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 516,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 518,
+            "end_pos": 519,
+            "labels": []
+        },
+        {
+            "text": "nord",
+            "start_pos": 520,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 525,
+            "end_pos": 527,
+            "labels": []
+        },
+        {
+            "text": "quelle",
+            "start_pos": 528,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 535,
+            "end_pos": 538,
+            "labels": []
+        },
+        {
+            "text": "Sassolungo",
+            "start_pos": 539,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 549,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "Frequentemente",
+            "start_pos": 551,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "ci",
+            "start_pos": 566,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 569,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "imbatte",
+            "start_pos": 572,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "negli",
+            "start_pos": 580,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "yak",
+            "start_pos": 586,
+            "end_pos": 589,
+            "labels": []
+        },
+        {
+            "text": "che",
+            "start_pos": 590,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "pascolano",
+            "start_pos": 594,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "allegramente",
+            "start_pos": 604,
+            "end_pos": 616,
+            "labels": []
+        },
+        {
+            "text": "ai",
+            "start_pos": 617,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": "lati",
+            "start_pos": 620,
+            "end_pos": 624,
+            "labels": []
+        },
+        {
+            "text": "della",
+            "start_pos": 625,
+            "end_pos": 630,
+            "labels": []
+        },
+        {
+            "text": "nostra",
+            "start_pos": 631,
+            "end_pos": 637,
+            "labels": []
+        },
+        {
+            "text": "strada",
+            "start_pos": 638,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 644,
+            "end_pos": 645,
+            "labels": []
+        },
+        {
+            "text": "oltre",
+            "start_pos": 647,
+            "end_pos": 652,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 653,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "mucche",
+            "start_pos": 655,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 661,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "capre",
+            "start_pos": 663,
+            "end_pos": 668,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 669,
+            "end_pos": 670,
+            "labels": []
+        },
+        {
+            "text": "cavalli",
+            "start_pos": 671,
+            "end_pos": 678,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 678,
+            "end_pos": 679,
+            "labels": []
+        },
+        {
+            "text": "Presso",
+            "start_pos": 680,
+            "end_pos": 686,
+            "labels": []
+        },
+        {
+            "text": "malga",
+            "start_pos": 687,
+            "end_pos": 692,
+            "labels": []
+        },
+        {
+            "text": "Docoldaura",
+            "start_pos": 693,
+            "end_pos": 703,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 704,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": "strada",
+            "start_pos": 707,
+            "end_pos": 713,
+            "labels": []
+        },
+        {
+            "text": "sale",
+            "start_pos": 714,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 719,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 721,
+            "end_pos": 723,
+            "labels": []
+        },
+        {
+            "text": "entra",
+            "start_pos": 724,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 730,
+            "end_pos": 732,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 733,
+            "end_pos": 735,
+            "labels": []
+        },
+        {
+            "text": "vallone",
+            "start_pos": 736,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 744,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 746,
+            "end_pos": 748,
+            "labels": []
+        },
+        {
+            "text": "sale",
+            "start_pos": 749,
+            "end_pos": 753,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 754,
+            "end_pos": 756,
+            "labels": []
+        },
+        {
+            "text": "Passo",
+            "start_pos": 757,
+            "end_pos": 762,
+            "labels": []
+        },
+        {
+            "text": "Duron",
+            "start_pos": 763,
+            "end_pos": 768,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 768,
+            "end_pos": 769,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 770,
+            "end_pos": 772,
+            "labels": []
+        },
+        {
+            "text": "sentiero",
+            "start_pos": 773,
+            "end_pos": 781,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 782,
+            "end_pos": 784,
+            "labels": []
+        },
+        {
+            "text": "prati",
+            "start_pos": 785,
+            "end_pos": 790,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 790,
+            "end_pos": 791,
+            "labels": []
+        },
+        {
+            "text": "lasciando",
+            "start_pos": 792,
+            "end_pos": 801,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 802,
+            "end_pos": 803,
+            "labels": []
+        },
+        {
+            "text": "destra",
+            "start_pos": 804,
+            "end_pos": 810,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 811,
+            "end_pos": 813,
+            "labels": []
+        },
+        {
+            "text": "deviazione",
+            "start_pos": 814,
+            "end_pos": 824,
+            "labels": []
+        },
+        {
+            "text": "per",
+            "start_pos": 825,
+            "end_pos": 828,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 829,
+            "end_pos": 831,
+            "labels": []
+        },
+        {
+            "text": "rifugio",
+            "start_pos": 832,
+            "end_pos": 839,
+            "labels": []
+        },
+        {
+            "text": "Sassopiatto",
+            "start_pos": 840,
+            "end_pos": 851,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 851,
+            "end_pos": 852,
+            "labels": []
+        },
+        {
+            "text": "Dal",
+            "start_pos": 854,
+            "end_pos": 857,
+            "labels": []
+        },
+        {
+            "text": "Passo",
+            "start_pos": 858,
+            "end_pos": 863,
+            "labels": []
+        },
+        {
+            "text": "Duron",
+            "start_pos": 864,
+            "end_pos": 869,
+            "labels": []
+        },
+        {
+            "text": "finalmente",
+            "start_pos": 870,
+            "end_pos": 880,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 881,
+            "end_pos": 883,
+            "labels": []
+        },
+        {
+            "text": "ammira",
+            "start_pos": 884,
+            "end_pos": 890,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 891,
+            "end_pos": 893,
+            "labels": []
+        },
+        {
+            "text": "bel",
+            "start_pos": 894,
+            "end_pos": 897,
+            "labels": []
+        },
+        {
+            "text": "panorama",
+            "start_pos": 898,
+            "end_pos": 906,
+            "labels": []
+        },
+        {
+            "text": "verso",
+            "start_pos": 907,
+            "end_pos": 912,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 913,
+            "end_pos": 915,
+            "labels": []
+        },
+        {
+            "text": "val",
+            "start_pos": 916,
+            "end_pos": 919,
+            "labels": []
+        },
+        {
+            "text": "Duron",
+            "start_pos": 920,
+            "end_pos": 925,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 925,
+            "end_pos": 926,
+            "labels": []
+        },
+        {
+            "text": "l'Alpe",
+            "start_pos": 927,
+            "end_pos": 933,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 934,
+            "end_pos": 936,
+            "labels": []
+        },
+        {
+            "text": "Siusi",
+            "start_pos": 937,
+            "end_pos": 942,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 943,
+            "end_pos": 944,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 945,
+            "end_pos": 947,
+            "labels": []
+        },
+        {
+            "text": "gruppo",
+            "start_pos": 948,
+            "end_pos": 954,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 955,
+            "end_pos": 958,
+            "labels": []
+        },
+        {
+            "text": "Sassolungo",
+            "start_pos": 959,
+            "end_pos": 969,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 969,
+            "end_pos": 970,
+            "labels": []
+        },
+        {
+            "text": "Da",
+            "start_pos": 972,
+            "end_pos": 974,
+            "labels": []
+        },
+        {
+            "text": "qua",
+            "start_pos": 975,
+            "end_pos": 978,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 978,
+            "end_pos": 979,
+            "labels": []
+        },
+        {
+            "text": "proprio",
+            "start_pos": 980,
+            "end_pos": 987,
+            "labels": []
+        },
+        {
+            "text": "sotto",
+            "start_pos": 988,
+            "end_pos": 993,
+            "labels": []
+        },
+        {
+            "text": "i",
+            "start_pos": 994,
+            "end_pos": 995,
+            "labels": []
+        },
+        {
+            "text": "magnifici",
+            "start_pos": 996,
+            "end_pos": 1005,
+            "labels": []
+        },
+        {
+            "text": "Denti",
+            "start_pos": 1006,
+            "end_pos": 1011,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 1012,
+            "end_pos": 1014,
+            "labels": []
+        },
+        {
+            "text": "Terrarossa",
+            "start_pos": 1015,
+            "end_pos": 1025,
+            "labels": []
+        },
+        {
+            "text": "vi",
+            "start_pos": 1026,
+            "end_pos": 1028,
+            "labels": []
+        },
+        {
+            "text": "consigliamo",
+            "start_pos": 1029,
+            "end_pos": 1040,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 1041,
+            "end_pos": 1043,
+            "labels": []
+        },
+        {
+            "text": "fare",
+            "start_pos": 1044,
+            "end_pos": 1048,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 1049,
+            "end_pos": 1051,
+            "labels": []
+        },
+        {
+            "text": "ultimo",
+            "start_pos": 1052,
+            "end_pos": 1058,
+            "labels": []
+        },
+        {
+            "text": "sforzo",
+            "start_pos": 1059,
+            "end_pos": 1065,
+            "labels": []
+        },
+        {
+            "text": "per",
+            "start_pos": 1066,
+            "end_pos": 1069,
+            "labels": []
+        },
+        {
+            "text": "riposarsi",
+            "start_pos": 1070,
+            "end_pos": 1079,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 1080,
+            "end_pos": 1081,
+            "labels": []
+        },
+        {
+            "text": "rifocillarsi",
+            "start_pos": 1082,
+            "end_pos": 1094,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 1095,
+            "end_pos": 1097,
+            "labels": []
+        },
+        {
+            "text": "Rifugio",
+            "start_pos": 1098,
+            "end_pos": 1105,
+            "labels": []
+        },
+        {
+            "text": "all'Alpe",
+            "start_pos": 1106,
+            "end_pos": 1114,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 1115,
+            "end_pos": 1117,
+            "labels": []
+        },
+        {
+            "text": "Tires",
+            "start_pos": 1118,
+            "end_pos": 1123,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1123,
+            "end_pos": 1124,
+            "labels": []
+        },
+        {
+            "text": "posto",
+            "start_pos": 1125,
+            "end_pos": 1130,
+            "labels": []
+        },
+        {
+            "text": "che",
+            "start_pos": 1131,
+            "end_pos": 1134,
+            "labels": []
+        },
+        {
+            "text": "fa",
+            "start_pos": 1135,
+            "end_pos": 1137,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 1138,
+            "end_pos": 1140,
+            "labels": []
+        },
+        {
+            "text": "spartiacque",
+            "start_pos": 1141,
+            "end_pos": 1152,
+            "labels": []
+        },
+        {
+            "text": "tra",
+            "start_pos": 1154,
+            "end_pos": 1157,
+            "labels": []
+        },
+        {
+            "text": "Catinaccio",
+            "start_pos": 1158,
+            "end_pos": 1168,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 1169,
+            "end_pos": 1170,
+            "labels": []
+        },
+        {
+            "text": "l'Alpe",
+            "start_pos": 1171,
+            "end_pos": 1177,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 1178,
+            "end_pos": 1180,
+            "labels": []
+        },
+        {
+            "text": "Siusi",
+            "start_pos": 1181,
+            "end_pos": 1186,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1186,
+            "end_pos": 1187,
+            "labels": []
+        },
+        {
+            "text": "Ringraziamo",
+            "start_pos": 1188,
+            "end_pos": 1199,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 1200,
+            "end_pos": 1202,
+            "labels": []
+        },
+        {
+            "text": "bravissimo",
+            "start_pos": 1203,
+            "end_pos": 1213,
+            "labels": []
+        },
+        {
+            "text": "Luca",
+            "start_pos": 1214,
+            "end_pos": 1218,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 1219,
+            "end_pos": 1220,
+            "labels": []
+        },
+        {
+            "text": "lucacirulli",
+            "start_pos": 1220,
+            "end_pos": 1231,
+            "labels": []
+        },
+        {
+            "text": "per",
+            "start_pos": 1232,
+            "end_pos": 1235,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 1236,
+            "end_pos": 1238,
+            "labels": []
+        },
+        {
+            "text": "meravigliosa",
+            "start_pos": 1239,
+            "end_pos": 1251,
+            "labels": []
+        },
+        {
+            "text": "foto",
+            "start_pos": 1252,
+            "end_pos": 1256,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1256,
+            "end_pos": 1257,
+            "labels": []
+        },
+        {
+            "text": "Seguiteci",
+            "start_pos": 1259,
+            "end_pos": 1268,
+            "labels": []
+        },
+        {
+            "text": "anche",
+            "start_pos": 1269,
+            "end_pos": 1274,
+            "labels": []
+        },
+        {
+            "text": "sulle",
+            "start_pos": 1275,
+            "end_pos": 1280,
+            "labels": []
+        },
+        {
+            "text": "altre",
+            "start_pos": 1281,
+            "end_pos": 1286,
+            "labels": []
+        },
+        {
+            "text": "due",
+            "start_pos": 1287,
+            "end_pos": 1290,
+            "labels": []
+        },
+        {
+            "text": "nostre",
+            "start_pos": 1291,
+            "end_pos": 1297,
+            "labels": []
+        },
+        {
+            "text": "gallerie",
+            "start_pos": 1298,
+            "end_pos": 1306,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 1307,
+            "end_pos": 1308,
+            "labels": []
+        },
+        {
+            "text": "trentinodascoprire",
+            "start_pos": 1308,
+            "end_pos": 1326,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 1327,
+            "end_pos": 1328,
+            "labels": []
+        },
+        {
+            "text": "altoadigedascoprire",
+            "start_pos": 1328,
+            "end_pos": 1347,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 1348,
+            "end_pos": 1349,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 1350,
+            "end_pos": 1351,
+            "labels": []
+        },
+        {
+            "text": "sudtiroldascoprire",
+            "start_pos": 1351,
+            "end_pos": 1369,
+            "labels": []
+        },
+        {
+            "text": "dedicate",
+            "start_pos": 1370,
+            "end_pos": 1378,
+            "labels": []
+        },
+        {
+            "text": "esclusivamente",
+            "start_pos": 1379,
+            "end_pos": 1393,
+            "labels": []
+        },
+        {
+            "text": "all'Altoadige-Su",
+            "start_pos": 1394,
+            "end_pos": 1410,
+            "labels": []
+        },
+        {
+            "text": "\u0308",
+            "start_pos": 1410,
+            "end_pos": 1411,
+            "labels": []
+        },
+        {
+            "text": "dtirol",
+            "start_pos": 1411,
+            "end_pos": 1417,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 1417,
+            "end_pos": 1418,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1419,
+            "end_pos": 1420,
+            "labels": []
+        },
+        {
+            "text": "trentino",
+            "start_pos": 1420,
+            "end_pos": 1428,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1429,
+            "end_pos": 1430,
+            "labels": []
+        },
+        {
+            "text": "valdifassa",
+            "start_pos": 1430,
+            "end_pos": 1440,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1441,
+            "end_pos": 1442,
+            "labels": []
+        },
+        {
+            "text": "italiait",
+            "start_pos": 1442,
+            "end_pos": 1450,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1451,
+            "end_pos": 1452,
+            "labels": []
+        },
+        {
+            "text": "catinaccio",
+            "start_pos": 1452,
+            "end_pos": 1462,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1463,
+            "end_pos": 1464,
+            "labels": []
+        },
+        {
+            "text": "rosengarten",
+            "start_pos": 1464,
+            "end_pos": 1475,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1476,
+            "end_pos": 1477,
+            "labels": []
+        },
+        {
+            "text": "visittrentino",
+            "start_pos": 1477,
+            "end_pos": 1490,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1491,
+            "end_pos": 1492,
+            "labels": []
+        },
+        {
+            "text": "altoadige",
+            "start_pos": 1492,
+            "end_pos": 1501,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1502,
+            "end_pos": 1503,
+            "labels": []
+        },
+        {
+            "text": "southtyrol",
+            "start_pos": 1503,
+            "end_pos": 1513,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1514,
+            "end_pos": 1515,
+            "labels": []
+        },
+        {
+            "text": "sudtirol",
+            "start_pos": 1515,
+            "end_pos": 1523,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1524,
+            "end_pos": 1525,
+            "labels": []
+        },
+        {
+            "text": "dolomiti",
+            "start_pos": 1525,
+            "end_pos": 1533,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1534,
+            "end_pos": 1535,
+            "labels": []
+        },
+        {
+            "text": "unesco",
+            "start_pos": 1535,
+            "end_pos": 1541,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1542,
+            "end_pos": 1543,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 1543,
+            "end_pos": 1545,
+            "labels": []
+        },
+        {
+            "text": "\u0308",
+            "start_pos": 1545,
+            "end_pos": 1546,
+            "labels": []
+        },
+        {
+            "text": "dtirol",
+            "start_pos": 1546,
+            "end_pos": 1552,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1553,
+            "end_pos": 1554,
+            "labels": []
+        },
+        {
+            "text": "visitsouthtyrol",
+            "start_pos": 1554,
+            "end_pos": 1569,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1570,
+            "end_pos": 1571,
+            "labels": []
+        },
+        {
+            "text": "instatrentino",
+            "start_pos": 1571,
+            "end_pos": 1584,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1585,
+            "end_pos": 1586,
+            "labels": []
+        },
+        {
+            "text": "ilikeitaly",
+            "start_pos": 1586,
+            "end_pos": 1596,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1597,
+            "end_pos": 1598,
+            "labels": []
+        },
+        {
+            "text": "trekking",
+            "start_pos": 1598,
+            "end_pos": 1606,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1607,
+            "end_pos": 1608,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 1608,
+            "end_pos": 1610,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1610,
+            "end_pos": 1611,
+            "labels": []
+        },
+        {
+            "text": "altoadige",
+            "start_pos": 1611,
+            "end_pos": 1620,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1621,
+            "end_pos": 1622,
+            "labels": []
+        },
+        {
+            "text": "yallersitalia",
+            "start_pos": 1622,
+            "end_pos": 1635,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1636,
+            "end_pos": 1637,
+            "labels": []
+        },
+        {
+            "text": "top",
+            "start_pos": 1637,
+            "end_pos": 1640,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1640,
+            "end_pos": 1641,
+            "labels": []
+        },
+        {
+            "text": "italia",
+            "start_pos": 1641,
+            "end_pos": 1647,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1647,
+            "end_pos": 1648,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 1648,
+            "end_pos": 1653,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1654,
+            "end_pos": 1655,
+            "labels": []
+        },
+        {
+            "text": "ok",
+            "start_pos": 1655,
+            "end_pos": 1657,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1657,
+            "end_pos": 1658,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 1658,
+            "end_pos": 1664,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1665,
+            "end_pos": 1666,
+            "labels": []
+        },
+        {
+            "text": "igworldclub",
+            "start_pos": 1666,
+            "end_pos": 1677,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1678,
+            "end_pos": 1679,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 1679,
+            "end_pos": 1681,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1681,
+            "end_pos": 1682,
+            "labels": []
+        },
+        {
+            "text": "worldclub",
+            "start_pos": 1682,
+            "end_pos": 1691,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1692,
+            "end_pos": 1693,
+            "labels": []
+        },
+        {
+            "text": "italia",
+            "start_pos": 1693,
+            "end_pos": 1699,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1700,
+            "end_pos": 1701,
+            "labels": []
+        },
+        {
+            "text": "mountains",
+            "start_pos": 1701,
+            "end_pos": 1710,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1711,
+            "end_pos": 1712,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 1712,
+            "end_pos": 1717,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1718,
+            "end_pos": 1719,
+            "labels": []
+        },
+        {
+            "text": "trentinoaltodige",
+            "start_pos": 1719,
+            "end_pos": 1735,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1736,
+            "end_pos": 1737,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 1737,
+            "end_pos": 1739,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1739,
+            "end_pos": 1740,
+            "labels": []
+        },
+        {
+            "text": "italia",
+            "start_pos": 1740,
+            "end_pos": 1746,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1747,
+            "end_pos": 1748,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 1748,
+            "end_pos": 1750,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1750,
+            "end_pos": 1751,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 1751,
+            "end_pos": 1756,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1757,
+            "end_pos": 1758,
+            "labels": []
+        },
+        {
+            "text": "altoadigedascoprire",
+            "start_pos": 1758,
+            "end_pos": 1777,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1778,
+            "end_pos": 1779,
+            "labels": []
+        },
+        {
+            "text": "trentinodascoprire",
+            "start_pos": 1779,
+            "end_pos": 1797,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

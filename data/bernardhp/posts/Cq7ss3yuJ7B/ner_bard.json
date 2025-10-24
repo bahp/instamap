@@ -1,0 +1,108 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Eilean Donan Castle\",\n      \"full_address\": \"Eilean Donan Castle, Kyle of Lochalsh, Ross and Cromarty, Scotland, UK\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/d/da/Eilean_Donan_Castle_2012.JPG\"\n    },\n    {\n      \"name\": \"Old Man Of Storr\",\n      \"full_address\": \"Old Man of Storr, Trotternish Peninsula, Isle of Skye, Scotland, UK\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Old_Man_of_Storr_on_the_Isle_of_Skye_in_Scotland.jpg\"\n    },\n    {\n      \"name\": \"Mealt falls\",\n      \"full_address\": \"Mealt Falls, Coruisk, Isle of Skye, Scotland, UK\",\n      \"order\": 3,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mealt_Falls_Scotland.jpg/275px-Mealt_Falls_Scotland.jpg\"\n    },\n    {\n      \"name\": \"St Andrews Cathedral\",\n      \"full_address\": \"St Andrews Cathedral, St Andrews, Fife, Scotland, UK\",\n      \"order\": 4,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Andrews_Cathedral.jpg/400px-St_Andrews_Cathedral.jpg\"\n    },\n    {\n      \"name\": \"Fort William\",\n      \"full_address\": \"Fort William, Lochaber, Highland, Scotland, UK\",\n      \"order\": 5,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fort_William_from_the_Air.jpg/400px-Fort_William_from_the_Air.jpg\"\n    },\n    {\n      \"name\": \"Duncansby Stacks\",\n      \"full_address\": \"Duncansby Stacks, Duncansby, Caithness, Highland, Scotland, UK\",\n      \"order\": 6,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Duncansby_Stacks.jpg/400px-Duncansby_Stacks.jpg\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_8b8b93b8e34e0282",
+    "response_id": "r_1e29ab05fb0d64e8",
+    "factuality_queries": null,
+    "text_query": [
+        "Eilean Donan Castle, Old Man Of Storr, Mealt falls, St Andrews Cathedral, Fort William, Duncansby Stacks",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_3130859b7375538d",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Eilean Donan Castle\",\n      \"full_address\": \"Eilean Donan Castle, Kyle of Lochalsh, Ross and Cromarty, Scotland, UK\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/d/da/Eilean_Donan_Castle_2012.JPG\"\n    },\n    {\n      \"name\": \"Old Man Of Storr\",\n      \"full_address\": \"Old Man of Storr, Trotternish Peninsula, Isle of Skye, Scotland, UK\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Old_Man_of_Storr_on_the_Isle_of_Skye_in_Scotland.jpg\"\n    },\n    {\n      \"name\": \"Mealt falls\",\n      \"full_address\": \"Mealt Falls, Coruisk, Isle of Skye, Scotland, UK\",\n      \"order\": 3,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mealt_Falls_Scotland.jpg/275px-Mealt_Falls_Scotland.jpg\"\n    },\n    {\n      \"name\": \"St Andrews Cathedral\",\n      \"full_address\": \"St Andrews Cathedral, St Andrews, Fife, Scotland, UK\",\n      \"order\": 4,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Andrews_Cathedral.jpg/400px-St_Andrews_Cathedral.jpg\"\n    },\n    {\n      \"name\": \"Fort William\",\n      \"full_address\": \"Fort William, Lochaber, Highland, Scotland, UK\",\n      \"order\": 5,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fort_William_from_the_Air.jpg/400px-Fort_William_from_the_Air.jpg\"\n    },\n    {\n      \"name\": \"Duncansby Stacks\",\n      \"full_address\": \"Duncansby Stacks, Duncansby, Caithness, Highland, Scotland, UK\",\n      \"order\": 6,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Duncansby_Stacks.jpg/400px-Duncansby_Stacks.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_bf42f98ac71400e1",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Eilean Donan Castle\",\n      \"full_address\": \"Eilean Donan Castle, Kyle of Lochalsh, Scotland\",\n      \"order\": 1,\n      \"image\": \"[Image of Eilean Donan Castle, Kyle of Lochalsh, Scotland]\"\n    },\n    {\n      \"name\": \"Old Man of Storr\",\n      \"full_address\": \"Old Man of Storr, Trotternish Peninsula, Isle of Skye, Scotland\",\n      \"order\": 2,\n      \"image\": \"[Image of Old Man of Storr, Trotternish Peninsula, Isle of Skye, Scotland]\"\n    },\n    {\n      \"name\": \"Mealt Falls\",\n      \"full_address\": \"Mealt Falls, Isle of Skye, Scotland\",\n      \"order\": 3,\n      \"image\": \"[Image of Mealt Falls, Isle of Skye, Scotland]\"\n    },\n    {\n      \"name\": \"St Andrews Cathedral\",\n      \"full_address\": \"St Andrews Cathedral, St Andrews, Fife, Scotland\",\n      \"order\": 4,\n      \"image\": \"[Image of St Andrews Cathedral, St Andrews, Fife, Scotland]\"\n    },\n    {\n      \"name\": \"Fort William\",\n      \"full_address\": \"Fort William, Lochaber, Highland, Scotland\",\n      \"order\": 5,\n      \"image\": \"[Image of Fort William, Lochaber, Highland, Scotland]\"\n    },\n    {\n      \"name\": \"Duncansby Stacks\",\n      \"full_address\": \"Duncansby Stacks, Duncansby, Caithness, Scotland\",\n      \"order\": 6,\n      \"image\": \"[Image of Duncansby Stacks, Duncansby, Caithness, Scotland]\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_61b8f62a3ef1cf7d",
+            "content": [
+                "Here's a JSON file extracting the names, full addresses, and orders of the locations in the caption:\n\n```json\n{\n    \"locations\": [\n        {\n            \"name\": \"Eilean Donan Castle\",\n            \"full_address\": \"Eilean Donan Castle, Kyle of Lochalsh, Ross and Cromarty, Scotland\",\n            \"order\": 1,\n            \"image\": \"[Image of Eilean Donan Castle, Scotland]\"\n        },\n        {\n            \"name\": \"Old Man of Storr\",\n            \"full_address\": \"Old Man of Storr, Trotternish Peninsula, Isle of Skye, Scotland\",\n            \"order\": 2,\n            \"image\": \"[Image of Old Man of Storr, Scotland]\"\n        },\n        {\n            \"name\": \"Mealt Falls\",\n            \"full_address\": \"Mealt Falls, Coruisk, Isle of Skye, Scotland\",\n            \"order\": 3,\n            \"image\": \"[Image of Mealt Falls, Scotland]\"\n        },\n        {\n            \"name\": \"St Andrews Cathedral\",\n            \"full_address\": \"St Andrews Cathedral, St Andrews, Fife, Scotland\",\n            \"order\": 4,\n            \"image\": \"[Image of St Andrews Cathedral, Scotland]\"\n        },\n        {\n            \"name\": \"Fort William\",\n            \"full_address\": \"Fort William, Lochaber, Highland, Scotland\",\n            \"order\": 5,\n            \"image\": \"[Image of Fort William, Scotland]\"\n        },\n        {\n            \"name\": \"Duncansby Stacks\",\n            \"full_address\": \"Duncansby Stacks, Duncansby, Caithness, Scotland\",\n            \"order\": 6,\n            \"image\": \"[Image of Duncansby Stacks, Scotland]\"\n        }\n    ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg",
+        "https://en.wikipedia.org/wiki/Eilean_Donan",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotgLcE8HwFbV8F8dtvry1tyuJ-mCdE6nnTBcTcTHsrIpa-hZO3UbjxD3RRWsu",
+        "https://windows10spotlight.com/wp-content/uploads/2022/06/e306fb121966660778185b629f8ed276.jpg",
+        "https://windows10spotlight.com/images/26215",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb0Q3bMYpU5_EqbXEgsdB096Ore2w0zmckUQQKbU286vjuF35yltJHCh3oRSjg",
+        "https://i0.wp.com/hikingtheworld.blog/wp-content/uploads/2021/09/112_1278-LR.jpg",
+        "https://hikingtheworld.blog/waterfalls/mealt-falls/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz3m25VSPoFphmTexbWe9Oy-nJR4-pQ-G8acLyDrp1_mNYg9PY5nL93dDoEEe",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/St_Andrews_cathedral_and_St_Rules_Tower.jpg",
+        "https://en.wikipedia.org/wiki/St_Andrews_Cathedral",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7hTou2xMtBzM8duxaJTxsjnL95S_Z9MnDGV7FyrKOwVaetStoOwY9m4ZuYHvC",
+        "https://www.scotlandsbestbandbs.co.uk/cm-content/images/Area%20Highlands/Spean%20Lodge/fortwilliam-header.JPG",
+        "https://www.scotlandsbestbandbs.co.uk/historic-towns/fort-william",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjUjOZeprGjCV0Y9Sd7qlBxM-PBbmkV5CXWqf3mPThbmQTglvxOwyTNdgKedvU",
+        "https://www.mackayshotel.co.uk/wp-content/uploads/2021/12/Duncansby-Head.jpg",
+        "https://www.mackayshotel.co.uk/see-do-activities/caithness-walks/duncansby-stacks-and-lighthouse/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeUvwLCHEVZUR0hhCIc6Log5HORlkGMOxde8Gwy5H16UMI44F19_xzXXkvhJ6z",
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg",
+        "https://en.wikipedia.org/wiki/Eilean_Donan",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotgLcE8HwFbV8F8dtvry1tyuJ-mCdE6nnTBcTcTHsrIpa-hZO3UbjxD3RRWsu",
+        "https://windows10spotlight.com/wp-content/uploads/2022/06/e306fb121966660778185b629f8ed276.jpg",
+        "https://windows10spotlight.com/images/26215",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb0Q3bMYpU5_EqbXEgsdB096Ore2w0zmckUQQKbU286vjuF35yltJHCh3oRSjg",
+        "https://i0.wp.com/hikingtheworld.blog/wp-content/uploads/2021/09/112_1278-LR.jpg",
+        "https://hikingtheworld.blog/waterfalls/mealt-falls/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz3m25VSPoFphmTexbWe9Oy-nJR4-pQ-G8acLyDrp1_mNYg9PY5nL93dDoEEe",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/St_Andrews_cathedral_and_St_Rules_Tower.jpg",
+        "https://en.wikipedia.org/wiki/St_Andrews_Cathedral",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7hTou2xMtBzM8duxaJTxsjnL95S_Z9MnDGV7FyrKOwVaetStoOwY9m4ZuYHvC",
+        "https://www.scotlandsbestbandbs.co.uk/cm-content/images/Area%20Highlands/Spean%20Lodge/fortwilliam-header.JPG",
+        "https://www.scotlandsbestbandbs.co.uk/historic-towns/fort-william",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjUjOZeprGjCV0Y9Sd7qlBxM-PBbmkV5CXWqf3mPThbmQTglvxOwyTNdgKedvU",
+        "https://www.mackayshotel.co.uk/wp-content/uploads/2021/12/Duncansby-Head.jpg",
+        "https://www.mackayshotel.co.uk/see-do-activities/caithness-walks/duncansby-stacks-and-lighthouse/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeUvwLCHEVZUR0hhCIc6Log5HORlkGMOxde8Gwy5H16UMI44F19_xzXXkvhJ6z",
+        "https://www.eileandonancastle.com/wp-content/uploads/eilean-donan-visit2.jpg",
+        "https://www.eileandonancastle.com/visit/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE0YPDxJyUxir5rt6CsVzp7v88EWUMP35ZWW6CW0eI7K4yY08zIxbL7-_whnYe",
+        "https://1.bp.blogspot.com/-xuu9lbORt-g/X2OMddhcLyI/AAAAAAAAIws/ViyJsWkd6SMeHqLs7gl-T6-SFKzi274vQCLcBGAsYHQ/s2000/old-man-of-storr-walk-route-map-skye-hike-time-wanderung-store.png",
+        "https://www.hikingphotographer.uk/2020/09/old-man-of-storr-walk-isle-of-skye.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbb59vFHBLcBxJL6r9PGRLy4vxb_zMpRDpJFeUYnmNBvFDLrR6VyUIJ_pUQWB9",
+        "https://i0.wp.com/hikingtheworld.blog/wp-content/uploads/2021/09/112_1278-LR.jpg",
+        "https://hikingtheworld.blog/waterfalls/mealt-falls/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz3m25VSPoFphmTexbWe9Oy-nJR4-pQ-G8acLyDrp1_mNYg9PY5nL93dDoEEe",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/St_Andrews_cathedral_and_St_Rules_Tower.jpg",
+        "https://en.wikipedia.org/wiki/St_Andrews_Cathedral",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7hTou2xMtBzM8duxaJTxsjnL95S_Z9MnDGV7FyrKOwVaetStoOwY9m4ZuYHvC",
+        "https://cdn.britannica.com/33/148933-050-90C6D0EB/Fort-William-Highland-Scot.jpg",
+        "https://www.britannica.com/place/Fort-William-Scotland",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHIxCP6cW7_ryy8r5djPvj7S_bkXCoEOu1ss9YXfEvAyNxCUFBCWe6HIJOkH7",
+        "https://thirdeyetraveller.com/wp-content/uploads/Duncansby-Stacks-Walk-Lighthouse-Scotland-9-689x517.jpg",
+        "https://thirdeyetraveller.com/duncansby-stacks-lighthouse-scotland/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgmCwQiRavsFlsMwKG_fgkhzbj0J_qfaABrkRnzL0ULgIYvd1U7akGMQ7UCk7",
+        "https://www.eileandonancastle.com/wp-content/uploads/eilean-donan-visit2.jpg",
+        "https://www.eileandonancastle.com/visit/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE0YPDxJyUxir5rt6CsVzp7v88EWUMP35ZWW6CW0eI7K4yY08zIxbL7-_whnYe",
+        "https://1.bp.blogspot.com/-xuu9lbORt-g/X2OMddhcLyI/AAAAAAAAIws/ViyJsWkd6SMeHqLs7gl-T6-SFKzi274vQCLcBGAsYHQ/s2000/old-man-of-storr-walk-route-map-skye-hike-time-wanderung-store.png",
+        "https://www.hikingphotographer.uk/2020/09/old-man-of-storr-walk-isle-of-skye.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbb59vFHBLcBxJL6r9PGRLy4vxb_zMpRDpJFeUYnmNBvFDLrR6VyUIJ_pUQWB9",
+        "https://i0.wp.com/hikingtheworld.blog/wp-content/uploads/2021/09/112_1278-LR.jpg",
+        "https://hikingtheworld.blog/waterfalls/mealt-falls/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz3m25VSPoFphmTexbWe9Oy-nJR4-pQ-G8acLyDrp1_mNYg9PY5nL93dDoEEe",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/St_Andrews_cathedral_and_St_Rules_Tower.jpg",
+        "https://en.wikipedia.org/wiki/St_Andrews_Cathedral",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7hTou2xMtBzM8duxaJTxsjnL95S_Z9MnDGV7FyrKOwVaetStoOwY9m4ZuYHvC",
+        "https://cdn.britannica.com/33/148933-050-90C6D0EB/Fort-William-Highland-Scot.jpg",
+        "https://www.britannica.com/place/Fort-William-Scotland",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHIxCP6cW7_ryy8r5djPvj7S_bkXCoEOu1ss9YXfEvAyNxCUFBCWe6HIJOkH7",
+        "https://thirdeyetraveller.com/wp-content/uploads/Duncansby-Stacks-Walk-Lighthouse-Scotland-9-689x517.jpg",
+        "https://thirdeyetraveller.com/duncansby-stacks-lighthouse-scotland/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgmCwQiRavsFlsMwKG_fgkhzbj0J_qfaABrkRnzL0ULgIYvd1U7akGMQ7UCk7"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Eilean Donan Castle\",\n      \"full_address\": \"Eilean Donan Castle, Kyle of Lochalsh, Ross and Cromarty, Scotland, UK\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/d/da/Eilean_Donan_Castle_2012.JPG\"\n    },\n    {\n      \"name\": \"Old Man Of Storr\",\n      \"full_address\": \"Old Man of Storr, Trotternish Peninsula, Isle of Skye, Scotland, UK\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Old_Man_of_Storr_on_the_Isle_of_Skye_in_Scotland.jpg\"\n    },\n    {\n      \"name\": \"Mealt falls\",\n      \"full_address\": \"Mealt Falls, Coruisk, Isle of Skye, Scotland, UK\",\n      \"order\": 3,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mealt_Falls_Scotland.jpg/275px-Mealt_Falls_Scotland.jpg\"\n    },\n    {\n      \"name\": \"St Andrews Cathedral\",\n      \"full_address\": \"St Andrews Cathedral, St Andrews, Fife, Scotland, UK\",\n      \"order\": 4,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Andrews_Cathedral.jpg/400px-St_Andrews_Cathedral.jpg\"\n    },\n    {\n      \"name\": \"Fort William\",\n      \"full_address\": \"Fort William, Lochaber, Highland, Scotland, UK\",\n      \"order\": 5,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fort_William_from_the_Air.jpg/400px-Fort_William_from_the_Air.jpg\"\n    },\n    {\n      \"name\": \"Duncansby Stacks\",\n      \"full_address\": \"Duncansby Stacks, Duncansby, Caithness, Highland, Scotland, UK\",\n      \"order\": 6,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Duncansby_Stacks.jpg/400px-Duncansby_Stacks.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

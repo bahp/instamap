@@ -1,0 +1,73 @@
+[
+    {
+        "text": "\ud83d\udccdTransylvania, Romania ",
+        "start": 0,
+        "end": 23,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Transylvania, Romania "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf7\ud83c\uddf4",
+        "start": 63,
+        "end": 65,
+        "groupdict": {
+            "flag": "\ud83c\uddf7\ud83c\uddf4",
+            "location": "Romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddf9\ud83c\udde9",
+        "start": 948,
+        "end": 950,
+        "groupdict": {
+            "flag": "\ud83c\uddf9\ud83c\udde9",
+            "location": "Chad"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Romania",
+        "start": 15,
+        "end": 22,
+        "groupdict": {
+            "name": "Romania",
+            "location": "Romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "romania",
+        "start": 903,
+        "end": 910,
+        "groupdict": {
+            "name": "romania",
+            "location": "romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "romania",
+        "start": 941,
+        "end": 948,
+        "groupdict": {
+            "name": "romania",
+            "location": "romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

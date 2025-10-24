@@ -1,0 +1,772 @@
+{
+    "text": "\ud83c\udde7\ud83c\uddea Belgian Cities: Where History Meets Delight. Explore Bruges, Brussels, Ghent & more. Indulge in chocolates, waffles, and art. Uncover the essence of Belgium's charm. #BelgianCityLife \ud83c\udfd9\ud83c\udf6b\ud83c\udfa8  \ud83d\udccd Locations : 1. Brussels by @lorigavalda 2. Ghent by @kosnio 3. Brugge by @bangupnata 4. Mechelen by @bouchta_be 5. Leuven by roland_abi 6. Ghent by @imad_mouawad 7. Brugge by @lorigavalda 8. Heavenly Pizza in Brugge by @ichmiles 9. Ghent by @ewout.pahud",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Belgian Cities: Where History Meets Delight",
+            "start_pos": 3,
+            "end_pos": 46,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6994956731796265
+                }
+            ]
+        },
+        {
+            "text": "Bruges",
+            "start_pos": 56,
+            "end_pos": 62,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8837197422981262
+                }
+            ]
+        },
+        {
+            "text": "Brussels",
+            "start_pos": 64,
+            "end_pos": 72,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9448513984680176
+                }
+            ]
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 74,
+            "end_pos": 79,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6498430967330933
+                }
+            ]
+        },
+        {
+            "text": "Belgium",
+            "start_pos": 152,
+            "end_pos": 159,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999462902545929
+                }
+            ]
+        },
+        {
+            "text": "Brussels",
+            "start_pos": 208,
+            "end_pos": 216,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9961393475532532
+                }
+            ]
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 236,
+            "end_pos": 241,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9910229444503784
+                }
+            ]
+        },
+        {
+            "text": "Brugge",
+            "start_pos": 256,
+            "end_pos": 262,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.46993860602378845
+                }
+            ]
+        },
+        {
+            "text": "Mechelen",
+            "start_pos": 281,
+            "end_pos": 289,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7010807394981384
+                }
+            ]
+        },
+        {
+            "text": "Leuven",
+            "start_pos": 308,
+            "end_pos": 314,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9903020262718201
+                }
+            ]
+        },
+        {
+            "text": "abi",
+            "start_pos": 325,
+            "end_pos": 328,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9400671124458313
+                }
+            ]
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 332,
+            "end_pos": 337,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9903590083122253
+                }
+            ]
+        },
+        {
+            "text": "mouawad",
+            "start_pos": 347,
+            "end_pos": 354,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6977537274360657
+                }
+            ]
+        },
+        {
+            "text": "Brugge",
+            "start_pos": 358,
+            "end_pos": 364,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.49317148327827454
+                }
+            ]
+        },
+        {
+            "text": "lorigavalda",
+            "start_pos": 369,
+            "end_pos": 380,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.542268693447113
+                }
+            ]
+        },
+        {
+            "text": "Heavenly Pizza",
+            "start_pos": 384,
+            "end_pos": 398,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.712758481502533
+                }
+            ]
+        },
+        {
+            "text": "Brugge",
+            "start_pos": 402,
+            "end_pos": 408,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9854245781898499
+                }
+            ]
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 425,
+            "end_pos": 430,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9861591458320618
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udde7\ud83c\uddea",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "Belgian",
+            "start_pos": 3,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "Cities",
+            "start_pos": 11,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Where",
+            "start_pos": 19,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 25,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Meets",
+            "start_pos": 33,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Delight",
+            "start_pos": 39,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "Explore",
+            "start_pos": 48,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Bruges",
+            "start_pos": 56,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Brussels",
+            "start_pos": 64,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 74,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 82,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "Indulge",
+            "start_pos": 88,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 96,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "chocolates",
+            "start_pos": 99,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "waffles",
+            "start_pos": 111,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 118,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 120,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "art",
+            "start_pos": 124,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 127,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "Uncover",
+            "start_pos": 129,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 137,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "essence",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 149,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "Belgium",
+            "start_pos": 152,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 159,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "charm",
+            "start_pos": 162,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 167,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "BelgianCityLife",
+            "start_pos": 170,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfd9\ud83c\udf6b\ud83c\udfa8",
+            "start_pos": 186,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 191,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "Locations",
+            "start_pos": 193,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 203,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 205,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "Brussels",
+            "start_pos": 208,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 217,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 220,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "lorigavalda",
+            "start_pos": 221,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 233,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 236,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 242,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 245,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "kosnio",
+            "start_pos": 246,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 253,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "Brugge",
+            "start_pos": 256,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 263,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 266,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "bangupnata",
+            "start_pos": 267,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 278,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "Mechelen",
+            "start_pos": 281,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 290,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 293,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "bouchta",
+            "start_pos": 294,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 301,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 302,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "5.",
+            "start_pos": 305,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "Leuven",
+            "start_pos": 308,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 315,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "roland",
+            "start_pos": 318,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "abi",
+            "start_pos": 325,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "6.",
+            "start_pos": 329,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 332,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 338,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 341,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "imad",
+            "start_pos": 342,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "mouawad",
+            "start_pos": 347,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "7.",
+            "start_pos": 355,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "Brugge",
+            "start_pos": 358,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 365,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "lorigavalda",
+            "start_pos": 369,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "8.",
+            "start_pos": 381,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "Heavenly",
+            "start_pos": 384,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "Pizza",
+            "start_pos": 393,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 399,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "Brugge",
+            "start_pos": 402,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 409,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 412,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "ichmiles",
+            "start_pos": 413,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "9.",
+            "start_pos": 422,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "Ghent",
+            "start_pos": 425,
+            "end_pos": 430,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 431,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 434,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "ewout.pahud",
+            "start_pos": 435,
+            "end_pos": 446,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

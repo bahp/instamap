@@ -1,0 +1,123 @@
+{
+    "text": "Seven Sisters \u2764  East Sussex Congrats @markbulmer_photography  Use #map_of_europe #Unitedkingdom",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Seven",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Sisters",
+            "start_pos": 6,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 14,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "East",
+            "start_pos": 17,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Sussex",
+            "start_pos": 22,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 29,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "markbulmer",
+            "start_pos": 39,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 50,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 63,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 68,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 72,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "Unitedkingdom",
+            "start_pos": 83,
+            "end_pos": 96,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

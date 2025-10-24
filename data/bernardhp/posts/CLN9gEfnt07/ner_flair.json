@@ -1,0 +1,629 @@
+{
+    "text": "Porto Flavia \u2764 Sardinia Italy  Congrats @valentinoselis  Use #map_of_Italy #map_of_europe  Porto Flavia is a sea harbor located near Nebida in the Iglesias comune of Italy. Built in 1923\u201324, it served as the mineral production hub of Masua in the west coast of the Sardinian Iglesiente area. It is named after Flavia Vecelli, the daughter of Cesare Vecelli, who engineered and designed the harbor. Wikipedia",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Porto Flavia \u2764 Sardinia Italy  Congrats",
+            "start_pos": 0,
+            "end_pos": 39,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8357625603675842
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 69,
+            "end_pos": 74,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9590634703636169
+                }
+            ]
+        },
+        {
+            "text": "Porto Flavia",
+            "start_pos": 91,
+            "end_pos": 103,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7222096472978592
+                }
+            ]
+        },
+        {
+            "text": "Nebida",
+            "start_pos": 133,
+            "end_pos": 139,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9970767498016357
+                }
+            ]
+        },
+        {
+            "text": "Iglesias",
+            "start_pos": 147,
+            "end_pos": 155,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5873693823814392
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 166,
+            "end_pos": 171,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9983629584312439
+                }
+            ]
+        },
+        {
+            "text": "Masua",
+            "start_pos": 234,
+            "end_pos": 239,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9765936136245728
+                }
+            ]
+        },
+        {
+            "text": "Sardinian Iglesiente",
+            "start_pos": 265,
+            "end_pos": 285,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8320664167404175
+                }
+            ]
+        },
+        {
+            "text": "Flavia Vecelli",
+            "start_pos": 310,
+            "end_pos": 324,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9992908835411072
+                }
+            ]
+        },
+        {
+            "text": "Cesare Vecelli",
+            "start_pos": 342,
+            "end_pos": 356,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9974695146083832
+                }
+            ]
+        },
+        {
+            "text": "Wikipedia",
+            "start_pos": 398,
+            "end_pos": 407,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.3847867548465729
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Porto",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Flavia",
+            "start_pos": 6,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Sardinia",
+            "start_pos": 15,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 31,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "valentinoselis",
+            "start_pos": 41,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 57,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 62,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 66,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 69,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 76,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 80,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "Porto",
+            "start_pos": 91,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "Flavia",
+            "start_pos": 97,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 104,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "sea",
+            "start_pos": 109,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "harbor",
+            "start_pos": 113,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 120,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "near",
+            "start_pos": 128,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "Nebida",
+            "start_pos": 133,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 140,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 143,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "Iglesias",
+            "start_pos": 147,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "comune",
+            "start_pos": 156,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 163,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 166,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 171,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "Built",
+            "start_pos": 173,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 179,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "1923",
+            "start_pos": 182,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "\u2013",
+            "start_pos": 186,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "24",
+            "start_pos": 187,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 191,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "served",
+            "start_pos": 194,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 201,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 204,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "mineral",
+            "start_pos": 208,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "production",
+            "start_pos": 216,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "hub",
+            "start_pos": 227,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 231,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "Masua",
+            "start_pos": 234,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 240,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 243,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "west",
+            "start_pos": 247,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "coast",
+            "start_pos": 252,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 258,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 261,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "Sardinian",
+            "start_pos": 265,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "Iglesiente",
+            "start_pos": 275,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "area",
+            "start_pos": 286,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 290,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 292,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 295,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "named",
+            "start_pos": 298,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "after",
+            "start_pos": 304,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "Flavia",
+            "start_pos": 310,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "Vecelli",
+            "start_pos": 317,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 326,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "daughter",
+            "start_pos": 330,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 339,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "Cesare",
+            "start_pos": 342,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "Vecelli",
+            "start_pos": 349,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 356,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 358,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "engineered",
+            "start_pos": 362,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 373,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "designed",
+            "start_pos": 377,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 386,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "harbor",
+            "start_pos": 390,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 396,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "Wikipedia",
+            "start_pos": 398,
+            "end_pos": 407,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

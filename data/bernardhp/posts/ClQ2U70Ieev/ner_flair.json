@@ -1,0 +1,868 @@
+{
+    "text": "Asked the Beast to take a video of me in my new library \ud83d\udc81\u200d\u2640\ud83d\udcda  This \u2018library\u2019 in reality is the beautiful C\u0103rture\u0219ti Carusel bookstore in Bucharest, Romania! \ud83c\uddf7\ud83c\uddf4   Located in the heart of old town, the store provides a quiet bright hideaway in the midst of the city.   It does get quite busy, so if you\u2019re planning a visit I\u2019d recommend heading there as soon as it\u2019s open to explore the massive labyrinth of books in both English and Romanian - they even have a cafe for your morning coffee fix \u2615   Have you ever seen a prettier shop? \u2728   #bucharest #romania #carturesticarusel #bookstagram #everydaymagic #cottagecoreaesthetic #cottagecorefashion #autumngirl #realmsandenchantment #cottagecore #romaniatravel",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Beast",
+            "start_pos": 10,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.5039963126182556
+                }
+            ]
+        },
+        {
+            "text": "C\u0103rture\u0219ti Carusel",
+            "start_pos": 105,
+            "end_pos": 123,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.39403216540813446
+                }
+            ]
+        },
+        {
+            "text": "Bucharest",
+            "start_pos": 137,
+            "end_pos": 146,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9970667958259583
+                }
+            ]
+        },
+        {
+            "text": "Romania",
+            "start_pos": 148,
+            "end_pos": 155,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9942609071731567
+                }
+            ]
+        },
+        {
+            "text": "English",
+            "start_pos": 420,
+            "end_pos": 427,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9998822212219238
+                }
+            ]
+        },
+        {
+            "text": "Romanian",
+            "start_pos": 432,
+            "end_pos": 440,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9999009370803833
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Asked",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 6,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Beast",
+            "start_pos": 10,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 19,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "video",
+            "start_pos": 26,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 38,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 41,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "new",
+            "start_pos": 44,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "library",
+            "start_pos": 48,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc81\u200d\u2640\ud83d\udcda",
+            "start_pos": 56,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 62,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "\u2018",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "library\u2019",
+            "start_pos": 68,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 77,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "reality",
+            "start_pos": 80,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 88,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 91,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 95,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "C\u0103rture\u0219ti",
+            "start_pos": 105,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "Carusel",
+            "start_pos": 116,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "bookstore",
+            "start_pos": 124,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 134,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "Bucharest",
+            "start_pos": 137,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 146,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "Romania",
+            "start_pos": 148,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf7\ud83c\uddf4",
+            "start_pos": 157,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "Located",
+            "start_pos": 162,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 170,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 173,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "heart",
+            "start_pos": 177,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 183,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "old",
+            "start_pos": 186,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "town",
+            "start_pos": 190,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 194,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 196,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "store",
+            "start_pos": 200,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "provides",
+            "start_pos": 206,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 215,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "quiet",
+            "start_pos": 217,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "bright",
+            "start_pos": 223,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "hideaway",
+            "start_pos": 230,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 239,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 242,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "midst",
+            "start_pos": 246,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 252,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 255,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "city",
+            "start_pos": 259,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 263,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 267,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "does",
+            "start_pos": 270,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "get",
+            "start_pos": 275,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "quite",
+            "start_pos": 279,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "busy",
+            "start_pos": 285,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 289,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 291,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 294,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 297,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "\u2019re",
+            "start_pos": 300,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "planning",
+            "start_pos": 304,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 313,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 315,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 321,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "\u2019d",
+            "start_pos": 322,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "recommend",
+            "start_pos": 325,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "heading",
+            "start_pos": 335,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 343,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 349,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "soon",
+            "start_pos": 352,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 357,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 360,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 362,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "open",
+            "start_pos": 365,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 370,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 373,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 381,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "massive",
+            "start_pos": 385,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "labyrinth",
+            "start_pos": 393,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 403,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "books",
+            "start_pos": 406,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 412,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "both",
+            "start_pos": 415,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "English",
+            "start_pos": 420,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 428,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "Romanian",
+            "start_pos": 432,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 441,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "they",
+            "start_pos": 443,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "even",
+            "start_pos": 448,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 453,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 458,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "cafe",
+            "start_pos": 460,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 465,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 469,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "morning",
+            "start_pos": 474,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "coffee",
+            "start_pos": 482,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "fix",
+            "start_pos": 489,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "\u2615",
+            "start_pos": 493,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 497,
+            "end_pos": 501,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 502,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 506,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "seen",
+            "start_pos": 511,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 516,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "prettier",
+            "start_pos": 518,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "shop",
+            "start_pos": 527,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 531,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 533,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 537,
+            "end_pos": 538,
+            "labels": []
+        },
+        {
+            "text": "bucharest",
+            "start_pos": 538,
+            "end_pos": 547,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 548,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "romania",
+            "start_pos": 549,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 557,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "carturesticarusel",
+            "start_pos": 558,
+            "end_pos": 575,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 576,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "bookstagram",
+            "start_pos": 577,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 589,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "everydaymagic",
+            "start_pos": 590,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 604,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "cottagecoreaesthetic",
+            "start_pos": 605,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 626,
+            "end_pos": 627,
+            "labels": []
+        },
+        {
+            "text": "cottagecorefashion",
+            "start_pos": 627,
+            "end_pos": 645,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 646,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "autumngirl",
+            "start_pos": 647,
+            "end_pos": 657,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 658,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "realmsandenchantment",
+            "start_pos": 659,
+            "end_pos": 679,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 680,
+            "end_pos": 681,
+            "labels": []
+        },
+        {
+            "text": "cottagecore",
+            "start_pos": 681,
+            "end_pos": 692,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 693,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "romaniatravel",
+            "start_pos": 694,
+            "end_pos": 707,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

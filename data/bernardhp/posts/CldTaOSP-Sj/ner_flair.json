@@ -1,0 +1,45 @@
+{
+    "text": "\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2a\ud835\udc2e\ud835\udc22\ud835\udc25 \ud835\udc26\ud835\udc28\ud835\udc2b\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c \ud835\udc22\ud835\udc27 \ud835\udc01\ud835\udc1a\ud835\udc25\ud835\udc22\u2019\ud835\udc2c \ud835\udc1c\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc32\ud835\udc2c\ud835\udc22\ud835\udc1d\ud835\udc1e \ud83c\udf43",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2a\ud835\udc2e\ud835\udc22\ud835\udc25",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "\ud835\udc26\ud835\udc28\ud835\udc2b\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc2c",
+            "start_pos": 9,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\ud835\udc22\ud835\udc27",
+            "start_pos": 18,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\ud835\udc01\ud835\udc1a\ud835\udc25\ud835\udc22\u2019\ud835\udc2c",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\ud835\udc1c\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc32\ud835\udc2c\ud835\udc22\ud835\udc1d\ud835\udc1e",
+            "start_pos": 28,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf43",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

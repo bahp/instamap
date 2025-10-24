@@ -1,0 +1,206 @@
+{
+    "text": "What $5 gets you in Tokyo Japan \ud83c\uddef\ud83c\uddf5 the egg in the end is dericious \ud83d\ude0d #Tokyo #Japan #Food #Gyoza #antoninjapan #lifeinjapan",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Tokyo Japan",
+            "start_pos": 20,
+            "end_pos": 31,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9398617148399353
+                }
+            ]
+        },
+        {
+            "text": "Japan",
+            "start_pos": 77,
+            "end_pos": 82,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6253786683082581
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "What",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "$",
+            "start_pos": 5,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "5",
+            "start_pos": 6,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "gets",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 13,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 17,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Tokyo",
+            "start_pos": 20,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 26,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddef\ud83c\uddf5",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 35,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "egg",
+            "start_pos": 39,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 43,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 46,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "end",
+            "start_pos": 50,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 54,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "dericious",
+            "start_pos": 57,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "Tokyo",
+            "start_pos": 70,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 76,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 77,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "Food",
+            "start_pos": 84,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "Gyoza",
+            "start_pos": 90,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "antoninjapan",
+            "start_pos": 97,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 110,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "lifeinjapan",
+            "start_pos": 111,
+            "end_pos": 122,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

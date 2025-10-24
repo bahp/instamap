@@ -1,0 +1,252 @@
+[
+    {
+        "text": "1. Olvera, Spain",
+        "start": 138,
+        "end": 154,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Olvera, Spain"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Frigiliana, Spain",
+        "start": 155,
+        "end": 175,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Frigiliana, Spain"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Menton, France",
+        "start": 176,
+        "end": 193,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Menton, France"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Vietri sul Mare, Italy ",
+        "start": 194,
+        "end": 220,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Vietri sul Mare, Italy "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Locotorondo, Italy",
+        "start": 221,
+        "end": 242,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Locotorondo, Italy"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Dinant, Belgium",
+        "start": 243,
+        "end": 261,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Dinant, Belgium"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Antiparos, Greece",
+        "start": 262,
+        "end": 282,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Antiparos, Greece"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Ferragudo, Portugal",
+        "start": 283,
+        "end": 305,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Ferragudo, Portugal"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Agueda, Portugal ",
+        "start": 306,
+        "end": 326,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Agueda, Portugal "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Motovun, Croatia",
+        "start": 327,
+        "end": 347,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Motovun, Croatia"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "Spain",
+        "start": 149,
+        "end": 154,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Spain",
+        "start": 170,
+        "end": 175,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "France",
+        "start": 187,
+        "end": 193,
+        "groupdict": {
+            "name": "France",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Italy",
+        "start": 214,
+        "end": 219,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Italy",
+        "start": 237,
+        "end": 242,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Belgium",
+        "start": 254,
+        "end": 261,
+        "groupdict": {
+            "name": "Belgium",
+            "location": "Belgium"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Greece",
+        "start": 276,
+        "end": 282,
+        "groupdict": {
+            "name": "Greece",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Portugal",
+        "start": 297,
+        "end": 305,
+        "groupdict": {
+            "name": "Portugal",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Portugal",
+        "start": 317,
+        "end": 325,
+        "groupdict": {
+            "name": "Portugal",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Croatia",
+        "start": 340,
+        "end": 347,
+        "groupdict": {
+            "name": "Croatia",
+            "location": "Croatia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

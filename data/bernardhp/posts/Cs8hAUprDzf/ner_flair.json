@@ -1,0 +1,272 @@
+{
+    "text": "Save for this summer!   It\u2019s our favorite hike in \ud83c\udde8\ud83c\udded:  \ud83d\udccdSaxer L\u00fccke, Appenzell   #switzerland #visitswitzerland #folkmagazine #filmmaking #exploremore #traveltips #folkscenery #earthoutdoors #beautifuldestinations #livefolk #roamtheplanet",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Saxer L\u00fccke",
+            "start_pos": 56,
+            "end_pos": 67,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8551888763904572
+                }
+            ]
+        },
+        {
+            "text": "switzerland",
+            "start_pos": 82,
+            "end_pos": 93,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9414901733398438
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Save",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "summer",
+            "start_pos": 14,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 26,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 29,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 33,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 42,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\udded",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "Saxer",
+            "start_pos": 56,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "L\u00fccke",
+            "start_pos": 62,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "Appenzell",
+            "start_pos": 69,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "switzerland",
+            "start_pos": 82,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "visitswitzerland",
+            "start_pos": 95,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 112,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "folkmagazine",
+            "start_pos": 113,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "filmmaking",
+            "start_pos": 127,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "exploremore",
+            "start_pos": 139,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "traveltips",
+            "start_pos": 152,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 163,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "folkscenery",
+            "start_pos": 164,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 176,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "earthoutdoors",
+            "start_pos": 177,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 191,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 192,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "livefolk",
+            "start_pos": 215,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 224,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "roamtheplanet",
+            "start_pos": 225,
+            "end_pos": 238,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

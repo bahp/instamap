@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Tintagel Castle",
+        "subtitle": "Historic castle on the north Cornwall coast",
+        "lat": 50.6694,
+        "lon": -4.7573,
+        "type": "castle",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "Cornwall",
+        "subtitle": "County in southwest England, United Kingdom",
+        "lat": 50.45,
+        "lon": -4.8,
+        "type": "county",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 5,
+        "page": null
+    },
+    {
+        "title": "United Kingdom",
+        "subtitle": "Island nation in Western Europe",
+        "lat": 55.3781,
+        "lon": -3.436,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "London",
+        "subtitle": "Capital city of England and the United Kingdom",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Mediterranean Sea",
+        "subtitle": "Intercontinental sea between Europe and Africa",
+        "lat": 35.0,
+        "lon": 18.0,
+        "type": "sea",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": null
+    },
+    {
+        "title": "Merlin's Cave",
+        "subtitle": "Sea cave below Tintagel Castle",
+        "lat": 50.6706,
+        "lon": -4.7554,
+        "type": "cave",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    }
+]

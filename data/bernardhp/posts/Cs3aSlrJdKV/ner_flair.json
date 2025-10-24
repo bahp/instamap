@@ -1,0 +1,879 @@
+{
+    "text": "bike + camping \ud83d\udeb4\u26fa  \ud83d\udc49 laundry remix in profile \ud83d\udc48  For this trip I\u2019m trying out the @restrap technical bikepacking system. They\u2019re so light! ~ excited to see how they cope outdoors.  At the centre of my cockpit sits a @mouscase + bike mount. Since it\u2019s group tour, I\u2019ll prolly be filming mostly with my phone on-the-go. The IntraLock system is superior to one that requires rotation\ud83d\udc4c buttery smooth.   \ud83d\udeb2 Specialized Diverge  \u26fa Big Agnes Copper Spur   I\u2019ve pinned a carousel on profile for a more detailed look at the individual items should you need it, like a checklist for your next trip perhaps \ud83e\udd17  Follow for more sick edits \ud83c\udfac\ud83d\udd25  #camping #editing #asmr #creative #cycling #bikepacking #sounddesign #filmmaking",
+    "labels": [],
+    "entities": [
+        {
+            "text": "IntraLock",
+            "start_pos": 322,
+            "end_pos": 331,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9785691499710083
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "bike",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "+",
+            "start_pos": 5,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "camping",
+            "start_pos": 7,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udeb4\u26fa",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "laundry",
+            "start_pos": 21,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "remix",
+            "start_pos": 29,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "profile",
+            "start_pos": 38,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc48",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "For",
+            "start_pos": 49,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 53,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 58,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "\u2019m",
+            "start_pos": 64,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "trying",
+            "start_pos": 67,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "out",
+            "start_pos": 74,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 78,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "restrap",
+            "start_pos": 83,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "technical",
+            "start_pos": 91,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "bikepacking",
+            "start_pos": 101,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "system",
+            "start_pos": 113,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "They",
+            "start_pos": 121,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "\u2019re",
+            "start_pos": 125,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 129,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "light",
+            "start_pos": 132,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "~",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "excited",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 149,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 152,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "how",
+            "start_pos": 156,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "they",
+            "start_pos": 160,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "cope",
+            "start_pos": 165,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "outdoors",
+            "start_pos": 170,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 178,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "At",
+            "start_pos": 181,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 184,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "centre",
+            "start_pos": 188,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 195,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 198,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "cockpit",
+            "start_pos": 201,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "sits",
+            "start_pos": 209,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 216,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "mouscase",
+            "start_pos": 217,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "+",
+            "start_pos": 226,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "bike",
+            "start_pos": 228,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "mount",
+            "start_pos": 233,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 238,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "Since",
+            "start_pos": 240,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 246,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 248,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "group",
+            "start_pos": 251,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "tour",
+            "start_pos": 257,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 261,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 263,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "\u2019ll",
+            "start_pos": 264,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "prolly",
+            "start_pos": 268,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 275,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "filming",
+            "start_pos": 278,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "mostly",
+            "start_pos": 286,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 293,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 298,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "phone",
+            "start_pos": 301,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "on-the-go",
+            "start_pos": 307,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 316,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 318,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "IntraLock",
+            "start_pos": 322,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "system",
+            "start_pos": 332,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 339,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "superior",
+            "start_pos": 342,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 351,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 354,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 358,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "requires",
+            "start_pos": 363,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "rotation",
+            "start_pos": 372,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc4c",
+            "start_pos": 380,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "buttery",
+            "start_pos": 382,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "smooth",
+            "start_pos": 390,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 396,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udeb2",
+            "start_pos": 400,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "Specialized",
+            "start_pos": 402,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "Diverge",
+            "start_pos": 414,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "\u26fa",
+            "start_pos": 423,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "Big",
+            "start_pos": 425,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "Agnes",
+            "start_pos": 429,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "Copper",
+            "start_pos": 435,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "Spur",
+            "start_pos": 442,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 449,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "\u2019ve",
+            "start_pos": 450,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "pinned",
+            "start_pos": 454,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 461,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "carousel",
+            "start_pos": 463,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 472,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "profile",
+            "start_pos": 475,
+            "end_pos": 482,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 483,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 487,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 489,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "detailed",
+            "start_pos": 494,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "look",
+            "start_pos": 503,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 508,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 511,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "individual",
+            "start_pos": 515,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "items",
+            "start_pos": 526,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "should",
+            "start_pos": 532,
+            "end_pos": 538,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 539,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": "need",
+            "start_pos": 543,
+            "end_pos": 547,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 548,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 550,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 552,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 557,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "checklist",
+            "start_pos": 559,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 569,
+            "end_pos": 572,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 573,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "next",
+            "start_pos": 578,
+            "end_pos": 582,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 583,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "perhaps",
+            "start_pos": 588,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd17",
+            "start_pos": 596,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 599,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 606,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 610,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "sick",
+            "start_pos": 615,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": "edits",
+            "start_pos": 620,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfac\ud83d\udd25",
+            "start_pos": 626,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 630,
+            "end_pos": 631,
+            "labels": []
+        },
+        {
+            "text": "camping",
+            "start_pos": 631,
+            "end_pos": 638,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 639,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "editing",
+            "start_pos": 640,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 648,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "asmr",
+            "start_pos": 649,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 654,
+            "end_pos": 655,
+            "labels": []
+        },
+        {
+            "text": "creative",
+            "start_pos": 655,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 664,
+            "end_pos": 665,
+            "labels": []
+        },
+        {
+            "text": "cycling",
+            "start_pos": 665,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 673,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "bikepacking",
+            "start_pos": 674,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 686,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "sounddesign",
+            "start_pos": 687,
+            "end_pos": 698,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 699,
+            "end_pos": 700,
+            "labels": []
+        },
+        {
+            "text": "filmmaking",
+            "start_pos": 700,
+            "end_pos": 710,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

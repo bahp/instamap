@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdLOCALIT\u00c0:  #Volterra #Pisa #Toscana",
+        "start": 49,
+        "end": 85,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "LOCALIT\u00c0:  #Volterra #Pisa #Toscana"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 195,
+        "end": 200,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

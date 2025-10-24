@@ -1,0 +1,998 @@
+{
+    "text": "Visitar alguno de los pueblos m\u00e1s bonitos de Espa\u00f1a es un plan ideal para disfrutar de unos d\u00edas de relax, gastronom\u00eda e historia durante el puente de octubre. Estas son siete localidades de menos de tres mil habitantes en nuestra geograf\u00eda para que elijas la que mejor se adapta a tus planes y ubicaci\u00f3n, tanto si prefieres una escapada rural a la monta\u00f1a como a la playa o incluso a una isla  Desde Teruel hasta Mallorca, te ofrecemos una selecci\u00f3n de pueblos bonitos y las mejores cosas que ver en ellos para que disfrutes de la desconexi\u00f3n y la buena gastronom\u00eda: Albarrac\u00edn, Alcal\u00e1 del J\u00facar, Frigiliana, Valldemossa, A\u00ednsa, Cadaqu\u00e9s y Combarro   \ud83d\udd17 Tienes m\u00e1s informaci\u00f3n en el link de nuestra bio  \ud83d\udcac \u00bfQu\u00e9 opinas? Te leemos  #pueblos #escapada #puente #octubre #fiestanacional #viaje",
+    "labels": [],
+    "entities": [
+        {
+            "text": "alguno de los pueblos m\u00e1s bonitos de Espa\u00f1a es un plan",
+            "start_pos": 8,
+            "end_pos": 62,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.885461070320823
+                }
+            ]
+        },
+        {
+            "text": "isla  Desde Teruel hasta Mallorca",
+            "start_pos": 389,
+            "end_pos": 422,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7757808208465576
+                }
+            ]
+        },
+        {
+            "text": "Albarrac\u00edn",
+            "start_pos": 568,
+            "end_pos": 578,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9740334749221802
+                }
+            ]
+        },
+        {
+            "text": "Alcal\u00e1 del J\u00facar",
+            "start_pos": 580,
+            "end_pos": 596,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5281900564829508
+                }
+            ]
+        },
+        {
+            "text": "Frigiliana",
+            "start_pos": 598,
+            "end_pos": 608,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.5439350008964539
+                }
+            ]
+        },
+        {
+            "text": "Valldemossa",
+            "start_pos": 610,
+            "end_pos": 621,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.5746874213218689
+                }
+            ]
+        },
+        {
+            "text": "A\u00ednsa",
+            "start_pos": 623,
+            "end_pos": 628,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.965928852558136
+                }
+            ]
+        },
+        {
+            "text": "Cadaqu\u00e9s y Combarro   \ud83d\udd17 Tienes m\u00e1s informaci\u00f3n en el",
+            "start_pos": 630,
+            "end_pos": 682,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8399596975909339
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Visitar",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "alguno",
+            "start_pos": 8,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 18,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "pueblos",
+            "start_pos": 22,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1s",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "bonitos",
+            "start_pos": 34,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Espa\u00f1a",
+            "start_pos": 45,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 55,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "plan",
+            "start_pos": 58,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "ideal",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 69,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "disfrutar",
+            "start_pos": 74,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 84,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "unos",
+            "start_pos": 87,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "d\u00edas",
+            "start_pos": 92,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "relax",
+            "start_pos": 100,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 105,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "gastronom\u00eda",
+            "start_pos": 107,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "historia",
+            "start_pos": 121,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "durante",
+            "start_pos": 130,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 138,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "puente",
+            "start_pos": 141,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 148,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "octubre",
+            "start_pos": 151,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 158,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "Estas",
+            "start_pos": 160,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "son",
+            "start_pos": 166,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "siete",
+            "start_pos": 170,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "localidades",
+            "start_pos": 176,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 188,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "menos",
+            "start_pos": 191,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 197,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "tres",
+            "start_pos": 200,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "mil",
+            "start_pos": 205,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "habitantes",
+            "start_pos": 209,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 220,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "nuestra",
+            "start_pos": 223,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "geograf\u00eda",
+            "start_pos": 231,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 241,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 246,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "elijas",
+            "start_pos": 250,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 257,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 260,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "mejor",
+            "start_pos": 264,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "se",
+            "start_pos": 270,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "adapta",
+            "start_pos": 273,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 280,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "tus",
+            "start_pos": 282,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "planes",
+            "start_pos": 286,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 293,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "ubicaci\u00f3n",
+            "start_pos": 295,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 304,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "tanto",
+            "start_pos": 306,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 312,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "prefieres",
+            "start_pos": 315,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 325,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "escapada",
+            "start_pos": 329,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "rural",
+            "start_pos": 338,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 344,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 346,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "monta\u00f1a",
+            "start_pos": 349,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "como",
+            "start_pos": 357,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 362,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 364,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "playa",
+            "start_pos": 367,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "o",
+            "start_pos": 373,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "incluso",
+            "start_pos": 375,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 383,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 385,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "isla",
+            "start_pos": 389,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "Desde",
+            "start_pos": 395,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "Teruel",
+            "start_pos": 401,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "hasta",
+            "start_pos": 408,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "Mallorca",
+            "start_pos": 414,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 422,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "te",
+            "start_pos": 424,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "ofrecemos",
+            "start_pos": 427,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 437,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "selecci\u00f3n",
+            "start_pos": 441,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 451,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "pueblos",
+            "start_pos": 454,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "bonitos",
+            "start_pos": 462,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "las",
+            "start_pos": 472,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "mejores",
+            "start_pos": 476,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "cosas",
+            "start_pos": 484,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 490,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "ver",
+            "start_pos": 494,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 498,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "ellos",
+            "start_pos": 501,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 507,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 512,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "disfrutes",
+            "start_pos": 516,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 526,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 529,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "desconexi\u00f3n",
+            "start_pos": 532,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 544,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 546,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "buena",
+            "start_pos": 549,
+            "end_pos": 554,
+            "labels": []
+        },
+        {
+            "text": "gastronom\u00eda",
+            "start_pos": 555,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 566,
+            "end_pos": 567,
+            "labels": []
+        },
+        {
+            "text": "Albarrac\u00edn",
+            "start_pos": 568,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 578,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "Alcal\u00e1",
+            "start_pos": 580,
+            "end_pos": 586,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 587,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "J\u00facar",
+            "start_pos": 591,
+            "end_pos": 596,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 596,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "Frigiliana",
+            "start_pos": 598,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 608,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "Valldemossa",
+            "start_pos": 610,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 621,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "A\u00ednsa",
+            "start_pos": 623,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 628,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "Cadaqu\u00e9s",
+            "start_pos": 630,
+            "end_pos": 638,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 639,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "Combarro",
+            "start_pos": 641,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd17",
+            "start_pos": 652,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": "Tienes",
+            "start_pos": 654,
+            "end_pos": 660,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1s",
+            "start_pos": 661,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "informaci\u00f3n",
+            "start_pos": 665,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 677,
+            "end_pos": 679,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 680,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "link",
+            "start_pos": 683,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 688,
+            "end_pos": 690,
+            "labels": []
+        },
+        {
+            "text": "nuestra",
+            "start_pos": 691,
+            "end_pos": 698,
+            "labels": []
+        },
+        {
+            "text": "bio",
+            "start_pos": 699,
+            "end_pos": 702,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcac",
+            "start_pos": 704,
+            "end_pos": 705,
+            "labels": []
+        },
+        {
+            "text": "\u00bf",
+            "start_pos": 706,
+            "end_pos": 707,
+            "labels": []
+        },
+        {
+            "text": "Qu\u00e9",
+            "start_pos": 707,
+            "end_pos": 710,
+            "labels": []
+        },
+        {
+            "text": "opinas",
+            "start_pos": 711,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 717,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "Te",
+            "start_pos": 719,
+            "end_pos": 721,
+            "labels": []
+        },
+        {
+            "text": "leemos",
+            "start_pos": 722,
+            "end_pos": 728,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 730,
+            "end_pos": 731,
+            "labels": []
+        },
+        {
+            "text": "pueblos",
+            "start_pos": 731,
+            "end_pos": 738,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 739,
+            "end_pos": 740,
+            "labels": []
+        },
+        {
+            "text": "escapada",
+            "start_pos": 740,
+            "end_pos": 748,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 749,
+            "end_pos": 750,
+            "labels": []
+        },
+        {
+            "text": "puente",
+            "start_pos": 750,
+            "end_pos": 756,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 757,
+            "end_pos": 758,
+            "labels": []
+        },
+        {
+            "text": "octubre",
+            "start_pos": 758,
+            "end_pos": 765,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 766,
+            "end_pos": 767,
+            "labels": []
+        },
+        {
+            "text": "fiestanacional",
+            "start_pos": 767,
+            "end_pos": 781,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 782,
+            "end_pos": 783,
+            "labels": []
+        },
+        {
+            "text": "viaje",
+            "start_pos": 783,
+            "end_pos": 788,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

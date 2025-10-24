@@ -1,0 +1,135 @@
+{
+    "text": "Ini sih yang super gemes bikin pembatas kertas biar bukunya Nggak gampang rusak..  .  #idemainanakdirumah #idemainanakanak #idehiasan",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Ini",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "sih",
+            "start_pos": 4,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "yang",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "super",
+            "start_pos": 13,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "gemes",
+            "start_pos": 19,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "bikin",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "pembatas",
+            "start_pos": 31,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "kertas",
+            "start_pos": 40,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "biar",
+            "start_pos": 47,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "bukunya",
+            "start_pos": 52,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Nggak",
+            "start_pos": 60,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "gampang",
+            "start_pos": 66,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "rusak.",
+            "start_pos": 74,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "idemainanakdirumah",
+            "start_pos": 87,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "idemainanakanak",
+            "start_pos": 107,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "idehiasan",
+            "start_pos": 124,
+            "end_pos": 133,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

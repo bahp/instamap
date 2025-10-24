@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdValley of Fire State Park, Nevada?",
+        "start": 47,
+        "end": 82,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Valley of Fire State Park, Nevada?"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddfa\ud83c\uddf2",
+        "start": 85,
+        "end": 87,
+        "groupdict": {
+            "flag": "\ud83c\uddfa\ud83c\uddf2",
+            "location": "United States Minor Outlying Islands"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

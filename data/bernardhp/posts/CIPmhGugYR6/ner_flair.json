@@ -1,0 +1,155 @@
+{
+    "text": "Moody sky at Piazza del Duomo \ud83d\ude0d Milan, Italy. Photo by @annaantipova",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Moody sky",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.4269794076681137
+                }
+            ]
+        },
+        {
+            "text": "Piazza del Duomo",
+            "start_pos": 13,
+            "end_pos": 29,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.978865385055542
+                }
+            ]
+        },
+        {
+            "text": "Milan",
+            "start_pos": 32,
+            "end_pos": 37,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9954463839530945
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 39,
+            "end_pos": 44,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998735189437866
+                }
+            ]
+        },
+        {
+            "text": "annaantipova",
+            "start_pos": 56,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.4667128324508667
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Moody",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "sky",
+            "start_pos": 6,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "Piazza",
+            "start_pos": 13,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 20,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Duomo",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "Milan",
+            "start_pos": 32,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 39,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 46,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "annaantipova",
+            "start_pos": 56,
+            "end_pos": 68,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

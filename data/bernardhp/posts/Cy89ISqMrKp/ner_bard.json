@@ -1,0 +1,27 @@
+{
+    "content": "Sure! Here is the information you requested:\n\n```json\n[\n  {\n    \"name\": \"Budapest\",\n    \"full_address\": \"Budapest, Hungary\",\n    \"order\": 1\n  }\n]\n```\nhttp://googleusercontent.com/map_content/0",
+    "conversation_id": "c_aac8f8b2c48c1e35",
+    "response_id": "r_76323f8974c5109f",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_335b3d4e21c10330",
+            "content": [
+                "Sure! Here is the information you requested:\n\n```json\n[\n  {\n    \"name\": \"Budapest\",\n    \"full_address\": \"Budapest, Hungary\",\n    \"order\": 1\n  }\n]\n```\nhttp://googleusercontent.com/map_content/0"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=288446056727712096",
+        "http://budapest.hu/",
+        "https://maps.google.com/?cid=288446056727712096",
+        "http://budapest.hu/",
+        "http://googleusercontent.com/map_content/0",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Budapest\",\n    \"full_address\": \"Budapest, Hungary\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

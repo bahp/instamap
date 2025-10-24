@@ -1,0 +1,201 @@
+{
+    "text": "Lofoten Islands \u2764\ud83e\udd0d  \u2796\u2796\u2796 \ud83d\udd3aFollow @_discover_north_ for more \ud83d\udd3aTo be featured tag us or use hashtag #_discover_north_  \u2796\u2796\u2796 \ud83d\udcf7@away81",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Lofoten Islands",
+            "start_pos": 0,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8861881792545319
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Lofoten",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "Islands",
+            "start_pos": 8,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "\u2764\ud83e\udd0d",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\u2796\u2796\u2796",
+            "start_pos": 20,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd3a",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 25,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "@_",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "discover",
+            "start_pos": 34,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "north",
+            "start_pos": 43,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 50,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd3a",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "To",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 63,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 66,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "tag",
+            "start_pos": 75,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "us",
+            "start_pos": 79,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 82,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "use",
+            "start_pos": 85,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "hashtag",
+            "start_pos": 89,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "#_",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "discover",
+            "start_pos": 99,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "north",
+            "start_pos": 108,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "\u2796\u2796\u2796",
+            "start_pos": 116,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7@",
+            "start_pos": 120,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "away81",
+            "start_pos": 122,
+            "end_pos": 128,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

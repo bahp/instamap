@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"St\u00e4ubifall\",\n    \"full_address\": \"St\u00e4ubifall, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/st%C3%A4ubifall.html\"\n  },\n  {\n    \"name\": \"Rheinfall\",\n    \"full_address\": \"Neuhausen am Rheinfall, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/rheinfall.html\"\n  },\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Switzerland\",\n    \"order\": 3,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/f%C3%A4lensee.html\"\n  },\n  {\n    \"name\": \"Schwende\",\n    \"full_address\": \"Schwende, Switzerland\",\n    \"order\": 4,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/schwende.html\"\n  },\n  {\n    \"name\": \"Lauterbrunnen\",\n    \"full_address\": \"Lauterbrunnen, Switzerland\",\n    \"order\": 5,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/lauterbrunnen.html\"\n  }\n]\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_7ea9df29b287ffa2",
+    "response_id": "r_9c3226e4c7e3cf5e",
+    "factuality_queries": null,
+    "text_query": [
+        "switzerland \ud83c\udde8\ud83c\udded",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_d1782704be5a50ea",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"St\u00e4ubifall\",\n    \"full_address\": \"St\u00e4ubifall, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/st%C3%A4ubifall.html\"\n  },\n  {\n    \"name\": \"Rheinfall\",\n    \"full_address\": \"Neuhausen am Rheinfall, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/rheinfall.html\"\n  },\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Switzerland\",\n    \"order\": 3,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/f%C3%A4lensee.html\"\n  },\n  {\n    \"name\": \"Schwende\",\n    \"full_address\": \"Schwende, Switzerland\",\n    \"order\": 4,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/schwende.html\"\n  },\n  {\n    \"name\": \"Lauterbrunnen\",\n    \"full_address\": \"Lauterbrunnen, Switzerland\",\n    \"order\": 5,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/lauterbrunnen.html\"\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_048f6877e0ad6d1a",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"St\u00e4ubifall\",\n    \"full_address\": \"St\u00e4ubifall, Sankt Gallen, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St%C3%A6ubifall_in_summer.jpg/1024px-St%C3%A6ubifall_in_summer.jpg\"\n  },\n  {\n    \"name\": \"Rheinfall\",\n    \"full_address\": \"Rheinfall, Neuhausen am Rheinfall, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rheinfall_NEUHAUSEN.jpg/1024px-Rheinfall_NEUHAUSEN.jpg\"\n  },\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Fl\u00fchli, Switzerland\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/F%C3%A4lensee,_Fl%C3%BChli.jpg/1024px-F%C3%A4lensee,_Fl%C3%BChli.jpg\"\n  },\n  {\n    \"name\": \"Schwende\",\n    \"full_address\": \"Schwende, Appenzell, Switzerland\",\n    \"order\": 4,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schwende_(AR).jpg/1024px-Schwende_(AR).jpg\"\n  },\n  {\n    \"name\": \"Lauterbrunnen\",\n    \"full_address\": \"Lauterbrunnen, Bern, Switzerland\",\n    \"order\": 5,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lauterbrunnen_Village_and_Waterfalls.jpg/1024px-Lauterbrunnen_Village_and_Waterfalls.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_4508b89b6d4f003d",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"St\u00e4ubifall\",\n    \"full_address\": \"St\u00e4ubifall, St. Gallen, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/St%C3%A4ubifall,_St._Gallen.jpg/1200px-St%C3%A4ubifall,_St._Gallen.jpg\"\n  },\n  {\n    \"name\": \"Rheinfall\",\n    \"full_address\": \"Neuhausen am Rheinfall, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rheinfall.jpg/1200px-Rheinfall.jpg\"\n  },\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Switzerland\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/F%C3%A4lensee,_Fl%C3%BCehlis,_Seen,%C3%96sterreich.jpg/1200px-F%C3%A4lensee,_Fl%C3%BCehlis,_Seen,%C3%96sterreich.jpg\"\n  },\n  {\n    \"name\": \"Schwende\",\n    \"full_address\": \"Schwende, Appenzell, Switzerland\",\n    \"order\": 4,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwende_Appenzell.jpg/1200px-Schwende_Appenzell.jpg\"\n  },\n  {\n    \"name\": \"Lauterbrunnen\",\n    \"full_address\": \"Lauterbrunnen, Switzerland\",\n    \"order\": 5,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lauterbrunnen_%28Bernese_Oberland%29.jpg/1200px-Lauterbrunnen_%28Bernese_Oberland%29.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"St\u00e4ubifall\",\n    \"full_address\": \"St\u00e4ubifall, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/st%C3%A4ubifall.html\"\n  },\n  {\n    \"name\": \"Rheinfall\",\n    \"full_address\": \"Neuhausen am Rheinfall, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/rheinfall.html\"\n  },\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Switzerland\",\n    \"order\": 3,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/f%C3%A4lensee.html\"\n  },\n  {\n    \"name\": \"Schwende\",\n    \"full_address\": \"Schwende, Switzerland\",\n    \"order\": 4,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/schwende.html\"\n  },\n  {\n    \"name\": \"Lauterbrunnen\",\n    \"full_address\": \"Lauterbrunnen, Switzerland\",\n    \"order\": 5,\n    \"image\": \"https://www.myswitzerland.com/en-us/adventures/lauterbrunnen.html\"\n  }\n]\n",
+    "status_code": 200
+}

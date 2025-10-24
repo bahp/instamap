@@ -1,0 +1,22 @@
+{
+    "content": "Sure, here is the code:\n\n```python\nimport json\n\ndata = {\n    \"locations\": [\n        {\n            \"name\": \"naturalhealth.247\",\n            \"full_address\": \"\",\n            \"order\": 1\n        },\n        {\n            \"name\": \"darrenliufitness\",\n            \"full_address\": \"\",\n            \"order\": 2\n        }\n    ]\n}\n\nwith open('locations.json', 'w') as f:\n    json.dump(data, f)\n\n```\n\nThis code creates the following JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"naturalhealth.247\",\n      \"full_address\": \"\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"darrenliufitness\",\n      \"full_address\": \"\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_1865a82fbcf15967",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_0e572a0b4b1664fa",
+            "content": [
+                "Sure, here is the code:\n\n```python\nimport json\n\ndata = {\n    \"locations\": [\n        {\n            \"name\": \"naturalhealth.247\",\n            \"full_address\": \"\",\n            \"order\": 1\n        },\n        {\n            \"name\": \"darrenliufitness\",\n            \"full_address\": \"\",\n            \"order\": 2\n        }\n    ]\n}\n\nwith open('locations.json', 'w') as f:\n    json.dump(data, f)\n\n```\n\nThis code creates the following JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"naturalhealth.247\",\n      \"full_address\": \"\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"darrenliufitness\",\n      \"full_address\": \"\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2NTM0YmZmMzlmMDRhNDVkM2NlYzAwYzA2ZTM2ZjBhN2E3Y2Y0ZjczMWM&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "python",
+    "code": "\nimport json\n\ndata = {\n    \"locations\": [\n        {\n            \"name\": \"naturalhealth.247\",\n            \"full_address\": \"\",\n            \"order\": 1\n        },\n        {\n            \"name\": \"darrenliufitness\",\n            \"full_address\": \"\",\n            \"order\": 2\n        }\n    ]\n}\n\nwith open('locations.json', 'w') as f:\n    json.dump(data, f)\n\n",
+    "status_code": 200
+}

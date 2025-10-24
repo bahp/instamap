@@ -1,0 +1,48 @@
+[
+    {
+        "text": "\ud83d\udccc Save this for when you visit Paris ",
+        "start": 0,
+        "end": 37,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Save this for when you visit Paris "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdCaf\u00e9 - Restaurant Le Jardin du Petit Palais",
+        "start": 42,
+        "end": 86,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Caf\u00e9 - Restaurant Le Jardin du Petit Palais"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddf7",
+        "start": 37,
+        "end": 39,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddf7",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "France",
+        "start": 622,
+        "end": 628,
+        "groupdict": {
+            "name": "France",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

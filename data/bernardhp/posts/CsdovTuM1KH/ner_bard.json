@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Najac\",\n    \"full_address\": \"Najac, France\",\n    \"order\": 1\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_3d9a6ffdec21672d",
+    "factuality_queries": null,
+    "text_query": [
+        "Have you ever heard of the village of Najac in France? \ud83c\uddeb\ud83c\uddf7\ud83d\ude0d",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_4a57cede311c9779",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Najac\",\n    \"full_address\": \"Najac, France\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_547beaa972bdfcf1",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Najac\",\n      \"full_address\": \"Najac, France\",\n      \"order\": 1\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_3e494442441be042",
+            "content": [
+                "Sure, here is the JSON file extracting the name, full address, and order for each location in the caption:\n\n```json\n[\n  {\n    \"name\": \"Najac\",\n    \"full_address\": \"Najac, France\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Najac\",\n    \"full_address\": \"Najac, France\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,431 @@
+{
+    "text": "10 stunning areas to visit in London \u2764\ud83c\uddec\ud83c\udde7 What are your favourites? \ud83e\udd70 #ItsSoLondon 1) Camden 2) Richmond 3) Notting Hill 4) Hampstead 5) City of London 6) Chelsea  7) Greenwich 8) Fitzrovia 9) Belgravia 10) Primrose Hill",
+    "labels": [],
+    "entities": [
+        {
+            "text": "London",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9990673661231995
+                }
+            ]
+        },
+        {
+            "text": "Camden",
+            "start_pos": 85,
+            "end_pos": 91,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.5032970309257507
+                }
+            ]
+        },
+        {
+            "text": "Richmond",
+            "start_pos": 95,
+            "end_pos": 103,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.878715455532074
+                }
+            ]
+        },
+        {
+            "text": "Notting Hill",
+            "start_pos": 107,
+            "end_pos": 119,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8946497440338135
+                }
+            ]
+        },
+        {
+            "text": "Hampstead",
+            "start_pos": 123,
+            "end_pos": 132,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.9293093681335449
+                }
+            ]
+        },
+        {
+            "text": "City of London",
+            "start_pos": 136,
+            "end_pos": 150,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.9354880253473917
+                }
+            ]
+        },
+        {
+            "text": "Chelsea",
+            "start_pos": 154,
+            "end_pos": 161,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.7754390239715576
+                }
+            ]
+        },
+        {
+            "text": "Greenwich",
+            "start_pos": 166,
+            "end_pos": 175,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.9881895780563354
+                }
+            ]
+        },
+        {
+            "text": "Fitzrovia",
+            "start_pos": 179,
+            "end_pos": 188,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.9543201923370361
+                }
+            ]
+        },
+        {
+            "text": "Belgravia",
+            "start_pos": 192,
+            "end_pos": 201,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8617925047874451
+                }
+            ]
+        },
+        {
+            "text": "Primrose Hill",
+            "start_pos": 206,
+            "end_pos": 219,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.965428352355957
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "10",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "stunning",
+            "start_pos": 3,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "areas",
+            "start_pos": 12,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 18,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 21,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 27,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\u2764\ud83c\uddec\ud83c\udde7",
+            "start_pos": 37,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "What",
+            "start_pos": 41,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 46,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 50,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "favourites",
+            "start_pos": 55,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd70",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "ItsSoLondon",
+            "start_pos": 70,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "Camden",
+            "start_pos": 85,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "Richmond",
+            "start_pos": 95,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 105,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "Notting",
+            "start_pos": 107,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "Hill",
+            "start_pos": 115,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "4",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 121,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "Hampstead",
+            "start_pos": 123,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "5",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "City",
+            "start_pos": 136,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 141,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 144,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "6",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 152,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "Chelsea",
+            "start_pos": 154,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "7",
+            "start_pos": 163,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 164,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "Greenwich",
+            "start_pos": 166,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "8",
+            "start_pos": 176,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 177,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "Fitzrovia",
+            "start_pos": 179,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "9",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 190,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "Belgravia",
+            "start_pos": 192,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 202,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 204,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "Primrose",
+            "start_pos": 206,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "Hill",
+            "start_pos": 215,
+            "end_pos": 219,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

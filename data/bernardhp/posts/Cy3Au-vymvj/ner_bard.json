@@ -1,0 +1,56 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5927\u5c71\u751f\u714e\u5e97\",\n      \"full_address\": \"\u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181-4-6 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\n**Image of \u5927\u5c71\u751f\u714e\u5e97**\n[Image of \u5927\u5c71\u751f\u714e\u5e97 in \u81ea\u7531\u304c\u4e18]\n\nThe caption mentions the name of the restaurant, \u5927\u5c71\u751f\u714e\u5e97, and its full address, \u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181-4-6 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc. The restaurant is located in the \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc building in \u81ea\u7531\u304c\u4e18, Tokyo, Japan. The caption also mentions that the restaurant is open from 12:00 to 20:00, closed on Tuesdays. The order of the location is 1, as it is the first location mentioned in the caption.",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_0d8a7d4237696c84",
+    "factuality_queries": null,
+    "text_query": [
+        "\u5927\u5c71\u751f\u714e\u5e97",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_3dcacd34de242506",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5927\u5c71\u751f\u714e\u5e97\",\n      \"full_address\": \"\u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181-4-6 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\n**Image of \u5927\u5c71\u751f\u714e\u5e97**\n[Image of \u5927\u5c71\u751f\u714e\u5e97 in \u81ea\u7531\u304c\u4e18]\n\nThe caption mentions the name of the restaurant, \u5927\u5c71\u751f\u714e\u5e97, and its full address, \u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181-4-6 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc. The restaurant is located in the \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc building in \u81ea\u7531\u304c\u4e18, Tokyo, Japan. The caption also mentions that the restaurant is open from 12:00 to 20:00, closed on Tuesdays. The order of the location is 1, as it is the first location mentioned in the caption."
+            ]
+        },
+        {
+            "id": "rc_fffc6bd4a8997365",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5927\u5c71\u751f\u714e\u5e97\",\n      \"full_address\": \"\u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181\u4e01\u76ee4\u22126 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\n[Image of \u5927\u5c71\u751f\u714e\u5e97, \u81ea\u7531\u304c\u4e18]"
+            ]
+        },
+        {
+            "id": "rc_de16eb1fe05d95b6",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5927\u5c71\u751f\u714e\u5e97\",\n      \"full_address\": \"\u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181-4-6 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\nThe caption mentions the name of the restaurant, \"\u5927\u5c71\u751f\u714e\u5e97\", and its full address, \"\u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181-4-6 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc\". The restaurant is located in the Jiyugaoka district of Tokyo, Japan. The caption also mentions that the restaurant is closed on Tuesdays.\n\n[Image of \u5927\u5c71\u751f\u714e\u5e97 in Tokyo]"
+            ]
+        }
+    ],
+    "links": [
+        "https://magazine.hitosara.com/image/1939/MM_1939.jpg",
+        "https://magazine.hitosara.com/article/1939/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hoaHngnNL-CSPYX-ttTdFNJOldLlIBIwKQN0lgtc4bwsuGtfM9Mcgz3lqTJf",
+        "https://magazine.hitosara.com/image/1939/MM_1939.jpg",
+        "https://magazine.hitosara.com/article/1939/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hoaHngnNL-CSPYX-ttTdFNJOldLlIBIwKQN0lgtc4bwsuGtfM9Mcgz3lqTJf",
+        "https://bimi.jorudan.co.jp/delivery/bimi/img/shopimages/small/30441/2/30441_Shop_2.jpg",
+        "https://bimi.jorudan.co.jp/shop/30441/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaI9oP-5EFpuYrgx8ZsHxc-wxER-ihg0H7ZVDgNsKvWsLSYF6S4LcJxBen1UP1",
+        "https://bimi.jorudan.co.jp/delivery/bimi/img/shopimages/small/30441/2/30441_Shop_2.jpg",
+        "https://bimi.jorudan.co.jp/shop/30441/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaI9oP-5EFpuYrgx8ZsHxc-wxER-ihg0H7ZVDgNsKvWsLSYF6S4LcJxBen1UP1",
+        "https://tblg.k-img.com/restaurant/images/Rvw/210630/640x640_rect_012755cb2e9e5b148f5ac34212c8caf4.jpg",
+        "https://tabelog.com/tokyo/A1317/A131703/13101812/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUV9Zi0YB5kl8hDhHfDHe7eLDD6Q_7To7OExFDj8vc8TKkQAV9R7VGxDQ3BmCL",
+        "https://tblg.k-img.com/restaurant/images/Rvw/210630/640x640_rect_012755cb2e9e5b148f5ac34212c8caf4.jpg",
+        "https://tabelog.com/tokyo/A1317/A131703/13101812/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUV9Zi0YB5kl8hDhHfDHe7eLDD6Q_7To7OExFDj8vc8TKkQAV9R7VGxDQ3BmCL"
+    ],
+    "images": [
+        "https://magazine.hitosara.com/image/1939/MM_1939.jpg"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5927\u5c71\u751f\u714e\u5e97\",\n      \"full_address\": \"\u6771\u4eac\u90fd\u76ee\u9ed2\u533a\u81ea\u7531\u304c\u4e181-4-6 \u30d2\u30e5\u30fc\u30de\u30f3\u30cf\u30fc\u30d0\u30fc\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

@@ -1,0 +1,147 @@
+{
+    "text": "This looks like paradise, doesn't it ? \ud83c\uddef\ud83c\uddf5 #discoverjapan with @zeal_88  #flowers #marguerites #dandelions",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "This",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "looks",
+            "start_pos": 5,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 11,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "paradise",
+            "start_pos": 16,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "does",
+            "start_pos": 26,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "n't",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 34,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddef\ud83c\uddf5",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "discoverjapan",
+            "start_pos": 43,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 57,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "zeal",
+            "start_pos": 63,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "88",
+            "start_pos": 68,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "flowers",
+            "start_pos": 73,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "marguerites",
+            "start_pos": 82,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "dandelions",
+            "start_pos": 95,
+            "end_pos": 105,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

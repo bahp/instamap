@@ -1,0 +1,476 @@
+{
+    "text": "Whitened city ~ Bucharest, Romania  Photo: @danastefanescu_ Congrats! \ud83d\ude0d \u27a1 Founders: @ournextflight \u2b05  TAG someone you LOVE \ud83d\udc96 \ud83d\udc47  #living_europe #bucharest #bucuresti #romanian #romania #romaniamagica #archilovers #living_destinations #cityphotography  #traveladdict #bbctravel #amazingplaces #awesomeplaces #travelphotography #living_destinations #postcardsfromtheworld  #places_wow #europe_gallery #beautifuldestinations",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Bucharest",
+            "start_pos": 16,
+            "end_pos": 25,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9852398633956909
+                }
+            ]
+        },
+        {
+            "text": "Romania",
+            "start_pos": 27,
+            "end_pos": 34,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9961186647415161
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Whitened",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "city",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "~",
+            "start_pos": 14,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Bucharest",
+            "start_pos": 16,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Romania",
+            "start_pos": 27,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 36,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "danastefanescu",
+            "start_pos": 44,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 60,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "\u27a1",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Founders",
+            "start_pos": 74,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "ournextflight",
+            "start_pos": 85,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "\u2b05",
+            "start_pos": 99,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "TAG",
+            "start_pos": 102,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "someone",
+            "start_pos": 106,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 114,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "LOVE",
+            "start_pos": 118,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc96",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc47",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 128,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "living",
+            "start_pos": 129,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 135,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 136,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "bucharest",
+            "start_pos": 144,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 154,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "bucuresti",
+            "start_pos": 155,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 165,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "romanian",
+            "start_pos": 166,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "romania",
+            "start_pos": 176,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 184,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "romaniamagica",
+            "start_pos": 185,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 199,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "archilovers",
+            "start_pos": 200,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "living",
+            "start_pos": 213,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 219,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "destinations",
+            "start_pos": 220,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 233,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "cityphotography",
+            "start_pos": 234,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 251,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "traveladdict",
+            "start_pos": 252,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 265,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "bbctravel",
+            "start_pos": 266,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "amazingplaces",
+            "start_pos": 277,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 291,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "awesomeplaces",
+            "start_pos": 292,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 306,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "travelphotography",
+            "start_pos": 307,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "living",
+            "start_pos": 326,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 332,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "destinations",
+            "start_pos": 333,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "postcardsfromtheworld",
+            "start_pos": 347,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 370,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 371,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 377,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "wow",
+            "start_pos": 378,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 382,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 383,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 389,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "gallery",
+            "start_pos": 390,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 398,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 399,
+            "end_pos": 420,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

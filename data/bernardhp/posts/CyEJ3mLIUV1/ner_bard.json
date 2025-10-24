@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Pienza\",\n    \"full_address\": \"Pienza, Siena, Tuscany, Italy\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/f/f7/Pienza_panorama.jpg/220px-Pienza_panorama.jpg\"\n  },\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tuscany_%28Italy%29.svg/220px-Tuscany_%28Italy%29.svg\"\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\"\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_045333e35ad5a092",
+    "factuality_queries": null,
+    "text_query": [
+        "What is Pienza Italy known for?",
+        4
+    ],
+    "choices": [
+        {
+            "id": "rc_b66aac6d203048c4",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Pienza\",\n    \"full_address\": \"Pienza, Siena, Tuscany, Italy\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/f/f7/Pienza_panorama.jpg/220px-Pienza_panorama.jpg\"\n  },\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tuscany_%28Italy%29.svg/220px-Tuscany_%28Italy%29.svg\"\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_572d5fa3c71d241a",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Pienza, Toscana\",\n    \"full_address\": \"Pienza, Toscana, Italy\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pienza_Panorama.jpg/220px-Pienza_Panorama.jpg\"\n  },\n  {\n    \"name\": \"Toscana\",\n    \"full_address\": \"Toscana, Italy\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Tuscany.svg/220px-Flag_of_Tuscany.svg\"\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_81d35f2bd6b2d70b",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Pienza\",\n    \"full_address\": \"Pienza, Tuscany, Italy\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pienza_panorama.jpg/220px-Pienza_panorama.jpg\"\n  },\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Tuscany_(Italy).svg/220px-Flag_of_Tuscany_(Italy).svg\"\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Pienza\",\n    \"full_address\": \"Pienza, Siena, Tuscany, Italy\",\n    \"order\": 1,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/f/f7/Pienza_panorama.jpg/220px-Pienza_panorama.jpg\"\n  },\n  {\n    \"name\": \"Tuscany\",\n    \"full_address\": \"Tuscany, Italy\",\n    \"order\": 2,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tuscany_%28Italy%29.svg/220px-Tuscany_%28Italy%29.svg\"\n  },\n  {\n    \"name\": \"Italy\",\n    \"full_address\": \"Italy\",\n    \"order\": 3,\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg\"\n  }\n]\n",
+    "status_code": 200
+}

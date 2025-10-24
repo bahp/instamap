@@ -1,0 +1,169 @@
+{
+    "text": "Have you ever heard of Libreria Acquaintance Alta in Venice ? \ud83d\udcf8: @takemyhearteverywhere  #venice #venezia #italy",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Libreria Acquaintance Alta",
+            "start_pos": 23,
+            "end_pos": 49,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6025490164756775
+                }
+            ]
+        },
+        {
+            "text": "Venice",
+            "start_pos": 53,
+            "end_pos": 59,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9930658340454102
+                }
+            ]
+        },
+        {
+            "text": "italy",
+            "start_pos": 107,
+            "end_pos": 112,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9948829412460327
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Have",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "heard",
+            "start_pos": 14,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 20,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Libreria",
+            "start_pos": 23,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "Acquaintance",
+            "start_pos": 32,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Alta",
+            "start_pos": 45,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "Venice",
+            "start_pos": 53,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 60,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "takemyhearteverywhere",
+            "start_pos": 66,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "venice",
+            "start_pos": 90,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 97,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "venezia",
+            "start_pos": 98,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 107,
+            "end_pos": 112,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

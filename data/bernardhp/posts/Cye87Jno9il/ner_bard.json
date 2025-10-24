@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Tuscany, Italy\",\n      \"full_address\": \"Tuscany, Italy\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658928_3f56221130_z.jpg\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_8d660f05e97ff834",
+    "response_id": "r_4469165396b29e25",
+    "factuality_queries": null,
+    "text_query": [
+        "locations of the image",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_e4f5df738ffe98c2",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Tuscany, Italy\",\n      \"full_address\": \"Tuscany, Italy\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658928_3f56221130_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_a03519a7c0cd3ff9",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Italy\",\n      \"full_address\": \"Italy\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658933_f42d989749_z.jpg\"\n    },\n    {\n      \"name\": \"Tuscany\",\n      \"full_address\": \"Tuscany, Italy\",\n      \"order\": 2,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658938_c203331b8e_z.jpg\"\n    },\n    {\n      \"name\": \"Volterra\",\n      \"full_address\": \"Volterra, Pisa, Tuscany, Italy\",\n      \"order\": 3,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658943_79543f0ee6_z.jpg\"\n    },\n    {\n      \"name\": \"San Gimignano\",\n      \"full_address\": \"San Gimignano, Siena, Tuscany, Italy\",\n      \"order\": 4,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658947_e6d68211c5_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_fdf5f089f6a7d8cb",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Tuscany\",\n      \"full_address\": \"Tuscany, Italy\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658928_b5c51d6f24_z.jpg\"\n    },\n    {\n      \"name\": \"Volterra\",\n      \"full_address\": \"Volterra, Tuscany, Italy\",\n      \"order\": 2,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658933_f0a14c9273_z.jpg\"\n    },\n    {\n      \"name\": \"Italy\",\n      \"full_address\": \"Italy\",\n      \"order\": 3,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658938_6d3301c830_z.jpg\"\n    },\n    {\n      \"name\": \"Florence\",\n      \"full_address\": \"Florence, Tuscany, Italy\",\n      \"order\": 4,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658943_8694f128c5_z.jpg\"\n    },\n    {\n      \"name\": \"Val d'Orcia\",\n      \"full_address\": \"Val d'Orcia, Tuscany, Italy\",\n      \"order\": 5,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658948_1f5444c7f7_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Tuscany, Italy\",\n      \"full_address\": \"Tuscany, Italy\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658928_3f56221130_z.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

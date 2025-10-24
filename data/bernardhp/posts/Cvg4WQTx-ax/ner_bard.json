@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Holly Village\",\n    \"full_address\": \"Swain\u2019s Lane, Highgate\",\n    \"order\": 1\n  }\n]\n```",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_36cb5ae11df317d8",
+    "factuality_queries": null,
+    "text_query": [
+        "Holly Village, Swain\u2019s Lane, Highgate",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_0c1e419fb245fa7d",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Holly Village\",\n    \"full_address\": \"Swain\u2019s Lane, Highgate\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_42dc9c65aa2e4890",
+            "content": [
+                "Sure, here is the JSON file extracting the information for each of the locations in the caption:\n\n```json\n[\n  {\n    \"name\": \"Holly Village\",\n    \"full_address\": \"Swain's Lane, Highgate\",\n    \"order\": 1\n  }\n]\n```\n\nPlease note that the caption only mentions one location, so there is only one entry in the JSON file."
+            ]
+        },
+        {
+            "id": "rc_716b23217b98bedd",
+            "content": [
+                "Sure, here is a JSON file extracting the name, full address, and order of the location in the caption:\n\n```json\n[\n  {\n    \"name\": \"Holly Village\",\n    \"full_address\": \"Holly Village, Swain's Lane, Highgate\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Holly Village\",\n    \"full_address\": \"Swain\u2019s Lane, Highgate\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

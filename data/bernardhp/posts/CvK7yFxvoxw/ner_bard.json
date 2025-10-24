@@ -1,0 +1,60 @@
+{
+    "content": "**JSON File**\n\n```json\n[\n  {\n    \"name\": \"Cueva de los Gatos\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Iglesia de San Isidoro\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 2\n  }\n]\n```\n\n**Explanation**\n\nThe name of each location was extracted from the caption using the `.text` attribute. The full address was extracted by combining the name of the location with the name of the city or region in which it is located. The order of each location was extracted by counting the number of times the location was mentioned in the caption.\n\nFor example, the name of the first location is \"Cueva de los Gatos\". The full address is \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\". The order is 1, because the location is mentioned first in the caption.\n\nThe same process was applied to all two locations. The resulting JSON file contains a list of objects, each of which contains the name, full address, and order of a location.\n\n**Additional Information**\n\nThe caption also mentions the hours of operation for the Cueva de los Gatos, which are 11am to 1pm and 6pm to 8pm. The caption also mentions that the best metro station for accessing the Cueva de los Gatos is Pr\u00edncipe de Vergara.",
+    "conversation_id": "c_ef55c933f7402e20",
+    "response_id": "r_d70b404375b3909c",
+    "factuality_queries": null,
+    "text_query": [
+        "```json",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_6cfad8ae4003308b",
+            "content": [
+                "**JSON File**\n\n```json\n[\n  {\n    \"name\": \"Cueva de los Gatos\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Iglesia de San Isidoro\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 2\n  }\n]\n```\n\n**Explanation**\n\nThe name of each location was extracted from the caption using the `.text` attribute. The full address was extracted by combining the name of the location with the name of the city or region in which it is located. The order of each location was extracted by counting the number of times the location was mentioned in the caption.\n\nFor example, the name of the first location is \"Cueva de los Gatos\". The full address is \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\". The order is 1, because the location is mentioned first in the caption.\n\nThe same process was applied to all two locations. The resulting JSON file contains a list of objects, each of which contains the name, full address, and order of a location.\n\n**Additional Information**\n\nThe caption also mentions the hours of operation for the Cueva de los Gatos, which are 11am to 1pm and 6pm to 8pm. The caption also mentions that the best metro station for accessing the Cueva de los Gatos is Pr\u00edncipe de Vergara."
+            ]
+        },
+        {
+            "id": "rc_2bf8d8b18fbd1f79",
+            "content": [
+                "**JSON File**\n\n```json\n[\n  {\n    \"name\": \"Cueva de la Monta\u00f1a de los Gatos\",\n    \"full_address\": \"Paseo Fern\u00e1n N\u00fa\u00f1ez, 2, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Iglesia de San Isidoro\",\n    \"full_address\": \"Paseo Fern\u00e1n N\u00fa\u00f1ez, 2, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 2\n  }\n]\n```\n\n**Explanation**\n\nThe name of each location was extracted from the caption using the `.text` attribute. The full address was extracted by combining the name of the location with the name of the street or park in which it is located. The order of each location was extracted by counting the number of times the location was mentioned in the caption.\n\nFor example, the name of the first location is \"Cueva de la Monta\u00f1a de los Gatos\". The full address is \"Paseo Fern\u00e1n N\u00fa\u00f1ez, 2, 28014 Madrid, Espa\u00f1a\". The order is 1, because the location is mentioned first in the caption.\n\nThe same process was applied to all two locations. The resulting JSON file contains a list of objects, each of which contains the name, full address, and order of a location.\n\n**Image**\n\n[Image of Cueva de la Monta\u00f1a de los Gatos]\n\n[Image of Iglesia de San Isidoro]\n\n\nThe caption mentions that the **Cueva de la Monta\u00f1a de los Gatos** is located in the **Paseo Fern\u00e1n N\u00fa\u00f1ez** in **El Retiro** park in **Madrid**. The caption also mentions that the **Iglesia de San Isidoro** is located in the **Paseo Fern\u00e1n N\u00fa\u00f1ez** in **El Retiro** park in **Madrid**. \n\nThe **Cueva de la Monta\u00f1a de los Gatos** is a small cave that was built in 1817. It was closed for 20 years but reopened in 2023. The cave has been renovated and now has an exhibition of photos of its history. The **Iglesia de San Isidoro** is a church that was built in the 11th century. It is located next to the **Cueva de la Monta\u00f1a de los Gatos**."
+            ]
+        },
+        {
+            "id": "rc_61217eafabb8c9bf",
+            "content": [
+                "**JSON File**\n\n```json\n[\n  {\n    \"name\": \"Cueva de la Monta\u00f1a de los Gatos\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, Madrid, Espa\u00f1a\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Iglesia de San Isidoro\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, Madrid, Espa\u00f1a\",\n    \"order\": 2\n  }\n]\n```\n\n**Explanation**\n\nThe name of each location was extracted from the caption using the `.text` attribute. The full address was extracted by combining the name of the location with the name of the region or city in which it is located. The order of each location was extracted by counting the number of times the location was mentioned in the caption.\n\nFor example, the name of the first location is \"Cueva de la Monta\u00f1a de los Gatos\". The full address is \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, Madrid, Espa\u00f1a\". The order is 1, because the location is mentioned first in the caption.\n\nThe same process was applied to all two locations. The resulting JSON file contains a list of objects, each of which contains the name, full address, and order of a location.\n\n[Image of Cueva de la Monta\u00f1a de los Gatos, Madrid]\n\n[Image of Iglesia de San Isidoro, Madrid]"
+            ]
+        }
+    ],
+    "links": [
+        "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2023/07Julio/26Miercoles/Notasprensa/Almeida%20visita%20Monta%C3%B1a%20de%20los%20Gatos/ficheros/image00021.jpeg",
+        "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Madrid-recupera-la-Montana-de-los-Gatos-de-El-Retiro-que-reabre-20-anos-despues-de-su-cierre/?vgnextfmt=default&vgnextoid=a9b1cc0f6c199810VgnVCM1000001d4a900aRCRD&vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3UhUx5vIaEb83KaUvPVMrz81ieI0zpAeE4ucUr8AMEiOQok_-5gGqj5h9oSZ",
+        "http://www.romanicozamora.es/recursos/editor/San_Isidoro_11.jpg",
+        "https://www.romanicozamora.es/es/monumentos/ver/san-isidoro/6",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMoI2HnLT6uvUQaKGne8_fSYnrkJTydtU-z2Eln0KTlGG7922-N1YXNy7OFzr",
+        "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2023/07Julio/26Miercoles/Notasprensa/Almeida%20visita%20Monta%C3%B1a%20de%20los%20Gatos/ficheros/image00021.jpeg",
+        "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Madrid-recupera-la-Montana-de-los-Gatos-de-El-Retiro-que-reabre-20-anos-despues-de-su-cierre/?vgnextfmt=default&vgnextoid=a9b1cc0f6c199810VgnVCM1000001d4a900aRCRD&vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3UhUx5vIaEb83KaUvPVMrz81ieI0zpAeE4ucUr8AMEiOQok_-5gGqj5h9oSZ",
+        "http://www.romanicozamora.es/recursos/editor/San_Isidoro_11.jpg",
+        "https://www.romanicozamora.es/es/monumentos/ver/san-isidoro/6",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMoI2HnLT6uvUQaKGne8_fSYnrkJTydtU-z2Eln0KTlGG7922-N1YXNy7OFzr",
+        "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2023/07Julio/26Miercoles/Notasprensa/Almeida%20visita%20Monta%C3%B1a%20de%20los%20Gatos/ficheros/image00021.jpeg",
+        "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Madrid-recupera-la-Montana-de-los-Gatos-de-El-Retiro-que-reabre-20-anos-despues-de-su-cierre/?vgnextfmt=default&vgnextoid=a9b1cc0f6c199810VgnVCM1000001d4a900aRCRD&vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3UhUx5vIaEb83KaUvPVMrz81ieI0zpAeE4ucUr8AMEiOQok_-5gGqj5h9oSZ",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Madrid_-32_%2843059910175%29.jpg",
+        "https://es.wikipedia.org/wiki/Ermita_de_San_Pelayo_y_San_Isidoro",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe-DazxwcbO30DGiTuHKBMTbmvyQ3lMm5KA2E6gJ-10A6HQ9xh3wZmVsYTbusQ",
+        "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2023/07Julio/26Miercoles/Notasprensa/Almeida%20visita%20Monta%C3%B1a%20de%20los%20Gatos/ficheros/image00021.jpeg",
+        "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Madrid-recupera-la-Montana-de-los-Gatos-de-El-Retiro-que-reabre-20-anos-despues-de-su-cierre/?vgnextfmt=default&vgnextoid=a9b1cc0f6c199810VgnVCM1000001d4a900aRCRD&vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3UhUx5vIaEb83KaUvPVMrz81ieI0zpAeE4ucUr8AMEiOQok_-5gGqj5h9oSZ",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Madrid_-32_%2843059910175%29.jpg",
+        "https://es.wikipedia.org/wiki/Ermita_de_San_Pelayo_y_San_Isidoro",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe-DazxwcbO30DGiTuHKBMTbmvyQ3lMm5KA2E6gJ-10A6HQ9xh3wZmVsYTbusQ"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Cueva de los Gatos\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Iglesia de San Isidoro\",\n    \"full_address\": \"Monta\u00f1a de los Gatos, El Retiro, Paseo Fern\u00e1n Nu\u00f1ez, 28014 Madrid, Espa\u00f1a\",\n    \"order\": 2\n  }\n]\n",
+    "status_code": 200
+}

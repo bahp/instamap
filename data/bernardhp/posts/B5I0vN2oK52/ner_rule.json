@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdHavana , Cuba ",
+        "start": 0,
+        "end": 15,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Havana , Cuba "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddfa",
+        "start": 15,
+        "end": 17,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddfa",
+            "location": "Cuba"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Cuba",
+        "start": 10,
+        "end": 14,
+        "groupdict": {
+            "name": "Cuba",
+            "location": "Cuba"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

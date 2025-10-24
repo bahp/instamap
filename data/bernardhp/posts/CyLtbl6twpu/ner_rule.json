@@ -1,0 +1,59 @@
+[
+    {
+        "text": "\ud83d\udccdDolomites",
+        "start": 390,
+        "end": 400,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Dolomites"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdLago di braies ",
+        "start": 401,
+        "end": 417,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Lago di braies "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdNear bozen",
+        "start": 418,
+        "end": 429,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Near bozen"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Italy",
+        "start": 9,
+        "end": 14,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Italy",
+        "start": 72,
+        "end": 77,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

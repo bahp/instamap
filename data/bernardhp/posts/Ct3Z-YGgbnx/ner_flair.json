@@ -1,0 +1,415 @@
+{
+    "text": "POV: Riding the Amtrak Coast Starlight train for two days from Los Angeles to Seattle \ud83d\ude9e\ud83c\udf0a . . . #amtrak #latoseattle #coaststarlighttrain #losangeles #portland #seattle #westcoast #westcoastadventure #scenicroute #travel #adventure #explore #experience #bucketlistadventures #westcoasttravel #memorialdayweekend2023 #pnw #pacificnorthwest   (May 27th, 2023)",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Amtrak Coast Starlight",
+            "start_pos": 16,
+            "end_pos": 38,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6691062649091085
+                }
+            ]
+        },
+        {
+            "text": "Los Angeles",
+            "start_pos": 63,
+            "end_pos": 74,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9990956783294678
+                }
+            ]
+        },
+        {
+            "text": "Seattle",
+            "start_pos": 78,
+            "end_pos": 85,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9967700242996216
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "POV",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "Riding",
+            "start_pos": 5,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 12,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Amtrak",
+            "start_pos": 16,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Coast",
+            "start_pos": 23,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Starlight",
+            "start_pos": 29,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "train",
+            "start_pos": 39,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 45,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "two",
+            "start_pos": 49,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "days",
+            "start_pos": 53,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 58,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Los",
+            "start_pos": 63,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "Angeles",
+            "start_pos": 67,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 75,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "Seattle",
+            "start_pos": 78,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude9e\ud83c\udf0a",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "amtrak",
+            "start_pos": 96,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "latoseattle",
+            "start_pos": 104,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "coaststarlighttrain",
+            "start_pos": 117,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "losangeles",
+            "start_pos": 138,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 149,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "portland",
+            "start_pos": 150,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "seattle",
+            "start_pos": 160,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 168,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "westcoast",
+            "start_pos": 169,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 179,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "westcoastadventure",
+            "start_pos": 180,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 199,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "scenicroute",
+            "start_pos": 200,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 213,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 220,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "adventure",
+            "start_pos": 221,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 231,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 232,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 240,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 241,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 252,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "bucketlistadventures",
+            "start_pos": 253,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 274,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "westcoasttravel",
+            "start_pos": 275,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 291,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "memorialdayweekend2023",
+            "start_pos": 292,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 315,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "pnw",
+            "start_pos": 316,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 320,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "pacificnorthwest",
+            "start_pos": 321,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 340,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "May",
+            "start_pos": 341,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "27th",
+            "start_pos": 345,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 349,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "2023",
+            "start_pos": 351,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 355,
+            "end_pos": 356,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

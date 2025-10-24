@@ -1,0 +1,104 @@
+{
+    "text": "Charming village \u2728 Campobasso, Italy. Picture by @lushpin_",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Campobasso",
+            "start_pos": 19,
+            "end_pos": 29,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9980431795120239
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 31,
+            "end_pos": 36,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997486472129822
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Charming",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 9,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Campobasso",
+            "start_pos": 19,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 29,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 31,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Picture",
+            "start_pos": 38,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 46,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "lushpin",
+            "start_pos": 50,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

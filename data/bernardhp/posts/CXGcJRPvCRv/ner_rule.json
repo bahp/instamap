@@ -1,0 +1,39 @@
+[
+    {
+        "text": "8. Taj Mahal, Agra by @ylli",
+        "start": 445,
+        "end": 472,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Taj Mahal, Agra by @ylli"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf3",
+        "start": 20,
+        "end": 22,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf3",
+            "location": "India"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "India",
+        "start": 11,
+        "end": 16,
+        "groupdict": {
+            "name": "India",
+            "location": "India"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

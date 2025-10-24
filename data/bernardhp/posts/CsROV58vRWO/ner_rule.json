@@ -1,0 +1,85 @@
+[
+    {
+        "text": "\ud83d\udccd  Wood Works Kawagoe (Japan, \u3012350-0063 Saitama, Kawagoe, Saiwaicho, \uff11\uff14\u22123)",
+        "start": 554,
+        "end": 628,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "  Wood Works Kawagoe (Japan, \u3012350-0063 Saitama, Kawagoe, Saiwaicho, \uff11\uff14\u22123)"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Japan",
+        "start": 177,
+        "end": 182,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 577,
+        "end": 582,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 678,
+        "end": 683,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 704,
+        "end": 709,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 723,
+        "end": 728,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 749,
+        "end": 754,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

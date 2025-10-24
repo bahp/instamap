@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Budapest",
+        "subtitle": "Capital city of Hungary",
+        "lat": 47.4979,
+        "lon": 19.0402,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Hungary",
+        "subtitle": "Country in Central Europe",
+        "lat": 47.1625,
+        "lon": 19.5033,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent covering western Eurasia",
+        "lat": 48.69096,
+        "lon": 9.14062,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.7,
+        "rank": 3
+    }
+]

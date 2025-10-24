@@ -1,0 +1,313 @@
+{
+    "text": "Greenland \ud83c\uddec\ud83c\uddf1 \ud83d\udcf8 @freddychristensen . . . . . #faroeislands #scandinavia #north #nordic #norway #iceland #greenland #denmark #sweden #lapland #finland #svalbard",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Greenland",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9913648366928101
+                }
+            ]
+        },
+        {
+            "text": "norway",
+            "start_pos": 87,
+            "end_pos": 93,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9855521321296692
+                }
+            ]
+        },
+        {
+            "text": "iceland",
+            "start_pos": 95,
+            "end_pos": 102,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9920090436935425
+                }
+            ]
+        },
+        {
+            "text": "greenland",
+            "start_pos": 104,
+            "end_pos": 113,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8398464322090149
+                }
+            ]
+        },
+        {
+            "text": "denmark",
+            "start_pos": 115,
+            "end_pos": 122,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997689127922058
+                }
+            ]
+        },
+        {
+            "text": "sweden",
+            "start_pos": 124,
+            "end_pos": 130,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9994816184043884
+                }
+            ]
+        },
+        {
+            "text": "lapland",
+            "start_pos": 132,
+            "end_pos": 139,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9583738446235657
+                }
+            ]
+        },
+        {
+            "text": "finland",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999403715133667
+                }
+            ]
+        },
+        {
+            "text": "svalbard",
+            "start_pos": 150,
+            "end_pos": 158,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9213260412216187
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Greenland",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddec\ud83c\uddf1",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "freddychristensen",
+            "start_pos": 16,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "faroeislands",
+            "start_pos": 45,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "scandinavia",
+            "start_pos": 59,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "north",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "nordic",
+            "start_pos": 79,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 87,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "iceland",
+            "start_pos": 95,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "greenland",
+            "start_pos": 104,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "denmark",
+            "start_pos": 115,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "sweden",
+            "start_pos": 124,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "lapland",
+            "start_pos": 132,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 140,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "finland",
+            "start_pos": 141,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 149,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "svalbard",
+            "start_pos": 150,
+            "end_pos": 158,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

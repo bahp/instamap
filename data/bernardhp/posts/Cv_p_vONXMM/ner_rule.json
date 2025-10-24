@@ -1,0 +1,179 @@
+[
+    {
+        "text": "2. Aman Tokyo \u2013 @aman_tokyo",
+        "start": 686,
+        "end": 713,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Aman Tokyo \u2013 @aman_tokyo"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Aman Kyoto \u2013 @aman_kyoto",
+        "start": 714,
+        "end": 741,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Aman Kyoto \u2013 @aman_kyoto"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. The Ritz-Carlton Nikko \u2013 @ritzcarltonnikko",
+        "start": 742,
+        "end": 787,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "The Ritz-Carlton Nikko \u2013 @ritzcarltonnikko"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Shiroiya Hotel \u2013 @shiroiyahotel",
+        "start": 845,
+        "end": 879,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Shiroiya Hotel \u2013 @shiroiyahotel"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Park Hyatt Niseko \u2013 @parkhyattniseko",
+        "start": 880,
+        "end": 919,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Park Hyatt Niseko \u2013 @parkhyattniseko"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Ace Hotel Kyoto \u2013 @acehotelkyoto",
+        "start": 920,
+        "end": 955,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Ace Hotel Kyoto \u2013 @acehotelkyoto"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Maana Kiyomizu \u2013 @maanahomes",
+        "start": 997,
+        "end": 1029,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Maana Kiyomizu \u2013 @maanahomes"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "11. Amanemu \u2013 @amanemu_resort",
+        "start": 1030,
+        "end": 1059,
+        "groupdict": {
+            "order": "11",
+            "sep": ".",
+            "location": "Amanemu \u2013 @amanemu_resort"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "12. The Shinmonzen \u2013 @theshinmonzen",
+        "start": 1060,
+        "end": 1095,
+        "groupdict": {
+            "order": "12",
+            "sep": ".",
+            "location": "The Shinmonzen \u2013 @theshinmonzen"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 617,
+        "end": 619,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 1166,
+        "end": 1168,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Japan",
+        "start": 67,
+        "end": 72,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 280,
+        "end": 285,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Japan",
+        "start": 1209,
+        "end": 1214,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

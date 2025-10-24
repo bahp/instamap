@@ -1,0 +1,621 @@
+{
+    "text": "\ud83d\udc9a\u2661\u2764BORGHI\ud83d\udc9a\u2661\u2764   \ud83d\udc49 PHOTOGRAPHER @francescabologni  \ud83c\udf0d LOC : \ud83c\uddee\ud83c\uddf9 #abruzzo Scanno \ud83c\udfc6 SELECTED BY: @feda_79  \ud83d\udeb6 Follow \ud83d\udc49 @italiastyle_borghi   \u2714 Hashtag\ud83d\udc49#Italiastyle_borghi   \ud83d\udc64 Founder/A: @chrisma1105    #borghipiubelliditalia  #borgodeiborghi  #divine_villages #italia  #borghiviaggioitaliano #beautifuldestinations #livetravelchannel  #wonderful_vacations #worldmastershotz  #bestvacations  #earthpix  #italy  #bestplacetogo  #travelawesome  #borghi  #discoverearth #places_wow  #italy_bestplaces  #k\u0131ngs_villages #theitalybest  #traveladdicted #abruzzo #scanno #igersabruzzo",
+    "labels": [],
+    "entities": [
+        {
+            "text": "BORGHI",
+            "start_pos": 3,
+            "end_pos": 9,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.5530964136123657
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udc9a\u2661\u2764",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "BORGHI",
+            "start_pos": 3,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc9a\u2661\u2764",
+            "start_pos": 9,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "PHOTOGRAPHER",
+            "start_pos": 17,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "francescabologni",
+            "start_pos": 31,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0d",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "LOC",
+            "start_pos": 51,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 57,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 60,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "abruzzo",
+            "start_pos": 61,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "Scanno",
+            "start_pos": 69,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfc6",
+            "start_pos": 76,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "SELECTED",
+            "start_pos": 78,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "BY",
+            "start_pos": 87,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "feda",
+            "start_pos": 92,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "79",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udeb6",
+            "start_pos": 101,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 103,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 110,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 112,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "italiastyle",
+            "start_pos": 113,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 124,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "borghi",
+            "start_pos": 125,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "\u2714",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "Hashtag",
+            "start_pos": 136,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49#",
+            "start_pos": 143,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "Italiastyle",
+            "start_pos": 145,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 156,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "borghi",
+            "start_pos": 157,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc64",
+            "start_pos": 166,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "Founder",
+            "start_pos": 168,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 176,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 177,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 179,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "chrisma1105",
+            "start_pos": 180,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 195,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "borghipiubelliditalia",
+            "start_pos": 196,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 219,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "borgodeiborghi",
+            "start_pos": 220,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "divine",
+            "start_pos": 237,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 243,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "villages",
+            "start_pos": 244,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 253,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "italia",
+            "start_pos": 254,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 262,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "borghiviaggioitaliano",
+            "start_pos": 263,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 285,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 286,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 308,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "livetravelchannel",
+            "start_pos": 309,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 328,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "wonderful",
+            "start_pos": 329,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 338,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "vacations",
+            "start_pos": 339,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 349,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "worldmastershotz",
+            "start_pos": 350,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "bestvacations",
+            "start_pos": 369,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 384,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "earthpix",
+            "start_pos": 385,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 395,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 396,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 403,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "bestplacetogo",
+            "start_pos": 404,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 419,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "travelawesome",
+            "start_pos": 420,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 435,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "borghi",
+            "start_pos": 436,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 444,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "discoverearth",
+            "start_pos": 445,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 459,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 460,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 466,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "wow",
+            "start_pos": 467,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 472,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 473,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 478,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "bestplaces",
+            "start_pos": 479,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 491,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "k\u0131ngs",
+            "start_pos": 492,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 497,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "villages",
+            "start_pos": 498,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 507,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "theitalybest",
+            "start_pos": 508,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 522,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "traveladdicted",
+            "start_pos": 523,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 538,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "abruzzo",
+            "start_pos": 539,
+            "end_pos": 546,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 547,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "scanno",
+            "start_pos": 548,
+            "end_pos": 554,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 555,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "igersabruzzo",
+            "start_pos": 556,
+            "end_pos": 568,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

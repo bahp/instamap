@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Yurakucho - \u6709\u697d\u753a\",\n      \"full_address\": \"Yurakucho, Chiyoda, Tokyo, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=Yurakucho,+Tokyo,+Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Yurakucho,+Tokyo,+Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Tokyo, Japan\",\n      \"full_address\": \"Tokyo, Japan\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Tokyo, Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Tokyo, Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Japan\",\n      \"full_address\": \"Japan, Asia\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_278e4592d96f1d5a",
+    "response_id": "r_d838df451848d0cf",
+    "factuality_queries": null,
+    "text_query": [
+        "yurakucho tokyo",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_f34e82d46dafa5e6",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Yurakucho - \u6709\u697d\u753a\",\n      \"full_address\": \"Yurakucho, Chiyoda, Tokyo, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=Yurakucho,+Tokyo,+Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Yurakucho,+Tokyo,+Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Tokyo, Japan\",\n      \"full_address\": \"Tokyo, Japan\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Tokyo, Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Tokyo, Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Japan\",\n      \"full_address\": \"Japan, Asia\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_db876f1603a63f4c",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Yurakucho\",\n      \"full_address\": \"Yurakucho, Chiyoda, Tokyo, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=Yurakucho&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Yurakucho&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Tokyo\",\n      \"full_address\": \"Tokyo, Japan\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Tokyo&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Tokyo&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Japan\",\n      \"full_address\": \"Japan, Asia\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_a268b8e7c0c7a7a8",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Yurakucho\",\n      \"full_address\": \"Yurakucho, Chiyoda, Tokyo, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=Yurakucho, Chiyoda, Tokyo, Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Yurakucho,+Chiyoda,+Tokyo,+Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Tokyo\",\n      \"full_address\": \"Tokyo, Japan\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Tokyo, Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Tokyo,+Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Japan\",\n      \"full_address\": \"Japan, Asia\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Japan, Asia&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Japan,+Asia&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Yurakucho - \u6709\u697d\u753a\",\n      \"full_address\": \"Yurakucho, Chiyoda, Tokyo, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=Yurakucho,+Tokyo,+Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Yurakucho,+Tokyo,+Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Tokyo, Japan\",\n      \"full_address\": \"Tokyo, Japan\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Tokyo, Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Tokyo, Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Japan\",\n      \"full_address\": \"Japan, Asia\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Japan&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Japan&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

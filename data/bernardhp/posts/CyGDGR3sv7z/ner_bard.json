@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Terrenkur\",\n    \"full_address\": \"Terrenkur, Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Almaty_from_Koktobe_mountain.jpg/220px-Almaty_from_Koktobe_mountain.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Almaty\",\n    \"full_address\": \"Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Almaty,_Kazakhstan,_2022.jpg/220px-Almaty,_Kazakhstan,_2022.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Kazakhstan\",\n    \"full_address\": \"Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Kazakhstan.svg/220px-Flag_of_Kazakhstan.svg\",\n    \"order\": 3\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_fb9e936bd2fea1f2",
+    "factuality_queries": null,
+    "text_query": [
+        "```json",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_eb8446c203660697",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Terrenkur\",\n    \"full_address\": \"Terrenkur, Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Almaty_from_Koktobe_mountain.jpg/220px-Almaty_from_Koktobe_mountain.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Almaty\",\n    \"full_address\": \"Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Almaty,_Kazakhstan,_2022.jpg/220px-Almaty,_Kazakhstan,_2022.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Kazakhstan\",\n    \"full_address\": \"Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Kazakhstan.svg/220px-Flag_of_Kazakhstan.svg\",\n    \"order\": 3\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_1637793d9b7172e1",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Almaty\",\n    \"full_address\": \"Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Almaty_Kazakhstan.jpg/220px-Almaty_Kazakhstan.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Terrenkur\",\n    \"full_address\": \"Terrenkur, Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Terrenkur_Almaty.jpg/220px-Terrenkur_Almaty.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Kazakhstan\",\n    \"full_address\": \"Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Kazakhstan.svg/220px-Flag_of_Kazakhstan.svg\",\n    \"order\": 3\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_275e7c55a0f8334a",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Terrenkur\",\n    \"full_address\": \"Terrenkur, Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Almaty_Mountain_Resort_Chimbulak.JPG/220px-Almaty_Mountain_Resort_Chimbulak.JPG\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Almaty\",\n    \"full_address\": \"Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Almaty%2C_Kazakhstan,_2016.jpg/220px-Almaty%2C_Kazakhstan,_2016.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Kazakhstan\",\n    \"full_address\": \"Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Kazakhstan.svg/220px-Flag_of_Kazakhstan.svg\",\n    \"order\": 3\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Terrenkur\",\n    \"full_address\": \"Terrenkur, Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Almaty_from_Koktobe_mountain.jpg/220px-Almaty_from_Koktobe_mountain.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Almaty\",\n    \"full_address\": \"Almaty, Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Almaty,_Kazakhstan,_2022.jpg/220px-Almaty,_Kazakhstan,_2022.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Kazakhstan\",\n    \"full_address\": \"Kazakhstan\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Kazakhstan.svg/220px-Flag_of_Kazakhstan.svg\",\n    \"order\": 3\n  }\n]\n",
+    "status_code": 200
+}

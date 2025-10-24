@@ -1,0 +1,75 @@
+{
+    "content": "\u4ee5\u4e0b\u306f\u3001\u6307\u5b9a\u3055\u308c\u305f\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u304b\u3089\u62bd\u51fa\u3055\u308c\u305f\u5834\u6240\u306b\u95a2\u3059\u308b JSON \u30d5\u30a1\u30a4\u30eb\u3067\u3059\u3002\n\n```json\n[\n  {\n    \"name\": \"\u7518\u7518\u5802\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u6771\u9808\u67713-3-10\",\n    \"order\": 0\n  },\n  {\n    \"name\": \"\u901a\u5929\u95a3\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u7f8e\u9808\u753a1-1-1\",\n    \"order\": 1\n  }\n]\n```\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306b\u306f\u30012 \u3064\u306e\u5834\u6240\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002\n\n* **\u7518\u7518\u5802**\u306f\u3001\u5927\u962a\u30fb\u65b0\u4e16\u754c\u306b\u3042\u308b\u30d9\u30d3\u30fc\u30ab\u30b9\u30c6\u30e9\u5c02\u9580\u5e97\u3067\u3059\u3002\u540d\u7269\u306e\u300c\u3050\u3089\u3050\u3089\u901a\u5929\u95a3\u300d\u306f\u3001\u9ad8\u305550cm\u306e\u5de8\u5927\u30d9\u30d3\u30fc\u30ab\u30b9\u30c6\u30e9\u30bf\u30ef\u30fc\u3067\u3001SNS\u3067\u8a71\u984c\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n[Image of \u5927\u962a\u30fb\u65b0\u4e16\u754c\u3000\u7518\u7518\u5802]\n* **\u901a\u5929\u95a3**\u306f\u3001\u5927\u962a\u3092\u4ee3\u8868\u3059\u308b\u89b3\u5149\u30b9\u30dd\u30c3\u30c8\u3067\u3059\u3002\u9ad8\u3055103m\u306e\u5c55\u671b\u53f0\u304b\u3089\u306f\u3001\u5927\u962a\u306e\u8857\u4e26\u307f\u3092\u4e00\u671b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\n[Image of \u5927\u962a\u30fb\u65b0\u4e16\u754c\u3000\u901a\u5929\u95a3]\n\n\u5404\u5834\u6240\u306e\u9806\u5e8f\u306f\u3001\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u306b\u6700\u521d\u306b\u767b\u5834\u3059\u308b\u9806\u5e8f\u3067\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306f\u3001\u89b3\u5149\u3084\u65c5\u884c\u306a\u3069\u306e\u76ee\u7684\u3067\u4f7f\u7528\u3067\u304d\u307e\u3059\u3002\u5834\u6240\u306e\u540d\u524d\u3068\u4f4f\u6240\u304c\u308f\u304b\u308c\u3070\u3001\u7c21\u5358\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u307e\u3059\u3002",
+    "conversation_id": "c_d6cbdbef01d1cebe",
+    "response_id": "r_c3e20752928f732a",
+    "factuality_queries": null,
+    "text_query": [
+        "\u5927\u962a\u30fb\u65b0\u4e16\u754c\u3000\u7518\u7518\u5802",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_87dd656e4c419d8a",
+            "content": [
+                "\u4ee5\u4e0b\u306f\u3001\u6307\u5b9a\u3055\u308c\u305f\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u304b\u3089\u62bd\u51fa\u3055\u308c\u305f\u5834\u6240\u306b\u95a2\u3059\u308b JSON \u30d5\u30a1\u30a4\u30eb\u3067\u3059\u3002\n\n```json\n[\n  {\n    \"name\": \"\u7518\u7518\u5802\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u6771\u9808\u67713-3-10\",\n    \"order\": 0\n  },\n  {\n    \"name\": \"\u901a\u5929\u95a3\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u7f8e\u9808\u753a1-1-1\",\n    \"order\": 1\n  }\n]\n```\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306b\u306f\u30012 \u3064\u306e\u5834\u6240\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002\n\n* **\u7518\u7518\u5802**\u306f\u3001\u5927\u962a\u30fb\u65b0\u4e16\u754c\u306b\u3042\u308b\u30d9\u30d3\u30fc\u30ab\u30b9\u30c6\u30e9\u5c02\u9580\u5e97\u3067\u3059\u3002\u540d\u7269\u306e\u300c\u3050\u3089\u3050\u3089\u901a\u5929\u95a3\u300d\u306f\u3001\u9ad8\u305550cm\u306e\u5de8\u5927\u30d9\u30d3\u30fc\u30ab\u30b9\u30c6\u30e9\u30bf\u30ef\u30fc\u3067\u3001SNS\u3067\u8a71\u984c\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n[Image of \u5927\u962a\u30fb\u65b0\u4e16\u754c\u3000\u7518\u7518\u5802]\n* **\u901a\u5929\u95a3**\u306f\u3001\u5927\u962a\u3092\u4ee3\u8868\u3059\u308b\u89b3\u5149\u30b9\u30dd\u30c3\u30c8\u3067\u3059\u3002\u9ad8\u3055103m\u306e\u5c55\u671b\u53f0\u304b\u3089\u306f\u3001\u5927\u962a\u306e\u8857\u4e26\u307f\u3092\u4e00\u671b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\n[Image of \u5927\u962a\u30fb\u65b0\u4e16\u754c\u3000\u901a\u5929\u95a3]\n\n\u5404\u5834\u6240\u306e\u9806\u5e8f\u306f\u3001\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u306b\u6700\u521d\u306b\u767b\u5834\u3059\u308b\u9806\u5e8f\u3067\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306f\u3001\u89b3\u5149\u3084\u65c5\u884c\u306a\u3069\u306e\u76ee\u7684\u3067\u4f7f\u7528\u3067\u304d\u307e\u3059\u3002\u5834\u6240\u306e\u540d\u524d\u3068\u4f4f\u6240\u304c\u308f\u304b\u308c\u3070\u3001\u7c21\u5358\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u307e\u3059\u3002"
+            ]
+        },
+        {
+            "id": "rc_cd7ffc732ec8af91",
+            "content": [
+                "\u4ee5\u4e0b\u306f\u3001\u6307\u5b9a\u3055\u308c\u305f\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u304b\u3089\u62bd\u51fa\u3055\u308c\u305f\u5834\u6240\u306b\u95a2\u3059\u308b JSON \u30d5\u30a1\u30a4\u30eb\u3067\u3059\u3002\n\n```json\n[\n  {\n    \"name\": \"\u7518\u7518\u5802\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u6771\u9808\u67713-3-10\",\n    \"order\": 0\n  },\n  {\n    \"name\": \"\u901a\u5929\u95a3\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u7f8e\u9808\u753a1-1-1\",\n    \"order\": 1\n  }\n]\n```\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306b\u306f\u30012 \u3064\u306e\u5834\u6240\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002\n\n* **\u7518\u7518\u5802**\u306f\u3001\u5927\u962a\u30fb\u65b0\u4e16\u754c\u306b\u3042\u308b\u30d9\u30d3\u30fc\u30ab\u30b9\u30c6\u30e9\u5c02\u9580\u5e97\u3067\u3059\u3002\u9ad8\u305550cm\u306e\u300c\u3050\u3089\u3050\u3089\u901a\u5929\u95a3\u300d\u304c\u540d\u7269\u3067\u3001SNS\u3067\u3082\u8a71\u984c\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n[Image of \u7518\u7518\u5802\uff08\u5927\u962a\u30fb\u65b0\u4e16\u754c\uff09]\n* **\u901a\u5929\u95a3**\u306f\u3001\u5927\u962a\u306e\u30b7\u30f3\u30dc\u30eb\u3068\u3057\u3066\u77e5\u3089\u308c\u308b\u9ad8\u3055103m\u306e\u89b3\u89a7\u8eca\u3067\u3059\u3002\u7518\u7518\u5802\u304b\u3089\u3082\u5f92\u6b695\u5206\u307b\u3069\u3067\u30a2\u30af\u30bb\u30b9\u3067\u304d\u307e\u3059\u3002\n[Image of \u901a\u5929\u95a3\uff08\u5927\u962a\uff09]\n\n\u5404\u5834\u6240\u306e\u9806\u5e8f\u306f\u3001\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u306b\u6700\u521d\u306b\u767b\u5834\u3059\u308b\u9806\u5e8f\u3067\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306f\u3001\u89b3\u5149\u3084\u65c5\u884c\u306a\u3069\u306e\u76ee\u7684\u3067\u4f7f\u7528\u3067\u304d\u307e\u3059\u3002\u5834\u6240\u306e\u540d\u524d\u3068\u4f4f\u6240\u304c\u308f\u304b\u308c\u3070\u3001\u7c21\u5358\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u307e\u3059\u3002"
+            ]
+        },
+        {
+            "id": "rc_db625a05aa7a9528",
+            "content": [
+                "\u4ee5\u4e0b\u306f\u3001\u6307\u5b9a\u3055\u308c\u305f\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u304b\u3089\u62bd\u51fa\u3055\u308c\u305f\u5834\u6240\u306b\u95a2\u3059\u308b JSON \u30d5\u30a1\u30a4\u30eb\u3067\u3059\u3002\n\n```json\n[\n  {\n    \"name\": \"\u7518\u7518\u5802\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u7f8e\u9808\u67713\u4e01\u76ee3-10\",\n    \"order\": 0\n  },\n  {\n    \"name\": \"\u901a\u5929\u95a3\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u7f8e\u9808\u67712-1-1\",\n    \"order\": 1\n  }\n]\n```\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306b\u306f\u30012 \u3064\u306e\u5834\u6240\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002\n\n* **\u7518\u7518\u5802**\u306f\u3001\u5927\u962a\u30fb\u65b0\u4e16\u754c\u306b\u3042\u308b\u30d9\u30d3\u30fc\u30ab\u30b9\u30c6\u30e9\u5c02\u9580\u5e97\u3067\u3059\u3002\u9ad8\u305550cm\u306e\u300c\u3050\u3089\u3050\u3089\u901a\u5929\u95a3\u300d\u304c\u540d\u7269\u3067\u3001SNS\u3067\u8a71\u984c\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\n[Image of \u5927\u962a\u30fb\u65b0\u4e16\u754c\u306b\u3042\u308b\u7518\u7518\u5802]\n* **\u901a\u5929\u95a3**\u306f\u3001\u5927\u962a\u30fb\u65b0\u4e16\u754c\u306e\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3067\u3059\u3002\u9ad8\u3055103m\u306e\u5c55\u671b\u53f0\u304b\u3089\u306f\u3001\u5927\u962a\u306e\u8857\u4e26\u307f\u3092\u4e00\u671b\u3067\u304d\u307e\u3059\u3002\n[Image of \u5927\u962a\u30fb\u65b0\u4e16\u754c\u306e\u901a\u5929\u95a3]\n\n\u5404\u5834\u6240\u306e\u9806\u5e8f\u306f\u3001\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u306b\u6700\u521d\u306b\u767b\u5834\u3059\u308b\u9806\u5e8f\u3067\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306f\u3001\u89b3\u5149\u3084\u65c5\u884c\u306a\u3069\u306e\u76ee\u7684\u3067\u4f7f\u7528\u3067\u304d\u307e\u3059\u3002\u5834\u6240\u306e\u540d\u524d\u3068\u4f4f\u6240\u304c\u308f\u304b\u308c\u3070\u3001\u7c21\u5358\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u307e\u3059\u3002"
+            ]
+        }
+    ],
+    "links": [
+        "https://stat.ameba.jp/user_images/20230628/16/shinsekai-information/5c/d8/j/o1512201615305544515.jpg",
+        "https://ameblo.jp/shinsekai-information/entry-12809836286.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmdNOOoIJ6NVdM6xbVr_ym3nNQM4hxM8r1Uj5XfE5BXUZzmhY3G-CMNML9MbOV",
+        "https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/howto/osaka-shinsekai-guide-key.jpg?itok=lMXGt4qu",
+        "https://travel.rakuten.co.jp/mytrip/howto/osaka-shinsekai-guide",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQu_cFVwmqOHpw9VtqmgrLGBiYIw8ufK9LWFusDGUE0jABj5A4dAFWqnVMTyhm",
+        "https://stat.ameba.jp/user_images/20230628/16/shinsekai-information/5c/d8/j/o1512201615305544515.jpg",
+        "https://ameblo.jp/shinsekai-information/entry-12809836286.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmdNOOoIJ6NVdM6xbVr_ym3nNQM4hxM8r1Uj5XfE5BXUZzmhY3G-CMNML9MbOV",
+        "https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/howto/osaka-shinsekai-guide-key.jpg?itok=lMXGt4qu",
+        "https://travel.rakuten.co.jp/mytrip/howto/osaka-shinsekai-guide",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQu_cFVwmqOHpw9VtqmgrLGBiYIw8ufK9LWFusDGUE0jABj5A4dAFWqnVMTyhm",
+        "https://stat.ameba.jp/user_images/20230628/16/shinsekai-information/5c/d8/j/o1512201615305544515.jpg",
+        "https://ameblo.jp/shinsekai-information/entry-12809836286.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmdNOOoIJ6NVdM6xbVr_ym3nNQM4hxM8r1Uj5XfE5BXUZzmhY3G-CMNML9MbOV",
+        "https://www.knt.co.jp/meito/images/tsutenkaku_mv.jpg",
+        "https://www.knt.co.jp/meito/sp/tsutenkaku/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNB-X5y9B0FiLLCimgcGfvAoqBFcXfe9d-uhDOgu5pQ7wLbbmY9qshrqwi3hA",
+        "https://stat.ameba.jp/user_images/20230628/16/shinsekai-information/5c/d8/j/o1512201615305544515.jpg",
+        "https://ameblo.jp/shinsekai-information/entry-12809836286.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmdNOOoIJ6NVdM6xbVr_ym3nNQM4hxM8r1Uj5XfE5BXUZzmhY3G-CMNML9MbOV",
+        "https://www.knt.co.jp/meito/images/tsutenkaku_mv.jpg",
+        "https://www.knt.co.jp/meito/sp/tsutenkaku/",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNB-X5y9B0FiLLCimgcGfvAoqBFcXfe9d-uhDOgu5pQ7wLbbmY9qshrqwi3hA",
+        "https://stat.ameba.jp/user_images/20230628/16/shinsekai-information/5c/d8/j/o1512201615305544515.jpg",
+        "https://ameblo.jp/shinsekai-information/entry-12809836286.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmdNOOoIJ6NVdM6xbVr_ym3nNQM4hxM8r1Uj5XfE5BXUZzmhY3G-CMNML9MbOV",
+        "https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/howto/osaka-shinsekai-guide-key.jpg?itok=lMXGt4qu",
+        "https://travel.rakuten.co.jp/mytrip/howto/osaka-shinsekai-guide",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQu_cFVwmqOHpw9VtqmgrLGBiYIw8ufK9LWFusDGUE0jABj5A4dAFWqnVMTyhm",
+        "https://stat.ameba.jp/user_images/20230628/16/shinsekai-information/5c/d8/j/o1512201615305544515.jpg",
+        "https://ameblo.jp/shinsekai-information/entry-12809836286.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmdNOOoIJ6NVdM6xbVr_ym3nNQM4hxM8r1Uj5XfE5BXUZzmhY3G-CMNML9MbOV",
+        "https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/howto/osaka-shinsekai-guide-key.jpg?itok=lMXGt4qu",
+        "https://travel.rakuten.co.jp/mytrip/howto/osaka-shinsekai-guide",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQu_cFVwmqOHpw9VtqmgrLGBiYIw8ufK9LWFusDGUE0jABj5A4dAFWqnVMTyhm"
+    ],
+    "images": [
+        "https://stat.ameba.jp/user_images/20230628/16/shinsekai-information/5c/d8/j/o1512201615305544515.jpg",
+        "https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/howto/osaka-shinsekai-guide-key.jpg?itok=lMXGt4qu"
+    ],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"\u7518\u7518\u5802\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u6771\u9808\u67713-3-10\",\n    \"order\": 0\n  },\n  {\n    \"name\": \"\u901a\u5929\u95a3\",\n    \"full_address\": \"\u5927\u962a\u5e9c\u5927\u962a\u5e02\u6d6a\u901f\u533a\u6075\u7f8e\u9808\u753a1-1-1\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

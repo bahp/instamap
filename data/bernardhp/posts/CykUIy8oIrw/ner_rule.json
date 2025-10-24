@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdPorto, Portugal",
+        "start": 567,
+        "end": 583,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Porto, Portugal"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf5\ud83c\uddf9",
+        "start": 548,
+        "end": 550,
+        "groupdict": {
+            "flag": "\ud83c\uddf5\ud83c\uddf9",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Portugal",
+        "start": 108,
+        "end": 116,
+        "groupdict": {
+            "name": "Portugal",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Portugal",
+        "start": 575,
+        "end": 583,
+        "groupdict": {
+            "name": "Portugal",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Valle Maggia\",\n    \"full_address\": \"Valle Maggia, Ticino, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2017/09/20/12/03/valle-maggia-2607705_960_720.jpg\"\n  },\n  {\n    \"name\": \"Interlaken\",\n    \"full_address\": \"Interlaken, Bern, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/02/04/20/43/interlaken-4453183_960_720.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_d4b6ca50080ec8a3",
+    "factuality_queries": null,
+    "text_query": [
+        "Valle Maggia, Switzerland \ud83c\udde8\ud83c\udded",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_c944052070fb06b2",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Valle Maggia\",\n    \"full_address\": \"Valle Maggia, Ticino, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2017/09/20/12/03/valle-maggia-2607705_960_720.jpg\"\n  },\n  {\n    \"name\": \"Interlaken\",\n    \"full_address\": \"Interlaken, Bern, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/02/04/20/43/interlaken-4453183_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_d939f05df3aee5ed",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Valle Maggia\",\n    \"full_address\": \"Valle Maggia, Ticino, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://www.myswitzerland.com/content/dam/web/Switzerland/en/home/experiences/summer/hiking/val-maggia_1.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_a7c49b9a6757a7a7",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Valle Maggia\",\n    \"full_address\": \"Valle Maggia, Ticino canton, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2018/03/23/20/47/valle-maggia-3294593_960_720.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Valle Maggia\",\n    \"full_address\": \"Valle Maggia, Ticino, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2017/09/20/12/03/valle-maggia-2607705_960_720.jpg\"\n  },\n  {\n    \"name\": \"Interlaken\",\n    \"full_address\": \"Interlaken, Bern, Switzerland\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/02/04/20/43/interlaken-4453183_960_720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

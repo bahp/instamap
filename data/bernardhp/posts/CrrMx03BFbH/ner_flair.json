@@ -1,0 +1,177 @@
+{
+    "text": "Quite the backyard view of Cannon Beach \ud83c\udf0a  #oregon #cannonbeach #oregoncoast #pnw #travel #shotoniphone #beautifuldestinations #passionpassport #earthoutdoors",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Cannon Beach",
+            "start_pos": 27,
+            "end_pos": 39,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5686225891113281
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Quite",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 6,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "backyard",
+            "start_pos": 10,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "view",
+            "start_pos": 19,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Cannon",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "Beach",
+            "start_pos": 34,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0a",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "oregon",
+            "start_pos": 44,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "cannonbeach",
+            "start_pos": 52,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "oregoncoast",
+            "start_pos": 65,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "pnw",
+            "start_pos": 78,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "shotoniphone",
+            "start_pos": 91,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 105,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 127,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "passionpassport",
+            "start_pos": 128,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 144,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "earthoutdoors",
+            "start_pos": 145,
+            "end_pos": 158,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

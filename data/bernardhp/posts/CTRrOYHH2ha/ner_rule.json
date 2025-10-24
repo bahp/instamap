@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdDal lake, Shrinagar",
+        "start": 68,
+        "end": 88,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Dal lake, Shrinagar"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "india",
+        "start": 179,
+        "end": 184,
+        "groupdict": {
+            "name": "india",
+            "location": "india"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

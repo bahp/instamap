@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdNingbo\uff0cZhejiang",
+        "start": 83,
+        "end": 99,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Ningbo\uff0cZhejiang"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddf3",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddf3",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddf3",
+        "start": 32,
+        "end": 34,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddf3",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

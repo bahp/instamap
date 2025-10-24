@@ -1,0 +1,179 @@
+[
+    {
+        "text": "1. Our Lady of the Rocks Island",
+        "start": 1400,
+        "end": 1431,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Our Lady of the Rocks Island"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Tivat Bay",
+        "start": 1432,
+        "end": 1444,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Tivat Bay"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Sveti Stefan",
+        "start": 1445,
+        "end": 1460,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Sveti Stefan"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Lake Piva",
+        "start": 1461,
+        "end": 1473,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Lake Piva"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Perast",
+        "start": 1474,
+        "end": 1483,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Perast"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Bay of Kotor",
+        "start": 1484,
+        "end": 1499,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Bay of Kotor"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Lovcen",
+        "start": 1500,
+        "end": 1509,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Lovcen"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Fortress Kanli Kula in Herceg Novi",
+        "start": 1510,
+        "end": 1547,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Fortress Kanli Kula in Herceg Novi"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Kotor",
+        "start": 1548,
+        "end": 1556,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Kotor"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Kotor",
+        "start": 1557,
+        "end": 1566,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Kotor"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\udf0d Share these great photos with your friends",
+        "start": 62,
+        "end": 106,
+        "groupdict": {
+            "icon": "\ud83c\udf0d",
+            "location": " Share these great photos with your friends"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf2\ud83c\uddea",
+        "start": 1324,
+        "end": 1326,
+        "groupdict": {
+            "flag": "\ud83c\uddf2\ud83c\uddea",
+            "location": "Montenegro"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Montenegro",
+        "start": 108,
+        "end": 118,
+        "groupdict": {
+            "name": "Montenegro",
+            "location": "Montenegro"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Montenegro",
+        "start": 732,
+        "end": 742,
+        "groupdict": {
+            "name": "Montenegro",
+            "location": "Montenegro"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

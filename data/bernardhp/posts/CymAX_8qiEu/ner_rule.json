@@ -1,0 +1,110 @@
+[
+    {
+        "text": "\ud83c\uddee\ud83c\uddf8",
+        "start": 50,
+        "end": 52,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf8",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddee",
+        "start": 53,
+        "end": 55,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddee",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Iceland",
+        "start": 27,
+        "end": 34,
+        "groupdict": {
+            "name": "Iceland",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Finland",
+        "start": 42,
+        "end": 49,
+        "groupdict": {
+            "name": "Finland",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Iceland",
+        "start": 176,
+        "end": 183,
+        "groupdict": {
+            "name": "Iceland",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Finland",
+        "start": 188,
+        "end": 195,
+        "groupdict": {
+            "name": "Finland",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Iceland",
+        "start": 444,
+        "end": 451,
+        "groupdict": {
+            "name": "Iceland",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Finland",
+        "start": 455,
+        "end": 462,
+        "groupdict": {
+            "name": "Finland",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Iceland",
+        "start": 488,
+        "end": 495,
+        "groupdict": {
+            "name": "Iceland",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

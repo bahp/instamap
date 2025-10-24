@@ -1,0 +1,36 @@
+[
+    {
+        "text": "\ud83d\udccd DONGYANG - \u4e1c\u9633 (Zhejiang - \u6d59\u6c5f)",
+        "start": 0,
+        "end": 31,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " DONGYANG - \u4e1c\u9633 (Zhejiang - \u6d59\u6c5f)"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccc Todo sobre China en nuestro grupo de Facebook:",
+        "start": 1416,
+        "end": 1464,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Todo sobre China en nuestro grupo de Facebook:"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "China",
+        "start": 1429,
+        "end": 1434,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "text": "1. Seoul, @anniepwanderlust,",
+        "start": 199,
+        "end": 227,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Seoul, @anniepwanderlust,"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Rio de Janeiro, @elensham,",
+        "start": 228,
+        "end": 257,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Rio de Janeiro, @elensham,"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Porto, @joethommas ,",
+        "start": 258,
+        "end": 281,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Porto, @joethommas ,"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Venice, @the_dusty_valise,",
+        "start": 282,
+        "end": 311,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Venice, @the_dusty_valise,"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Osaka, @hobopeeba,",
+        "start": 312,
+        "end": 333,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Osaka, @hobopeeba,"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Dublin, @chrishillphotographer,",
+        "start": 334,
+        "end": 368,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Dublin, @chrishillphotographer,"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Munich, @dasha_sky,",
+        "start": 369,
+        "end": 391,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Munich, @dasha_sky,"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Tianjin, @jordhammond",
+        "start": 392,
+        "end": 416,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Tianjin, @jordhammond"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83d\udcda\ud83d\ude0d Apply for a feature following the link in our bio and we will publish your photos in our account: @earthfever ",
+        "start": 42,
+        "end": 155,
+        "groupdict": {
+            "icon": "\ud83d\udcda",
+            "location": "\ud83d\ude0d Apply for a feature following the link in our bio and we will publish your photos in our account: @earthfever "
+        },
+        "method": "rule",
+        "rule": "icon"
+    }
+]

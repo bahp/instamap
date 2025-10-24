@@ -1,0 +1,676 @@
+{
+    "text": "Tag someone who should visit Bali soon! \ud83d\udcab @thebaliguideline . B A L I . . Video by @maxwell_grover  Video location: Bali, Indonesia . There are so many reasons why you should visit Bali. With its stunning beaches, unique culture, incredible natural beauty, and never ending adventure, Bali has been crowned the world\u2019s favorite destinations . Check our website to check and book all accommodation in Bali \ud83c\udf10 thebaliguideline.com/stays . . Got a shot to share? Tag us with #thebaliguideline for a feature",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Bali",
+            "start_pos": 29,
+            "end_pos": 33,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9902347326278687
+                }
+            ]
+        },
+        {
+            "text": "Bali",
+            "start_pos": 116,
+            "end_pos": 120,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9949341416358948
+                }
+            ]
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 122,
+            "end_pos": 131,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998557567596436
+                }
+            ]
+        },
+        {
+            "text": "Bali",
+            "start_pos": 181,
+            "end_pos": 185,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9984000325202942
+                }
+            ]
+        },
+        {
+            "text": "Bali",
+            "start_pos": 285,
+            "end_pos": 289,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9381027817726135
+                }
+            ]
+        },
+        {
+            "text": "Bali",
+            "start_pos": 400,
+            "end_pos": 404,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9931637644767761
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Tag",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "someone",
+            "start_pos": 4,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 12,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "should",
+            "start_pos": 16,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 23,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 29,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "soon",
+            "start_pos": 34,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcab",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "thebaliguideline",
+            "start_pos": 43,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 60,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "B",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "L",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Video",
+            "start_pos": 74,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 80,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "maxwell",
+            "start_pos": 84,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "grover",
+            "start_pos": 92,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "Video",
+            "start_pos": 100,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "location",
+            "start_pos": 106,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 116,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 122,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "There",
+            "start_pos": 134,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 140,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 144,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "many",
+            "start_pos": 147,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "reasons",
+            "start_pos": 152,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "why",
+            "start_pos": 160,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 164,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "should",
+            "start_pos": 168,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 175,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 181,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 185,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "With",
+            "start_pos": 187,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 192,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "stunning",
+            "start_pos": 196,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "beaches",
+            "start_pos": 205,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "unique",
+            "start_pos": 214,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "culture",
+            "start_pos": 221,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "incredible",
+            "start_pos": 230,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "natural",
+            "start_pos": 241,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 249,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 255,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 257,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "never",
+            "start_pos": 261,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "ending",
+            "start_pos": 267,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "adventure",
+            "start_pos": 274,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 283,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 285,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 290,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 294,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "crowned",
+            "start_pos": 299,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 307,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 311,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 316,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 319,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "destinations",
+            "start_pos": 328,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 341,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "Check",
+            "start_pos": 343,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 349,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "website",
+            "start_pos": 353,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 361,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "check",
+            "start_pos": 364,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 370,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "book",
+            "start_pos": 374,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 379,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "accommodation",
+            "start_pos": 383,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 397,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 400,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf10",
+            "start_pos": 405,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "thebaliguideline.com",
+            "start_pos": 407,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 427,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "stays",
+            "start_pos": 428,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 434,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 436,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "Got",
+            "start_pos": 438,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 442,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "shot",
+            "start_pos": 444,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 449,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "share",
+            "start_pos": 452,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 457,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 459,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "us",
+            "start_pos": 463,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 466,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 471,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "thebaliguideline",
+            "start_pos": 472,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 489,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 493,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": "feature",
+            "start_pos": 495,
+            "end_pos": 502,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

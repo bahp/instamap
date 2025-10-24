@@ -1,0 +1,73 @@
+[
+    {
+        "text": "\ud83d\udccc Yukon, Canada ",
+        "start": 641,
+        "end": 657,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Yukon, Canada "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udde6",
+        "start": 657,
+        "end": 659,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udde6",
+            "location": "Canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udde6",
+        "start": 858,
+        "end": 860,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udde6",
+            "location": "Canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Canada",
+        "start": 650,
+        "end": 656,
+        "groupdict": {
+            "name": "Canada",
+            "location": "Canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "canada",
+        "start": 852,
+        "end": 858,
+        "groupdict": {
+            "name": "canada",
+            "location": "canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "canada",
+        "start": 899,
+        "end": 905,
+        "groupdict": {
+            "name": "canada",
+            "location": "canada"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

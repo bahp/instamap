@@ -1,0 +1,62 @@
+[
+    {
+        "text": "\ud83c\uddef\ud83c\uddf4",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf4",
+            "location": "Jordan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Jordan",
+        "start": 69,
+        "end": 75,
+        "groupdict": {
+            "name": "Jordan",
+            "location": "Jordan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Portugal",
+        "start": 113,
+        "end": 121,
+        "groupdict": {
+            "name": "Portugal",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Jordan",
+        "start": 126,
+        "end": 132,
+        "groupdict": {
+            "name": "Jordan",
+            "location": "Jordan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Egypt",
+        "start": 334,
+        "end": 339,
+        "groupdict": {
+            "name": "Egypt",
+            "location": "Egypt"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

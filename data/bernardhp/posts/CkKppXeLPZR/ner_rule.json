@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd Banjar Mancingan, Bali ",
+        "start": 427,
+        "end": 452,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Banjar Mancingan, Bali "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddf7",
+        "start": 206,
+        "end": 208,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddf7",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

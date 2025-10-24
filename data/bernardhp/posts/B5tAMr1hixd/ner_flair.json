@@ -1,0 +1,383 @@
+{
+    "text": "The coolest temple in Kyoto \ud83d\udc9a 1200 stone sculptures of rakan, Buddha\u2019s disciples, all with different facial expressions and poses: cute, scary, sad, serene, funny, bizarre\u2026 \ud83c\udf43 Otagi Nenbutsu-ji Temple, Kyoto, Japan. Photos by @you_ji_low",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Kyoto",
+            "start_pos": 22,
+            "end_pos": 27,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9967952370643616
+                }
+            ]
+        },
+        {
+            "text": "Buddha",
+            "start_pos": 62,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.5999066233634949
+                }
+            ]
+        },
+        {
+            "text": "Otagi Nenbutsu-ji Temple",
+            "start_pos": 175,
+            "end_pos": 199,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6408836841583252
+                }
+            ]
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 201,
+            "end_pos": 206,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9967418313026428
+                }
+            ]
+        },
+        {
+            "text": "Japan",
+            "start_pos": 208,
+            "end_pos": 213,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999033212661743
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "The",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "coolest",
+            "start_pos": 4,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 12,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 19,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 22,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc9a",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "1200",
+            "start_pos": 30,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "stone",
+            "start_pos": 35,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "sculptures",
+            "start_pos": 41,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "rakan",
+            "start_pos": 55,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 60,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "Buddha",
+            "start_pos": 62,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 68,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "disciples",
+            "start_pos": 71,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 82,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 86,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "different",
+            "start_pos": 91,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "facial",
+            "start_pos": 101,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "expressions",
+            "start_pos": 108,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 120,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "poses",
+            "start_pos": 124,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 129,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "cute",
+            "start_pos": 131,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 135,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "scary",
+            "start_pos": 137,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "sad",
+            "start_pos": 144,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "serene",
+            "start_pos": 149,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "funny",
+            "start_pos": 157,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 162,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "bizarre",
+            "start_pos": 164,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "\u2026",
+            "start_pos": 171,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf43",
+            "start_pos": 173,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "Otagi",
+            "start_pos": 175,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "Nenbutsu-ji",
+            "start_pos": 181,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "Temple",
+            "start_pos": 193,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 199,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 201,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 206,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 208,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 215,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 222,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 225,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 226,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "ji",
+            "start_pos": 230,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 232,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "low",
+            "start_pos": 233,
+            "end_pos": 236,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

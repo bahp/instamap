@@ -1,0 +1,87 @@
+{
+    "text": "\u3053\u3093\u306a\u6691\u3044\u65e5\u306f\u6dbc\u3057\u3052\u306a\u52d5\u753b\u3092\u3069\u3046\u305e\ud83e\udd32\ud83c\udffb\ud83c\udf90 \u3044\u3064\u6765\u3066\u3082\u672c\u5f53\u306b\u6c17\u6301\u3061\u304c\u3044\u3044\u3002\u4e0a\u9ad8\u5730\ud83e\ude75\ud83d\udca6  #explorejapan#NAGANO#KAMIKOCHI#japantravel#visitjapan#\u9577\u91ce#\u677e\u672c\u5e02#\u4e0a\u9ad8\u5730#\u4e2d\u90e8\u5c71\u5cb3\u56fd\u7acb\u516c\u5712#\u6893\u5ddd#\u7a42\u9ad8\u9023\u5cf0#\u56fd\u7acb\u516c\u5712#\u56fd\u5185\u65c5\u884c",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\u3053\u3093\u306a\u6691\u3044\u65e5\u306f\u6dbc\u3057\u3052\u306a\u52d5\u753b\u3092\u3069\u3046\u305e\ud83e\udd32\ud83c\udffb\ud83c\udf90",
+            "start_pos": 0,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\u3044\u3064\u6765\u3066\u3082\u672c\u5f53\u306b\u6c17\u6301\u3061\u304c\u3044\u3044\u3002\u4e0a\u9ad8\u5730\ud83e\ude75\ud83d\udca6",
+            "start_pos": 21,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "explorejapan",
+            "start_pos": 44,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 56,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "NAGANO",
+            "start_pos": 57,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "KAMIKOCHI",
+            "start_pos": 64,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "japantravel",
+            "start_pos": 74,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "visitjapan",
+            "start_pos": 86,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "#\u9577\u91ce#\u677e\u672c\u5e02#\u4e0a\u9ad8\u5730#\u4e2d\u90e8\u5c71\u5cb3\u56fd\u7acb\u516c\u5712#\u6893\u5ddd#\u7a42\u9ad8\u9023\u5cf0#\u56fd\u7acb\u516c\u5712#\u56fd\u5185\u65c5\u884c",
+            "start_pos": 96,
+            "end_pos": 134,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

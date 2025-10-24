@@ -1,0 +1,218 @@
+{
+    "text": "El San Francisco Oakland Bay Bridge mide 58 metros de altura, much\u00edsimo menos que tus expectativas con esa persona. Imag\u00ednate la ca\u00edda.\u2060 \u2060 Foto de @maxsposure",
+    "labels": [],
+    "entities": [
+        {
+            "text": "El San Francisco Oakland Bay Bridge",
+            "start_pos": 0,
+            "end_pos": 35,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9174421926339468
+                }
+            ]
+        },
+        {
+            "text": "Imag\u00ednate la ca\u00edda",
+            "start_pos": 116,
+            "end_pos": 134,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8187082211176554
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "El",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "San",
+            "start_pos": 3,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "Francisco",
+            "start_pos": 7,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Oakland",
+            "start_pos": 17,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "Bay",
+            "start_pos": 25,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Bridge",
+            "start_pos": 29,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "mide",
+            "start_pos": 36,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "58",
+            "start_pos": 41,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "metros",
+            "start_pos": 44,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "altura",
+            "start_pos": 54,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 60,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "much\u00edsimo",
+            "start_pos": 62,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "menos",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 78,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "tus",
+            "start_pos": 82,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "expectativas",
+            "start_pos": 86,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 99,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "esa",
+            "start_pos": 103,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "persona",
+            "start_pos": 107,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "Imag\u00ednate",
+            "start_pos": 116,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 126,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "ca\u00edda",
+            "start_pos": 129,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 135,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "Foto",
+            "start_pos": 139,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 144,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "maxsposure",
+            "start_pos": 148,
+            "end_pos": 158,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

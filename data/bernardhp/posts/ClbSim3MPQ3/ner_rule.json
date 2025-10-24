@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccd Location: Troms\u00f8, Norway",
+        "start": 46,
+        "end": 72,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Location: Troms\u00f8, Norway"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf4",
+        "start": 28,
+        "end": 30,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf4",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Norway",
+        "start": 66,
+        "end": 72,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "norway",
+        "start": 104,
+        "end": 110,
+        "groupdict": {
+            "name": "norway",
+            "location": "norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

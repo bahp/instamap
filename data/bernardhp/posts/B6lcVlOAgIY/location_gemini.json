@@ -1,0 +1,32 @@
+[
+    {
+        "title": "London",
+        "subtitle": "Capital city of the United Kingdom",
+        "lat": 51.5073219,
+        "lon": -0.1276474,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Big Ben",
+        "subtitle": "Iconic clock tower in London",
+        "lat": 51.5007292,
+        "lon": -0.1245781,
+        "type": "clock tower",
+        "class": "building",
+        "confidence": 0.9,
+        "rank": 2
+    },
+    {
+        "title": "City of Westminster",
+        "subtitle": "Borough in London with major landmarks",
+        "lat": 51.5003,
+        "lon": -0.1378,
+        "type": "borough",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 3
+    }
+]

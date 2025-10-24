@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdLocation for Mt",
+        "start": 55,
+        "end": 71,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Location for Mt"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Japan",
+        "start": 30,
+        "end": 35,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 156,
+        "end": 161,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

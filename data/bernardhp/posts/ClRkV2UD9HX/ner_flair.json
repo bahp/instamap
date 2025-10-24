@@ -1,0 +1,769 @@
+{
+    "text": "\ud83d\udccdMirador de la Figuerassa, Catalu\u00f1a  Sin duda uno de los atractivos de Catalu\u00f1a son sus imponentes paisajes\ud83d\ude0d  El Mirador de la Figuerassa ubicado a 1 hora y media de Barcelona es uno de nuestros favoritos por sus vistas alucinantes \ud83e\udd29\u26f0   Al mirador se puede acceder f\u00e1cilmente en coche \ud83d\ude97 solo tener cuidado con la nieve en temporada de invierno \u2744   Tip: te recomendamos visitarlo al atardecer, y si vas en esta \u00e9poca\u2026 llev\u00e1 abrigo \ud83e\udd76 . . . . . . #mirador #figuerassa #miradordelafiguerassa #catalunya #catalu\u00f1a #barcelona #bcn #bcnmoltmes #spain #spaintravel #igersbarcelona #catalonia #travel #viewpoint #spainexplorers #sunset #sunsetlovers",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Mirador de la Figuerassa",
+            "start_pos": 1,
+            "end_pos": 25,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8837542086839676
+                }
+            ]
+        },
+        {
+            "text": "Catalu\u00f1a  Sin duda uno de los atractivos de Catalu\u00f1a",
+            "start_pos": 27,
+            "end_pos": 79,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8059027194976807
+                }
+            ]
+        },
+        {
+            "text": "El Mirador de la",
+            "start_pos": 110,
+            "end_pos": 126,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8008385300636292
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Mirador",
+            "start_pos": 1,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 9,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 12,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Figuerassa",
+            "start_pos": 15,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Catalu\u00f1a",
+            "start_pos": 27,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "Sin",
+            "start_pos": 37,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "duda",
+            "start_pos": 41,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "uno",
+            "start_pos": 46,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 53,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "atractivos",
+            "start_pos": 57,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 68,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "Catalu\u00f1a",
+            "start_pos": 71,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "son",
+            "start_pos": 80,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "sus",
+            "start_pos": 84,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "imponentes",
+            "start_pos": 88,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "paisajes",
+            "start_pos": 99,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "El",
+            "start_pos": 110,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "Mirador",
+            "start_pos": 113,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 121,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 124,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "Figuerassa",
+            "start_pos": 127,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "ubicado",
+            "start_pos": 138,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 146,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 148,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "hora",
+            "start_pos": 150,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "media",
+            "start_pos": 157,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 163,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "Barcelona",
+            "start_pos": 166,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 176,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "uno",
+            "start_pos": 179,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 183,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "nuestros",
+            "start_pos": 186,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "favoritos",
+            "start_pos": 195,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "por",
+            "start_pos": 205,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "sus",
+            "start_pos": 209,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "vistas",
+            "start_pos": 213,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "alucinantes",
+            "start_pos": 220,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd29\u26f0",
+            "start_pos": 232,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "Al",
+            "start_pos": 237,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "mirador",
+            "start_pos": 240,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "se",
+            "start_pos": 248,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "puede",
+            "start_pos": 251,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "acceder",
+            "start_pos": 257,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "f\u00e1cilmente",
+            "start_pos": 265,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 276,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "coche",
+            "start_pos": 279,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude97",
+            "start_pos": 285,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "solo",
+            "start_pos": 287,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "tener",
+            "start_pos": 292,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "cuidado",
+            "start_pos": 298,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 306,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 310,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "nieve",
+            "start_pos": 313,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 319,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "temporada",
+            "start_pos": 322,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 332,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "invierno",
+            "start_pos": 335,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "\u2744",
+            "start_pos": 344,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "Tip",
+            "start_pos": 348,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 351,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "te",
+            "start_pos": 353,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "recomendamos",
+            "start_pos": 356,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "visitarlo",
+            "start_pos": 369,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 379,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "atardecer",
+            "start_pos": 382,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 391,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 393,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 395,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "vas",
+            "start_pos": 398,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 402,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "esta",
+            "start_pos": 405,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "\u00e9poca",
+            "start_pos": 410,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "\u2026",
+            "start_pos": 415,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "llev\u00e1",
+            "start_pos": 417,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "abrigo",
+            "start_pos": 423,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd76",
+            "start_pos": 430,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 432,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 434,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 436,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 438,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 440,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 442,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 444,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "mirador",
+            "start_pos": 445,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 453,
+            "end_pos": 454,
+            "labels": []
+        },
+        {
+            "text": "figuerassa",
+            "start_pos": 454,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 465,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "miradordelafiguerassa",
+            "start_pos": 466,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 488,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "catalunya",
+            "start_pos": 489,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 499,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "catalu\u00f1a",
+            "start_pos": 500,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 509,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "barcelona",
+            "start_pos": 510,
+            "end_pos": 519,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 520,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "bcn",
+            "start_pos": 521,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 525,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "bcnmoltmes",
+            "start_pos": 526,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 537,
+            "end_pos": 538,
+            "labels": []
+        },
+        {
+            "text": "spain",
+            "start_pos": 538,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 544,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "spaintravel",
+            "start_pos": 545,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 557,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "igersbarcelona",
+            "start_pos": 558,
+            "end_pos": 572,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 573,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "catalonia",
+            "start_pos": 574,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 584,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 585,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 592,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "viewpoint",
+            "start_pos": 593,
+            "end_pos": 602,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 603,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": "spainexplorers",
+            "start_pos": 604,
+            "end_pos": 618,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 619,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": "sunset",
+            "start_pos": 620,
+            "end_pos": 626,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 627,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "sunsetlovers",
+            "start_pos": 628,
+            "end_pos": 640,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

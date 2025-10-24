@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"The Shambles\",\n    \"full_address\": \"The Shambles, York YO1 7PX, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/04/08/19/32/shambles-4477460_960_720.jpg\"\n  },\n  {\n    \"name\": \"York\",\n    \"full_address\": \"York, England, UK\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/03/09/15/21/york-1578655_960_720.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_70003b476000bc80",
+    "factuality_queries": null,
+    "text_query": [
+        "the shambles, york",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_d28d06e3bee9fcbd",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"The Shambles\",\n    \"full_address\": \"The Shambles, York YO1 7PX, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/04/08/19/32/shambles-4477460_960_720.jpg\"\n  },\n  {\n    \"name\": \"York\",\n    \"full_address\": \"York, England, UK\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/03/09/15/21/york-1578655_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_7d8592f0a37a2748",
+            "content": [
+                "Here's the JSON file extracting the locations from the caption:\n\n```json\n[\n  {\n    \"name\": \"Diagon Alley\",\n    \"full_address\": \"Diagon Alley, Leadenhall Market, London, EC3M 1DE, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"The Shambles, York\",\n    \"full_address\": \"Shambles, York YO1 7LX, UK\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/04/17/17/40/york-1605657_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_4ae7fd2543bde190",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Diagon Alley\",\n    \"full_address\": \"Diagon Alley, London, England, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/02/07/20/59/diagon-alley-4453195_960_720.jpg\"\n  },\n  {\n    \"name\": \"The Shambles\",\n    \"full_address\": \"The Shambles, York, England, UK\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2022/02/23/22/08/york-6787937_960_720.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"The Shambles\",\n    \"full_address\": \"The Shambles, York YO1 7PX, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/04/08/19/32/shambles-4477460_960_720.jpg\"\n  },\n  {\n    \"name\": \"York\",\n    \"full_address\": \"York, England, UK\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/03/09/15/21/york-1578655_960_720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

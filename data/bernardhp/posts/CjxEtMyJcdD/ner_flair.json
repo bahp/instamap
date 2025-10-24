@@ -1,0 +1,109 @@
+{
+    "text": "@warrencamitan \ud83d\udcf7 Buntod Reef Marine Sanctuary and Sandbar in Masbate",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Buntod Reef Marine Sanctuary",
+            "start_pos": 17,
+            "end_pos": 45,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8576010018587112
+                }
+            ]
+        },
+        {
+            "text": "Sandbar",
+            "start_pos": 50,
+            "end_pos": 57,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8201940655708313
+                }
+            ]
+        },
+        {
+            "text": "Masbate",
+            "start_pos": 61,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9953387975692749
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "@",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "warrencamitan",
+            "start_pos": 1,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Buntod",
+            "start_pos": 17,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Reef",
+            "start_pos": 24,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Marine",
+            "start_pos": 29,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "Sanctuary",
+            "start_pos": 36,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 46,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "Sandbar",
+            "start_pos": 50,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 58,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "Masbate",
+            "start_pos": 61,
+            "end_pos": 68,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Iceland",
+        "start": 22,
+        "end": 29,
+        "groupdict": {
+            "name": "Iceland",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "iceland",
+        "start": 296,
+        "end": 303,
+        "groupdict": {
+            "name": "iceland",
+            "location": "iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

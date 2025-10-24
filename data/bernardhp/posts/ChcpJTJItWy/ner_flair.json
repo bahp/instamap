@@ -1,0 +1,581 @@
+{
+    "text": "\ud83d\udccd \ud835\udc02\ud835\udc32\ud835\udc1c\ud835\udc25\ud835\udc1a\ud835\udc1d\ud835\udc1e\ud835\udc2c, \ud835\uddda\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddf0\ud835\uddf2 \ud83c\uddec\ud83c\uddf7  \u039a\u03ac\u03b8\u03b5 \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b7 \u03b3\u03c9\u03bd\u03af\u03b1.  1. \u03a3\u03c7\u03bf\u03b9\u03bd\u03bf\u03cd\u03c3\u03b1  2. \u0399\u03bf\u03c2 3. \u03a0\u03ac\u03c4\u03bc\u03bf\u03c2 4. \u03a4\u03ae\u03bd\u03bf\u03c2 5. \u0386\u03bd\u03c9 \u039a\u03bf\u03c5\u03c6\u03bf\u03bd\u03ae\u03c3\u03b9  6. \u039c\u03bf\u03bd\u03b5\u03bc\u03b2\u03b1\u03c3\u03b9\u03ac 7. \u039a\u03af\u03bc\u03c9\u03bb\u03bf\u03c2 8. \u039c\u03ae\u03bb\u03bf\u03c2 9. \u039d\u03ac\u03be\u03bf\u03c2 10. \u03a3\u03ad\u03c1\u03b9\u03c6\u03bf\u03c2   Every part of Greece has a favorite corner.  1. Schoinousa island  2. Ios island  3. Patmos island 4. Tinos island  5. Ano Koufonisi island  6. Monemvasia  7. Kimolos island  8. Milos island 9. Naxos island  10. Serifos island",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Greece",
+            "start_pos": 207,
+            "end_pos": 213,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999976634979248
+                }
+            ]
+        },
+        {
+            "text": "Schoinousa island",
+            "start_pos": 241,
+            "end_pos": 258,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7974575459957123
+                }
+            ]
+        },
+        {
+            "text": "Ios island",
+            "start_pos": 263,
+            "end_pos": 273,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8737244307994843
+                }
+            ]
+        },
+        {
+            "text": "Patmos island",
+            "start_pos": 278,
+            "end_pos": 291,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8826232850551605
+                }
+            ]
+        },
+        {
+            "text": "Tinos island",
+            "start_pos": 295,
+            "end_pos": 307,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9007208049297333
+                }
+            ]
+        },
+        {
+            "text": "Ano Koufonisi island",
+            "start_pos": 312,
+            "end_pos": 332,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7784611980120341
+                }
+            ]
+        },
+        {
+            "text": "Monemvasia",
+            "start_pos": 337,
+            "end_pos": 347,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.567168116569519
+                }
+            ]
+        },
+        {
+            "text": "Kimolos island",
+            "start_pos": 352,
+            "end_pos": 366,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9643639326095581
+                }
+            ]
+        },
+        {
+            "text": "Milos island",
+            "start_pos": 371,
+            "end_pos": 383,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9792870581150055
+                }
+            ]
+        },
+        {
+            "text": "Naxos island",
+            "start_pos": 387,
+            "end_pos": 399,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8948347270488739
+                }
+            ]
+        },
+        {
+            "text": "Serifos island",
+            "start_pos": 405,
+            "end_pos": 419,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7894028723239899
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "\ud835\udc02\ud835\udc32\ud835\udc1c\ud835\udc25\ud835\udc1a\ud835\udc1d\ud835\udc1e\ud835\udc2c",
+            "start_pos": 2,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "\ud835\uddda\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddf0\ud835\uddf2",
+            "start_pos": 12,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddec\ud83c\uddf7",
+            "start_pos": 19,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "\u039a\u03ac\u03b8\u03b5",
+            "start_pos": 23,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\u03c3\u03b7\u03bc\u03b5\u03af\u03bf",
+            "start_pos": 28,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "\u03c4\u03b7\u03c2",
+            "start_pos": 35,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
+            "start_pos": 39,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "\u03ad\u03c7\u03b5\u03b9",
+            "start_pos": 47,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\u03ba\u03b1\u03b9",
+            "start_pos": 52,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "\u03bc\u03b9\u03b1",
+            "start_pos": 56,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "\u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b7",
+            "start_pos": 60,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "\u03b3\u03c9\u03bd\u03af\u03b1",
+            "start_pos": 70,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "\u03a3\u03c7\u03bf\u03b9\u03bd\u03bf\u03cd\u03c3\u03b1",
+            "start_pos": 81,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 92,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "\u0399\u03bf\u03c2",
+            "start_pos": 95,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 99,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "\u03a0\u03ac\u03c4\u03bc\u03bf\u03c2",
+            "start_pos": 102,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 109,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "\u03a4\u03ae\u03bd\u03bf\u03c2",
+            "start_pos": 112,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "5.",
+            "start_pos": 118,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "\u0386\u03bd\u03c9",
+            "start_pos": 121,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "\u039a\u03bf\u03c5\u03c6\u03bf\u03bd\u03ae\u03c3\u03b9",
+            "start_pos": 125,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "6.",
+            "start_pos": 136,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "\u039c\u03bf\u03bd\u03b5\u03bc\u03b2\u03b1\u03c3\u03b9\u03ac",
+            "start_pos": 139,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "7.",
+            "start_pos": 150,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "\u039a\u03af\u03bc\u03c9\u03bb\u03bf\u03c2",
+            "start_pos": 153,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "8.",
+            "start_pos": 161,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "\u039c\u03ae\u03bb\u03bf\u03c2",
+            "start_pos": 164,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "9.",
+            "start_pos": 170,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "\u039d\u03ac\u03be\u03bf\u03c2",
+            "start_pos": 173,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "10.",
+            "start_pos": 179,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "\u03a3\u03ad\u03c1\u03b9\u03c6\u03bf\u03c2",
+            "start_pos": 183,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "Every",
+            "start_pos": 193,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "part",
+            "start_pos": 199,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 204,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "Greece",
+            "start_pos": 207,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 214,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 218,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 220,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "corner",
+            "start_pos": 229,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 235,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 238,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "Schoinousa",
+            "start_pos": 241,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 252,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 260,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "Ios",
+            "start_pos": 263,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 267,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 275,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "Patmos",
+            "start_pos": 278,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 285,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 292,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "Tinos",
+            "start_pos": 295,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 301,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "5.",
+            "start_pos": 309,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "Ano",
+            "start_pos": 312,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "Koufonisi",
+            "start_pos": 316,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 326,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "6.",
+            "start_pos": 334,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "Monemvasia",
+            "start_pos": 337,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "7.",
+            "start_pos": 349,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "Kimolos",
+            "start_pos": 352,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 360,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "8.",
+            "start_pos": 368,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "Milos",
+            "start_pos": 371,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 377,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "9.",
+            "start_pos": 384,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "Naxos",
+            "start_pos": 387,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 393,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "10.",
+            "start_pos": 401,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "Serifos",
+            "start_pos": 405,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 413,
+            "end_pos": 419,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,245 @@
+{
+    "text": "Holiday evenings on the Budapest streets \u2764 \ud83c\udded\ud83c\uddfa  Have you ever visited Budapest, Hungary?  Congrats @krenn_imre  Use #Map_of_europe #Budapest",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Budapest",
+            "start_pos": 24,
+            "end_pos": 32,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9919703006744385
+                }
+            ]
+        },
+        {
+            "text": "Budapest",
+            "start_pos": 69,
+            "end_pos": 77,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9975747466087341
+                }
+            ]
+        },
+        {
+            "text": "Hungary",
+            "start_pos": 79,
+            "end_pos": 86,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997780919075012
+                }
+            ]
+        },
+        {
+            "text": "europe",
+            "start_pos": 123,
+            "end_pos": 129,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8743454217910767
+                }
+            ]
+        },
+        {
+            "text": "Budapest",
+            "start_pos": 131,
+            "end_pos": 139,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9978052973747253
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Holiday",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "evenings",
+            "start_pos": 8,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 17,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 20,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Budapest",
+            "start_pos": 24,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "streets",
+            "start_pos": 33,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udded\ud83c\uddfa",
+            "start_pos": 43,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 47,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 52,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 56,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "visited",
+            "start_pos": 61,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "Budapest",
+            "start_pos": 69,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "Hungary",
+            "start_pos": 79,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 89,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "krenn",
+            "start_pos": 99,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "imre",
+            "start_pos": 105,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 111,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "Map",
+            "start_pos": 116,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 120,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 122,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 123,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 130,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "Budapest",
+            "start_pos": 131,
+            "end_pos": 139,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,108 @@
+[
+    {
+        "text": "\ud83d\udccdValle Maggia, Switzerland ",
+        "start": 320,
+        "end": 347,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Valle Maggia, Switzerland "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udcccSave This For Your Next Trip To Switzerland",
+        "start": 351,
+        "end": 395,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": "Save This For Your Next Trip To Switzerland"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udded",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udded",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udded",
+        "start": 347,
+        "end": 349,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udded",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Switzerland",
+        "start": 3,
+        "end": 14,
+        "groupdict": {
+            "name": "Switzerland",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Switzerland",
+        "start": 84,
+        "end": 95,
+        "groupdict": {
+            "name": "Switzerland",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Switzerland",
+        "start": 335,
+        "end": 346,
+        "groupdict": {
+            "name": "Switzerland",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Switzerland",
+        "start": 384,
+        "end": 395,
+        "groupdict": {
+            "name": "Switzerland",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "switzerland",
+        "start": 451,
+        "end": 462,
+        "groupdict": {
+            "name": "switzerland",
+            "location": "switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "content": "Sure, here is the json file:\n\n```json\n[\n  {\n    \"name\": \"Camden\",\n    \"full_address\": \"Camden, London, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Richmond\",\n    \"full_address\": \"Richmond, London, UK\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Notting Hill\",\n    \"full_address\": \"Notting Hill, London, UK\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Hampstead\",\n    \"full_address\": \"Hampstead, London, UK\",\n    \"order\": 4\n  },\n  {\n    \"name\": \"City of London\",\n    \"full_address\": \"City of London, London, UK\",\n    \"order\": 5\n  },\n  {\n    \"name\": \"Chelsea\",\n    \"full_address\": \"Chelsea, London, UK\",\n    \"order\": 6\n  },\n  {\n    \"name\": \"Greenwich\",\n    \"full_address\": \"Greenwich, London, UK\",\n    \"order\": 7\n  },\n  {\n    \"name\": \"Fitzrovia\",\n    \"full_address\": \"Fitzrovia, London, UK\",\n    \"order\": 8\n  },\n  {\n    \"name\": \"Belgravia\",\n    \"full_address\": \"Belgravia, London, UK\",\n    \"order\": 9\n  },\n  {\n    \"name\": \"Primrose Hill\",\n    \"full_address\": \"Primrose Hill, London, UK\",\n    \"order\": 10\n  }\n]\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_06a8570cace66980",
+    "response_id": "r_9909d94aef380398",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_5ab0e34b4a2ac187",
+            "content": [
+                "Sure, here is the json file:\n\n```json\n[\n  {\n    \"name\": \"Camden\",\n    \"full_address\": \"Camden, London, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Richmond\",\n    \"full_address\": \"Richmond, London, UK\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Notting Hill\",\n    \"full_address\": \"Notting Hill, London, UK\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Hampstead\",\n    \"full_address\": \"Hampstead, London, UK\",\n    \"order\": 4\n  },\n  {\n    \"name\": \"City of London\",\n    \"full_address\": \"City of London, London, UK\",\n    \"order\": 5\n  },\n  {\n    \"name\": \"Chelsea\",\n    \"full_address\": \"Chelsea, London, UK\",\n    \"order\": 6\n  },\n  {\n    \"name\": \"Greenwich\",\n    \"full_address\": \"Greenwich, London, UK\",\n    \"order\": 7\n  },\n  {\n    \"name\": \"Fitzrovia\",\n    \"full_address\": \"Fitzrovia, London, UK\",\n    \"order\": 8\n  },\n  {\n    \"name\": \"Belgravia\",\n    \"full_address\": \"Belgravia, London, UK\",\n    \"order\": 9\n  },\n  {\n    \"name\": \"Primrose Hill\",\n    \"full_address\": \"Primrose Hill, London, UK\",\n    \"order\": 10\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2YWMyNDEzZDNhMDIyNzlmNzc4ODAyNWFlZDI4ZmNjM2VjYjk3ZDFhZGY&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Camden\",\n    \"full_address\": \"Camden, London, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Richmond\",\n    \"full_address\": \"Richmond, London, UK\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Notting Hill\",\n    \"full_address\": \"Notting Hill, London, UK\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Hampstead\",\n    \"full_address\": \"Hampstead, London, UK\",\n    \"order\": 4\n  },\n  {\n    \"name\": \"City of London\",\n    \"full_address\": \"City of London, London, UK\",\n    \"order\": 5\n  },\n  {\n    \"name\": \"Chelsea\",\n    \"full_address\": \"Chelsea, London, UK\",\n    \"order\": 6\n  },\n  {\n    \"name\": \"Greenwich\",\n    \"full_address\": \"Greenwich, London, UK\",\n    \"order\": 7\n  },\n  {\n    \"name\": \"Fitzrovia\",\n    \"full_address\": \"Fitzrovia, London, UK\",\n    \"order\": 8\n  },\n  {\n    \"name\": \"Belgravia\",\n    \"full_address\": \"Belgravia, London, UK\",\n    \"order\": 9\n  },\n  {\n    \"name\": \"Primrose Hill\",\n    \"full_address\": \"Primrose Hill, London, UK\",\n    \"order\": 10\n  }\n]\n",
+    "status_code": 200
+}

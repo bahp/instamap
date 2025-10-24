@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf5\ud83c\uddeb",
+        "start": 583,
+        "end": 585,
+        "groupdict": {
+            "flag": "\ud83c\uddf5\ud83c\uddeb",
+            "location": "French Polynesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "French Polynesia",
+        "start": 110,
+        "end": 126,
+        "groupdict": {
+            "name": "French Polynesia",
+            "location": "French Polynesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,811 @@
+{
+    "text": "\ud83d\udc47\ud83c\udffdM\u00c1S info:  \ud83d\udd52 Horario: Todos los d\u00edas de 08:00 a 00:00 Menos los s\u00e1bados, que es de 13:30 a 01:00  \ud83c\udf7dPod\u00e9is tanto ir; - a tomar algo (para lo que normalmente no es necesaria reserva)   - como a comer o cenar, con previa reserva (y ah\u00ed en esa zona ten\u00e9is las mejores vistas\ud83d\ude0a)  \ud83d\udcddMi opini\u00f3n personal es que no es una terraza con unas vistas incre\u00edbles, pero la consumici\u00f3n es un poco m\u00e1s barata que el resto de terrazas de Madrid, as\u00ed que no est\u00e1 mal!  \ud83d\udccdDirecci\u00f3n: C/Gran V\u00eda, 44.   \u2705 S\u00edgueme para conocer los mejores lugares secretos en Madrid!  #madrid #secreto #terraza",
+    "labels": [],
+    "entities": [
+        {
+            "text": "el resto de terrazas de Madrid",
+            "start_pos": 396,
+            "end_pos": 426,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6560803999503454
+                }
+            ]
+        },
+        {
+            "text": "Gran V\u00eda",
+            "start_pos": 464,
+            "end_pos": 472,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8463673293590546
+                }
+            ]
+        },
+        {
+            "text": "Madrid",
+            "start_pos": 535,
+            "end_pos": 541,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9781811833381653
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udc47\ud83c\udffd",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "M\u00c1S",
+            "start_pos": 2,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "info",
+            "start_pos": 6,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd52",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Horario",
+            "start_pos": 15,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Todos",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "d\u00edas",
+            "start_pos": 34,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "08:00",
+            "start_pos": 42,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "00:00",
+            "start_pos": 50,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Menos",
+            "start_pos": 56,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 62,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "s\u00e1bados",
+            "start_pos": 66,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 75,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 79,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 82,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "13:30",
+            "start_pos": 85,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "01:00",
+            "start_pos": 93,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf7d",
+            "start_pos": 100,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "Pod\u00e9is",
+            "start_pos": 101,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "tanto",
+            "start_pos": 108,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "ir",
+            "start_pos": 114,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": ";",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 118,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "tomar",
+            "start_pos": 122,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "algo",
+            "start_pos": 128,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 134,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "lo",
+            "start_pos": 139,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 142,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "normalmente",
+            "start_pos": 146,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "no",
+            "start_pos": 158,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 161,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "necesaria",
+            "start_pos": 164,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "reserva",
+            "start_pos": 174,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 181,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 185,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "como",
+            "start_pos": 187,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 192,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "comer",
+            "start_pos": 194,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "o",
+            "start_pos": 200,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "cenar",
+            "start_pos": 202,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 207,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 209,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "previa",
+            "start_pos": 213,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "reserva",
+            "start_pos": 220,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "ah\u00ed",
+            "start_pos": 231,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 235,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "esa",
+            "start_pos": 238,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "zona",
+            "start_pos": 242,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "ten\u00e9is",
+            "start_pos": 247,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "las",
+            "start_pos": 254,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "mejores",
+            "start_pos": 258,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "vistas",
+            "start_pos": 266,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0a)",
+            "start_pos": 272,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcdd",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "Mi",
+            "start_pos": 277,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "opini\u00f3n",
+            "start_pos": 280,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "personal",
+            "start_pos": 288,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 297,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 300,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "no",
+            "start_pos": 304,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 307,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 310,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "terraza",
+            "start_pos": 314,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 322,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "unas",
+            "start_pos": 326,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "vistas",
+            "start_pos": 331,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "incre\u00edbles",
+            "start_pos": 338,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 348,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "pero",
+            "start_pos": 350,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 355,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "consumici\u00f3n",
+            "start_pos": 358,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 370,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 373,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "poco",
+            "start_pos": 376,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1s",
+            "start_pos": 381,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "barata",
+            "start_pos": 385,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 392,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 396,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "resto",
+            "start_pos": 399,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 405,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "terrazas",
+            "start_pos": 408,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 417,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "Madrid",
+            "start_pos": 420,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 426,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "as\u00ed",
+            "start_pos": 428,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 432,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "no",
+            "start_pos": 436,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "est\u00e1",
+            "start_pos": 439,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "mal",
+            "start_pos": 444,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 447,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 450,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "Direcci\u00f3n",
+            "start_pos": 451,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 460,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "C",
+            "start_pos": 462,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 463,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "Gran",
+            "start_pos": 464,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "V\u00eda",
+            "start_pos": 469,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 472,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "44",
+            "start_pos": 474,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 476,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "\u2705",
+            "start_pos": 480,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "S\u00edgueme",
+            "start_pos": 482,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 490,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": "conocer",
+            "start_pos": 495,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 503,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "mejores",
+            "start_pos": 507,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "lugares",
+            "start_pos": 515,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "secretos",
+            "start_pos": 523,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 532,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "Madrid",
+            "start_pos": 535,
+            "end_pos": 541,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 541,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 544,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "madrid",
+            "start_pos": 545,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 552,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "secreto",
+            "start_pos": 553,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 561,
+            "end_pos": 562,
+            "labels": []
+        },
+        {
+            "text": "terraza",
+            "start_pos": 562,
+            "end_pos": 569,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

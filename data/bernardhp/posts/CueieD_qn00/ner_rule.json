@@ -1,0 +1,73 @@
+[
+    {
+        "text": "\ud83d\udccd F\u00e4lensee, Switzerland ",
+        "start": 0,
+        "end": 24,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " F\u00e4lensee, Switzerland "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udded",
+        "start": 24,
+        "end": 26,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udded",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udded",
+        "start": 61,
+        "end": 63,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udded",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Switzerland",
+        "start": 12,
+        "end": 23,
+        "groupdict": {
+            "name": "Switzerland",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "switzerland",
+        "start": 85,
+        "end": 96,
+        "groupdict": {
+            "name": "switzerland",
+            "location": "switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "switzerland",
+        "start": 139,
+        "end": 150,
+        "groupdict": {
+            "name": "switzerland",
+            "location": "switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

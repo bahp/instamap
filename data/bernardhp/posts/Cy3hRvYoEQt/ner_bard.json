@@ -1,0 +1,35 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Perugia\",\n      \"full_address\": \"Perugia, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/perugia-italy\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_745af72f5aa41607",
+    "factuality_queries": null,
+    "text_query": [
+        "perugia",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_229ab245d950085e",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Perugia\",\n      \"full_address\": \"Perugia, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/perugia-italy\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_9aff3315ea71ea7d",
+            "content": [
+                "The caption mentions the name of the place, Perugia, and its country, Italy. The place is located in Umbria, Italy. The order of the location is 1, as it is the first location mentioned in the caption.\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Perugia\",\n      \"full_address\": \"Perugia, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/perugia-italy\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_8f708ce18e855dc9",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Perugia\",\n      \"full_address\": \"Perugia, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/perugia-italy\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Perugia\",\n      \"full_address\": \"Perugia, Umbria, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/perugia-italy\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

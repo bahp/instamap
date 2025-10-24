@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf10\ud83d\udea9Orta San Giulio #piemonte (Novara)",
+        "start": 21,
+        "end": 57,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Orta San Giulio #piemonte (Novara)"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 461,
+        "end": 466,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

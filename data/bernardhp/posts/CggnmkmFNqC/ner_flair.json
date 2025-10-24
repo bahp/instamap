@@ -1,0 +1,357 @@
+{
+    "text": "Some of our favourite spots in Cornwall \ud83e\udef6  #cornwall #cornwallcoast #cornwalluk #cornwalllife #cornwallliving #beautifuldestinations #traveluk #visitengland #travelreels #travelwithus #lovecornwall #swisbest #southwest #kernow #cornwallbeach #cornwallholiday #cornwallbeaches #thisiscornwall #visitcornwall #watergatebay #kynancecove #pednvounder #portisaac #pollyjoke",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Cornwall",
+            "start_pos": 31,
+            "end_pos": 39,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8942484259605408
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Some",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 5,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 8,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 12,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "spots",
+            "start_pos": 22,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "Cornwall",
+            "start_pos": 31,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udef6",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "cornwall",
+            "start_pos": 44,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "cornwallcoast",
+            "start_pos": 54,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "cornwalluk",
+            "start_pos": 69,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "cornwalllife",
+            "start_pos": 81,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "cornwallliving",
+            "start_pos": 95,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 110,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 111,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "traveluk",
+            "start_pos": 134,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "visitengland",
+            "start_pos": 144,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 157,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "travelreels",
+            "start_pos": 158,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 170,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "travelwithus",
+            "start_pos": 171,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 184,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "lovecornwall",
+            "start_pos": 185,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 198,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "swisbest",
+            "start_pos": 199,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "southwest",
+            "start_pos": 209,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 219,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "kernow",
+            "start_pos": 220,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 227,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "cornwallbeach",
+            "start_pos": 228,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 242,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "cornwallholiday",
+            "start_pos": 243,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 259,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "cornwallbeaches",
+            "start_pos": 260,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "thisiscornwall",
+            "start_pos": 277,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 292,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "visitcornwall",
+            "start_pos": 293,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 307,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "watergatebay",
+            "start_pos": 308,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 321,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "kynancecove",
+            "start_pos": 322,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 334,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "pednvounder",
+            "start_pos": 335,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 347,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "portisaac",
+            "start_pos": 348,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 358,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "pollyjoke",
+            "start_pos": 359,
+            "end_pos": 368,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

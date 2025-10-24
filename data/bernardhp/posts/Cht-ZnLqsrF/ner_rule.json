@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdKoh Lao Lading,Krabi,Thailand ",
+        "start": 59,
+        "end": 90,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Koh Lao Lading,Krabi,Thailand "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Thailand",
+        "start": 81,
+        "end": 89,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 108,
+        "end": 116,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 141,
+        "end": 149,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 195,
+        "end": 203,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

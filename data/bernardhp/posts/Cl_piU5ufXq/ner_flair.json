@@ -1,0 +1,523 @@
+{
+    "text": "\ud83c\udde8\ud83c\uddf3Taoist Temple in Ningbo| \u5b81\u6ce2\u57ce\u968d\u5e99\ud83c\udde8\ud83c\uddf3  \ud83d\ude4cFollow @chinese_architecture for more\ud83d\ude4c  . . . \ud83d\udccdNingbo\uff0cZhejiang \ud83d\udcf7 @shallwe0317  . . . #chinesearchitecture #ningbo #zhenjiang #\u6d59\u6c5f #\u5b81\u6ce2#taoist #temple #chineseculture #architecture #architecturephotography #architecturelovers #architect #architectural #architectures #archilovers #archidaily #architecture_hunter #chinabuilding #designarchitecture #\u53e4\u5efa\u7b51 #\u4e2d\u5f0f\u5efa\u7b51 #building #building_shotz #buildingphotography #buildinglovers #chinatravel",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Taoist Temple",
+            "start_pos": 2,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7265492379665375
+                }
+            ]
+        },
+        {
+            "text": "Ningbo",
+            "start_pos": 19,
+            "end_pos": 25,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.43088266253471375
+                }
+            ]
+        },
+        {
+            "text": "Ningbo",
+            "start_pos": 84,
+            "end_pos": 90,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.4705103635787964
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udde8\ud83c\uddf3",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "Taoist",
+            "start_pos": 2,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Temple",
+            "start_pos": 9,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Ningbo",
+            "start_pos": 19,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "|",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "\u5b81\u6ce2\u57ce\u968d\u5e99\ud83c\udde8\ud83c\uddf3",
+            "start_pos": 27,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude4c",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 37,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "chinese",
+            "start_pos": 45,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 53,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 66,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude4c",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "Ningbo",
+            "start_pos": 84,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "\uff0c",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "Zhejiang",
+            "start_pos": 91,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 100,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "shallwe0317",
+            "start_pos": 103,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 118,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 122,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "chinesearchitecture",
+            "start_pos": 123,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "ningbo",
+            "start_pos": 144,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "zhenjiang",
+            "start_pos": 152,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "#\u6d59\u6c5f",
+            "start_pos": 162,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "#\u5b81\u6ce2#",
+            "start_pos": 166,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "taoist",
+            "start_pos": 170,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 177,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 178,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 185,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "chineseculture",
+            "start_pos": 186,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 201,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 202,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 215,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "architecturephotography",
+            "start_pos": 216,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 240,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "architecturelovers",
+            "start_pos": 241,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 260,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "architect",
+            "start_pos": 261,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 271,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "architectural",
+            "start_pos": 272,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 286,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "architectures",
+            "start_pos": 287,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 301,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "archilovers",
+            "start_pos": 302,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 314,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "archidaily",
+            "start_pos": 315,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 326,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 327,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 339,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "hunter",
+            "start_pos": 340,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 347,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "chinabuilding",
+            "start_pos": 348,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 362,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "designarchitecture",
+            "start_pos": 363,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "#\u53e4\u5efa\u7b51",
+            "start_pos": 382,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "#\u4e2d\u5f0f\u5efa\u7b51",
+            "start_pos": 387,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 393,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "building",
+            "start_pos": 394,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 403,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "building",
+            "start_pos": 404,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 412,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "shotz",
+            "start_pos": 413,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 419,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "buildingphotography",
+            "start_pos": 420,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 440,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "buildinglovers",
+            "start_pos": 441,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 456,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "chinatravel",
+            "start_pos": 457,
+            "end_pos": 468,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

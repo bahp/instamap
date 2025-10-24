@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdPasso delle Erbe ",
+        "start": 24,
+        "end": 42,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Passo delle Erbe "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 86,
+        "end": 91,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

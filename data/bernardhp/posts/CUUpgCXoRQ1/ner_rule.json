@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccd Location: Hv\u00edtserkur, Iceland",
+        "start": 41,
+        "end": 72,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Location: Hv\u00edtserkur, Iceland"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf8",
+        "start": 23,
+        "end": 25,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf8",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Iceland",
+        "start": 65,
+        "end": 72,
+        "groupdict": {
+            "name": "Iceland",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "iceland",
+        "start": 227,
+        "end": 234,
+        "groupdict": {
+            "name": "iceland",
+            "location": "iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "norway",
+        "start": 267,
+        "end": 273,
+        "groupdict": {
+            "name": "norway",
+            "location": "norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccd Location: Bj\u00f8rkedalen, Norway",
+        "start": 36,
+        "end": 67,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Location: Bj\u00f8rkedalen, Norway"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf4",
+        "start": 18,
+        "end": 20,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf4",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Norway",
+        "start": 10,
+        "end": 16,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 61,
+        "end": 67,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "norway",
+        "start": 115,
+        "end": 121,
+        "groupdict": {
+            "name": "norway",
+            "location": "norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

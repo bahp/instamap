@@ -1,0 +1,57 @@
+{
+    "content": "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5929\u6388\u5eb5\",\n      \"full_address\": \"\u4eac\u90fd\u5e9c\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u798f\u5730\u753a29\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tenju-an_%28Nanzen-ji%29.jpg/1200px-Tenju-an_%28Nanzen-ji%29.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"\u5357\u7985\u5bfa\",\n      \"full_address\": \"\u4eac\u90fd\u5e9c\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u798f\u5730\u753a29\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nanzen-ji_%28Kyoto%29.jpg/1200px-Nanzen-ji_%28Kyoto%29.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\nThe caption mentions two locations:\n\n* **\u5929\u6388\u5eb5 (Tenju-an Temple)** is a Zen Buddhist temple located in the Nanzenji temple complex in Kyoto, Japan. The temple is famous for its stone bridge, which is said to resemble the back of a dragon.\n[Image of \u5929\u6388\u5eb5 (Tenju-an Temple)]\n* **\u5357\u7985\u5bfa (Nanzen-ji Temple)** is a Rinzai Zen Buddhist temple located in Kyoto, Japan. The temple is one of the largest and most important temples in Kyoto.\n[Image of \u5357\u7985\u5bfa (Nanzen-ji Temple)]\n\nThe caption also mentions the natural beauty of the area, including the deep forest, moss, and green leaves. These elements help to create a sense of peace and tranquility, which is central to Zen Buddhism.",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_c1d565c8fdd279da",
+    "factuality_queries": null,
+    "text_query": [
+        "\u5929\u6388\u5eb5/\u77f3\u6a4b",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_5308c272f5ade634",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5929\u6388\u5eb5\",\n      \"full_address\": \"\u4eac\u90fd\u5e9c\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u798f\u5730\u753a29\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tenju-an_%28Nanzen-ji%29.jpg/1200px-Tenju-an_%28Nanzen-ji%29.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"\u5357\u7985\u5bfa\",\n      \"full_address\": \"\u4eac\u90fd\u5e9c\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u798f\u5730\u753a29\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nanzen-ji_%28Kyoto%29.jpg/1200px-Nanzen-ji_%28Kyoto%29.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\nThe caption mentions two locations:\n\n* **\u5929\u6388\u5eb5 (Tenju-an Temple)** is a Zen Buddhist temple located in the Nanzenji temple complex in Kyoto, Japan. The temple is famous for its stone bridge, which is said to resemble the back of a dragon.\n[Image of \u5929\u6388\u5eb5 (Tenju-an Temple)]\n* **\u5357\u7985\u5bfa (Nanzen-ji Temple)** is a Rinzai Zen Buddhist temple located in Kyoto, Japan. The temple is one of the largest and most important temples in Kyoto.\n[Image of \u5357\u7985\u5bfa (Nanzen-ji Temple)]\n\nThe caption also mentions the natural beauty of the area, including the deep forest, moss, and green leaves. These elements help to create a sense of peace and tranquility, which is central to Zen Buddhism."
+            ]
+        },
+        {
+            "id": "rc_c38fbb21cbe15d6d",
+            "content": [
+                "\u306f\u3044\u3001\u304b\u3057\u3053\u307e\u308a\u307e\u3057\u305f\u3002\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5929\u6388\u5eb5\",\n      \"full_address\": \"\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u8349\u5ddd\u753a1\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"\u77f3\u6a4b\",\n      \"full_address\": \"\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u8349\u5ddd\u753a1\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\n\u300c\u5929\u6388\u5eb5/\u77f3\u6a4b\u300d\u3068\u3044\u3046\u30ad\u30e3\u30d7\u30b7\u30e7\u30f3\u304b\u3089\u30012\u3064\u306e\u5834\u6240\u3092\u62bd\u51fa\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3057\u305f\u3002\n\n* \u5929\u6388\u5eb5\n    * \u540d\u524d\uff1a\u5929\u6388\u5eb5\n    * \u4f4f\u6240\uff1a\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u8349\u5ddd\u753a1\n    * \u9806\u756a\uff1a0\n* \u77f3\u6a4b\n    * \u540d\u524d\uff1a\u77f3\u6a4b\n    * \u4f4f\u6240\uff1a\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u8349\u5ddd\u753a1\n    * \u9806\u756a\uff1a1\n\n\u307e\u305f\u3001\u5929\u6388\u5eb5\u306e\u753b\u50cf\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002\n\n[Image of \u5929\u6388\u5eb5\u3001\u4eac\u90fd]"
+            ]
+        },
+        {
+            "id": "rc_99c424b01428aa0b",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5929\u6388\u5eb5/\u77f3\u6a4b\",\n      \"full_address\": \"\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u8349\u5ddd\u753a10\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/\u5929\u6388\u5eb5.jpg/1200px-\u5929\u6388\u5eb5.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nI have added the image of **\u5929\u6388\u5eb5/\u77f3\u6a4b** to the JSON file.\n\nThe caption mentions the location **\u5929\u6388\u5eb5/\u77f3\u6a4b**, which is a subtemple of Nanzen-ji Temple in Kyoto, Japan. The bridge is located in the middle of a moss garden, and it is said to resemble the back of a dragon. The bridge is a popular tourist destination, and it is a beautiful example of Japanese Zen architecture.\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "http://regex.info/i/JF4_079413_2880x1800.jpg",
+        "http://regex.info/blog/2015-11-17/2643",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNGjCwMCEHnhCcUn7kL6MlegaOAmCaZnrahwM3-8xIVGQI2L2TV68PskbJnDU",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kyoto_Nanzenji01s5s4272.jpg",
+        "https://en.wikipedia.org/wiki/Nanzen-ji",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-jAHIyudZh2sizkuBhKLIpyNR6-joEZNZ8yQmQ2zEclqcRi-mdwaCAsGeXMsS",
+        "http://regex.info/i/JF4_079413_2880x1800.jpg",
+        "http://regex.info/blog/2015-11-17/2643",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNGjCwMCEHnhCcUn7kL6MlegaOAmCaZnrahwM3-8xIVGQI2L2TV68PskbJnDU",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kyoto_Nanzenji01s5s4272.jpg",
+        "https://en.wikipedia.org/wiki/Nanzen-ji",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-jAHIyudZh2sizkuBhKLIpyNR6-joEZNZ8yQmQ2zEclqcRi-mdwaCAsGeXMsS",
+        "https://souda-kyoto.jp/guide/spot/ea410e00000004aa-img/tenjuan1.jpg",
+        "https://souda-kyoto.jp/guide/spot/nanzenji-tenjuan.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToTb9ysQz2MqmLmBdR0PR3uZxBS5gDEhAO1NK59DC4FAz8QozBNRfhQCE7Qj-r",
+        "https://souda-kyoto.jp/guide/spot/ea410e00000004aa-img/tenjuan1.jpg",
+        "https://souda-kyoto.jp/guide/spot/nanzenji-tenjuan.html",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToTb9ysQz2MqmLmBdR0PR3uZxBS5gDEhAO1NK59DC4FAz8QozBNRfhQCE7Qj-r"
+    ],
+    "images": [
+        "http://regex.info/i/JF4_079413_2880x1800.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kyoto_Nanzenji01s5s4272.jpg"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"\u5929\u6388\u5eb5\",\n      \"full_address\": \"\u4eac\u90fd\u5e9c\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u798f\u5730\u753a29\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tenju-an_%28Nanzen-ji%29.jpg/1200px-Tenju-an_%28Nanzen-ji%29.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"\u5357\u7985\u5bfa\",\n      \"full_address\": \"\u4eac\u90fd\u5e9c\u4eac\u90fd\u5e02\u5de6\u4eac\u533a\u5357\u7985\u5bfa\u798f\u5730\u753a29\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nanzen-ji_%28Kyoto%29.jpg/1200px-Nanzen-ji_%28Kyoto%29.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

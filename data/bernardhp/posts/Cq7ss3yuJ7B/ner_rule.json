@@ -1,0 +1,80 @@
+[
+    {
+        "text": "1. Eilean Donan Castle ",
+        "start": 36,
+        "end": 59,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Eilean Donan Castle "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Old Man Of Storr ",
+        "start": 60,
+        "end": 80,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Old Man Of Storr "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Mealt falls",
+        "start": 81,
+        "end": 95,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Mealt falls"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. St Andrews Cathedral ",
+        "start": 96,
+        "end": 120,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "St Andrews Cathedral "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Fort William ",
+        "start": 121,
+        "end": 137,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Fort William "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Duncansby Stacks ",
+        "start": 138,
+        "end": 158,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Duncansby Stacks "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    }
+]

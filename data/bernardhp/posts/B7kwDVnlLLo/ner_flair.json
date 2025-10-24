@@ -1,0 +1,971 @@
+{
+    "text": "Harbin, China has some of the world's coldest weather and the world's biggest ice festival \ud83c\udde8\ud83c\uddf3. By the biggest sculptures (about 50 meters tall), by the number of visitors (10 to 15 million), by the number of ice and snow sculptures created (thousands), by the artistic achievement and the 'wow' factor... for all of these, Harbin's annual International Ice and Snow Festival ranks #1 in the world. Record breaking ice creations are usually constructed annually. Walking around in the Ice and Snow World among exhibits set up like a small town of 25 blocks, visitors walk among creatively lighted and intricately carved ice buildings that have in recent years reached the 45 to 50 meter tall level. \u2014 \ud83d\udccd #DiscoverChina \u2014 \ud83d\udcf8 Photo taken by @nk7",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Harbin",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997748732566833
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 8,
+            "end_pos": 13,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999996542930603
+                }
+            ]
+        },
+        {
+            "text": "Harbin",
+            "start_pos": 323,
+            "end_pos": 329,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.46822601556777954
+                }
+            ]
+        },
+        {
+            "text": "International Ice and Snow Festival",
+            "start_pos": 339,
+            "end_pos": 374,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8857168436050415
+                }
+            ]
+        },
+        {
+            "text": "Ice and Snow World",
+            "start_pos": 484,
+            "end_pos": 502,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6524131819605827
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Harbin",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 6,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 8,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 14,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "some",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 23,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 26,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 30,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "coldest",
+            "start_pos": 38,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "weather",
+            "start_pos": 46,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 54,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 58,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 62,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 67,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "biggest",
+            "start_pos": 70,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "ice",
+            "start_pos": 78,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "festival",
+            "start_pos": 82,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\uddf3",
+            "start_pos": 91,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "By",
+            "start_pos": 95,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 98,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "biggest",
+            "start_pos": 102,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "sculptures",
+            "start_pos": 110,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 121,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 122,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "50",
+            "start_pos": 128,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "meters",
+            "start_pos": 131,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "tall",
+            "start_pos": 138,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 145,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 148,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "number",
+            "start_pos": 152,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 159,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "visitors",
+            "start_pos": 162,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 171,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 172,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 175,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "15",
+            "start_pos": 178,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "million",
+            "start_pos": 181,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 188,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 191,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 194,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "number",
+            "start_pos": 198,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 205,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "ice",
+            "start_pos": 208,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 212,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "snow",
+            "start_pos": 216,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "sculptures",
+            "start_pos": 221,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "created",
+            "start_pos": 232,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 240,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "thousands",
+            "start_pos": 241,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 250,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 251,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 253,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 256,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "artistic",
+            "start_pos": 260,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "achievement",
+            "start_pos": 269,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 281,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 285,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "'",
+            "start_pos": 289,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "wow",
+            "start_pos": 290,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "'",
+            "start_pos": 293,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "factor",
+            "start_pos": 295,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "...",
+            "start_pos": 301,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 305,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "all",
+            "start_pos": 309,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 313,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "these",
+            "start_pos": 316,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 321,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "Harbin",
+            "start_pos": 323,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 329,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "annual",
+            "start_pos": 332,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "International",
+            "start_pos": 339,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "Ice",
+            "start_pos": 353,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 357,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "Snow",
+            "start_pos": 361,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "Festival",
+            "start_pos": 366,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "ranks",
+            "start_pos": 375,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 381,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 382,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 384,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 387,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 391,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 396,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "Record",
+            "start_pos": 398,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "breaking",
+            "start_pos": 405,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "ice",
+            "start_pos": 414,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "creations",
+            "start_pos": 418,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 428,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "usually",
+            "start_pos": 432,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "constructed",
+            "start_pos": 440,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "annually",
+            "start_pos": 452,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 460,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "Walking",
+            "start_pos": 462,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "around",
+            "start_pos": 470,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 477,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 480,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "Ice",
+            "start_pos": 484,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 488,
+            "end_pos": 491,
+            "labels": []
+        },
+        {
+            "text": "Snow",
+            "start_pos": 492,
+            "end_pos": 496,
+            "labels": []
+        },
+        {
+            "text": "World",
+            "start_pos": 497,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "among",
+            "start_pos": 503,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "exhibits",
+            "start_pos": 509,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "set",
+            "start_pos": 518,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 522,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 525,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 530,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "small",
+            "start_pos": 532,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "town",
+            "start_pos": 538,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 543,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "25",
+            "start_pos": 546,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "blocks",
+            "start_pos": 549,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 555,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "visitors",
+            "start_pos": 557,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "walk",
+            "start_pos": 566,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": "among",
+            "start_pos": 571,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "creatively",
+            "start_pos": 577,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "lighted",
+            "start_pos": 588,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 596,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "intricately",
+            "start_pos": 600,
+            "end_pos": 611,
+            "labels": []
+        },
+        {
+            "text": "carved",
+            "start_pos": 612,
+            "end_pos": 618,
+            "labels": []
+        },
+        {
+            "text": "ice",
+            "start_pos": 619,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "buildings",
+            "start_pos": 623,
+            "end_pos": 632,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 633,
+            "end_pos": 637,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 638,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 643,
+            "end_pos": 645,
+            "labels": []
+        },
+        {
+            "text": "recent",
+            "start_pos": 646,
+            "end_pos": 652,
+            "labels": []
+        },
+        {
+            "text": "years",
+            "start_pos": 653,
+            "end_pos": 658,
+            "labels": []
+        },
+        {
+            "text": "reached",
+            "start_pos": 659,
+            "end_pos": 666,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 667,
+            "end_pos": 670,
+            "labels": []
+        },
+        {
+            "text": "45",
+            "start_pos": 671,
+            "end_pos": 673,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 674,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "50",
+            "start_pos": 677,
+            "end_pos": 679,
+            "labels": []
+        },
+        {
+            "text": "meter",
+            "start_pos": 680,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "tall",
+            "start_pos": 686,
+            "end_pos": 690,
+            "labels": []
+        },
+        {
+            "text": "level",
+            "start_pos": 691,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 696,
+            "end_pos": 697,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 698,
+            "end_pos": 699,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 700,
+            "end_pos": 701,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 702,
+            "end_pos": 703,
+            "labels": []
+        },
+        {
+            "text": "DiscoverChina",
+            "start_pos": 703,
+            "end_pos": 716,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 717,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 719,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 721,
+            "end_pos": 726,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 727,
+            "end_pos": 732,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 733,
+            "end_pos": 735,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 736,
+            "end_pos": 737,
+            "labels": []
+        },
+        {
+            "text": "nk7",
+            "start_pos": 737,
+            "end_pos": 740,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

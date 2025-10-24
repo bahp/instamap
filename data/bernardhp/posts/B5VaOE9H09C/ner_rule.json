@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83c\udf10 Admin: @insta_ksou",
+        "start": 220,
+        "end": 240,
+        "groupdict": {
+            "icon": "\ud83c\udf10",
+            "location": " Admin: @insta_ksou"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\uddf7",
+        "start": 198,
+        "end": 200,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\uddf7",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Greece",
+        "start": 191,
+        "end": 197,
+        "groupdict": {
+            "name": "Greece",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

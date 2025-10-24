@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddf2\ud83c\uddfd",
+        "start": 380,
+        "end": 382,
+        "groupdict": {
+            "flag": "\ud83c\uddf2\ud83c\uddfd",
+            "location": "Mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Mexico",
+        "start": 155,
+        "end": 161,
+        "groupdict": {
+            "name": "Mexico",
+            "location": "Mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "mexico",
+        "start": 425,
+        "end": 431,
+        "groupdict": {
+            "name": "mexico",
+            "location": "mexico"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

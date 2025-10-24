@@ -1,0 +1,26 @@
+[
+    {
+        "text": "switzerland",
+        "start": 93,
+        "end": 104,
+        "groupdict": {
+            "name": "switzerland",
+            "location": "switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "switzerland",
+        "start": 412,
+        "end": 423,
+        "groupdict": {
+            "name": "switzerland",
+            "location": "switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdHotel Kanz Erremal\"",
+        "start": 44,
+        "end": 64,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Hotel Kanz Erremal\""
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf2\ud83c\udde6",
+        "start": 104,
+        "end": 106,
+        "groupdict": {
+            "flag": "\ud83c\uddf2\ud83c\udde6",
+            "location": "Morocco"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd: @floresta_nature_doughnuts ",
+        "start": 263,
+        "end": 293,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": ": @floresta_nature_doughnuts "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Japan",
+        "start": 256,
+        "end": 261,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

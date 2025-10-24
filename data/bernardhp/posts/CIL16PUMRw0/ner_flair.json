@@ -1,0 +1,69 @@
+{
+    "text": "Skies on fire over Sjusj\u00f8en \ud83c\udf86 \ud83d\udcf7: @itseriksen",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Skies",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 6,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "fire",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Sjusj\u00f8en",
+            "start_pos": 19,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf86",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 33,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "itseriksen",
+            "start_pos": 34,
+            "end_pos": 44,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

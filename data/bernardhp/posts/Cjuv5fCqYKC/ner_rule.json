@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddf9\ud83c\udded",
+        "start": 144,
+        "end": 146,
+        "groupdict": {
+            "flag": "\ud83c\uddf9\ud83c\udded",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Thailand",
+        "start": 39,
+        "end": 47,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 136,
+        "end": 144,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

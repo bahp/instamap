@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Chureito Pagoda",
+        "subtitle": "Five-story pagoda with Mount Fuji views",
+        "lat": 35.5029,
+        "lon": 138.7909,
+        "type": "pagoda",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Arakura Sengen Shrine",
+        "subtitle": "Shinto shrine housing Chureito Pagoda",
+        "lat": 35.5029,
+        "lon": 138.7909,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 2
+    },
+    {
+        "title": "Mount Fuji",
+        "subtitle": "Iconic active stratovolcano of Japan",
+        "lat": 35.3606,
+        "lon": 138.7277,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 3
+    },
+    {
+        "title": "Fuji Five Lakes",
+        "subtitle": "Scenic region at northern base of Mount Fuji",
+        "lat": 35.4833,
+        "lon": 138.7167,
+        "type": "region",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 4
+    },
+    {
+        "title": "Fujiyoshida City",
+        "subtitle": "City in Yamanashi Prefecture, Japan",
+        "lat": 35.495,
+        "lon": 138.7831,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 5
+    },
+    {
+        "title": "Japan",
+        "subtitle": "East Asian island nation",
+        "lat": 36.2048,
+        "lon": 138.2529,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6
+    }
+]

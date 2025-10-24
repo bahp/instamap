@@ -1,0 +1,50 @@
+[
+    {
+        "text": "\ud83c\uddea\ud83c\uddea",
+        "start": 16,
+        "end": 18,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddea",
+            "location": "Estonia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddea",
+        "start": 506,
+        "end": 508,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddea",
+            "location": "Estonia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Estonia",
+        "start": 9,
+        "end": 16,
+        "groupdict": {
+            "name": "Estonia",
+            "location": "Estonia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "estonia",
+        "start": 497,
+        "end": 504,
+        "groupdict": {
+            "name": "estonia",
+            "location": "estonia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

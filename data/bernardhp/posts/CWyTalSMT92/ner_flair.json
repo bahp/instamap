@@ -1,0 +1,272 @@
+{
+    "text": "Christmas events have started in Helsinki \ud83c\uddeb\ud83c\uddee\ud83c\udf84. Here's a beautiful shot from last winter \u2744 \u2022 ~ Follow @grandscandinavia to make your feed more beatiful!  \u2022 \ud83d\udccdFinland \ud83c\uddeb\ud83c\uddee \u2022 \ud83d\udcf7 Credit goes to @antsvahter",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Helsinki",
+            "start_pos": 33,
+            "end_pos": 41,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997251629829407
+                }
+            ]
+        },
+        {
+            "text": "Finland",
+            "start_pos": 156,
+            "end_pos": 163,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998433589935303
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Christmas",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "events",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 17,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "started",
+            "start_pos": 22,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Helsinki",
+            "start_pos": 33,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddeb\ud83c\uddee\ud83c\udf84",
+            "start_pos": 42,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "Here",
+            "start_pos": 47,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 56,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "shot",
+            "start_pos": 66,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 71,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "last",
+            "start_pos": 76,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "winter",
+            "start_pos": 81,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "\u2744",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "~",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 94,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 101,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "grandscandinavia",
+            "start_pos": 102,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 119,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "make",
+            "start_pos": 122,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 127,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "feed",
+            "start_pos": 132,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 137,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "beatiful",
+            "start_pos": 142,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 150,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 153,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "Finland",
+            "start_pos": 156,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddeb\ud83c\uddee",
+            "start_pos": 164,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 167,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "Credit",
+            "start_pos": 171,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "goes",
+            "start_pos": 178,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 183,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 186,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "antsvahter",
+            "start_pos": 187,
+            "end_pos": 197,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

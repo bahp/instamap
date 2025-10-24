@@ -1,0 +1,1334 @@
+{
+    "text": "\ud83d\udd18Borgund Stave Church\ud83d\udd18  \u2022It is a former parish church located in the village of Borgund in Vestland county, Norway.  \u2022It was the church for the L\u00e6rdal parish until 1868 when it was closed and turned into a museum. \u2022In the same year A new Borgund Church was built right next to the old church.  \u2022The brown, wooden church was built sometime between 1180 and 1250 AD with later additions and restorations.  \u2022Its walls are formed by vertical wooden boards, or staves, hence the name \"stave church.  \u2022The church has a foundry with a bell from the Middle Ages, built in the middle of the 13th century, which is the only remaining free-standing bell tower in work in Norway today.  \ud83d\ude4fFollow me @ancient.scientist and check out more posts about our world's marvellous History\u2764  \ud83d\udce2For Promotion/ Business/ shout-outs contact me via DMs \ud83d\udce9 .  \ud83c\udfa5Video by @pilotviking  #norway #stavkirke #borgund #vikings #church #middleage #wood #norse #norsemen #bestplacetogo #culturalheritahe #ancienthistory #history #norway\ud83c\uddf3\ud83c\uddf4 #norwich",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Borgund Stave Church",
+            "start_pos": 1,
+            "end_pos": 21,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9429130355517069
+                }
+            ]
+        },
+        {
+            "text": "Borgund",
+            "start_pos": 80,
+            "end_pos": 87,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9802040457725525
+                }
+            ]
+        },
+        {
+            "text": "Vestland",
+            "start_pos": 91,
+            "end_pos": 99,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.875656247138977
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 108,
+            "end_pos": 114,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997921586036682
+                }
+            ]
+        },
+        {
+            "text": "L\u00e6rdal",
+            "start_pos": 144,
+            "end_pos": 150,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9438246488571167
+                }
+            ]
+        },
+        {
+            "text": "Borgund Church",
+            "start_pos": 238,
+            "end_pos": 252,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8853021264076233
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 660,
+            "end_pos": 666,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999785840511322
+                }
+            ]
+        },
+        {
+            "text": "norway",
+            "start_pos": 992,
+            "end_pos": 998,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9535082578659058
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Borgund",
+            "start_pos": 1,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Stave",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Church",
+            "start_pos": 15,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 25,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "former",
+            "start_pos": 33,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "parish",
+            "start_pos": 40,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 54,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 62,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 65,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 69,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 77,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "Borgund",
+            "start_pos": 80,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 88,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "Vestland",
+            "start_pos": 91,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "county",
+            "start_pos": 100,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 108,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 118,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 121,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 125,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 129,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 136,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 140,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "L\u00e6rdal",
+            "start_pos": 144,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "parish",
+            "start_pos": 151,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "until",
+            "start_pos": 158,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "1868",
+            "start_pos": 164,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 169,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 174,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 177,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "closed",
+            "start_pos": 181,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 188,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "turned",
+            "start_pos": 192,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "into",
+            "start_pos": 199,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 204,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "museum",
+            "start_pos": 206,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 215,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 218,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "same",
+            "start_pos": 222,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "year",
+            "start_pos": 227,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 232,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "new",
+            "start_pos": 234,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "Borgund",
+            "start_pos": 238,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "Church",
+            "start_pos": 246,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 253,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "built",
+            "start_pos": 257,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "right",
+            "start_pos": 263,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "next",
+            "start_pos": 269,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 274,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 277,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "old",
+            "start_pos": 281,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 285,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 291,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 294,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 295,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "brown",
+            "start_pos": 299,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 304,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "wooden",
+            "start_pos": 306,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 313,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 320,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "built",
+            "start_pos": 324,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "sometime",
+            "start_pos": 330,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "between",
+            "start_pos": 339,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "1180",
+            "start_pos": 347,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 352,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "1250",
+            "start_pos": 356,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "AD",
+            "start_pos": 361,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 364,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "later",
+            "start_pos": 369,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "additions",
+            "start_pos": 375,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 385,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "restorations",
+            "start_pos": 389,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 401,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 404,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "Its",
+            "start_pos": 405,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "walls",
+            "start_pos": 409,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 415,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "formed",
+            "start_pos": 419,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 426,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "vertical",
+            "start_pos": 429,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "wooden",
+            "start_pos": 438,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "boards",
+            "start_pos": 445,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 451,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 453,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "staves",
+            "start_pos": 456,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 462,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "hence",
+            "start_pos": 464,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 470,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "name",
+            "start_pos": 474,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 479,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": "stave",
+            "start_pos": 480,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 486,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 492,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 495,
+            "end_pos": 496,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 496,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 500,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 507,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 511,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "foundry",
+            "start_pos": 513,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 521,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 526,
+            "end_pos": 527,
+            "labels": []
+        },
+        {
+            "text": "bell",
+            "start_pos": 528,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 533,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 538,
+            "end_pos": 541,
+            "labels": []
+        },
+        {
+            "text": "Middle",
+            "start_pos": 542,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "Ages",
+            "start_pos": 549,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 553,
+            "end_pos": 554,
+            "labels": []
+        },
+        {
+            "text": "built",
+            "start_pos": 555,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 561,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 564,
+            "end_pos": 567,
+            "labels": []
+        },
+        {
+            "text": "middle",
+            "start_pos": 568,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 575,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 578,
+            "end_pos": 581,
+            "labels": []
+        },
+        {
+            "text": "13th",
+            "start_pos": 582,
+            "end_pos": 586,
+            "labels": []
+        },
+        {
+            "text": "century",
+            "start_pos": 587,
+            "end_pos": 594,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 594,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "which",
+            "start_pos": 596,
+            "end_pos": 601,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 602,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 605,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "only",
+            "start_pos": 609,
+            "end_pos": 613,
+            "labels": []
+        },
+        {
+            "text": "remaining",
+            "start_pos": 614,
+            "end_pos": 623,
+            "labels": []
+        },
+        {
+            "text": "free-standing",
+            "start_pos": 624,
+            "end_pos": 637,
+            "labels": []
+        },
+        {
+            "text": "bell",
+            "start_pos": 638,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "tower",
+            "start_pos": 643,
+            "end_pos": 648,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 649,
+            "end_pos": 651,
+            "labels": []
+        },
+        {
+            "text": "work",
+            "start_pos": 652,
+            "end_pos": 656,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 657,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 660,
+            "end_pos": 666,
+            "labels": []
+        },
+        {
+            "text": "today",
+            "start_pos": 667,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 672,
+            "end_pos": 673,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude4f",
+            "start_pos": 675,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 676,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 683,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 686,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "ancient.scientist",
+            "start_pos": 687,
+            "end_pos": 704,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 705,
+            "end_pos": 708,
+            "labels": []
+        },
+        {
+            "text": "check",
+            "start_pos": 709,
+            "end_pos": 714,
+            "labels": []
+        },
+        {
+            "text": "out",
+            "start_pos": 715,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 719,
+            "end_pos": 723,
+            "labels": []
+        },
+        {
+            "text": "posts",
+            "start_pos": 724,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 730,
+            "end_pos": 735,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 736,
+            "end_pos": 739,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 740,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 745,
+            "end_pos": 747,
+            "labels": []
+        },
+        {
+            "text": "marvellous",
+            "start_pos": 748,
+            "end_pos": 758,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 759,
+            "end_pos": 766,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 766,
+            "end_pos": 767,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce2",
+            "start_pos": 769,
+            "end_pos": 770,
+            "labels": []
+        },
+        {
+            "text": "For",
+            "start_pos": 770,
+            "end_pos": 773,
+            "labels": []
+        },
+        {
+            "text": "Promotion",
+            "start_pos": 774,
+            "end_pos": 783,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 783,
+            "end_pos": 784,
+            "labels": []
+        },
+        {
+            "text": "Business",
+            "start_pos": 785,
+            "end_pos": 793,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 793,
+            "end_pos": 794,
+            "labels": []
+        },
+        {
+            "text": "shout-outs",
+            "start_pos": 795,
+            "end_pos": 805,
+            "labels": []
+        },
+        {
+            "text": "contact",
+            "start_pos": 806,
+            "end_pos": 813,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 814,
+            "end_pos": 816,
+            "labels": []
+        },
+        {
+            "text": "via",
+            "start_pos": 817,
+            "end_pos": 820,
+            "labels": []
+        },
+        {
+            "text": "DMs",
+            "start_pos": 821,
+            "end_pos": 824,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce9",
+            "start_pos": 825,
+            "end_pos": 826,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 827,
+            "end_pos": 828,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfa5",
+            "start_pos": 830,
+            "end_pos": 831,
+            "labels": []
+        },
+        {
+            "text": "Video",
+            "start_pos": 831,
+            "end_pos": 836,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 837,
+            "end_pos": 839,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 840,
+            "end_pos": 841,
+            "labels": []
+        },
+        {
+            "text": "pilotviking",
+            "start_pos": 841,
+            "end_pos": 852,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 854,
+            "end_pos": 855,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 855,
+            "end_pos": 861,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 862,
+            "end_pos": 863,
+            "labels": []
+        },
+        {
+            "text": "stavkirke",
+            "start_pos": 863,
+            "end_pos": 872,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 873,
+            "end_pos": 874,
+            "labels": []
+        },
+        {
+            "text": "borgund",
+            "start_pos": 874,
+            "end_pos": 881,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 882,
+            "end_pos": 883,
+            "labels": []
+        },
+        {
+            "text": "vikings",
+            "start_pos": 883,
+            "end_pos": 890,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 891,
+            "end_pos": 892,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 892,
+            "end_pos": 898,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 899,
+            "end_pos": 900,
+            "labels": []
+        },
+        {
+            "text": "middleage",
+            "start_pos": 900,
+            "end_pos": 909,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 910,
+            "end_pos": 911,
+            "labels": []
+        },
+        {
+            "text": "wood",
+            "start_pos": 911,
+            "end_pos": 915,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 916,
+            "end_pos": 917,
+            "labels": []
+        },
+        {
+            "text": "norse",
+            "start_pos": 917,
+            "end_pos": 922,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 923,
+            "end_pos": 924,
+            "labels": []
+        },
+        {
+            "text": "norsemen",
+            "start_pos": 924,
+            "end_pos": 932,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 933,
+            "end_pos": 934,
+            "labels": []
+        },
+        {
+            "text": "bestplacetogo",
+            "start_pos": 934,
+            "end_pos": 947,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 948,
+            "end_pos": 949,
+            "labels": []
+        },
+        {
+            "text": "culturalheritahe",
+            "start_pos": 949,
+            "end_pos": 965,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 966,
+            "end_pos": 967,
+            "labels": []
+        },
+        {
+            "text": "ancienthistory",
+            "start_pos": 967,
+            "end_pos": 981,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 982,
+            "end_pos": 983,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 983,
+            "end_pos": 990,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 991,
+            "end_pos": 992,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 992,
+            "end_pos": 998,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 998,
+            "end_pos": 1000,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1001,
+            "end_pos": 1002,
+            "labels": []
+        },
+        {
+            "text": "norwich",
+            "start_pos": 1002,
+            "end_pos": 1009,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

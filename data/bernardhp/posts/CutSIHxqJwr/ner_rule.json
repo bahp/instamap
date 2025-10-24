@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd Starting point is St\u00f6ckalp (OW)",
+        "start": 900,
+        "end": 933,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Starting point is St\u00f6ckalp (OW)"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Switzerland",
+        "start": 377,
+        "end": 388,
+        "groupdict": {
+            "name": "Switzerland",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

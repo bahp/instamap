@@ -1,0 +1,1020 @@
+{
+    "text": ". \ud83d\udccdl Colline del Chianti \ud83d\uddfal Toscana \ud83d\udcf8l Scatto di @stefanotermanini \ud83c\udff7l Le Colline del Chianti (note anche come Monti del Chianti o pi\u00f9 semplicemente Chianti) sono una breve catena montuosa (circa 20 km) a cavallo fra le province di Siena, Firenze e Arezzo che segnano il confine orientale della regione del Chianti con il Valdarno e la val di Chiana. La vetta pi\u00f9 alta \u00e8 quella di Monte San Michele (893 metri s.l.m.) nel comune di Greve in Chianti in provincia di Firenze. Le colline del chianti sono famose per i vigneti dai quali si ottiene un vino noto in tutto il mondo. Il rimanente territorio risulta invece prevalentemente collinare e i comuni presenti in questa area costituiscono parte della zona di produzione del Chianti, vino rosso DOCG. #exploring_ita",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Colline del Chianti",
+            "start_pos": 5,
+            "end_pos": 24,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7131995956103007
+                }
+            ]
+        },
+        {
+            "text": "Le Colline del Chianti",
+            "start_pos": 70,
+            "end_pos": 92,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6156684458255768
+                }
+            ]
+        },
+        {
+            "text": "Siena",
+            "start_pos": 231,
+            "end_pos": 236,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6814255118370056
+                }
+            ]
+        },
+        {
+            "text": "Firenze",
+            "start_pos": 238,
+            "end_pos": 245,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.41150563955307007
+                }
+            ]
+        },
+        {
+            "text": "Arezzo",
+            "start_pos": 248,
+            "end_pos": 254,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5913472771644592
+                }
+            ]
+        },
+        {
+            "text": "Valdarno e la val di",
+            "start_pos": 321,
+            "end_pos": 341,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.757823359966278
+                }
+            ]
+        },
+        {
+            "text": "Chiana",
+            "start_pos": 342,
+            "end_pos": 348,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6223132610321045
+                }
+            ]
+        },
+        {
+            "text": "di Monte San Michele",
+            "start_pos": 377,
+            "end_pos": 397,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6885558292269707
+                }
+            ]
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 440,
+            "end_pos": 447,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6849716901779175
+                }
+            ]
+        },
+        {
+            "text": "provincia di Firenze",
+            "start_pos": 451,
+            "end_pos": 471,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7550956805547079
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": ".",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 2,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "l",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "Colline",
+            "start_pos": 5,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 13,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 17,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\uddfa",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "l",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "Toscana",
+            "start_pos": 28,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "l",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Scatto",
+            "start_pos": 39,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 46,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "stefanotermanini",
+            "start_pos": 50,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udff7",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "l",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Le",
+            "start_pos": 70,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "Colline",
+            "start_pos": 73,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 81,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 85,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "note",
+            "start_pos": 94,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "anche",
+            "start_pos": 99,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "come",
+            "start_pos": 105,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "Monti",
+            "start_pos": 110,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 116,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 120,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "o",
+            "start_pos": 128,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "pi\u00f9",
+            "start_pos": 130,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "semplicemente",
+            "start_pos": 134,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 148,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "sono",
+            "start_pos": 157,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 162,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "breve",
+            "start_pos": 166,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "catena",
+            "start_pos": 172,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "montuosa",
+            "start_pos": 179,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 188,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "circa",
+            "start_pos": 189,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "20",
+            "start_pos": 195,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "km",
+            "start_pos": 198,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 200,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 202,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "cavallo",
+            "start_pos": 204,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "fra",
+            "start_pos": 212,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "le",
+            "start_pos": 216,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "province",
+            "start_pos": 219,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 228,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "Siena",
+            "start_pos": 231,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "Firenze",
+            "start_pos": 238,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 246,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "Arezzo",
+            "start_pos": 248,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "che",
+            "start_pos": 255,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "segnano",
+            "start_pos": 259,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 267,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "confine",
+            "start_pos": 270,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "orientale",
+            "start_pos": 278,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "della",
+            "start_pos": 288,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "regione",
+            "start_pos": 294,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 302,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 306,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 314,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 318,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "Valdarno",
+            "start_pos": 321,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 330,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 332,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "val",
+            "start_pos": 335,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 339,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "Chiana",
+            "start_pos": 342,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 348,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "La",
+            "start_pos": 350,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "vetta",
+            "start_pos": 353,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "pi\u00f9",
+            "start_pos": 359,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "alta",
+            "start_pos": 363,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "\u00e8",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "quella",
+            "start_pos": 370,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 377,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "Monte",
+            "start_pos": 380,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "San",
+            "start_pos": 386,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "Michele",
+            "start_pos": 390,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 398,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "893",
+            "start_pos": 399,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "metri",
+            "start_pos": 403,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "s.l.m.",
+            "start_pos": 409,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 415,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "nel",
+            "start_pos": 417,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "comune",
+            "start_pos": 421,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 428,
+            "end_pos": 430,
+            "labels": []
+        },
+        {
+            "text": "Greve",
+            "start_pos": 431,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 437,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 440,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 448,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "provincia",
+            "start_pos": 451,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 461,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "Firenze",
+            "start_pos": 464,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 471,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "Le",
+            "start_pos": 473,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "colline",
+            "start_pos": 476,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 484,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "chianti",
+            "start_pos": 488,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "sono",
+            "start_pos": 496,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "famose",
+            "start_pos": 501,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "per",
+            "start_pos": 508,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "i",
+            "start_pos": 512,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "vigneti",
+            "start_pos": 514,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "dai",
+            "start_pos": 522,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "quali",
+            "start_pos": 526,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "si",
+            "start_pos": 532,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "ottiene",
+            "start_pos": 535,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 543,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "vino",
+            "start_pos": 546,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "noto",
+            "start_pos": 551,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 556,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "tutto",
+            "start_pos": 559,
+            "end_pos": 564,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 565,
+            "end_pos": 567,
+            "labels": []
+        },
+        {
+            "text": "mondo",
+            "start_pos": 568,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 573,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "Il",
+            "start_pos": 575,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "rimanente",
+            "start_pos": 578,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "territorio",
+            "start_pos": 588,
+            "end_pos": 598,
+            "labels": []
+        },
+        {
+            "text": "risulta",
+            "start_pos": 599,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "invece",
+            "start_pos": 607,
+            "end_pos": 613,
+            "labels": []
+        },
+        {
+            "text": "prevalentemente",
+            "start_pos": 614,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "collinare",
+            "start_pos": 630,
+            "end_pos": 639,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 640,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "i",
+            "start_pos": 642,
+            "end_pos": 643,
+            "labels": []
+        },
+        {
+            "text": "comuni",
+            "start_pos": 644,
+            "end_pos": 650,
+            "labels": []
+        },
+        {
+            "text": "presenti",
+            "start_pos": 651,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 660,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "questa",
+            "start_pos": 663,
+            "end_pos": 669,
+            "labels": []
+        },
+        {
+            "text": "area",
+            "start_pos": 670,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "costituiscono",
+            "start_pos": 675,
+            "end_pos": 688,
+            "labels": []
+        },
+        {
+            "text": "parte",
+            "start_pos": 689,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "della",
+            "start_pos": 695,
+            "end_pos": 700,
+            "labels": []
+        },
+        {
+            "text": "zona",
+            "start_pos": 701,
+            "end_pos": 705,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 706,
+            "end_pos": 708,
+            "labels": []
+        },
+        {
+            "text": "produzione",
+            "start_pos": 709,
+            "end_pos": 719,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 720,
+            "end_pos": 723,
+            "labels": []
+        },
+        {
+            "text": "Chianti",
+            "start_pos": 724,
+            "end_pos": 731,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 731,
+            "end_pos": 732,
+            "labels": []
+        },
+        {
+            "text": "vino",
+            "start_pos": 733,
+            "end_pos": 737,
+            "labels": []
+        },
+        {
+            "text": "rosso",
+            "start_pos": 738,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "DOCG",
+            "start_pos": 744,
+            "end_pos": 748,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 748,
+            "end_pos": 749,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 750,
+            "end_pos": 751,
+            "labels": []
+        },
+        {
+            "text": "exploring",
+            "start_pos": 751,
+            "end_pos": 760,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 760,
+            "end_pos": 761,
+            "labels": []
+        },
+        {
+            "text": "ita",
+            "start_pos": 761,
+            "end_pos": 764,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

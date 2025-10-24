@@ -1,0 +1,46 @@
+[
+    {
+        "text": "\ud83d\udccdFairy Glen ",
+        "start": 99,
+        "end": 111,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Fairy Glen "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdQuiraing",
+        "start": 133,
+        "end": 142,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Quiraing"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd Fairy glen",
+        "start": 159,
+        "end": 171,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Fairy glen"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdFairy pool",
+        "start": 188,
+        "end": 199,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Fairy pool"
+        },
+        "method": "rule",
+        "rule": "icon"
+    }
+]

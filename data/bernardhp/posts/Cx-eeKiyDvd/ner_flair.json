@@ -1,0 +1,387 @@
+{
+    "text": "During the autumn foliage season, Kyoto can get incredibly crowded, but the beauty is truly exceptional\ud83d\ude2dI heard that this year, due to the excessively hot summer, there are many leaves falling before they can change color. I wonder how it will actually turn out. \u7d05\u8449\u306e\u6642\u671f\u306e\u4eac\u90fd\u306f\u3001\u6df7\u96d1\u3082\u3059\u3054\u3044\u3051\u3069\u3001\u3084\u3063\u3071\u308a\u7f8e\u3057\u3055\u304c\u683c\u5225\u2728\u4eca\u5e74\u306f\u590f\u304c\u6691\u3059\u304e\u3066\u3001\u7d05\u8449\u306b\u306a\u308b\u524d\u306b\u843d\u3061\u3066\u308b\u8449\u3063\u3071\u304c\u591a\u3044\u3068\u805e\u304f\u3051\u3069\u3001\u5b9f\u969b\u306f\u3069\u3046\u306a\u308b\u304b\u306a\ud83e\udd14  #kyototrip #japantrip #kiyomizudera #\u4eac\u90fd\u306e\u7d05\u8449 #\u6e05\u6c34\u5bfa",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Kyoto",
+            "start_pos": 34,
+            "end_pos": 39,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6056544184684753
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "During",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 7,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "autumn",
+            "start_pos": 11,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "foliage",
+            "start_pos": 18,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "season",
+            "start_pos": 26,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "Kyoto",
+            "start_pos": 34,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 40,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "get",
+            "start_pos": 44,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "incredibly",
+            "start_pos": 48,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "crowded",
+            "start_pos": 59,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "but",
+            "start_pos": 68,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 72,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 76,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 83,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "truly",
+            "start_pos": 86,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "exceptional",
+            "start_pos": 92,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude2d",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "heard",
+            "start_pos": 106,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 112,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 117,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "year",
+            "start_pos": 122,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "due",
+            "start_pos": 128,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 132,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 135,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "excessively",
+            "start_pos": 139,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "hot",
+            "start_pos": 151,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "summer",
+            "start_pos": 155,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 161,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 163,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 169,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "many",
+            "start_pos": 173,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "leaves",
+            "start_pos": 178,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "falling",
+            "start_pos": 185,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 193,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "they",
+            "start_pos": 200,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 205,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "change",
+            "start_pos": 209,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "color",
+            "start_pos": 216,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 221,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 223,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "wonder",
+            "start_pos": 225,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "how",
+            "start_pos": 232,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 236,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "will",
+            "start_pos": 239,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "actually",
+            "start_pos": 244,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "turn",
+            "start_pos": 253,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "out",
+            "start_pos": 258,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 261,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "\u7d05\u8449\u306e\u6642\u671f\u306e\u4eac\u90fd\u306f\u3001\u6df7\u96d1\u3082\u3059\u3054\u3044\u3051\u3069\u3001\u3084\u3063\u3071\u308a\u7f8e\u3057\u3055\u304c\u683c\u5225\u2728\u4eca\u5e74\u306f\u590f\u304c\u6691\u3059\u304e\u3066\u3001\u7d05\u8449\u306b\u306a\u308b\u524d\u306b\u843d\u3061\u3066\u308b\u8449\u3063\u3071\u304c\u591a\u3044\u3068\u805e\u304f\u3051\u3069\u3001\u5b9f\u969b\u306f\u3069\u3046\u306a\u308b\u304b\u306a\ud83e\udd14",
+            "start_pos": 263,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 338,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "kyototrip",
+            "start_pos": 339,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 349,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "japantrip",
+            "start_pos": 350,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 360,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "kiyomizudera",
+            "start_pos": 361,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "#\u4eac\u90fd\u306e\u7d05\u8449",
+            "start_pos": 374,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "#\u6e05\u6c34\u5bfa",
+            "start_pos": 381,
+            "end_pos": 385,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

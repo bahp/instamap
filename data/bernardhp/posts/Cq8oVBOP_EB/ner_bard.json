@@ -1,0 +1,35 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Espa\u00f1a\",\n      \"full_address\": \"Spain\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Barcelona\",\n      \"full_address\": \"Barcelona, Spain\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Madrid\",\n      \"full_address\": \"Madrid, Spain\",\n      \"order\": 3\n    }\n  ]\n}\n```",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_9049dac781021aec",
+    "factuality_queries": null,
+    "text_query": [
+        "\u00bfQu\u00e9 opinas tu?\ud83d\ude28",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_86c4fd0d07b1abaa",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Espa\u00f1a\",\n      \"full_address\": \"Spain\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Barcelona\",\n      \"full_address\": \"Barcelona, Spain\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Madrid\",\n      \"full_address\": \"Madrid, Spain\",\n      \"order\": 3\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_d18de9254ba2a5bf",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Barcelona\",\n      \"full_address\": \"Barcelona, Spain\",\n      \"order\": 6\n    },\n    {\n      \"name\": \"Madrid\",\n      \"full_address\": \"Madrid, Spain\",\n      \"order\": 7\n    }\n  ]\n}\n```\n\nThe locations \"Barcelona\" and \"Madrid\" are mentioned in the hashtags \"#barcelona\" and \"#madrid\", respectively. They are extracted as locations because they are cities in Spain.\n\nThe order of the locations is determined by the order in which they are mentioned in the hashtags. \"Barcelona\" is mentioned before \"Madrid\", so it has an order of 6 and \"Madrid\" has an order of 7."
+            ]
+        },
+        {
+            "id": "rc_3af2291d2992a1d2",
+            "content": [
+                "Sure, here is the JSON file you requested:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Espa\u00f1a\",\n      \"full_address\": \"Spain\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Barcelona\",\n      \"full_address\": \"Barcelona, Spain\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Madrid\",\n      \"full_address\": \"Madrid, Spain\",\n      \"order\": 3\n    }\n  ]\n}\n```\n\nPlease note that the locations are extracted from the hashtags in the caption, assuming that the hashtags represent locations."
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Espa\u00f1a\",\n      \"full_address\": \"Spain\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Barcelona\",\n      \"full_address\": \"Barcelona, Spain\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Madrid\",\n      \"full_address\": \"Madrid, Spain\",\n      \"order\": 3\n    }\n  ]\n}\n",
+    "status_code": 200
+}

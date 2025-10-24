@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf1",
+        "start": 2,
+        "end": 4,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf1",
+            "location": "Netherlands"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf1",
+        "start": 26,
+        "end": 28,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf1",
+            "location": "Netherlands"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Netherlands",
+        "start": 468,
+        "end": 479,
+        "groupdict": {
+            "name": "Netherlands",
+            "location": "Netherlands"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

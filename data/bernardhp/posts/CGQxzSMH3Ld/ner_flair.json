@@ -1,0 +1,164 @@
+{
+    "text": "Scala dei Turchi \u2764\u2708 Sicily  Congrats @lucatriptico Use #map_of_Italy #map_of_europe   \u2800",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Scala dei Turchi",
+            "start_pos": 0,
+            "end_pos": 16,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.6124827265739441
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9723876118659973
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Scala",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "dei",
+            "start_pos": 6,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Turchi",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "\u2764\u2708",
+            "start_pos": 17,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Sicily",
+            "start_pos": 20,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Congrats",
+            "start_pos": 28,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "lucatriptico",
+            "start_pos": 38,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 51,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 56,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "map",
+            "start_pos": 70,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 74,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 76,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 77,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "\u2800",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

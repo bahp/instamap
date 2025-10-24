@@ -1,0 +1,104 @@
+[
+    {
+        "text": "2. Pantheon, Rome by @adriann_ionut ",
+        "start": 141,
+        "end": 177,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Pantheon, Rome by @adriann_ionut "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Anghiari by @antoniofoni ",
+        "start": 178,
+        "end": 206,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Anghiari by @antoniofoni "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Gubbio by @supermariocin",
+        "start": 207,
+        "end": 234,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Gubbio by @supermariocin"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Capranica by @cristinaproietti_photo ",
+        "start": 235,
+        "end": 275,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Capranica by @cristinaproietti_photo "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Pontboset by @stevaleri ",
+        "start": 276,
+        "end": 303,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Pontboset by @stevaleri "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Tremosine by @cristinaproietti_photo ",
+        "start": 379,
+        "end": 419,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Tremosine by @cristinaproietti_photo "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 58,
+        "end": 60,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Italy",
+        "start": 23,
+        "end": 28,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

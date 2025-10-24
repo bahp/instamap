@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdSam Had Bay,Koh Phi Phi Don Island,Thailand ",
+        "start": 45,
+        "end": 90,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Sam Had Bay,Koh Phi Phi Don Island,Thailand "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Thailand",
+        "start": 81,
+        "end": 89,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 107,
+        "end": 115,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 140,
+        "end": 148,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 194,
+        "end": 202,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Montenegro",
+        "start": 7,
+        "end": 17,
+        "groupdict": {
+            "name": "Montenegro",
+            "location": "Montenegro"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "montenegro",
+        "start": 61,
+        "end": 71,
+        "groupdict": {
+            "name": "montenegro",
+            "location": "montenegro"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,248 @@
+{
+    "text": "The Milky Way shining bright over the Italian Dolomites! . . . \ud83d\udcf7 @oos_photography  #dolomites #mountainphotography #choosemountains #adventureenthusiasts #getoutside #alwaysgo #naturephotography #milkyway #stargazing",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Milky Way",
+            "start_pos": 4,
+            "end_pos": 13,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5720615088939667
+                }
+            ]
+        },
+        {
+            "text": "Italian",
+            "start_pos": 38,
+            "end_pos": 45,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9407392144203186
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "The",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "Milky",
+            "start_pos": 4,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Way",
+            "start_pos": 10,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "shining",
+            "start_pos": 14,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "bright",
+            "start_pos": 22,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 29,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 34,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Italian",
+            "start_pos": 38,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Dolomites",
+            "start_pos": 46,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "oos",
+            "start_pos": 66,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 70,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "dolomites",
+            "start_pos": 84,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "mountainphotography",
+            "start_pos": 95,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "choosemountains",
+            "start_pos": 116,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "adventureenthusiasts",
+            "start_pos": 133,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 154,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "getoutside",
+            "start_pos": 155,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 166,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "alwaysgo",
+            "start_pos": 167,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 176,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "naturephotography",
+            "start_pos": 177,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 195,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "milkyway",
+            "start_pos": 196,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 205,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "stargazing",
+            "start_pos": 206,
+            "end_pos": 216,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

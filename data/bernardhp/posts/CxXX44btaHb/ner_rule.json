@@ -1,0 +1,36 @@
+[
+    {
+        "text": "\ud83d\udcda Theological Hall at Strahov Monastery in Prague",
+        "start": 101,
+        "end": 150,
+        "groupdict": {
+            "icon": "\ud83d\udcda",
+            "location": " Theological Hall at Strahov Monastery in Prague"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdSave this post for your future trips!",
+        "start": 307,
+        "end": 345,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Save this post for your future trips!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddff",
+        "start": 574,
+        "end": 576,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddff",
+            "location": "Czechia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

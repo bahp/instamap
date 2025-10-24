@@ -1,0 +1,966 @@
+{
+    "text": "Slovenia is a hiking paradise and needs to be the next stop on your hiking vacation travels. In a country the size of Massachusetts, there are over 6,000 miles of hiking trails. The trails range from dirt roads and paths in the highland to well-crafted marked mountain trails in the most rugged mountainous regions. Trails lead from the depths of the valleys, past mountain huts and on to the summits of the Julian Alps. Who would you hike here with?\u2063 \u2063 \ud83d\udccc  The Slovenian Alps \ud83c\uddf8\ud83c\uddee\u2063 \u2063 \ud83d\udcf8 Thank you @jamesxtheo @kevinoliveri @marcbaechtold @pirchek @doslocosdeviaje @kojasmina @moonmountainman @m_jasminka and @masakrizan for your awesome photos!\u2063 \u2063 \u2705 If you want to be featured too, don't forget to follow @hikingtheglobe and tag # hikingtheglobe in your posts. Cheers!",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Slovenia",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9993225336074829
+                }
+            ]
+        },
+        {
+            "text": "Massachusetts",
+            "start_pos": 118,
+            "end_pos": 131,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9988622665405273
+                }
+            ]
+        },
+        {
+            "text": "Julian Alps",
+            "start_pos": 408,
+            "end_pos": 419,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9685997664928436
+                }
+            ]
+        },
+        {
+            "text": "Slovenian",
+            "start_pos": 461,
+            "end_pos": 470,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9637652635574341
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Slovenia",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 9,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "hiking",
+            "start_pos": 14,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "paradise",
+            "start_pos": 21,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "needs",
+            "start_pos": 34,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 40,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 43,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 46,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "next",
+            "start_pos": 50,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "stop",
+            "start_pos": 55,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 63,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "hiking",
+            "start_pos": 68,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "vacation",
+            "start_pos": 75,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "travels",
+            "start_pos": 84,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 93,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "country",
+            "start_pos": 98,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 106,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "size",
+            "start_pos": 110,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 115,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "Massachusetts",
+            "start_pos": 118,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 133,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 139,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 143,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "6,000",
+            "start_pos": 148,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "miles",
+            "start_pos": 154,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 160,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "hiking",
+            "start_pos": 163,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "trails",
+            "start_pos": 170,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 176,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 178,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "trails",
+            "start_pos": 182,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "range",
+            "start_pos": 189,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 195,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "dirt",
+            "start_pos": 200,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "roads",
+            "start_pos": 205,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 211,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "paths",
+            "start_pos": 215,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 221,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 224,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "highland",
+            "start_pos": 228,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 237,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "well-crafted",
+            "start_pos": 240,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "marked",
+            "start_pos": 253,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "mountain",
+            "start_pos": 260,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "trails",
+            "start_pos": 269,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 276,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 279,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 283,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "rugged",
+            "start_pos": 288,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "mountainous",
+            "start_pos": 295,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "regions",
+            "start_pos": 307,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 314,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "Trails",
+            "start_pos": 316,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "lead",
+            "start_pos": 323,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 328,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 333,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "depths",
+            "start_pos": 337,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 344,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 347,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "valleys",
+            "start_pos": 351,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 358,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "past",
+            "start_pos": 360,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "mountain",
+            "start_pos": 365,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "huts",
+            "start_pos": 374,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 379,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 383,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 386,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 389,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "summits",
+            "start_pos": 393,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 401,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 404,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "Julian",
+            "start_pos": 408,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "Alps",
+            "start_pos": 415,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 419,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "Who",
+            "start_pos": 421,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 425,
+            "end_pos": 430,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 431,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "hike",
+            "start_pos": 435,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 440,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 445,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 449,
+            "end_pos": 450,
+            "labels": []
+        },
+        {
+            "text": "\u2063",
+            "start_pos": 450,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "\u2063",
+            "start_pos": 452,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccc",
+            "start_pos": 454,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 457,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "Slovenian",
+            "start_pos": 461,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "Alps",
+            "start_pos": 471,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf8\ud83c\uddee\u2063",
+            "start_pos": 476,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "\u2063",
+            "start_pos": 480,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 482,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "Thank",
+            "start_pos": 484,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 490,
+            "end_pos": 493,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 494,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "jamesxtheo",
+            "start_pos": 495,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 506,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "kevinoliveri",
+            "start_pos": 507,
+            "end_pos": 519,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 520,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "marcbaechtold",
+            "start_pos": 521,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 535,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "pirchek",
+            "start_pos": 536,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 544,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "doslocosdeviaje",
+            "start_pos": 545,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 561,
+            "end_pos": 562,
+            "labels": []
+        },
+        {
+            "text": "kojasmina",
+            "start_pos": 562,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 572,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "moonmountainman",
+            "start_pos": 573,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 589,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "m",
+            "start_pos": 590,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 591,
+            "end_pos": 592,
+            "labels": []
+        },
+        {
+            "text": "jasminka",
+            "start_pos": 592,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 601,
+            "end_pos": 604,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 605,
+            "end_pos": 606,
+            "labels": []
+        },
+        {
+            "text": "masakrizan",
+            "start_pos": 606,
+            "end_pos": 616,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 617,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 621,
+            "end_pos": 625,
+            "labels": []
+        },
+        {
+            "text": "awesome",
+            "start_pos": 626,
+            "end_pos": 633,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 634,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 640,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "\u2063",
+            "start_pos": 641,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "\u2063",
+            "start_pos": 643,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": "\u2705",
+            "start_pos": 645,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "If",
+            "start_pos": 647,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 650,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": "want",
+            "start_pos": 654,
+            "end_pos": 658,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 659,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 662,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 665,
+            "end_pos": 673,
+            "labels": []
+        },
+        {
+            "text": "too",
+            "start_pos": 674,
+            "end_pos": 677,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 677,
+            "end_pos": 678,
+            "labels": []
+        },
+        {
+            "text": "do",
+            "start_pos": 679,
+            "end_pos": 681,
+            "labels": []
+        },
+        {
+            "text": "n't",
+            "start_pos": 681,
+            "end_pos": 684,
+            "labels": []
+        },
+        {
+            "text": "forget",
+            "start_pos": 685,
+            "end_pos": 691,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 692,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "follow",
+            "start_pos": 695,
+            "end_pos": 701,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 702,
+            "end_pos": 703,
+            "labels": []
+        },
+        {
+            "text": "hikingtheglobe",
+            "start_pos": 703,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 718,
+            "end_pos": 721,
+            "labels": []
+        },
+        {
+            "text": "tag",
+            "start_pos": 722,
+            "end_pos": 725,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 726,
+            "end_pos": 727,
+            "labels": []
+        },
+        {
+            "text": "hikingtheglobe",
+            "start_pos": 728,
+            "end_pos": 742,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 743,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 746,
+            "end_pos": 750,
+            "labels": []
+        },
+        {
+            "text": "posts",
+            "start_pos": 751,
+            "end_pos": 756,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 756,
+            "end_pos": 757,
+            "labels": []
+        },
+        {
+            "text": "Cheers",
+            "start_pos": 758,
+            "end_pos": 764,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 764,
+            "end_pos": 765,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

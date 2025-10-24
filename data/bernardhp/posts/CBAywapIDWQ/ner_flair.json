@@ -1,0 +1,230 @@
+{
+    "text": "\ud83c\udde8\ud83c\uddf4 #discovercolombia with @jguzmannn : \"Piedra de Penol was definitely one of my favorite stops in Colombia. This massive 650ft rock has 740 steps to the top. \ud83e\udd2f\"",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Piedra de Penol",
+            "start_pos": 40,
+            "end_pos": 55,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.585346649090449
+                }
+            ]
+        },
+        {
+            "text": "Colombia",
+            "start_pos": 99,
+            "end_pos": 107,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9994469285011292
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udde8\ud83c\uddf4",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "discovercolombia",
+            "start_pos": 4,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 21,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "jguzmannn",
+            "start_pos": 27,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "Piedra",
+            "start_pos": 40,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "Penol",
+            "start_pos": 50,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 56,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "definitely",
+            "start_pos": 60,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 71,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 75,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 81,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "stops",
+            "start_pos": 90,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 96,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "Colombia",
+            "start_pos": 99,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 109,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "massive",
+            "start_pos": 114,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "650ft",
+            "start_pos": 122,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "rock",
+            "start_pos": 128,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 133,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "740",
+            "start_pos": 137,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "steps",
+            "start_pos": 141,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 147,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 150,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "top",
+            "start_pos": 154,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 157,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd2f\"",
+            "start_pos": 159,
+            "end_pos": 161,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

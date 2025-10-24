@@ -1,0 +1,163 @@
+{
+    "text": "\ud83c\uddee\ud83c\uddf8 #discovericeland : Stu\u00f0lagil canyon in Iceland \ud83c\uddee\ud83c\uddf8 : Really impressive place, right ?  Photo by @deividas",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Stu\u00f0lagil canyon",
+            "start_pos": 22,
+            "end_pos": 38,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7647550404071808
+                }
+            ]
+        },
+        {
+            "text": "Iceland",
+            "start_pos": 42,
+            "end_pos": 49,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9974148273468018
+                }
+            ]
+        },
+        {
+            "text": "deividas",
+            "start_pos": 99,
+            "end_pos": 107,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8170177340507507
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddee\ud83c\uddf8",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "discovericeland",
+            "start_pos": 4,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "Stu\u00f0lagil",
+            "start_pos": 22,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "canyon",
+            "start_pos": 32,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "Iceland",
+            "start_pos": 42,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf8",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Really",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "impressive",
+            "start_pos": 62,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 73,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "right",
+            "start_pos": 80,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 89,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 95,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "deividas",
+            "start_pos": 99,
+            "end_pos": 107,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

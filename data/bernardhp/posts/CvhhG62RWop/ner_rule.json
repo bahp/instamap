@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdSaga, Floating Torii Gate of Oouo Shrine",
+        "start": 0,
+        "end": 41,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Saga, Floating Torii Gate of Oouo Shrine"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 84,
+        "end": 86,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Japan",
+        "start": 78,
+        "end": 83,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 136,
+        "end": 141,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

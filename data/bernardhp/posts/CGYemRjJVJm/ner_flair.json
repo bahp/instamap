@@ -1,0 +1,135 @@
+{
+    "text": "#Varenna from above! \ud83c\uddee\ud83c\uddf9 Photo by: @j84c. Congratulations \ud83d\udc4f\ud83c\udffb Chosen by: @stavros.soultanias",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Varenna",
+            "start_pos": 1,
+            "end_pos": 8,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5829989910125732
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "#",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Varenna",
+            "start_pos": 1,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "above",
+            "start_pos": 14,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 21,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "j84c",
+            "start_pos": 35,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "Congratulations",
+            "start_pos": 41,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc4f\ud83c\udffb",
+            "start_pos": 57,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Chosen",
+            "start_pos": 60,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 67,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 71,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "stavros.soultanias",
+            "start_pos": 72,
+            "end_pos": 90,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

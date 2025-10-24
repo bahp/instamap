@@ -1,0 +1,213 @@
+{
+    "text": "Rad shot by our friend @mblockk mountain \u2014 The jagged peaks of the Italian Dolomites always blow our minds \ud83e\udd2f \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 Tag #AllAboutAdventures for a chance to be featured!",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Italian Dolomites",
+            "start_pos": 67,
+            "end_pos": 84,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7593543529510498
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Rad",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "shot",
+            "start_pos": 4,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 9,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 12,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "friend",
+            "start_pos": 16,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "mblockk",
+            "start_pos": 24,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "mountain",
+            "start_pos": 32,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 43,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "jagged",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "peaks",
+            "start_pos": 54,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 63,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "Italian",
+            "start_pos": 67,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Dolomites",
+            "start_pos": 75,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "always",
+            "start_pos": 85,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "blow",
+            "start_pos": 92,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 97,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "minds",
+            "start_pos": 101,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd2f",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800",
+            "start_pos": 109,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 123,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 127,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "AllAboutAdventures",
+            "start_pos": 128,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 147,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "chance",
+            "start_pos": 153,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 160,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 163,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 166,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 174,
+            "end_pos": 175,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

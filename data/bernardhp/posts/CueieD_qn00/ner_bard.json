@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Appenzell Innerrhoden, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/08/18/15/18/faelensee-4415958_960_720.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_a79dbb174ad31612",
+    "factuality_queries": null,
+    "text_query": [
+        "F\u00e4lensee, Switzerland",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_99b35f81346faf21",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Appenzell Innerrhoden, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/08/18/15/18/faelensee-4415958_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_b02bf402ef059767",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://www.myswitzerland.com/content/myswitzerland/en/image/f%C3%A4lensee.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_dde2341925c122b0",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/08/04/11/16/faelensee-4403110_960_720.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"F\u00e4lensee\",\n    \"full_address\": \"F\u00e4lensee, Appenzell Innerrhoden, Switzerland\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/08/18/15/18/faelensee-4415958_960_720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

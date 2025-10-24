@@ -1,0 +1,82 @@
+{
+    "content": "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Bluff\",\n      \"full_address\": \"Bluff, Southland, New Zealand\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Invercargill\",\n      \"full_address\": \"Invercargill, Southland, New Zealand\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Beach Road Holiday Park\",\n      \"full_address\": \"Beach Road Holiday Park, New Zealand\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nThe order of the locations in the JSON file matches the order in which they appear in the caption. The full address of each location is also included, as well as the name of the location.\n\nThe caption mentions the following locations: Bluff, Invercargill, and Beach Road Holiday Park. I have used online sources to find the full addresses for these locations.\n\nI hope this is helpful!\n\n[Image of Bluff, Southland, New Zealand]\n\n[Image of Invercargill, Southland, New Zealand]\n\n[Image of Beach Road Holiday Park, New Zealand]",
+    "conversation_id": "c_0558ec5705c53e68",
+    "response_id": "r_5b19261c2ec151ba",
+    "factuality_queries": null,
+    "text_query": [
+        "Bluff, New Zealand",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_ebe290bff1c268ed",
+            "content": [
+                "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Bluff\",\n      \"full_address\": \"Bluff, Southland, New Zealand\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Invercargill\",\n      \"full_address\": \"Invercargill, Southland, New Zealand\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Beach Road Holiday Park\",\n      \"full_address\": \"Beach Road Holiday Park, New Zealand\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nThe order of the locations in the JSON file matches the order in which they appear in the caption. The full address of each location is also included, as well as the name of the location.\n\nThe caption mentions the following locations: Bluff, Invercargill, and Beach Road Holiday Park. I have used online sources to find the full addresses for these locations.\n\nI hope this is helpful!\n\n[Image of Bluff, Southland, New Zealand]\n\n[Image of Invercargill, Southland, New Zealand]\n\n[Image of Beach Road Holiday Park, New Zealand]"
+            ]
+        },
+        {
+            "id": "rc_bbd71dbe0f3c9013",
+            "content": [
+                "Sure, here is the code:\n\n```python\nimport json\n\ncaption = \"\"\"Can\u2019t believe I\u2019m here! 3,000kms ahead of me; from the southern tip to the northern tip of New Zealand. Going to be a wild ride and I can\u2019t wait to get started. Day 1 was flat and fast, with way too much road walking. There were some nice trails scattered throughout but looking forward to better trails as I get further north. I left Bluff at sunrise and made it to Invercargill for a feed and resupply before trekking further to Beach Road Holiday Park - a great little camping spot with very friendly owners! Onto the beach tomorrow!\n\nDay 1: 46.8km, 500m elevation gain \nTotal: 46.8km, 500m elevation gain \n\nThanks to my sponsors for supporting this trek\nFood - @radixnutrition (get 10% off your order with code \u2018BOSTOCK10\u2019, link in bio!)\nGear: @seatosummitaustralia \nCommunications: @bivy \nCamp Shoes: @allterrain_thongs \nCamera: @nikonaustralia\n\"\"\"\n\nlocations = [\n    {\n        \"name\": \"Bluff\",\n        \"full_address\": \"Bluff, New Zealand\",\n        \"order\": 0\n    },\n    {\n        \"name\": \"Invercargill\",\n        \"full_address\": \"Invercargill, New Zealand\",\n        \"order\": 1\n    },\n    {\n        \"name\": \"Beach Road Holiday Park\",\n        \"full_address\": \"Beach Road Holiday Park, New Zealand\",\n        \"order\": 2\n    }\n]\n\nlocation_data = {\"locations\": locations}\n\nwith open(\"locations.json\", \"w\") as outfile:\n    json.dump(location_data, outfile, indent=4)\n```\n\nThis code will create a JSON file with the following content:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Bluff\",\n      \"full_address\": \"Bluff, New Zealand\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Invercargill\",\n      \"full_address\": \"Invercargill, New Zealand\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Beach Road Holiday Park\",\n      \"full_address\": \"Beach Road Holiday Park, New Zealand\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nThe JSON file contains a list of three locations, each with a name, full address, and order. The order indicates the order in which the location was mentioned in the caption.\n\nHere are some images of the locations mentioned in the caption:\n[Image of Bluff, New Zealand]\n[Image of Invercargill, New Zealand]\n[Image of Beach Road Holiday Park, New Zealand]"
+            ]
+        },
+        {
+            "id": "rc_505b875b2a16f811",
+            "content": [
+                "Sure, here is a JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Bluff\",\n      \"full_address\": \"Bluff, Southland, New Zealand\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Invercargill\",\n      \"full_address\": \"Invercargill, Southland, New Zealand\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Beach Road Holiday Park\",\n      \"full_address\": \"Beach Road, Southland, New Zealand\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nThe order of the locations in the JSON file matches the order in which they appear in the caption. The full address of each location is also included, as well as the name of the location.\n\nHere is a map of the locations:\n[Image of Bluff, Southland, New Zealand - Invercargill, Southland, New Zealand - Beach Road, Southland, New Zealand]\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Stirling_Point_Southland_New_Zealand_Credit_Chris_McLennan_6__60c725eb-115c-41fa-8ac8-a3de811fa266.jpg",
+        "https://southlandnz.com/places-to-visit/bluff/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvXV5UtNvZeg8M_b8h2I_nEl9sC4mppCkooCmKkkPrn4YWvWak5BzJxa6bXO0m",
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Est_Street_Southland_New_Zealand_Credit_Stacy_Williamson_2__57dd52ee-2154-4a22-9dac-c5554ba54186.jpg",
+        "https://southlandnz.com/places-to-visit/invercargill/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjulRT-Lj0bgCvjHV3bfGdKfwYUbmriLKQxB3JYUKQG7C6YQn53v9FZ3quMbVi",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215132437.jpg?k=2bef0621bd2624e26d1a4653260621def3d72a133f5622dcd4586553a0822b89&o=&hp=1",
+        "https://www.booking.com/hotel/nz/beach-road-holiday-park.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-JkwEsRmFxVnwWPXskssMzWplHKUjzEWSA5xNTThKz78iu552AOK-Al1ZQb0R",
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Stirling_Point_Southland_New_Zealand_Credit_Chris_McLennan_6__60c725eb-115c-41fa-8ac8-a3de811fa266.jpg",
+        "https://southlandnz.com/places-to-visit/bluff/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvXV5UtNvZeg8M_b8h2I_nEl9sC4mppCkooCmKkkPrn4YWvWak5BzJxa6bXO0m",
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Est_Street_Southland_New_Zealand_Credit_Stacy_Williamson_2__57dd52ee-2154-4a22-9dac-c5554ba54186.jpg",
+        "https://southlandnz.com/places-to-visit/invercargill/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjulRT-Lj0bgCvjHV3bfGdKfwYUbmriLKQxB3JYUKQG7C6YQn53v9FZ3quMbVi",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215132437.jpg?k=2bef0621bd2624e26d1a4653260621def3d72a133f5622dcd4586553a0822b89&o=&hp=1",
+        "https://www.booking.com/hotel/nz/beach-road-holiday-park.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-JkwEsRmFxVnwWPXskssMzWplHKUjzEWSA5xNTThKz78iu552AOK-Al1ZQb0R",
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Stirling_Point_Southland_New_Zealand_Credit_Chris_McLennan_6__60c725eb-115c-41fa-8ac8-a3de811fa266.jpg",
+        "https://southlandnz.com/places-to-visit/bluff/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvXV5UtNvZeg8M_b8h2I_nEl9sC4mppCkooCmKkkPrn4YWvWak5BzJxa6bXO0m",
+        "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_in_Esk_Street_-_Invercargill.jpg",
+        "https://en.wikipedia.org/wiki/Invercargill",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSItDjtoAE56kDI3WnMVzM99bfW_I--z-FH5o8QLR7PZZ0qcSWUOcqP3HxLBdXG",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215132437.jpg?k=2bef0621bd2624e26d1a4653260621def3d72a133f5622dcd4586553a0822b89&o=&hp=1",
+        "https://www.booking.com/hotel/nz/beach-road-holiday-park.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-JkwEsRmFxVnwWPXskssMzWplHKUjzEWSA5xNTThKz78iu552AOK-Al1ZQb0R",
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Stirling_Point_Southland_New_Zealand_Credit_Chris_McLennan_6__60c725eb-115c-41fa-8ac8-a3de811fa266.jpg",
+        "https://southlandnz.com/places-to-visit/bluff/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvXV5UtNvZeg8M_b8h2I_nEl9sC4mppCkooCmKkkPrn4YWvWak5BzJxa6bXO0m",
+        "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_in_Esk_Street_-_Invercargill.jpg",
+        "https://en.wikipedia.org/wiki/Invercargill",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSItDjtoAE56kDI3WnMVzM99bfW_I--z-FH5o8QLR7PZZ0qcSWUOcqP3HxLBdXG",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215132437.jpg?k=2bef0621bd2624e26d1a4653260621def3d72a133f5622dcd4586553a0822b89&o=&hp=1",
+        "https://www.booking.com/hotel/nz/beach-road-holiday-park.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-JkwEsRmFxVnwWPXskssMzWplHKUjzEWSA5xNTThKz78iu552AOK-Al1ZQb0R",
+        "https://www.newzealand.com/assets/Tourism-NZ/Southland/c33420326f/img-1537008049-124-15395-p-645BD310-AF92-9DB7-476C60CE6567726F-2544003__aWxvdmVrZWxseQo_CropResizeWzk0MCxudWxsLDgwLCJqcGciXQ.jpg",
+        "https://www.newzealand.com/au/feature/southland-attractions/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX9sJMkJmJXUbiQpc_hNVlgetCM0Kb_vnKZPS9mK0nAuTYi85KUrE35GLBFEI8",
+        "https://www.newzealand.com/assets/Tourism-NZ/Southland/c33420326f/img-1537008049-124-15395-p-645BD310-AF92-9DB7-476C60CE6567726F-2544003__aWxvdmVrZWxseQo_CropResizeWzk0MCxudWxsLDgwLCJqcGciXQ.jpg",
+        "https://www.newzealand.com/au/feature/southland-attractions/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX9sJMkJmJXUbiQpc_hNVlgetCM0Kb_vnKZPS9mK0nAuTYi85KUrE35GLBFEI8"
+    ],
+    "images": [
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Stirling_Point_Southland_New_Zealand_Credit_Chris_McLennan_6__60c725eb-115c-41fa-8ac8-a3de811fa266.jpg",
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/southlandnz/Est_Street_Southland_New_Zealand_Credit_Stacy_Williamson_2__57dd52ee-2154-4a22-9dac-c5554ba54186.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215132437.jpg?k=2bef0621bd2624e26d1a4653260621def3d72a133f5622dcd4586553a0822b89&o=&hp=1"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Bluff\",\n      \"full_address\": \"Bluff, Southland, New Zealand\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Invercargill\",\n      \"full_address\": \"Invercargill, Southland, New Zealand\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Beach Road Holiday Park\",\n      \"full_address\": \"Beach Road Holiday Park, New Zealand\",\n      \"order\": 2\n    }\n  ]\n}\n",
+    "status_code": 200
+}

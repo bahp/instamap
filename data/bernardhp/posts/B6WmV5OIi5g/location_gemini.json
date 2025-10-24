@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Wulingyuan Scenic Area",
+        "subtitle": "UNESCO World Heritage site in Hunan, China",
+        "lat": 29.336111,
+        "lon": 110.456667,
+        "type": "national_park",
+        "class": "tourism",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Zhangjiajie",
+        "subtitle": "Prefecture-level city in Hunan province",
+        "lat": 29.130541,
+        "lon": 110.470533,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2
+    },
+    {
+        "title": "Hunan",
+        "subtitle": "Province in south-central China",
+        "lat": 27.689626,
+        "lon": 111.956877,
+        "type": "province",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3
+    },
+    {
+        "title": "China",
+        "subtitle": "Country in East Asia",
+        "lat": 35.0,
+        "lon": 105.0,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 4
+    }
+]

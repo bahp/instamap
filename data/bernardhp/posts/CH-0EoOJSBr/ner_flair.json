@@ -1,0 +1,848 @@
+{
+    "text": "In love with Italy \ud83d\ude0d Wanna see your pictures posted in our account? Apply for a feature on explorerfervor.com (link in my bio: @explorerfervor)  Which is your favourite place? 1-2-3-4-5-6-7-8?  Places and photos: 1. Scala dei Turchi, Sicily (@lucatriptico) 2. Porto Flavia, Sardinia (@valentinoselis) 3. Castro Marina, Puglia (@francescogiannotta) 4. Marina Serra, Puglia (@andrewsofficial) 5. Cala Goloritz\u00e9 Baunei, Sardinia (@claudia_m92_) 6. Sardinia (@marklions) 7. Monterosso, Cinque Terre (@nonnarena1) 8. Tropea (@ushas91)",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Italy",
+            "start_pos": 13,
+            "end_pos": 18,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9961001873016357
+                }
+            ]
+        },
+        {
+            "text": "explorerfervor.com",
+            "start_pos": 91,
+            "end_pos": 109,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9316186308860779
+                }
+            ]
+        },
+        {
+            "text": "Scala dei Turchi",
+            "start_pos": 216,
+            "end_pos": 232,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6073852777481079
+                }
+            ]
+        },
+        {
+            "text": "Sicily",
+            "start_pos": 234,
+            "end_pos": 240,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9989645481109619
+                }
+            ]
+        },
+        {
+            "text": "lucatriptico",
+            "start_pos": 243,
+            "end_pos": 255,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5142067670822144
+                }
+            ]
+        },
+        {
+            "text": "Porto Flavia",
+            "start_pos": 260,
+            "end_pos": 272,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8488902747631073
+                }
+            ]
+        },
+        {
+            "text": "Sardinia",
+            "start_pos": 274,
+            "end_pos": 282,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996148347854614
+                }
+            ]
+        },
+        {
+            "text": "valentinoselis",
+            "start_pos": 285,
+            "end_pos": 299,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8754998445510864
+                }
+            ]
+        },
+        {
+            "text": "Castro Marina",
+            "start_pos": 304,
+            "end_pos": 317,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7965604364871979
+                }
+            ]
+        },
+        {
+            "text": "Puglia",
+            "start_pos": 319,
+            "end_pos": 325,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.994195282459259
+                }
+            ]
+        },
+        {
+            "text": "francescogiannotta",
+            "start_pos": 328,
+            "end_pos": 346,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7104183435440063
+                }
+            ]
+        },
+        {
+            "text": "Marina Serra",
+            "start_pos": 351,
+            "end_pos": 363,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9939188957214355
+                }
+            ]
+        },
+        {
+            "text": "Puglia",
+            "start_pos": 365,
+            "end_pos": 371,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9920334219932556
+                }
+            ]
+        },
+        {
+            "text": "Cala Goloritz\u00e9 Baunei",
+            "start_pos": 394,
+            "end_pos": 415,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9384747346242269
+                }
+            ]
+        },
+        {
+            "text": "Sardinia",
+            "start_pos": 417,
+            "end_pos": 425,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.999643087387085
+                }
+            ]
+        },
+        {
+            "text": "claudia",
+            "start_pos": 428,
+            "end_pos": 435,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9613468647003174
+                }
+            ]
+        },
+        {
+            "text": "Sardinia",
+            "start_pos": 445,
+            "end_pos": 453,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9925408363342285
+                }
+            ]
+        },
+        {
+            "text": "Monterosso",
+            "start_pos": 470,
+            "end_pos": 480,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.967261016368866
+                }
+            ]
+        },
+        {
+            "text": "Cinque Terre",
+            "start_pos": 482,
+            "end_pos": 494,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6421346664428711
+                }
+            ]
+        },
+        {
+            "text": "Tropea",
+            "start_pos": 512,
+            "end_pos": 518,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6383520364761353
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "In",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "love",
+            "start_pos": 3,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 13,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "Wanna",
+            "start_pos": 21,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 27,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 31,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "pictures",
+            "start_pos": 36,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "posted",
+            "start_pos": 45,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 55,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "account",
+            "start_pos": 59,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "Apply",
+            "start_pos": 68,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 74,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "feature",
+            "start_pos": 80,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 88,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "explorerfervor.com",
+            "start_pos": 91,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 110,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "link",
+            "start_pos": 111,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 116,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 119,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "bio",
+            "start_pos": 122,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 127,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "explorerfervor",
+            "start_pos": 128,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "Which",
+            "start_pos": 145,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 151,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 154,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 159,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 169,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 174,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "1-2-3-4-5-6-7-8",
+            "start_pos": 176,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 191,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "Places",
+            "start_pos": 194,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 201,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 205,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 211,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 213,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "Scala",
+            "start_pos": 216,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "dei",
+            "start_pos": 222,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "Turchi",
+            "start_pos": 226,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 232,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "Sicily",
+            "start_pos": 234,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 241,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "lucatriptico",
+            "start_pos": 243,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 255,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 257,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "Porto",
+            "start_pos": 260,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "Flavia",
+            "start_pos": 266,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 272,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "Sardinia",
+            "start_pos": 274,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 283,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "valentinoselis",
+            "start_pos": 285,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 299,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 301,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "Castro",
+            "start_pos": 304,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "Marina",
+            "start_pos": 311,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 317,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "Puglia",
+            "start_pos": 319,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 326,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "francescogiannotta",
+            "start_pos": 328,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 348,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "Marina",
+            "start_pos": 351,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "Serra",
+            "start_pos": 358,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "Puglia",
+            "start_pos": 365,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 372,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "andrewsofficial",
+            "start_pos": 374,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 389,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "5.",
+            "start_pos": 391,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "Cala",
+            "start_pos": 394,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "Goloritz\u00e9",
+            "start_pos": 399,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "Baunei",
+            "start_pos": 409,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 415,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "Sardinia",
+            "start_pos": 417,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 426,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "claudia",
+            "start_pos": 428,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 435,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "m92",
+            "start_pos": 436,
+            "end_pos": 439,
+            "labels": []
+        },
+        {
+            "text": "_)",
+            "start_pos": 439,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "6.",
+            "start_pos": 442,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "Sardinia",
+            "start_pos": 445,
+            "end_pos": 453,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 454,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": "marklions",
+            "start_pos": 456,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 465,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "7.",
+            "start_pos": 467,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "Monterosso",
+            "start_pos": 470,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 480,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "Cinque",
+            "start_pos": 482,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "Terre",
+            "start_pos": 489,
+            "end_pos": 494,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 495,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "nonnarena1",
+            "start_pos": 497,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 507,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "8.",
+            "start_pos": 509,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "Tropea",
+            "start_pos": 512,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "(@",
+            "start_pos": 519,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "ushas91",
+            "start_pos": 521,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 528,
+            "end_pos": 529,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Peak District National Park",
+        "subtitle": "Stunning national park in central England, UK.",
+        "lat": 53.3667,
+        "lon": -1.7667,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1
+    },
+    {
+        "title": "Durham",
+        "subtitle": "Historic cathedral city in Northeast England, UK.",
+        "lat": 54.776,
+        "lon": -1.5746,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 2
+    },
+    {
+        "title": "Milldale",
+        "subtitle": "Picturesque village in the Peak District, Derbyshire, UK.",
+        "lat": 53.0645,
+        "lon": -1.8219,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 3
+    },
+    {
+        "title": "Castle Combe",
+        "subtitle": "Charming Cotswolds village in Wiltshire, England, UK.",
+        "lat": 51.4939,
+        "lon": -2.2289,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 4
+    },
+    {
+        "title": "Arlington Row",
+        "subtitle": "Iconic row of medieval cottages in Bibury, Cotswolds, UK.",
+        "lat": 51.7584,
+        "lon": -1.8329,
+        "type": "historic_cottages",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5
+    },
+    {
+        "title": "Glenfinnan Viaduct",
+        "subtitle": "Railway viaduct in Scottish Highlands, famous for Harry Potter.",
+        "lat": 56.8761,
+        "lon": -5.4344,
+        "type": "bridge",
+        "class": "man_made",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 6
+    },
+    {
+        "title": "Robin Hood's Bay",
+        "subtitle": "Historic fishing village on the North Yorkshire coast, UK.",
+        "lat": 54.4326,
+        "lon": -0.5487,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 7
+    },
+    {
+        "title": "The Mermaid Inn, Rye",
+        "subtitle": "Historic inn in Rye, East Sussex, England, UK.",
+        "lat": 50.9507,
+        "lon": 0.7397,
+        "type": "hotel",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8
+    },
+    {
+        "title": "Haworth",
+        "subtitle": "Historic village in West Yorkshire, England, UK.",
+        "lat": 53.834,
+        "lon": -1.9708,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 9
+    },
+    {
+        "title": "Lake District National Park",
+        "subtitle": "Mountainous region in Cumbria, Northwest England, UK.",
+        "lat": 54.4609,
+        "lon": -3.0886,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 10
+    }
+]

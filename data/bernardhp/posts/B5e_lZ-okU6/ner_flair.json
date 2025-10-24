@@ -1,0 +1,93 @@
+{
+    "text": "Greenwich Market \u2764 \u2022 \ud83d\udcf8 @meolafrancesco \u2022 #itssolondon #london",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Greenwich Market",
+            "start_pos": 0,
+            "end_pos": 16,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8472215235233307
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Greenwich",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Market",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "meolafrancesco",
+            "start_pos": 24,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "itssolondon",
+            "start_pos": 42,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "london",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

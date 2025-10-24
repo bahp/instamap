@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdLOCALIT\u00c0:  #Taormina #Messina #Sicilia",
+        "start": 53,
+        "end": 92,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "LOCALIT\u00c0:  #Taormina #Messina #Sicilia"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 205,
+        "end": 210,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

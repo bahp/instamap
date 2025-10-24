@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdDamnoen Saduak Floating Market,Ratchavuri,Thailand ",
+        "start": 52,
+        "end": 104,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Damnoen Saduak Floating Market,Ratchavuri,Thailand "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Thailand",
+        "start": 95,
+        "end": 103,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 122,
+        "end": 130,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 155,
+        "end": 163,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 219,
+        "end": 227,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

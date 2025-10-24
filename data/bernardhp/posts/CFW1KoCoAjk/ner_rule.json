@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf9\ud83c\uddf7",
+        "start": 78,
+        "end": 80,
+        "groupdict": {
+            "flag": "\ud83c\uddf9\ud83c\uddf7",
+            "location": "Turkey"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "turkey",
+        "start": 116,
+        "end": 122,
+        "groupdict": {
+            "name": "turkey",
+            "location": "turkey"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

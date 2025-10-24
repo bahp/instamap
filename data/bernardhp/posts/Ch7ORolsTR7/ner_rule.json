@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddff",
+        "start": 76,
+        "end": 78,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddff",
+            "location": "Czechia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

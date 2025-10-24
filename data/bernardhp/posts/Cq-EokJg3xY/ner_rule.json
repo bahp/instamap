@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd Wharton Beach, Esperance ",
+        "start": 0,
+        "end": 27,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Wharton Beach, Esperance "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Australia",
+        "start": 117,
+        "end": 126,
+        "groupdict": {
+            "name": "Australia",
+            "location": "Australia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Australia",
+        "start": 403,
+        "end": 412,
+        "groupdict": {
+            "name": "Australia",
+            "location": "Australia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

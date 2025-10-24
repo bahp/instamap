@@ -1,0 +1,671 @@
+{
+    "text": "Less than an hour north of Rome lies Calcata, a medieval village clinging to a volcanic cliff surrounded by the densely-wooded Treja valley.   With its rugged tufa walls and steep pathways, entering this mystical, car-free hamlet it\u2019s like stepping back in time or falling into a dream where Woodstock meets Hansel and Gretel. \u2764\ud83d\udc9a\ud83c\uddee\ud83c\uddf9 \ud83c\udfa5 Video by @gianluigi.palomba   #visititaly #italy #italia #lazio #calcata #italian_trips #rome #italyescapes #lonelyplanet #natgeo #natgeotravel #culturetrip #travellingthroughtheworld #guardiancities #passionpassport #bbctravel #cnntravel",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Rome",
+            "start_pos": 27,
+            "end_pos": 31,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9929982423782349
+                }
+            ]
+        },
+        {
+            "text": "Calcata",
+            "start_pos": 37,
+            "end_pos": 44,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9951089024543762
+                }
+            ]
+        },
+        {
+            "text": "Treja",
+            "start_pos": 127,
+            "end_pos": 132,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7655789852142334
+                }
+            ]
+        },
+        {
+            "text": "Woodstock",
+            "start_pos": 292,
+            "end_pos": 301,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7782821655273438
+                }
+            ]
+        },
+        {
+            "text": "Hansel and Gretel",
+            "start_pos": 308,
+            "end_pos": 325,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7028672695159912
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Less",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "than",
+            "start_pos": 5,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "hour",
+            "start_pos": 13,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "north",
+            "start_pos": 18,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 24,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Rome",
+            "start_pos": 27,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "lies",
+            "start_pos": 32,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "Calcata",
+            "start_pos": 37,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "medieval",
+            "start_pos": 48,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 57,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "clinging",
+            "start_pos": 65,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 74,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "volcanic",
+            "start_pos": 79,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "cliff",
+            "start_pos": 88,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "surrounded",
+            "start_pos": 94,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 105,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 108,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "densely-wooded",
+            "start_pos": 112,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "Treja",
+            "start_pos": 127,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "valley",
+            "start_pos": 133,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "With",
+            "start_pos": 143,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 148,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "rugged",
+            "start_pos": 152,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "tufa",
+            "start_pos": 159,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "walls",
+            "start_pos": 164,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 170,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "steep",
+            "start_pos": 174,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "pathways",
+            "start_pos": 180,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 188,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "entering",
+            "start_pos": 190,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 199,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "mystical",
+            "start_pos": 204,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "car-free",
+            "start_pos": 214,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "hamlet",
+            "start_pos": 223,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 230,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 232,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 235,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "stepping",
+            "start_pos": 240,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "back",
+            "start_pos": 249,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 254,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "time",
+            "start_pos": 257,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 262,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "falling",
+            "start_pos": 265,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "into",
+            "start_pos": 273,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 278,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "dream",
+            "start_pos": 280,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 286,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "Woodstock",
+            "start_pos": 292,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "meets",
+            "start_pos": 302,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "Hansel",
+            "start_pos": 308,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 315,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "Gretel",
+            "start_pos": 319,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "\u2764\ud83d\udc9a\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 327,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfa5",
+            "start_pos": 332,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "Video",
+            "start_pos": 334,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 340,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 343,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "gianluigi.palomba",
+            "start_pos": 344,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 364,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "visititaly",
+            "start_pos": 365,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 376,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 377,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 383,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "italia",
+            "start_pos": 384,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 391,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "lazio",
+            "start_pos": 392,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 398,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "calcata",
+            "start_pos": 399,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 407,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "italian",
+            "start_pos": 408,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 415,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "trips",
+            "start_pos": 416,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 422,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "rome",
+            "start_pos": 423,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 428,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "italyescapes",
+            "start_pos": 429,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 442,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "lonelyplanet",
+            "start_pos": 443,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 456,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "natgeo",
+            "start_pos": 457,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 464,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": "natgeotravel",
+            "start_pos": 465,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 478,
+            "end_pos": 479,
+            "labels": []
+        },
+        {
+            "text": "culturetrip",
+            "start_pos": 479,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 491,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "travellingthroughtheworld",
+            "start_pos": 492,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 518,
+            "end_pos": 519,
+            "labels": []
+        },
+        {
+            "text": "guardiancities",
+            "start_pos": 519,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 534,
+            "end_pos": 535,
+            "labels": []
+        },
+        {
+            "text": "passionpassport",
+            "start_pos": 535,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 551,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "bbctravel",
+            "start_pos": 552,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 562,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "cnntravel",
+            "start_pos": 563,
+            "end_pos": 572,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

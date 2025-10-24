@@ -1,0 +1,50 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Volterra\",\n      \"full_address\": \"Volterra, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/volterra-italy\"\n    }\n  ]\n}\n```\n\n**Image of Volterra**\n[Image of Volterra in Tuscany, Italy]\n\nThe caption mentions the name of the town, Volterra, and its country, Italy. The town is located in Tuscany, Italy. The order of the location is 1, as it is the first location mentioned in the caption.",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_f70e7a9db9e1bd90",
+    "factuality_queries": null,
+    "text_query": [
+        "volterra tuscany",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_c3960019b7042070",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Volterra\",\n      \"full_address\": \"Volterra, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/volterra-italy\"\n    }\n  ]\n}\n```\n\n**Image of Volterra**\n[Image of Volterra in Tuscany, Italy]\n\nThe caption mentions the name of the town, Volterra, and its country, Italy. The town is located in Tuscany, Italy. The order of the location is 1, as it is the first location mentioned in the caption."
+            ]
+        },
+        {
+            "id": "rc_11d49e61de0190b0",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Volterra, Tuscany, Italy\",\n      \"full_address\": \"Piazza dei Priori, 56038 Volterra PI, Italy\",\n      \"image\": \"https://www.gettyimages.com/best-of-volterra-italy/photo/volterra-italy-tuscany-127581320\",\n      \"order\": 1\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_bd3e6a29dbab4697",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Volterra\",\n      \"full_address\": \"Volterra, Italy\",\n      \"image\": \"https://www.gettyimages.com/search/volterra-italy?phrase=volterra-italy\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\n**Image of Volterra**\n[Image of Volterra, Italy]\n\nThe caption mentions two locations: Volterra, Italy and Tuscany, Italy. However, since the image is of Volterra and the caption states that it is a medieval village in Tuscany, I will only include Volterra in the JSON file. The full address of Volterra is given as Volterra, Italy. The order of the location is 1, as it is the first location mentioned in the caption."
+            ]
+        }
+    ],
+    "links": [
+        "https://www.placesofjuma.com/volterra-tuscany-italy/volterra-1-2/",
+        "https://www.placesofjuma.com/volterra-tuscany-italy/",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5DK6A89wUvQo8rHiAr1Gg1kBMef6WL5sAEb0mE52nZEhIxyc-X9dYaRPQH3DS",
+        "https://www.placesofjuma.com/volterra-tuscany-italy/volterra-1-2/",
+        "https://www.placesofjuma.com/volterra-tuscany-italy/",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5DK6A89wUvQo8rHiAr1Gg1kBMef6WL5sAEb0mE52nZEhIxyc-X9dYaRPQH3DS",
+        "https://s27363.pcdn.co/wp-content/uploads/2023/01/Volterra-Tuscany-Italy.jpg.optimal.jpg",
+        "https://www.earthtrekkers.com/best-things-to-do-in-volterra-italy/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhEgoMeh57ffc1Jj9Umb_pvl5JBILwP4Mp2nza6MW2i3tAa8NlVKsIax6kxYlb",
+        "https://s27363.pcdn.co/wp-content/uploads/2023/01/Volterra-Tuscany-Italy.jpg.optimal.jpg",
+        "https://www.earthtrekkers.com/best-things-to-do-in-volterra-italy/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhEgoMeh57ffc1Jj9Umb_pvl5JBILwP4Mp2nza6MW2i3tAa8NlVKsIax6kxYlb"
+    ],
+    "images": [
+        "https://www.placesofjuma.com/volterra-tuscany-italy/volterra-1-2/"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Volterra\",\n      \"full_address\": \"Volterra, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/volterra-italy\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

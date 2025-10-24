@@ -1,0 +1,90 @@
+[
+    {
+        "text": "1. Malveno @funk_design",
+        "start": 55,
+        "end": 78,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Malveno @funk_design"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Vipiteno @marina_demse",
+        "start": 146,
+        "end": 171,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Vipiteno @marina_demse"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Gesiler Aim @barboork",
+        "start": 172,
+        "end": 196,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Gesiler Aim @barboork"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Passo Gardena @mikesugianto",
+        "start": 197,
+        "end": 227,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Passo Gardena @mikesugianto"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 40,
+        "end": 42,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Italy",
+        "start": 19,
+        "end": 24,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "italy",
+        "start": 597,
+        "end": 602,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

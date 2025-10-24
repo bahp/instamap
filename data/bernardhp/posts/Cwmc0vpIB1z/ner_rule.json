@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccc China en Facebook\ud83d\udc47\ud83d\udc47https://www",
+        "start": 1411,
+        "end": 1443,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " China en Facebook\ud83d\udc47\ud83d\udc47https://www"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "China",
+        "start": 1413,
+        "end": 1418,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

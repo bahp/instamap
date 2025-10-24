@@ -1,0 +1,63 @@
+{
+    "text": "\ud83c\udf0e Location: Levi Foxfires Photo by @momentsofgregory",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udf0e",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Location",
+            "start_pos": 2,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "Levi",
+            "start_pos": 12,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Foxfires",
+            "start_pos": 17,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 26,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "momentsofgregory",
+            "start_pos": 36,
+            "end_pos": 52,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

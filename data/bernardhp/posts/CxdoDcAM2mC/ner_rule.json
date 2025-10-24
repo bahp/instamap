@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\udde9\ud83c\uddea",
+        "start": 37,
+        "end": 39,
+        "groupdict": {
+            "flag": "\ud83c\udde9\ud83c\uddea",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Germany",
+        "start": 26,
+        "end": 33,
+        "groupdict": {
+            "name": "Germany",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

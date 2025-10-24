@@ -1,0 +1,93 @@
+{
+    "text": "#chatgpt #digitalmarketingtips #canvadesignchallenge #canvatips #marketingtips #contentcreation #ai",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "#",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "chatgpt",
+            "start_pos": 1,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 9,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "digitalmarketingtips",
+            "start_pos": 10,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "canvadesignchallenge",
+            "start_pos": 32,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "canvatips",
+            "start_pos": 54,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "marketingtips",
+            "start_pos": 65,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "contentcreation",
+            "start_pos": 80,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "ai",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

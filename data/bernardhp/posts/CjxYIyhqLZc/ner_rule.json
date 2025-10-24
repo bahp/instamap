@@ -1,0 +1,61 @@
+[
+    {
+        "text": "\ud83d\udccdKoh Hong,Koh Yao Yai Koh Yao Noi,Koh Lao Lading,Koh Panyee,Thailand ",
+        "start": 53,
+        "end": 122,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Koh Hong,Koh Yao Yai Koh Yao Noi,Koh Lao Lading,Koh Panyee,Thailand "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Thailand",
+        "start": 113,
+        "end": 121,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 139,
+        "end": 147,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 172,
+        "end": 180,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 229,
+        "end": 237,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

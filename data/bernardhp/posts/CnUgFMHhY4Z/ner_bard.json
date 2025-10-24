@@ -1,0 +1,56 @@
+{
+    "content": "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Terraza 44\",\n      \"full_address\": \"C/Gran V\u00eda, 44, 28013 Madrid, Espa\u00f1a\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nThe order of the locations in the JSON file matches the order in which they appear in the caption. The full address of each location is also included, as well as the name of the location.\n\nThe caption mentions the following location: Terraza 44. The full address is provided in the caption.\n\nI have used online sources to find the full address for this location.\n\n[Image of Terraza 44, Madrid]",
+    "conversation_id": "c_0558ec5705c53e68",
+    "response_id": "r_f6ff471930a16ee9",
+    "factuality_queries": null,
+    "text_query": [
+        "44 Gran V\u00eda, Madrid",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_3d0fd9c5f5ec5348",
+            "content": [
+                "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Terraza 44\",\n      \"full_address\": \"C/Gran V\u00eda, 44, 28013 Madrid, Espa\u00f1a\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nThe order of the locations in the JSON file matches the order in which they appear in the caption. The full address of each location is also included, as well as the name of the location.\n\nThe caption mentions the following location: Terraza 44. The full address is provided in the caption.\n\nI have used online sources to find the full address for this location.\n\n[Image of Terraza 44, Madrid]"
+            ]
+        },
+        {
+            "id": "rc_e3cd8eb7ad677aed",
+            "content": [
+                "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Terraza de Hostal Gran V\u00eda 44\",\n      \"full_address\": \"C/Gran V\u00eda, 44, 28013 Madrid, Espa\u00f1a\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nThe order of the locations in the JSON file matches the order in which they appear in the caption. The full address of each location is also included, as well as the name of the location.\n\nThe caption mentions the following location: Terraza de Hostal Gran V\u00eda 44. I have used online sources to find the full address for this location.\n\nThe caption also mentions the following information about the location:\n\n* The name of the location is \"Terraza de Hostal Gran V\u00eda 44\".\n* The location is located at \"C/Gran V\u00eda, 44, 28013 Madrid, Espa\u00f1a\".\n* The location is open from 08:00 to 00:00 every day, except for Saturdays, when it is open from 13:30 to 01:00.\n* The location offers both drinks and food, with reservations required for dinner.\n* The reviewer's personal opinion is that the views from the terrace are not incredible, but the drinks are a little cheaper than at other terraces in Madrid.\n\nI hope this is helpful!\n[Image of Terraza de Hostal Gran V\u00eda 44, Madrid]"
+            ]
+        },
+        {
+            "id": "rc_52ee0829f7e00834",
+            "content": [
+                "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Terraza Gran V\u00eda 44\",\n      \"full_address\": \"C/Gran V\u00eda, 44, 28013 Madrid, Espa\u00f1a\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nThe order of the locations in the JSON file matches the order in which they appear in the caption. The full address of each location is also included, as well as the name of the location.\n\nThe caption mentions the following location: Terraza Gran V\u00eda 44. The full address of this location is provided in the caption.\n\nI hope this is helpful!\n[Image of Terraza Gran V\u00eda 44, Madrid]"
+            ]
+        }
+    ],
+    "links": [
+        "https://guiadelocio.es/madrid/wp-content/uploads/sites/2/2023/05/214375581_511627789948841_5082762645203636042_n.jpg",
+        "https://guiadelocio.es/madrid/plan/sky-44-roofop-la-azotea-de-moda-en-pleno-gran-via/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNDcsj4Aikw1e0tLN-tbQGCy6cNz22ccdil1cb01Huo34QCM2zY5wuoriYz4l-",
+        "https://guiadelocio.es/madrid/wp-content/uploads/sites/2/2023/05/214375581_511627789948841_5082762645203636042_n.jpg",
+        "https://guiadelocio.es/madrid/plan/sky-44-roofop-la-azotea-de-moda-en-pleno-gran-via/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNDcsj4Aikw1e0tLN-tbQGCy6cNz22ccdil1cb01Huo34QCM2zY5wuoriYz4l-",
+        "https://terracismodealtura.com/wp-content/uploads/2018/05/AZOTEA-SKY-44-19.jpg",
+        "https://terracismodealtura.com/azotea-sky-44-el-mirador-de-callao/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2bboaH4guCn5NIdHdSvhE-bsioxldVmnGmyAeXfx2QzxN0Aedo_XXaASuN60m",
+        "https://terracismodealtura.com/wp-content/uploads/2018/05/AZOTEA-SKY-44-19.jpg",
+        "https://terracismodealtura.com/azotea-sky-44-el-mirador-de-callao/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2bboaH4guCn5NIdHdSvhE-bsioxldVmnGmyAeXfx2QzxN0Aedo_XXaASuN60m",
+        "https://guiadelocio.es/madrid/wp-content/uploads/sites/2/2023/05/214375581_511627789948841_5082762645203636042_n.jpg",
+        "https://guiadelocio.es/madrid/plan/sky-44-roofop-la-azotea-de-moda-en-pleno-gran-via/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNDcsj4Aikw1e0tLN-tbQGCy6cNz22ccdil1cb01Huo34QCM2zY5wuoriYz4l-",
+        "https://guiadelocio.es/madrid/wp-content/uploads/sites/2/2023/05/214375581_511627789948841_5082762645203636042_n.jpg",
+        "https://guiadelocio.es/madrid/plan/sky-44-roofop-la-azotea-de-moda-en-pleno-gran-via/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNDcsj4Aikw1e0tLN-tbQGCy6cNz22ccdil1cb01Huo34QCM2zY5wuoriYz4l-"
+    ],
+    "images": [
+        "https://guiadelocio.es/madrid/wp-content/uploads/sites/2/2023/05/214375581_511627789948841_5082762645203636042_n.jpg"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Terraza 44\",\n      \"full_address\": \"C/Gran V\u00eda, 44, 28013 Madrid, Espa\u00f1a\",\n      \"order\": 0\n    }\n  ]\n}\n",
+    "status_code": 200
+}

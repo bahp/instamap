@@ -1,0 +1,110 @@
+{
+    "text": "Falling in love with Brugge, Belgium \ud83c\udde7\ud83c\uddea\ud83e\udd70  Photos by @jusanders23 \u2764",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Brugge",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.5248077511787415
+                }
+            ]
+        },
+        {
+            "text": "Belgium",
+            "start_pos": 29,
+            "end_pos": 36,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9837469458580017
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Falling",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 8,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "love",
+            "start_pos": 11,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 16,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "Brugge",
+            "start_pos": 21,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Belgium",
+            "start_pos": 29,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde7\ud83c\uddea\ud83e\udd70",
+            "start_pos": 37,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 42,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 49,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "jusanders23",
+            "start_pos": 53,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

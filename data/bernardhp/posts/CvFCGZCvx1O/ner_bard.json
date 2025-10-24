@@ -1,0 +1,23 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Spiaggia La Pelosa\",\n        \"full_address\": \"La Pelosa, Sardinia, Italy\",\n        \"order\": 1\n    },\n    {\n        \"name\": \"Cala Brandinchi\",\n        \"full_address\": \"Cala Brandinchi, Sardinia, Italy\",\n        \"order\": 2\n    },\n    {\n        \"name\": \"Spiaggia di Campulongu\",\n        \"full_address\": \"Spiaggia di Campulongu, Arzachena, Sardinia, Italy\",\n        \"order\": 3\n    },\n    {\n        \"name\": \"Cagliari\",\n        \"full_address\": \"Cagliari, Sardinia, Italy\",\n        \"order\": 4\n    },\n    {\n        \"name\": \"Cala Luna\",\n        \"full_address\": \"Cala Luna, Golfo di Orosei, Sardinia, Italy\",\n        \"order\": 5\n    },\n    {\n        \"name\": \"Spiaggia di Punta Molentis\",\n        \"full_address\": \"Spiaggia di Punta Molentis, San Teodoro, Sardinia, Italy\",\n        \"order\": 7\n    },\n    {\n        \"name\": \"Sella del Diavolo\",\n        \"full_address\": \"Sella del Diavolo, Sardinia, Italy\",\n        \"order\": 8\n    }\n]\n```",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_be93cc036270e725",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_a20013d9b6c580f9",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Spiaggia La Pelosa\",\n        \"full_address\": \"La Pelosa, Sardinia, Italy\",\n        \"order\": 1\n    },\n    {\n        \"name\": \"Cala Brandinchi\",\n        \"full_address\": \"Cala Brandinchi, Sardinia, Italy\",\n        \"order\": 2\n    },\n    {\n        \"name\": \"Spiaggia di Campulongu\",\n        \"full_address\": \"Spiaggia di Campulongu, Arzachena, Sardinia, Italy\",\n        \"order\": 3\n    },\n    {\n        \"name\": \"Cagliari\",\n        \"full_address\": \"Cagliari, Sardinia, Italy\",\n        \"order\": 4\n    },\n    {\n        \"name\": \"Cala Luna\",\n        \"full_address\": \"Cala Luna, Golfo di Orosei, Sardinia, Italy\",\n        \"order\": 5\n    },\n    {\n        \"name\": \"Spiaggia di Punta Molentis\",\n        \"full_address\": \"Spiaggia di Punta Molentis, San Teodoro, Sardinia, Italy\",\n        \"order\": 7\n    },\n    {\n        \"name\": \"Sella del Diavolo\",\n        \"full_address\": \"Sella del Diavolo, Sardinia, Italy\",\n        \"order\": 8\n    }\n]\n```"
+            ]
+        }
+    ],
+    "links": [
+        "http://googleusercontent.com/url/0",
+        "http://googleusercontent.com/url/1"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n    {\n        \"name\": \"Spiaggia La Pelosa\",\n        \"full_address\": \"La Pelosa, Sardinia, Italy\",\n        \"order\": 1\n    },\n    {\n        \"name\": \"Cala Brandinchi\",\n        \"full_address\": \"Cala Brandinchi, Sardinia, Italy\",\n        \"order\": 2\n    },\n    {\n        \"name\": \"Spiaggia di Campulongu\",\n        \"full_address\": \"Spiaggia di Campulongu, Arzachena, Sardinia, Italy\",\n        \"order\": 3\n    },\n    {\n        \"name\": \"Cagliari\",\n        \"full_address\": \"Cagliari, Sardinia, Italy\",\n        \"order\": 4\n    },\n    {\n        \"name\": \"Cala Luna\",\n        \"full_address\": \"Cala Luna, Golfo di Orosei, Sardinia, Italy\",\n        \"order\": 5\n    },\n    {\n        \"name\": \"Spiaggia di Punta Molentis\",\n        \"full_address\": \"Spiaggia di Punta Molentis, San Teodoro, Sardinia, Italy\",\n        \"order\": 7\n    },\n    {\n        \"name\": \"Sella del Diavolo\",\n        \"full_address\": \"Sella del Diavolo, Sardinia, Italy\",\n        \"order\": 8\n    }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,22 @@
+{
+    "content": "Sure, here is the json file:\n\n```json\n[\n  {\n    \"name\": \"Botany Bay\",\n    \"full_address\": \"Botany Bay, Kent, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Margate\",\n    \"full_address\": \"Margate, Kent, UK\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"St Pancras\",\n    \"full_address\": \"St Pancras, London, UK\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Stratford International\",\n    \"full_address\": \"Stratford International, London, UK\",\n    \"order\": 4\n  },\n  {\n    \"name\": \"Canary Wharf\",\n    \"full_address\": \"Canary Wharf, London, UK\",\n    \"order\": 5\n  }\n]\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_06a8570cace66980",
+    "response_id": "r_572840ff4a8989fd",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_b5af5c8f0847b2c5",
+            "content": [
+                "Sure, here is the json file:\n\n```json\n[\n  {\n    \"name\": \"Botany Bay\",\n    \"full_address\": \"Botany Bay, Kent, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Margate\",\n    \"full_address\": \"Margate, Kent, UK\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"St Pancras\",\n    \"full_address\": \"St Pancras, London, UK\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Stratford International\",\n    \"full_address\": \"Stratford International, London, UK\",\n    \"order\": 4\n  },\n  {\n    \"name\": \"Canary Wharf\",\n    \"full_address\": \"Canary Wharf, London, UK\",\n    \"order\": 5\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2YWMzNzg2NzgxMDRhNDVkM2NlYzAwYzA2ZWYxMjFlZjk0NjFmNjllYzQ&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Botany Bay\",\n    \"full_address\": \"Botany Bay, Kent, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Margate\",\n    \"full_address\": \"Margate, Kent, UK\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"St Pancras\",\n    \"full_address\": \"St Pancras, London, UK\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Stratford International\",\n    \"full_address\": \"Stratford International, London, UK\",\n    \"order\": 4\n  },\n  {\n    \"name\": \"Canary Wharf\",\n    \"full_address\": \"Canary Wharf, London, UK\",\n    \"order\": 5\n  }\n]\n",
+    "status_code": 200
+}

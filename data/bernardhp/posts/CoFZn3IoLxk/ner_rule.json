@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdAchadas da Cruz, Madeira, Portugal ",
+        "start": 0,
+        "end": 36,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Achadas da Cruz, Madeira, Portugal "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf5\ud83c\uddf9",
+        "start": 36,
+        "end": 38,
+        "groupdict": {
+            "flag": "\ud83c\uddf5\ud83c\uddf9",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Portugal",
+        "start": 27,
+        "end": 35,
+        "groupdict": {
+            "name": "Portugal",
+            "location": "Portugal"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

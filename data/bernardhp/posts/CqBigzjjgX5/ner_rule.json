@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd Nakatanidou",
+        "start": 64,
+        "end": 77,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Nakatanidou"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "JAPAN",
+        "start": 24,
+        "end": 29,
+        "groupdict": {
+            "name": "JAPAN",
+            "location": "JAPAN"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "japan",
+        "start": 80,
+        "end": 85,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

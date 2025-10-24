@@ -1,0 +1,99 @@
+{
+    "text": "Interior goals \ud83d\ude0d Follow @vanlife.living for more!\ud83d\udc9b \u2022 \u2022 \ud83d\udcf8 @justinwadeorton",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Interior",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "goals",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 17,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "vanlife.living",
+            "start_pos": 25,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 40,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 44,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc9b",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "justinwadeorton",
+            "start_pos": 58,
+            "end_pos": 73,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

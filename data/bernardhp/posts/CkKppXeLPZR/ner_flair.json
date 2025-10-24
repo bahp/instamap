@@ -1,0 +1,655 @@
+{
+    "text": "Hidden gem of Bali \ud83c\udf34  This path is an absolute dream, where palm trees meet rice fields \ud83e\udd79. We can only recommend to go early in the morning to meet local farmers with contagious smiles. Can you spot Lou?   \ud83c\uddeb\ud83c\uddf7 Ce chemin est un vrai petit paradis, o\u00f9 les palmiers rencontrent les rizi\u00e8res. On ne peut que vous recommander de vous y rendre t\u00f4t le matin pour aller \u00e0 la rencontre des agriculteurs locaux! Vous arrivez \u00e0 voir Lou?  \ud83d\udccd Banjar Mancingan, Bali   #visitbali #hiddenbali #balilove #riceterrace #riceterracebali",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Bali",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9362309575080872
+                }
+            ]
+        },
+        {
+            "text": "Banjar Mancingan",
+            "start_pos": 429,
+            "end_pos": 445,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7027713060379028
+                }
+            ]
+        },
+        {
+            "text": "Bali",
+            "start_pos": 447,
+            "end_pos": 451,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7357721328735352
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Hidden",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "gem",
+            "start_pos": 7,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 11,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf34",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 22,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "path",
+            "start_pos": 27,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "absolute",
+            "start_pos": 38,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "dream",
+            "start_pos": 47,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 54,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "palm",
+            "start_pos": 60,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "trees",
+            "start_pos": 65,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "meet",
+            "start_pos": 71,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 76,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "fields",
+            "start_pos": 81,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd79",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "We",
+            "start_pos": 91,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 94,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "only",
+            "start_pos": 98,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "recommend",
+            "start_pos": 103,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 113,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "go",
+            "start_pos": 116,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "early",
+            "start_pos": 119,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 125,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 128,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "morning",
+            "start_pos": 132,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 140,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "meet",
+            "start_pos": 143,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "local",
+            "start_pos": 148,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "farmers",
+            "start_pos": 154,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 162,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "contagious",
+            "start_pos": 167,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "smiles",
+            "start_pos": 178,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 184,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "Can",
+            "start_pos": 186,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 190,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "spot",
+            "start_pos": 194,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "Lou",
+            "start_pos": 199,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 202,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddeb\ud83c\uddf7",
+            "start_pos": 206,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "Ce",
+            "start_pos": 209,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "chemin",
+            "start_pos": 212,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "est",
+            "start_pos": 219,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 223,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "vrai",
+            "start_pos": 226,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "petit",
+            "start_pos": 231,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "paradis",
+            "start_pos": 237,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 244,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": "o\u00f9",
+            "start_pos": 246,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "les",
+            "start_pos": 249,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "palmiers",
+            "start_pos": 253,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "rencontrent",
+            "start_pos": 262,
+            "end_pos": 273,
+            "labels": []
+        },
+        {
+            "text": "les",
+            "start_pos": 274,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "rizi\u00e8res",
+            "start_pos": 278,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 286,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "On",
+            "start_pos": 288,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "ne",
+            "start_pos": 291,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "peut",
+            "start_pos": 294,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 299,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "vous",
+            "start_pos": 303,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "recommander",
+            "start_pos": 308,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 320,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "vous",
+            "start_pos": 323,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 328,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "rendre",
+            "start_pos": 330,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "t\u00f4t",
+            "start_pos": 337,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "le",
+            "start_pos": 341,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "matin",
+            "start_pos": 344,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "pour",
+            "start_pos": 350,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "aller",
+            "start_pos": 355,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "\u00e0",
+            "start_pos": 361,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 363,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "rencontre",
+            "start_pos": 366,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "des",
+            "start_pos": 376,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "agriculteurs",
+            "start_pos": 380,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "locaux",
+            "start_pos": 393,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 399,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "Vous",
+            "start_pos": 401,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "arrivez",
+            "start_pos": 406,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "\u00e0",
+            "start_pos": 414,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "voir",
+            "start_pos": 416,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "Lou",
+            "start_pos": 421,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 424,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 427,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "Banjar",
+            "start_pos": 429,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "Mancingan",
+            "start_pos": 436,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 445,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "Bali",
+            "start_pos": 447,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 454,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "visitbali",
+            "start_pos": 455,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 465,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "hiddenbali",
+            "start_pos": 466,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 477,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "balilove",
+            "start_pos": 478,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 487,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "riceterrace",
+            "start_pos": 488,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 500,
+            "end_pos": 501,
+            "labels": []
+        },
+        {
+            "text": "riceterracebali",
+            "start_pos": 501,
+            "end_pos": 516,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

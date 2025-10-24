@@ -1,0 +1,135 @@
+{
+    "text": "\ud83c\uddee\ud83c\uddf9 #discoverItaly  with @shirley.films : \"Running on the blood stained mountain after we defeated the dragon \ud83c\udf0b\ud83d\udc09\u2694 \"",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "discoverItaly",
+            "start_pos": 4,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 19,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "shirley.films",
+            "start_pos": 25,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "Running",
+            "start_pos": 42,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 53,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "blood",
+            "start_pos": 57,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "stained",
+            "start_pos": 63,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "mountain",
+            "start_pos": 71,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "after",
+            "start_pos": 80,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "we",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "defeated",
+            "start_pos": 89,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 98,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "dragon",
+            "start_pos": 102,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0b\ud83d\udc09\u2694",
+            "start_pos": 109,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

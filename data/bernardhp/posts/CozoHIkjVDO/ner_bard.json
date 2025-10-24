@@ -1,0 +1,94 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Nanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02\",\n      \"full_address\": \"Nanone, Uda City, Nara Prefecture, Japan\",\n      \"order\": 1,\n      \"image\": \"[Image of Nanone, Uda City, Nara Prefecture, Japan]\"\n    },\n    {\n      \"name\": \"Rice Terrace Villa Sasayuri-ann\",\n      \"full_address\": \"Rice Terrace Villa Sasayuri-ann, Japan\",\n      \"order\": 2,\n      \"image\": \"[Image of Rice Terrace Villa Sasayuri-ann, Japan]\"\n    },\n    {\n      \"name\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a\",\n      \"full_address\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan\",\n      \"order\": 3,\n      \"image\": \"[Image of Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan]\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_8b8b93b8e34e0282",
+    "response_id": "r_feb28dfff5569027",
+    "factuality_queries": null,
+    "text_query": [
+        "locations of Nanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02, Rice Terrace Villa Sasayuri-ann, \u68da\u7530\u306e\u5bbf \u3055\u3055\u3086\u308a\u5eb5, Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_dca02c0f9631fcc9",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Nanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02\",\n      \"full_address\": \"Nanone, Uda City, Nara Prefecture, Japan\",\n      \"order\": 1,\n      \"image\": \"[Image of Nanone, Uda City, Nara Prefecture, Japan]\"\n    },\n    {\n      \"name\": \"Rice Terrace Villa Sasayuri-ann\",\n      \"full_address\": \"Rice Terrace Villa Sasayuri-ann, Japan\",\n      \"order\": 2,\n      \"image\": \"[Image of Rice Terrace Villa Sasayuri-ann, Japan]\"\n    },\n    {\n      \"name\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a\",\n      \"full_address\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan\",\n      \"order\": 3,\n      \"image\": \"[Image of Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan]\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_ac8dd9346b1999eb",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Nanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02\",\n      \"full_address\": \"Nanone, Uda City, Nara Prefecture, Japan\",\n      \"order\": 1,\n      \"image\": \"[Image of Nanone, Uda City, Nara Prefecture, Japan]\"\n    },\n    {\n      \"name\": \"Rice Terrace Villa Sasayuri-ann\",\n      \"full_address\": \"Unnamed Road, 43, 730-2201 Mihara, Hiroshima Prefecture, Japan\",\n      \"order\": 2,\n      \"image\": \"[Image of Rice Terrace Villa Sasayuri-ann, Mihara, Hiroshima Prefecture, Japan]\"\n    },\n    {\n      \"name\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a\",\n      \"full_address\": \"3-14-4 Takehara, Hiroshima Prefecture, 729-0026, Japan\",\n      \"order\": 3,\n      \"image\": \"[Image of Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan]\"\n    }\n  ]\n}\n```\n\nI hope you enjoy your stay in Japan!"
+            ]
+        },
+        {
+            "id": "rc_0726b18a8c9173df",
+            "content": [
+                "Sure! Here is a JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text.\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Nanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02\",\n      \"full_address\": \"Nanone, Uda City, Nara Prefecture, Japan\",\n      \"order\": 1,\n      \"image\": \"[Image of Nanone, Uda City, Nara Prefecture, Japan]\"\n    },\n    {\n      \"name\": \"Rice Terrace Villa Sasayuri-ann\",\n      \"full_address\": \"Rice Terrace Villa Sasayuri-ann, Sasayuri, Niimi, Hiroshima Prefecture, Japan\",\n      \"order\": 2,\n      \"image\": \"[Image of Rice Terrace Villa Sasayuri-ann, Sasayuri, Niimi, Hiroshima Prefecture, Japan]\"\n    },\n    {\n      \"name\": \"Nipponia Takehara\",\n      \"full_address\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan\",\n      \"order\": 3,\n      \"image\": \"[Image of Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan]\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/37/de/caption.jpg?w=700&h=-1&s=1",
+        "https://www.tripadvisor.com/Hotel_Review-g1022867-d13934176-Reviews-Guest_House_Nanone-Uda_Nara_Prefecture_Kinki.html",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsuFpRCV2iOxgyGx8JqPckd6MnbaOBTECixVdTzfPs9wdBsOcb_FH44KgW7QB_",
+        "https://assets.onyamagazine.com/wp-content/uploads/2022/02/28125841/Screen-Shot-2022-02-28-at-1.58.35-pm.png",
+        "https://www.onyamagazine.com/lifestyle/travel/spotlight-on-rice-terrace-villa-sasayuri-ann-nara-prefecture-japan/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSDm5DOvMJrJH1n1UaLNYm-uvX9MNU2xrMpNSTYAaIdtTJmcQqklvY0d11jceL",
+        "https://cf.bstatic.com/xdata/images/hotel/max200/228970116.jpg?k=da4f86270af49a83e8de77f40bb6d635ec4e0bb3ce47a7b49f58bb403eb3ea66&o=&hp=1",
+        "https://www.booking.com/hotel/jp/nipponia-takehara-saltworks-town.ja.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwglkBsFxM9KJXUkjgKAk0EA99nqJcuYmsoFs6pYa1gtaH39A2fqPthOa1hnSO",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/37/de/caption.jpg?w=700&h=-1&s=1",
+        "https://www.tripadvisor.com/Hotel_Review-g1022867-d13934176-Reviews-Guest_House_Nanone-Uda_Nara_Prefecture_Kinki.html",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsuFpRCV2iOxgyGx8JqPckd6MnbaOBTECixVdTzfPs9wdBsOcb_FH44KgW7QB_",
+        "https://assets.onyamagazine.com/wp-content/uploads/2022/02/28125841/Screen-Shot-2022-02-28-at-1.58.35-pm.png",
+        "https://www.onyamagazine.com/lifestyle/travel/spotlight-on-rice-terrace-villa-sasayuri-ann-nara-prefecture-japan/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSDm5DOvMJrJH1n1UaLNYm-uvX9MNU2xrMpNSTYAaIdtTJmcQqklvY0d11jceL",
+        "https://cf.bstatic.com/xdata/images/hotel/max200/228970116.jpg?k=da4f86270af49a83e8de77f40bb6d635ec4e0bb3ce47a7b49f58bb403eb3ea66&o=&hp=1",
+        "https://www.booking.com/hotel/jp/nipponia-takehara-saltworks-town.ja.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwglkBsFxM9KJXUkjgKAk0EA99nqJcuYmsoFs6pYa1gtaH39A2fqPthOa1hnSO",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/37/de/caption.jpg?w=700&h=-1&s=1",
+        "https://www.tripadvisor.com/Hotel_Review-g1022867-d13934176-Reviews-Guest_House_Nanone-Uda_Nara_Prefecture_Kinki.html",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsuFpRCV2iOxgyGx8JqPckd6MnbaOBTECixVdTzfPs9wdBsOcb_FH44KgW7QB_",
+        "https://a0.cdn.japantravel.com/photo/25508-135779/1440x960!/nara-rice-terrace-villa-sasayuri-ann-135779.jpg",
+        "https://en.japantravel.com/nara/rice-terrace-villa-sasayuri-ann/25508",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAXL_SRX29W0kwQcXdXoSs8PURSXpizoFKUhLRmYPKmXXLhliIWU48-6IkKPJQ",
+        "https://cf.bstatic.com/xdata/images/hotel/max200/228970116.jpg?k=da4f86270af49a83e8de77f40bb6d635ec4e0bb3ce47a7b49f58bb403eb3ea66&o=&hp=1",
+        "https://www.booking.com/hotel/jp/nipponia-takehara-saltworks-town.ja.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwglkBsFxM9KJXUkjgKAk0EA99nqJcuYmsoFs6pYa1gtaH39A2fqPthOa1hnSO",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/37/de/caption.jpg?w=700&h=-1&s=1",
+        "https://www.tripadvisor.com/Hotel_Review-g1022867-d13934176-Reviews-Guest_House_Nanone-Uda_Nara_Prefecture_Kinki.html",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsuFpRCV2iOxgyGx8JqPckd6MnbaOBTECixVdTzfPs9wdBsOcb_FH44KgW7QB_",
+        "https://a0.cdn.japantravel.com/photo/25508-135779/1440x960!/nara-rice-terrace-villa-sasayuri-ann-135779.jpg",
+        "https://en.japantravel.com/nara/rice-terrace-villa-sasayuri-ann/25508",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAXL_SRX29W0kwQcXdXoSs8PURSXpizoFKUhLRmYPKmXXLhliIWU48-6IkKPJQ",
+        "https://cf.bstatic.com/xdata/images/hotel/max200/228970116.jpg?k=da4f86270af49a83e8de77f40bb6d635ec4e0bb3ce47a7b49f58bb403eb3ea66&o=&hp=1",
+        "https://www.booking.com/hotel/jp/nipponia-takehara-saltworks-town.ja.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwglkBsFxM9KJXUkjgKAk0EA99nqJcuYmsoFs6pYa1gtaH39A2fqPthOa1hnSO",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/37/de/caption.jpg?w=700&h=-1&s=1",
+        "https://www.tripadvisor.com/Hotel_Review-g1022867-d13934176-Reviews-Guest_House_Nanone-Uda_Nara_Prefecture_Kinki.html",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsuFpRCV2iOxgyGx8JqPckd6MnbaOBTECixVdTzfPs9wdBsOcb_FH44KgW7QB_",
+        "https://assets.onyamagazine.com/wp-content/uploads/2022/02/28125841/Screen-Shot-2022-02-28-at-1.58.35-pm.png",
+        "https://www.onyamagazine.com/lifestyle/travel/spotlight-on-rice-terrace-villa-sasayuri-ann-nara-prefecture-japan/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSDm5DOvMJrJH1n1UaLNYm-uvX9MNU2xrMpNSTYAaIdtTJmcQqklvY0d11jceL",
+        "https://cf.bstatic.com/xdata/images/hotel/max200/228970116.jpg?k=da4f86270af49a83e8de77f40bb6d635ec4e0bb3ce47a7b49f58bb403eb3ea66&o=&hp=1",
+        "https://www.booking.com/hotel/jp/nipponia-takehara-saltworks-town.ja.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwglkBsFxM9KJXUkjgKAk0EA99nqJcuYmsoFs6pYa1gtaH39A2fqPthOa1hnSO",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/37/de/caption.jpg?w=700&h=-1&s=1",
+        "https://www.tripadvisor.com/Hotel_Review-g1022867-d13934176-Reviews-Guest_House_Nanone-Uda_Nara_Prefecture_Kinki.html",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsuFpRCV2iOxgyGx8JqPckd6MnbaOBTECixVdTzfPs9wdBsOcb_FH44KgW7QB_",
+        "https://assets.onyamagazine.com/wp-content/uploads/2022/02/28125841/Screen-Shot-2022-02-28-at-1.58.35-pm.png",
+        "https://www.onyamagazine.com/lifestyle/travel/spotlight-on-rice-terrace-villa-sasayuri-ann-nara-prefecture-japan/",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSDm5DOvMJrJH1n1UaLNYm-uvX9MNU2xrMpNSTYAaIdtTJmcQqklvY0d11jceL",
+        "https://cf.bstatic.com/xdata/images/hotel/max200/228970116.jpg?k=da4f86270af49a83e8de77f40bb6d635ec4e0bb3ce47a7b49f58bb403eb3ea66&o=&hp=1",
+        "https://www.booking.com/hotel/jp/nipponia-takehara-saltworks-town.ja.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwglkBsFxM9KJXUkjgKAk0EA99nqJcuYmsoFs6pYa1gtaH39A2fqPthOa1hnSO"
+    ],
+    "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ba/37/de/caption.jpg?w=700&h=-1&s=1",
+        "https://assets.onyamagazine.com/wp-content/uploads/2022/02/28125841/Screen-Shot-2022-02-28-at-1.58.35-pm.png",
+        "https://cf.bstatic.com/xdata/images/hotel/max200/228970116.jpg?k=da4f86270af49a83e8de77f40bb6d635ec4e0bb3ce47a7b49f58bb403eb3ea66&o=&hp=1"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Nanone, Uda City/\u5bbf\u6cca\uff06\u30e9\u30f3\u30c1\u300c\u5948\u306e\u97f3\u300d,\u5b87\u9640\u5e02\",\n      \"full_address\": \"Nanone, Uda City, Nara Prefecture, Japan\",\n      \"order\": 1,\n      \"image\": \"[Image of Nanone, Uda City, Nara Prefecture, Japan]\"\n    },\n    {\n      \"name\": \"Rice Terrace Villa Sasayuri-ann\",\n      \"full_address\": \"Rice Terrace Villa Sasayuri-ann, Japan\",\n      \"order\": 2,\n      \"image\": \"[Image of Rice Terrace Villa Sasayuri-ann, Japan]\"\n    },\n    {\n      \"name\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a\",\n      \"full_address\": \"Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan\",\n      \"order\": 3,\n      \"image\": \"[Image of Nipponia Takehara/NIPPONIA HOTEL \u7af9\u539f \u88fd\u5869\u753a, Takehara, Hiroshima Prefecture, Japan]\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

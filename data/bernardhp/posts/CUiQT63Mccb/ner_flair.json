@@ -1,0 +1,93 @@
+{
+    "text": "Double tap if you love nature! Follow @natureape  Photographer: @nomadtraveler2021",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Double",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "tap",
+            "start_pos": 7,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 11,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 14,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "love",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 29,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 31,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "natureape",
+            "start_pos": 39,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "Photographer",
+            "start_pos": 50,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "nomadtraveler2021",
+            "start_pos": 65,
+            "end_pos": 82,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

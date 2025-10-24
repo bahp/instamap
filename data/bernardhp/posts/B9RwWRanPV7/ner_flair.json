@@ -1,0 +1,345 @@
+{
+    "text": "\"The highlight of Ethiopia was visiting this church, carved out of the mountains 1500 years ago. Despite the 50cm ledge & 1000ft drop, church attendance is still good with 20-30 people still going every week..!\" \u2014 \ud83d\udccd #DiscoverEthiopia \u2014 \ud83d\udcf8 Video and caption taken by @ianharper",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Ethiopia",
+            "start_pos": 18,
+            "end_pos": 26,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998185038566589
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\"",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "highlight",
+            "start_pos": 5,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Ethiopia",
+            "start_pos": 18,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 27,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "visiting",
+            "start_pos": 31,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 40,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 45,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "carved",
+            "start_pos": 53,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "out",
+            "start_pos": 60,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 64,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 67,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "mountains",
+            "start_pos": 71,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "1500",
+            "start_pos": 81,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "years",
+            "start_pos": 86,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "ago",
+            "start_pos": 92,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "Despite",
+            "start_pos": 97,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 105,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "50cm",
+            "start_pos": 109,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "ledge",
+            "start_pos": 114,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "1000ft",
+            "start_pos": 122,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "drop",
+            "start_pos": 129,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 135,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "attendance",
+            "start_pos": 142,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 153,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "still",
+            "start_pos": 156,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "good",
+            "start_pos": 162,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 167,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "20-30",
+            "start_pos": 172,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 178,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "still",
+            "start_pos": 185,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "going",
+            "start_pos": 191,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "every",
+            "start_pos": 197,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "week.",
+            "start_pos": 203,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "!\"",
+            "start_pos": 209,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 214,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 216,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "DiscoverEthiopia",
+            "start_pos": 217,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 234,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "Video",
+            "start_pos": 238,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 244,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "caption",
+            "start_pos": 248,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 256,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 262,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 265,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "ianharper",
+            "start_pos": 266,
+            "end_pos": 275,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

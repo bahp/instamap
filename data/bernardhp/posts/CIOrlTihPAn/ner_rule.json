@@ -1,0 +1,59 @@
+[
+    {
+        "text": "\ud83d\udea9Founders: @chrisma1105",
+        "start": 41,
+        "end": 64,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Founders: @chrisma1105"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdChosen by: @vale_774!",
+        "start": 65,
+        "end": 87,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Chosen by: @vale_774!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udea9TAG YOUR BEST  FRIENDS \ud83d\udea9#cbviews #iamatraveler #europestyle_ #kings_through #travelphotography #travelgram #ig_color #beautifuldestinations #kings_villages #ig_europe #ig_spain #ig_spain_ #visitspain #topspainphoto #theimaged #visitespa\u00f1a #igspain #jaw_dropping_shots #instagramspain #earth_shotz #agameoftones #ig_worldclub #moodygrams #visualambassadors #gramslayers #earthpix #illgrammer #earthofficial",
+        "start": 139,
+        "end": 545,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "TAG YOUR BEST  FRIENDS \ud83d\udea9#cbviews #iamatraveler #europestyle_ #kings_through #travelphotography #travelgram #ig_color #beautifuldestinations #kings_villages #ig_europe #ig_spain #ig_spain_ #visitspain #topspainphoto #theimaged #visitespa\u00f1a #igspain #jaw_dropping_shots #instagramspain #earth_shotz #agameoftones #ig_worldclub #moodygrams #visualambassadors #gramslayers #earthpix #illgrammer #earthofficial"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 17,
+        "end": 19,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Spain",
+        "start": 11,
+        "end": 16,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

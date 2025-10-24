@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Isle of Skye\",\n      \"full_address\": \"Isle of Skye, Inner Hebrides, Scotland, UK\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Isle_of_Skye_2004.jpg/1280px-Isle_of_Skye_2004.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_2a2f84b370067f16",
+    "factuality_queries": null,
+    "text_query": [
+        "isle of skye",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_ac8c09d48c5e7d26",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Isle of Skye\",\n      \"full_address\": \"Isle of Skye, Inner Hebrides, Scotland, UK\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Isle_of_Skye_2004.jpg/1280px-Isle_of_Skye_2004.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_762d3be6cbb752cc",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Isle of Skye\",\n      \"full_address\": \"Isle of Skye, Scotland\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Isle_of_Skye_from_the_air.JPG/1200px-Isle_of_Skye_from_the_air.JPG\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_00fadbad1f553fc1",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Isle of Skye\",\n      \"full_address\": \"Isle of Skye, Scotland\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Isle_of_Skye_from_the_air.jpg/1200px-Isle_of_Skye_from_the_air.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Isle of Skye\",\n      \"full_address\": \"Isle of Skye, Inner Hebrides, Scotland, UK\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Isle_of_Skye_2004.jpg/1280px-Isle_of_Skye_2004.jpg\",\n      \"order\": 0\n    }\n  ]\n}\n",
+    "status_code": 200
+}

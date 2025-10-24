@@ -1,0 +1,48 @@
+{
+    "content": "Since the caption only mentions the word \"minimalism\" and doesn't explicitly mention any specific locations, the JSON file will contain an empty array of locations:\n\n```json\n{\n  \"locations\": []\n}\n```",
+    "conversation_id": "c_0558ec5705c53e68",
+    "response_id": "r_f76e29154c0c500c",
+    "factuality_queries": null,
+    "text_query": [
+        "minimalism in travel",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_7b5e099758fbdf79",
+            "content": [
+                "Since the caption only mentions the word \"minimalism\" and doesn't explicitly mention any specific locations, the JSON file will contain an empty array of locations:\n\n```json\n{\n  \"locations\": []\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_b25e3dc60912b37a",
+            "content": [
+                "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n    \"locations\": [\n        {\n            \"name\": \"Earth\",\n            \"full_address\": \"Planet Earth\",\n            \"order\": 0\n        }\n    ]\n}\n```\n\nThe caption only mentions one location, \"Earth\". The full address of Earth is \"Planet Earth\". The location is mentioned in the third line of the caption, so the order is 0.\n\n```\nMinimalism \u2728\n\nFor more travel inspiration follow @danielkilian \ud83d\udcf8\n\u2022\u2028\u2022\u2028\u2022\u2028\u2022\u2028\u2022\u2028\u2022\n#minimalism #discoverearth #earthpix #earth #outdoortones\n```\n\nI hope this is helpful!\n\n[Image of Planet Earth]"
+            ]
+        },
+        {
+            "id": "rc_65fad8f5f3321145",
+            "content": [
+                "Sure, here is the JSON file that extracts the name, full address, and order of each location in the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Earth\",\n      \"full_address\": \"Earth\",\n      \"order\": 0\n    }\n  ]\n}\n```\n\nThe caption mentions the location \"Earth\" twice, once in the title and once in the body. I have used this information to create the full address for the location.\n\n```\nMinimalism \u2728\n\nFor more travel inspiration follow @danielkilian \ud83d\udcf8\n\u2022\u2028\u2022\u2028\u2022\u2028\u2022\u2028\u2022\u2028\u2022\n#minimalism #discoverearth #earthpix #earth #outdoortones\n```\n\nI hope this is helpful!\n[Image of Earth]"
+            ]
+        }
+    ],
+    "links": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
+        "https://en.wikipedia.org/wiki/Earth",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiazR2LCslP4ocqG5vN3l_68XMnA9fjM9tZnqiGTylADne6Cxirf4ypUGsYOMk",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
+        "https://en.wikipedia.org/wiki/Earth",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiazR2LCslP4ocqG5vN3l_68XMnA9fjM9tZnqiGTylADne6Cxirf4ypUGsYOMk",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
+        "https://en.wikipedia.org/wiki/Earth",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiazR2LCslP4ocqG5vN3l_68XMnA9fjM9tZnqiGTylADne6Cxirf4ypUGsYOMk",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
+        "https://en.wikipedia.org/wiki/Earth",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiazR2LCslP4ocqG5vN3l_68XMnA9fjM9tZnqiGTylADne6Cxirf4ypUGsYOMk"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": []\n}\n",
+    "status_code": 200
+}

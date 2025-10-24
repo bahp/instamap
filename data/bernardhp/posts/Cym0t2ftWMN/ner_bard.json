@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Orta San Giulio, Italy\",\n      \"full_address\": \"Orta San Giulio, Italy\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Orta_San_Giulio%2C_Italy.jpg/280px-Orta_San_Giulio%2C_Italy.jpg\"\n    },\n    {\n      \"name\": \"Piedmont, Italy\",\n      \"full_address\": \"Piedmont, Italy\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Piedmont_italy_map.png/280px-Piedmont_italy_map.png\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_8d660f05e97ff834",
+    "response_id": "r_164f9e63919737dc",
+    "factuality_queries": null,
+    "text_query": [
+        "Orta San Giulio, Italy",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_3b9ce06edb851d04",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Orta San Giulio, Italy\",\n      \"full_address\": \"Orta San Giulio, Italy\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Orta_San_Giulio%2C_Italy.jpg/280px-Orta_San_Giulio%2C_Italy.jpg\"\n    },\n    {\n      \"name\": \"Piedmont, Italy\",\n      \"full_address\": \"Piedmont, Italy\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Piedmont_italy_map.png/280px-Piedmont_italy_map.png\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_f9b351aa20ea0c16",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Orta San Giulio, Italy\",\n      \"full_address\": \"Orta San Giulio, Piedmont, Italy\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658933_7395895e07_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_fb164a7af7751a60",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Orta San Giulio, Italy\",\n      \"full_address\": \"Orta San Giulio, Italy\",\n      \"order\": 1,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658933_41359b8d09_z.jpg\"\n    },\n    {\n      \"name\": \"Piemonte, Italy\",\n      \"full_address\": \"Piemonte, Italy\",\n      \"order\": 2,\n      \"image\": \"https://static.flickr.com/2023/11/17/39680658938_e4193465a9_z.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Orta San Giulio, Italy\",\n      \"full_address\": \"Orta San Giulio, Italy\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Orta_San_Giulio%2C_Italy.jpg/280px-Orta_San_Giulio%2C_Italy.jpg\"\n    },\n    {\n      \"name\": \"Piedmont, Italy\",\n      \"full_address\": \"Piedmont, Italy\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Piedmont_italy_map.png/280px-Piedmont_italy_map.png\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

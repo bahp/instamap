@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Bond Street",
+        "subtitle": "Renowned luxury shopping street in London",
+        "lat": 51.5147,
+        "lon": -0.142,
+        "type": "shopping street",
+        "class": "man_made",
+        "confidence": 0.95,
+        "rank": 1
+    },
+    {
+        "title": "London",
+        "subtitle": "Capital city of England and the United Kingdom",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2
+    },
+    {
+        "title": "London Eye",
+        "subtitle": "Iconic cantilevered observation wheel on the South Bank",
+        "lat": 51.5033,
+        "lon": -0.1196,
+        "type": "observation wheel",
+        "class": "man_made",
+        "confidence": 0.85,
+        "rank": 3
+    },
+    {
+        "title": "United Kingdom",
+        "subtitle": "Sovereign country in Western Europe",
+        "lat": 55.3781,
+        "lon": -3.436,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.75,
+        "rank": 4
+    }
+]

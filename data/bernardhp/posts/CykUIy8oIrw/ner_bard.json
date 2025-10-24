@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Porto\",\n    \"full_address\": \"Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/porto-porto-douro-bridge-night.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Ribeira\",\n    \"full_address\": \"Ribeira, Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-06/ribeira-porto-portugal.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"S\u00e3o Francisco Church\",\n    \"full_address\": \"Pra\u00e7a de S\u00e3o Francisco, 4000-290 Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/igreja-sao-francisco-porto.jpg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Pal\u00e1cio de Bolsa\",\n    \"full_address\": \"Rua Ferreira Borges 11, 4000-253 Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/palacio-bolsa-porto.jpg\",\n    \"order\": 4\n  }\n]\n```",
+    "conversation_id": "c_06a8570cace66980",
+    "response_id": "r_b1a89c77b8a16911",
+    "factuality_queries": null,
+    "text_query": [
+        "Porto, Portugal",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_b73f4286316e04b8",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Porto\",\n    \"full_address\": \"Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/porto-porto-douro-bridge-night.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Ribeira\",\n    \"full_address\": \"Ribeira, Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-06/ribeira-porto-portugal.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"S\u00e3o Francisco Church\",\n    \"full_address\": \"Pra\u00e7a de S\u00e3o Francisco, 4000-290 Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/igreja-sao-francisco-porto.jpg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Pal\u00e1cio de Bolsa\",\n    \"full_address\": \"Rua Ferreira Borges 11, 4000-253 Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/palacio-bolsa-porto.jpg\",\n    \"order\": 4\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_56fed91f1ec08476",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Porto\",\n    \"full_address\": \"Porto, Portugal\",\n    \"image\": \"https://www.visitportugal.com/sites/default/files/styles/header_image/public/styles/header_image/public/images/porto_guide_header.jpg?itok=5021xS0Y\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_e8b2b1150e4ef597",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"Porto\",\n    \"full_address\": \"Porto, Portugal\",\n    \"image\": \"https://www.visitportugal.com/img/editorial/Porto/Porto_1_20230928_103338.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Ribeira\",\n    \"full_address\": \"Ribeira, Porto, Portugal\",\n    \"image\": \"https://www.visitportugal.com/img/editorial/Porto/Ribeira_2_20230928_103419.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"S\u00e3o Francisco Church\",\n    \"full_address\": \"Largo S\u00e3o Francisco, 4000-252 Porto, Portugal\",\n    \"image\": \"https://www.visitportugal.com/img/editorial/Porto/Sao_Francisco_Church_3_20230928_103453.jpg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Pal\u00e1cio de Bolsa\",\n    \"full_address\": \"Rua Ferreira Borges, 14, 4000-252 Porto, Portugal\",\n    \"image\": \"https://www.visitportugal.com/img/editorial/Porto/Palacio_da_Bolsa_4_20230928_103521.jpg\",\n    \"order\": 4\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Porto\",\n    \"full_address\": \"Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/porto-porto-douro-bridge-night.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Ribeira\",\n    \"full_address\": \"Ribeira, Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-06/ribeira-porto-portugal.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"S\u00e3o Francisco Church\",\n    \"full_address\": \"Pra\u00e7a de S\u00e3o Francisco, 4000-290 Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/igreja-sao-francisco-porto.jpg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"Pal\u00e1cio de Bolsa\",\n    \"full_address\": \"Rua Ferreira Borges 11, 4000-253 Porto, Portugal\",\n    \"image\": \"https://www.visitportoandnorth.pt/sites/default/files/styles/1600x800/public/field_image/2023-08/palacio-bolsa-porto.jpg\",\n    \"order\": 4\n  }\n]\n",
+    "status_code": 200
+}

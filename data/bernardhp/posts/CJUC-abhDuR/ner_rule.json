@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddeb\ud83c\uddf7",
+        "start": 94,
+        "end": 96,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddf7",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "France",
+        "start": 110,
+        "end": 116,
+        "groupdict": {
+            "name": "France",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

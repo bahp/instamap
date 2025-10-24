@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf10 thebaliguideline",
+        "start": 405,
+        "end": 423,
+        "groupdict": {
+            "icon": "\ud83c\udf10",
+            "location": " thebaliguideline"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Indonesia",
+        "start": 122,
+        "end": 131,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

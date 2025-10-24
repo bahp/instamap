@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Huangshan\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Shilily Huangshan Hotel\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 2\n    }\n  ]\n}\n```",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_ba958b0e1ad29f4f",
+    "factuality_queries": null,
+    "text_query": [
+        "Is Huangshan worth visiting?",
+        4
+    ],
+    "choices": [
+        {
+            "id": "rc_e797c1fa3164f4ca",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Huangshan\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Shilily Huangshan Hotel\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_1ac067068caf64a6",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Huangshan\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Shilily Huangshan\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_9ce4986bc79447e3",
+            "content": [
+                "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Huangshan\",\n      \"full_address\": \"Anhui, China\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Shilily Huangshan\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Huangshan\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Shilily Huangshan Hotel\",\n      \"full_address\": \"Huangshan, Anhui, China\",\n      \"order\": 2\n    }\n  ]\n}\n",
+    "status_code": 200
+}

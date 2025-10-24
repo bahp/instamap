@@ -1,0 +1,523 @@
+{
+    "text": "Passo Giau in primavera \ud83d\ude0d  \u25b2 Photo: @alessia_dellandrea \u25b2 Tag: #dolomitireview \u2060 \u25b2 Follow: @dolomitireview\u2060  Ecco com'\u00e8 lo scenario a fine aprile in questo angolo meraviglioso delle #Dolomiti, a cui siamo molto affezionati!  \ud83d\udcf7 1: baita e monte Averau \ud83d\udcf7 2: monte Pore e Marmolada   \ud83d\udccd Passo Giau, Dolomiti Bellunesi, Veneto  Seguici anche su Facebook e sul sito (link in bio) \u2b06",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Passo Giau",
+            "start_pos": 0,
+            "end_pos": 10,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.5261483192443848
+                }
+            ]
+        },
+        {
+            "text": "Passo Giau",
+            "start_pos": 283,
+            "end_pos": 293,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.770024448633194
+                }
+            ]
+        },
+        {
+            "text": "Dolomiti Bellunesi",
+            "start_pos": 295,
+            "end_pos": 313,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.865283876657486
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Passo",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Giau",
+            "start_pos": 6,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 11,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "primavera",
+            "start_pos": 14,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "\u25b2",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 29,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "alessia",
+            "start_pos": 37,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "dellandrea",
+            "start_pos": 45,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "\u25b2",
+            "start_pos": 56,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 58,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "dolomitireview",
+            "start_pos": 64,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "\u25b2",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "dolomitireview",
+            "start_pos": 92,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "\u2060",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "Ecco",
+            "start_pos": 109,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "com'\u00e8",
+            "start_pos": 114,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "lo",
+            "start_pos": 120,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "scenario",
+            "start_pos": 123,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "fine",
+            "start_pos": 134,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "aprile",
+            "start_pos": 139,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 146,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "questo",
+            "start_pos": 149,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "angolo",
+            "start_pos": 156,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "meraviglioso",
+            "start_pos": 163,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "delle",
+            "start_pos": 176,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "Dolomiti",
+            "start_pos": 183,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 191,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 193,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "cui",
+            "start_pos": 195,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "siamo",
+            "start_pos": 199,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "molto",
+            "start_pos": 205,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "affezionati",
+            "start_pos": 211,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 222,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 225,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 227,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "baita",
+            "start_pos": 230,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "monte",
+            "start_pos": 238,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "Averau",
+            "start_pos": 244,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 251,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 253,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 254,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "monte",
+            "start_pos": 256,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "Pore",
+            "start_pos": 262,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 267,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "Marmolada",
+            "start_pos": 269,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 281,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "Passo",
+            "start_pos": 283,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "Giau",
+            "start_pos": 289,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 293,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "Dolomiti",
+            "start_pos": 295,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "Bellunesi",
+            "start_pos": 304,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 313,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "Veneto",
+            "start_pos": 315,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "Seguici",
+            "start_pos": 323,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "anche",
+            "start_pos": 331,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 337,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "Facebook",
+            "start_pos": 340,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 349,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "sul",
+            "start_pos": 351,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "sito",
+            "start_pos": 355,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 360,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "link",
+            "start_pos": 361,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 366,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "bio",
+            "start_pos": 369,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 372,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "\u2b06",
+            "start_pos": 374,
+            "end_pos": 375,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

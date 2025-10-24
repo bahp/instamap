@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83c\udf0d LOCATION : \ud83c\uddee\ud83c\uddf9 #padova #piazzadellerbe",
+        "start": 57,
+        "end": 96,
+        "groupdict": {
+            "icon": "\ud83c\udf0d",
+            "location": " LOCATION : \ud83c\uddee\ud83c\uddf9 #padova #piazzadellerbe"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 70,
+        "end": 72,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

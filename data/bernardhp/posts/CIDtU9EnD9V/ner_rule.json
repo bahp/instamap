@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddee\ud83c\uddf8",
+        "start": 18,
+        "end": 20,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf8",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "iceland",
+        "start": 45,
+        "end": 52,
+        "groupdict": {
+            "name": "iceland",
+            "location": "iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

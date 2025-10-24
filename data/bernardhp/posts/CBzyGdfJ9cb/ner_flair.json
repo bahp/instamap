@@ -1,0 +1,1542 @@
+{
+    "text": "Ever walked past this technicolour tiled house in Chiswick and wondered how it came to be? On closer inspection, you'll find it to be much more than a pretty patterns. In fact, its subject matter is particularly poignant in 2020.  Artist and craftsperson Carrie Reichardt spent almost 20 years transforming this house on a quiet Chiswick street into a mosaicked wonder. She discovered the skill after a mental health crisis in 1995, finding it to be meditative, and started with designs based on Indian textiles around the door of her property.  Her art practice changed in 2005 when her pen pal, US death row inmate Luis Ramirez, was executed. Traumatised by the experience, she started to use arts and crafts as a tool for activism and political protest.  Carrie dedicated the back of the house to injustice by referencing her pen pals in prison: political prisoners including the Angola Three and Black Panther Kenny \u2018Zulu\u2019 Whitmore, who was represented by a flying eyeball. This section was completed with the help of a whole heap of artist friends, activists and volunteers.  \u2018Art is a powerful way we can open dialogue on difficult, painful conversations.\u2019 she says.  Read our full interview with Carrie at the link in our bio. [\ud83d\udcf7: @emmaloukinz]",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Chiswick",
+            "start_pos": 50,
+            "end_pos": 58,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996980428695679
+                }
+            ]
+        },
+        {
+            "text": "Carrie Reichardt",
+            "start_pos": 255,
+            "end_pos": 271,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9994332790374756
+                }
+            ]
+        },
+        {
+            "text": "Chiswick",
+            "start_pos": 329,
+            "end_pos": 337,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.905193567276001
+                }
+            ]
+        },
+        {
+            "text": "Indian",
+            "start_pos": 496,
+            "end_pos": 502,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9965606331825256
+                }
+            ]
+        },
+        {
+            "text": "US",
+            "start_pos": 597,
+            "end_pos": 599,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9995927214622498
+                }
+            ]
+        },
+        {
+            "text": "Luis Ramirez",
+            "start_pos": 617,
+            "end_pos": 629,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9992935359477997
+                }
+            ]
+        },
+        {
+            "text": "Carrie",
+            "start_pos": 758,
+            "end_pos": 764,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9995539784431458
+                }
+            ]
+        },
+        {
+            "text": "Angola Three",
+            "start_pos": 883,
+            "end_pos": 895,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.7077469676733017
+                }
+            ]
+        },
+        {
+            "text": "Kenny \u2018Zulu\u2019 Whitmore",
+            "start_pos": 914,
+            "end_pos": 935,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8990519195795059
+                }
+            ]
+        },
+        {
+            "text": "Carrie",
+            "start_pos": 1203,
+            "end_pos": 1209,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9913252592086792
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Ever",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "walked",
+            "start_pos": 5,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "past",
+            "start_pos": 12,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 17,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "technicolour",
+            "start_pos": 22,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "tiled",
+            "start_pos": 35,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "house",
+            "start_pos": 41,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "Chiswick",
+            "start_pos": 50,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 59,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "wondered",
+            "start_pos": 63,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "how",
+            "start_pos": 72,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 76,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "came",
+            "start_pos": 79,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 84,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 87,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "On",
+            "start_pos": 91,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "closer",
+            "start_pos": 94,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "inspection",
+            "start_pos": 101,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 111,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 113,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "'ll",
+            "start_pos": 116,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "find",
+            "start_pos": 120,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 125,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 128,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 131,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "much",
+            "start_pos": 134,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 139,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "than",
+            "start_pos": 144,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 149,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "pretty",
+            "start_pos": 151,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "patterns",
+            "start_pos": 158,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 166,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 168,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "fact",
+            "start_pos": 171,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 177,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "subject",
+            "start_pos": 181,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "matter",
+            "start_pos": 189,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 196,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "particularly",
+            "start_pos": 199,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "poignant",
+            "start_pos": 212,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 221,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "2020",
+            "start_pos": 224,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "Artist",
+            "start_pos": 231,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 238,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "craftsperson",
+            "start_pos": 242,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "Carrie",
+            "start_pos": 255,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "Reichardt",
+            "start_pos": 262,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "spent",
+            "start_pos": 272,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "almost",
+            "start_pos": 278,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "20",
+            "start_pos": 285,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "years",
+            "start_pos": 288,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "transforming",
+            "start_pos": 294,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 307,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "house",
+            "start_pos": 312,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 318,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 321,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "quiet",
+            "start_pos": 323,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "Chiswick",
+            "start_pos": 329,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "street",
+            "start_pos": 338,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "into",
+            "start_pos": 345,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 350,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "mosaicked",
+            "start_pos": 352,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "wonder",
+            "start_pos": 362,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "She",
+            "start_pos": 370,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "discovered",
+            "start_pos": 374,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 385,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "skill",
+            "start_pos": 389,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "after",
+            "start_pos": 395,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 401,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "mental",
+            "start_pos": 403,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "health",
+            "start_pos": 410,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "crisis",
+            "start_pos": 417,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 424,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "1995",
+            "start_pos": 427,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 431,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "finding",
+            "start_pos": 433,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 441,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 444,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 447,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "meditative",
+            "start_pos": 450,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 460,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 462,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": "started",
+            "start_pos": 466,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 474,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "designs",
+            "start_pos": 479,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "based",
+            "start_pos": 487,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 493,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "Indian",
+            "start_pos": 496,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "textiles",
+            "start_pos": 503,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "around",
+            "start_pos": 512,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 519,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "door",
+            "start_pos": 523,
+            "end_pos": 527,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 528,
+            "end_pos": 530,
+            "labels": []
+        },
+        {
+            "text": "her",
+            "start_pos": 531,
+            "end_pos": 534,
+            "labels": []
+        },
+        {
+            "text": "property",
+            "start_pos": 535,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 543,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "Her",
+            "start_pos": 546,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "art",
+            "start_pos": 550,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "practice",
+            "start_pos": 554,
+            "end_pos": 562,
+            "labels": []
+        },
+        {
+            "text": "changed",
+            "start_pos": 563,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 571,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "2005",
+            "start_pos": 574,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 579,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "her",
+            "start_pos": 584,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "pen",
+            "start_pos": 588,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "pal",
+            "start_pos": 592,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 595,
+            "end_pos": 596,
+            "labels": []
+        },
+        {
+            "text": "US",
+            "start_pos": 597,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "death",
+            "start_pos": 600,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "row",
+            "start_pos": 606,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "inmate",
+            "start_pos": 610,
+            "end_pos": 616,
+            "labels": []
+        },
+        {
+            "text": "Luis",
+            "start_pos": 617,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "Ramirez",
+            "start_pos": 622,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 629,
+            "end_pos": 630,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 631,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "executed",
+            "start_pos": 635,
+            "end_pos": 643,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 643,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": "Traumatised",
+            "start_pos": 645,
+            "end_pos": 656,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 657,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 660,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "experience",
+            "start_pos": 664,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 674,
+            "end_pos": 675,
+            "labels": []
+        },
+        {
+            "text": "she",
+            "start_pos": 676,
+            "end_pos": 679,
+            "labels": []
+        },
+        {
+            "text": "started",
+            "start_pos": 680,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 688,
+            "end_pos": 690,
+            "labels": []
+        },
+        {
+            "text": "use",
+            "start_pos": 691,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "arts",
+            "start_pos": 695,
+            "end_pos": 699,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 700,
+            "end_pos": 703,
+            "labels": []
+        },
+        {
+            "text": "crafts",
+            "start_pos": 704,
+            "end_pos": 710,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 711,
+            "end_pos": 713,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 714,
+            "end_pos": 715,
+            "labels": []
+        },
+        {
+            "text": "tool",
+            "start_pos": 716,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 721,
+            "end_pos": 724,
+            "labels": []
+        },
+        {
+            "text": "activism",
+            "start_pos": 725,
+            "end_pos": 733,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 734,
+            "end_pos": 737,
+            "labels": []
+        },
+        {
+            "text": "political",
+            "start_pos": 738,
+            "end_pos": 747,
+            "labels": []
+        },
+        {
+            "text": "protest",
+            "start_pos": 748,
+            "end_pos": 755,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 755,
+            "end_pos": 756,
+            "labels": []
+        },
+        {
+            "text": "Carrie",
+            "start_pos": 758,
+            "end_pos": 764,
+            "labels": []
+        },
+        {
+            "text": "dedicated",
+            "start_pos": 765,
+            "end_pos": 774,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 775,
+            "end_pos": 778,
+            "labels": []
+        },
+        {
+            "text": "back",
+            "start_pos": 779,
+            "end_pos": 783,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 784,
+            "end_pos": 786,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 787,
+            "end_pos": 790,
+            "labels": []
+        },
+        {
+            "text": "house",
+            "start_pos": 791,
+            "end_pos": 796,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 797,
+            "end_pos": 799,
+            "labels": []
+        },
+        {
+            "text": "injustice",
+            "start_pos": 800,
+            "end_pos": 809,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 810,
+            "end_pos": 812,
+            "labels": []
+        },
+        {
+            "text": "referencing",
+            "start_pos": 813,
+            "end_pos": 824,
+            "labels": []
+        },
+        {
+            "text": "her",
+            "start_pos": 825,
+            "end_pos": 828,
+            "labels": []
+        },
+        {
+            "text": "pen",
+            "start_pos": 829,
+            "end_pos": 832,
+            "labels": []
+        },
+        {
+            "text": "pals",
+            "start_pos": 833,
+            "end_pos": 837,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 838,
+            "end_pos": 840,
+            "labels": []
+        },
+        {
+            "text": "prison",
+            "start_pos": 841,
+            "end_pos": 847,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 847,
+            "end_pos": 848,
+            "labels": []
+        },
+        {
+            "text": "political",
+            "start_pos": 849,
+            "end_pos": 858,
+            "labels": []
+        },
+        {
+            "text": "prisoners",
+            "start_pos": 859,
+            "end_pos": 868,
+            "labels": []
+        },
+        {
+            "text": "including",
+            "start_pos": 869,
+            "end_pos": 878,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 879,
+            "end_pos": 882,
+            "labels": []
+        },
+        {
+            "text": "Angola",
+            "start_pos": 883,
+            "end_pos": 889,
+            "labels": []
+        },
+        {
+            "text": "Three",
+            "start_pos": 890,
+            "end_pos": 895,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 896,
+            "end_pos": 899,
+            "labels": []
+        },
+        {
+            "text": "Black",
+            "start_pos": 900,
+            "end_pos": 905,
+            "labels": []
+        },
+        {
+            "text": "Panther",
+            "start_pos": 906,
+            "end_pos": 913,
+            "labels": []
+        },
+        {
+            "text": "Kenny",
+            "start_pos": 914,
+            "end_pos": 919,
+            "labels": []
+        },
+        {
+            "text": "\u2018",
+            "start_pos": 920,
+            "end_pos": 921,
+            "labels": []
+        },
+        {
+            "text": "Zulu\u2019",
+            "start_pos": 921,
+            "end_pos": 926,
+            "labels": []
+        },
+        {
+            "text": "Whitmore",
+            "start_pos": 927,
+            "end_pos": 935,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 935,
+            "end_pos": 936,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 937,
+            "end_pos": 940,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 941,
+            "end_pos": 944,
+            "labels": []
+        },
+        {
+            "text": "represented",
+            "start_pos": 945,
+            "end_pos": 956,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 957,
+            "end_pos": 959,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 960,
+            "end_pos": 961,
+            "labels": []
+        },
+        {
+            "text": "flying",
+            "start_pos": 962,
+            "end_pos": 968,
+            "labels": []
+        },
+        {
+            "text": "eyeball",
+            "start_pos": 969,
+            "end_pos": 976,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 976,
+            "end_pos": 977,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 978,
+            "end_pos": 982,
+            "labels": []
+        },
+        {
+            "text": "section",
+            "start_pos": 983,
+            "end_pos": 990,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 991,
+            "end_pos": 994,
+            "labels": []
+        },
+        {
+            "text": "completed",
+            "start_pos": 995,
+            "end_pos": 1004,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 1005,
+            "end_pos": 1009,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1010,
+            "end_pos": 1013,
+            "labels": []
+        },
+        {
+            "text": "help",
+            "start_pos": 1014,
+            "end_pos": 1018,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1019,
+            "end_pos": 1021,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1022,
+            "end_pos": 1023,
+            "labels": []
+        },
+        {
+            "text": "whole",
+            "start_pos": 1024,
+            "end_pos": 1029,
+            "labels": []
+        },
+        {
+            "text": "heap",
+            "start_pos": 1030,
+            "end_pos": 1034,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 1035,
+            "end_pos": 1037,
+            "labels": []
+        },
+        {
+            "text": "artist",
+            "start_pos": 1038,
+            "end_pos": 1044,
+            "labels": []
+        },
+        {
+            "text": "friends",
+            "start_pos": 1045,
+            "end_pos": 1052,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1052,
+            "end_pos": 1053,
+            "labels": []
+        },
+        {
+            "text": "activists",
+            "start_pos": 1054,
+            "end_pos": 1063,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 1064,
+            "end_pos": 1067,
+            "labels": []
+        },
+        {
+            "text": "volunteers",
+            "start_pos": 1068,
+            "end_pos": 1078,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1078,
+            "end_pos": 1079,
+            "labels": []
+        },
+        {
+            "text": "\u2018",
+            "start_pos": 1081,
+            "end_pos": 1082,
+            "labels": []
+        },
+        {
+            "text": "Art",
+            "start_pos": 1082,
+            "end_pos": 1085,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 1086,
+            "end_pos": 1088,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 1089,
+            "end_pos": 1090,
+            "labels": []
+        },
+        {
+            "text": "powerful",
+            "start_pos": 1091,
+            "end_pos": 1099,
+            "labels": []
+        },
+        {
+            "text": "way",
+            "start_pos": 1100,
+            "end_pos": 1103,
+            "labels": []
+        },
+        {
+            "text": "we",
+            "start_pos": 1104,
+            "end_pos": 1106,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 1107,
+            "end_pos": 1110,
+            "labels": []
+        },
+        {
+            "text": "open",
+            "start_pos": 1111,
+            "end_pos": 1115,
+            "labels": []
+        },
+        {
+            "text": "dialogue",
+            "start_pos": 1116,
+            "end_pos": 1124,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 1125,
+            "end_pos": 1127,
+            "labels": []
+        },
+        {
+            "text": "difficult",
+            "start_pos": 1128,
+            "end_pos": 1137,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 1137,
+            "end_pos": 1138,
+            "labels": []
+        },
+        {
+            "text": "painful",
+            "start_pos": 1139,
+            "end_pos": 1146,
+            "labels": []
+        },
+        {
+            "text": "conversations.\u2019",
+            "start_pos": 1147,
+            "end_pos": 1162,
+            "labels": []
+        },
+        {
+            "text": "she",
+            "start_pos": 1163,
+            "end_pos": 1166,
+            "labels": []
+        },
+        {
+            "text": "says",
+            "start_pos": 1167,
+            "end_pos": 1171,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1171,
+            "end_pos": 1172,
+            "labels": []
+        },
+        {
+            "text": "Read",
+            "start_pos": 1174,
+            "end_pos": 1178,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 1179,
+            "end_pos": 1182,
+            "labels": []
+        },
+        {
+            "text": "full",
+            "start_pos": 1183,
+            "end_pos": 1187,
+            "labels": []
+        },
+        {
+            "text": "interview",
+            "start_pos": 1188,
+            "end_pos": 1197,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 1198,
+            "end_pos": 1202,
+            "labels": []
+        },
+        {
+            "text": "Carrie",
+            "start_pos": 1203,
+            "end_pos": 1209,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 1210,
+            "end_pos": 1212,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 1213,
+            "end_pos": 1216,
+            "labels": []
+        },
+        {
+            "text": "link",
+            "start_pos": 1217,
+            "end_pos": 1221,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 1222,
+            "end_pos": 1224,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 1225,
+            "end_pos": 1228,
+            "labels": []
+        },
+        {
+            "text": "bio",
+            "start_pos": 1229,
+            "end_pos": 1232,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1232,
+            "end_pos": 1233,
+            "labels": []
+        },
+        {
+            "text": "[\ud83d\udcf7",
+            "start_pos": 1234,
+            "end_pos": 1236,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 1236,
+            "end_pos": 1237,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 1238,
+            "end_pos": 1239,
+            "labels": []
+        },
+        {
+            "text": "emmaloukinz",
+            "start_pos": 1239,
+            "end_pos": 1250,
+            "labels": []
+        },
+        {
+            "text": "]",
+            "start_pos": 1250,
+            "end_pos": 1251,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

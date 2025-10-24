@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverFaroeIslands ",
+        "start": 271,
+        "end": 295,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverFaroeIslands "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddf4",
+        "start": 265,
+        "end": 267,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddf4",
+            "location": "Faroe Islands"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Faroe Islands",
+        "start": 42,
+        "end": 55,
+        "groupdict": {
+            "name": "Faroe Islands",
+            "location": "Faroe Islands"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

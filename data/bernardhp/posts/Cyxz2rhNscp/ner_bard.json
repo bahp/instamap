@@ -1,0 +1,22 @@
+{
+    "content": "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Urbino\",\n      \"full_address\": \"Urbino, Italy\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Craco\",\n      \"full_address\": \"Craco, Italy\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"San Gimignano\",\n      \"full_address\": \"San Gimignano, Italy\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Caprarola\",\n      \"full_address\": \"Caprarola, Italy\",\n      \"order\": 4\n    },\n    {\n      \"name\": \"Monteriggioni\",\n      \"full_address\": \"Monteriggioni, Italy\",\n      \"order\": 5\n    },\n    {\n      \"name\": \"San Galgano\",\n      \"full_address\": \"San Galgano, Italy\",\n      \"order\": 6\n    },\n    {\n      \"name\": \"Castel del Monte\",\n      \"full_address\": \"Castel del Monte, Italy\",\n      \"order\": 7\n    },\n    {\n      \"name\": \"Maratea\",\n      \"full_address\": \"Maratea, Italy\",\n      \"order\": 8\n    },\n    {\n      \"name\": \"Orvieto\",\n      \"full_address\": \"Orvieto, Italy\",\n      \"order\": 9\n    },\n    {\n      \"name\": \"Castelmezzano\",\n      \"full_address\": \"Castelmezzano, Italy\",\n      \"order\": 10\n    }\n  ]\n}\n```\nI hope this is helpful!",
+    "conversation_id": "c_8d660f05e97ff834",
+    "response_id": "r_7ae5b7d2a0b7f03a",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_ce405a2c1d8c58fd",
+            "content": [
+                "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Urbino\",\n      \"full_address\": \"Urbino, Italy\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Craco\",\n      \"full_address\": \"Craco, Italy\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"San Gimignano\",\n      \"full_address\": \"San Gimignano, Italy\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Caprarola\",\n      \"full_address\": \"Caprarola, Italy\",\n      \"order\": 4\n    },\n    {\n      \"name\": \"Monteriggioni\",\n      \"full_address\": \"Monteriggioni, Italy\",\n      \"order\": 5\n    },\n    {\n      \"name\": \"San Galgano\",\n      \"full_address\": \"San Galgano, Italy\",\n      \"order\": 6\n    },\n    {\n      \"name\": \"Castel del Monte\",\n      \"full_address\": \"Castel del Monte, Italy\",\n      \"order\": 7\n    },\n    {\n      \"name\": \"Maratea\",\n      \"full_address\": \"Maratea, Italy\",\n      \"order\": 8\n    },\n    {\n      \"name\": \"Orvieto\",\n      \"full_address\": \"Orvieto, Italy\",\n      \"order\": 9\n    },\n    {\n      \"name\": \"Castelmezzano\",\n      \"full_address\": \"Castelmezzano, Italy\",\n      \"order\": 10\n    }\n  ]\n}\n```\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [
+        "https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USQxINcmVzcG9uc2VfZGF0YRoyCjAwMDA2MGE2MDUwNDQ3YmVmMDRhNDc0MmU3NTBiYzQ3OWVjYTE3YWNhMDRlYzQzYTQ&filename=locations.json&opi=103135050"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Urbino\",\n      \"full_address\": \"Urbino, Italy\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Craco\",\n      \"full_address\": \"Craco, Italy\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"San Gimignano\",\n      \"full_address\": \"San Gimignano, Italy\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Caprarola\",\n      \"full_address\": \"Caprarola, Italy\",\n      \"order\": 4\n    },\n    {\n      \"name\": \"Monteriggioni\",\n      \"full_address\": \"Monteriggioni, Italy\",\n      \"order\": 5\n    },\n    {\n      \"name\": \"San Galgano\",\n      \"full_address\": \"San Galgano, Italy\",\n      \"order\": 6\n    },\n    {\n      \"name\": \"Castel del Monte\",\n      \"full_address\": \"Castel del Monte, Italy\",\n      \"order\": 7\n    },\n    {\n      \"name\": \"Maratea\",\n      \"full_address\": \"Maratea, Italy\",\n      \"order\": 8\n    },\n    {\n      \"name\": \"Orvieto\",\n      \"full_address\": \"Orvieto, Italy\",\n      \"order\": 9\n    },\n    {\n      \"name\": \"Castelmezzano\",\n      \"full_address\": \"Castelmezzano, Italy\",\n      \"order\": 10\n    }\n  ]\n}\n",
+    "status_code": 200
+}

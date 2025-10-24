@@ -1,0 +1,1391 @@
+{
+    "text": "\ud83d\udd18The Longmen Grottoes\ud83d\udd18 \u26ablocated south of present-day Luoyang in Henan province, China. \u26abIn total, there is more than 2,300 grottoes and niches, 100,000 Buddhist statues, ranging in size from several centimetres to over 17 meters, and over 2,800 inscriptions carved on steles in the site, making it the largest such complex in China. \u26abThey are some of the finest examples of Chinese Buddhist art. \u26abThe grottoes or caves were excavated and carved with Buddhist subjects over the period from 493 AD to 1127 AD. \u26abThe earliest history of the creation of Longmen Grottoes is traced to the reign of Emperor Xiaowen of Northern Wei dynasty.  \ud83d\udc49Follow me @ancient.scientist to enjoy more and more posts about our world's marvellous History.\u2764  \ud83d\udcf8Photos by @cocoanext.  \ud83d\udce2Dm me for Promotion/ Business/ Advertisement\ud83d\udce9  #longmen #longmengrottoes #china #henan #cave #statue #divinities #sculpture #sanctuary #stones #bestplaces #ancientart #ancientworld #explore #explorepage #arqueologia #travelling #archaeology #archeology #heritage #worldheritage #culture #history #heritagesite #commagene #ancientcity",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Longmen Grottoes",
+            "start_pos": 5,
+            "end_pos": 21,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7551629841327667
+                }
+            ]
+        },
+        {
+            "text": "Luoyang",
+            "start_pos": 53,
+            "end_pos": 60,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999104738235474
+                }
+            ]
+        },
+        {
+            "text": "Henan",
+            "start_pos": 64,
+            "end_pos": 69,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9889345765113831
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 80,
+            "end_pos": 85,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999556541442871
+                }
+            ]
+        },
+        {
+            "text": "Buddhist",
+            "start_pos": 152,
+            "end_pos": 160,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.981191098690033
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 326,
+            "end_pos": 331,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998558759689331
+                }
+            ]
+        },
+        {
+            "text": "Chinese Buddhist",
+            "start_pos": 374,
+            "end_pos": 390,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9266479015350342
+                }
+            ]
+        },
+        {
+            "text": "Buddhist",
+            "start_pos": 450,
+            "end_pos": 458,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9973194003105164
+                }
+            ]
+        },
+        {
+            "text": "Longmen Grottoes",
+            "start_pos": 549,
+            "end_pos": 565,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8099175989627838
+                }
+            ]
+        },
+        {
+            "text": "Emperor Xiaowen",
+            "start_pos": 592,
+            "end_pos": 607,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.83879753947258
+                }
+            ]
+        },
+        {
+            "text": "Northern Wei",
+            "start_pos": 611,
+            "end_pos": 623,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8449239134788513
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "Longmen",
+            "start_pos": 5,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "Grottoes",
+            "start_pos": 13,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd18",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 24,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "south",
+            "start_pos": 32,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 38,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "present-day",
+            "start_pos": 41,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "Luoyang",
+            "start_pos": 53,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 61,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Henan",
+            "start_pos": 64,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "province",
+            "start_pos": 70,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 80,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 88,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "total",
+            "start_pos": 91,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 98,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 104,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 107,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "than",
+            "start_pos": 112,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "2,300",
+            "start_pos": 117,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "grottoes",
+            "start_pos": 123,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 132,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "niches",
+            "start_pos": 136,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "100,000",
+            "start_pos": 144,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "Buddhist",
+            "start_pos": 152,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "statues",
+            "start_pos": 161,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 168,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "ranging",
+            "start_pos": 170,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 178,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "size",
+            "start_pos": 181,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 186,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "several",
+            "start_pos": 191,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "centimetres",
+            "start_pos": 199,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 211,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 214,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "17",
+            "start_pos": 219,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "meters",
+            "start_pos": 222,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 230,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 234,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "2,800",
+            "start_pos": 239,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "inscriptions",
+            "start_pos": 245,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "carved",
+            "start_pos": 258,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 265,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "steles",
+            "start_pos": 268,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 275,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 278,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "site",
+            "start_pos": 282,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 286,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "making",
+            "start_pos": 288,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 295,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 298,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "largest",
+            "start_pos": 302,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "such",
+            "start_pos": 310,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "complex",
+            "start_pos": 315,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 323,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 326,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 331,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 333,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "They",
+            "start_pos": 334,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 339,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "some",
+            "start_pos": 343,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 348,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 351,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "finest",
+            "start_pos": 355,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "examples",
+            "start_pos": 362,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 371,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "Chinese",
+            "start_pos": 374,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "Buddhist",
+            "start_pos": 382,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "art",
+            "start_pos": 391,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 394,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 396,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 397,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "grottoes",
+            "start_pos": 401,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 410,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "caves",
+            "start_pos": 413,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "were",
+            "start_pos": 419,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "excavated",
+            "start_pos": 424,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 434,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "carved",
+            "start_pos": 438,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 445,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "Buddhist",
+            "start_pos": 450,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "subjects",
+            "start_pos": 459,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 468,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 473,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "period",
+            "start_pos": 477,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 484,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "493",
+            "start_pos": 489,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "AD",
+            "start_pos": 493,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 496,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "1127",
+            "start_pos": 499,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "AD",
+            "start_pos": 504,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 506,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "\u26ab",
+            "start_pos": 508,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 509,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "earliest",
+            "start_pos": 513,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 522,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 530,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 533,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "creation",
+            "start_pos": 537,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 546,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "Longmen",
+            "start_pos": 549,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "Grottoes",
+            "start_pos": 557,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 566,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "traced",
+            "start_pos": 569,
+            "end_pos": 575,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 576,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 579,
+            "end_pos": 582,
+            "labels": []
+        },
+        {
+            "text": "reign",
+            "start_pos": 583,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 589,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "Emperor",
+            "start_pos": 592,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "Xiaowen",
+            "start_pos": 600,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 608,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "Northern",
+            "start_pos": 611,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": "Wei",
+            "start_pos": 620,
+            "end_pos": 623,
+            "labels": []
+        },
+        {
+            "text": "dynasty",
+            "start_pos": 624,
+            "end_pos": 631,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 631,
+            "end_pos": 632,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49",
+            "start_pos": 634,
+            "end_pos": 635,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 635,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 642,
+            "end_pos": 644,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 645,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "ancient.scientist",
+            "start_pos": 646,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 664,
+            "end_pos": 666,
+            "labels": []
+        },
+        {
+            "text": "enjoy",
+            "start_pos": 667,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 673,
+            "end_pos": 677,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 678,
+            "end_pos": 681,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 682,
+            "end_pos": 686,
+            "labels": []
+        },
+        {
+            "text": "posts",
+            "start_pos": 687,
+            "end_pos": 692,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 693,
+            "end_pos": 698,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 699,
+            "end_pos": 702,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 703,
+            "end_pos": 708,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 708,
+            "end_pos": 710,
+            "labels": []
+        },
+        {
+            "text": "marvellous",
+            "start_pos": 711,
+            "end_pos": 721,
+            "labels": []
+        },
+        {
+            "text": "History",
+            "start_pos": 722,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 729,
+            "end_pos": 730,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 730,
+            "end_pos": 731,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 733,
+            "end_pos": 734,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 734,
+            "end_pos": 740,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 741,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 744,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "cocoanext",
+            "start_pos": 745,
+            "end_pos": 754,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 754,
+            "end_pos": 755,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce2",
+            "start_pos": 757,
+            "end_pos": 758,
+            "labels": []
+        },
+        {
+            "text": "Dm",
+            "start_pos": 758,
+            "end_pos": 760,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 761,
+            "end_pos": 763,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 764,
+            "end_pos": 767,
+            "labels": []
+        },
+        {
+            "text": "Promotion",
+            "start_pos": 768,
+            "end_pos": 777,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 777,
+            "end_pos": 778,
+            "labels": []
+        },
+        {
+            "text": "Business",
+            "start_pos": 779,
+            "end_pos": 787,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 787,
+            "end_pos": 788,
+            "labels": []
+        },
+        {
+            "text": "Advertisement",
+            "start_pos": 789,
+            "end_pos": 802,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce9",
+            "start_pos": 802,
+            "end_pos": 803,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 805,
+            "end_pos": 806,
+            "labels": []
+        },
+        {
+            "text": "longmen",
+            "start_pos": 806,
+            "end_pos": 813,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 814,
+            "end_pos": 815,
+            "labels": []
+        },
+        {
+            "text": "longmengrottoes",
+            "start_pos": 815,
+            "end_pos": 830,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 831,
+            "end_pos": 832,
+            "labels": []
+        },
+        {
+            "text": "china",
+            "start_pos": 832,
+            "end_pos": 837,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 838,
+            "end_pos": 839,
+            "labels": []
+        },
+        {
+            "text": "henan",
+            "start_pos": 839,
+            "end_pos": 844,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 845,
+            "end_pos": 846,
+            "labels": []
+        },
+        {
+            "text": "cave",
+            "start_pos": 846,
+            "end_pos": 850,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 851,
+            "end_pos": 852,
+            "labels": []
+        },
+        {
+            "text": "statue",
+            "start_pos": 852,
+            "end_pos": 858,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 859,
+            "end_pos": 860,
+            "labels": []
+        },
+        {
+            "text": "divinities",
+            "start_pos": 860,
+            "end_pos": 870,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 871,
+            "end_pos": 872,
+            "labels": []
+        },
+        {
+            "text": "sculpture",
+            "start_pos": 872,
+            "end_pos": 881,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 882,
+            "end_pos": 883,
+            "labels": []
+        },
+        {
+            "text": "sanctuary",
+            "start_pos": 883,
+            "end_pos": 892,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 893,
+            "end_pos": 894,
+            "labels": []
+        },
+        {
+            "text": "stones",
+            "start_pos": 894,
+            "end_pos": 900,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 901,
+            "end_pos": 902,
+            "labels": []
+        },
+        {
+            "text": "bestplaces",
+            "start_pos": 902,
+            "end_pos": 912,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 913,
+            "end_pos": 914,
+            "labels": []
+        },
+        {
+            "text": "ancientart",
+            "start_pos": 914,
+            "end_pos": 924,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 925,
+            "end_pos": 926,
+            "labels": []
+        },
+        {
+            "text": "ancientworld",
+            "start_pos": 926,
+            "end_pos": 938,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 939,
+            "end_pos": 940,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 940,
+            "end_pos": 947,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 948,
+            "end_pos": 949,
+            "labels": []
+        },
+        {
+            "text": "explorepage",
+            "start_pos": 949,
+            "end_pos": 960,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 961,
+            "end_pos": 962,
+            "labels": []
+        },
+        {
+            "text": "arqueologia",
+            "start_pos": 962,
+            "end_pos": 973,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 974,
+            "end_pos": 975,
+            "labels": []
+        },
+        {
+            "text": "travelling",
+            "start_pos": 975,
+            "end_pos": 985,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 986,
+            "end_pos": 987,
+            "labels": []
+        },
+        {
+            "text": "archaeology",
+            "start_pos": 987,
+            "end_pos": 998,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 999,
+            "end_pos": 1000,
+            "labels": []
+        },
+        {
+            "text": "archeology",
+            "start_pos": 1000,
+            "end_pos": 1010,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1011,
+            "end_pos": 1012,
+            "labels": []
+        },
+        {
+            "text": "heritage",
+            "start_pos": 1012,
+            "end_pos": 1020,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1021,
+            "end_pos": 1022,
+            "labels": []
+        },
+        {
+            "text": "worldheritage",
+            "start_pos": 1022,
+            "end_pos": 1035,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1036,
+            "end_pos": 1037,
+            "labels": []
+        },
+        {
+            "text": "culture",
+            "start_pos": 1037,
+            "end_pos": 1044,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1045,
+            "end_pos": 1046,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 1046,
+            "end_pos": 1053,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1054,
+            "end_pos": 1055,
+            "labels": []
+        },
+        {
+            "text": "heritagesite",
+            "start_pos": 1055,
+            "end_pos": 1067,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1068,
+            "end_pos": 1069,
+            "labels": []
+        },
+        {
+            "text": "commagene",
+            "start_pos": 1069,
+            "end_pos": 1078,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1079,
+            "end_pos": 1080,
+            "labels": []
+        },
+        {
+            "text": "ancientcity",
+            "start_pos": 1080,
+            "end_pos": 1091,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,258 @@
+{
+    "text": "\ud83c\udf0f Yogyakarta, Indonesia  \ud83d\udcf7@annanymity \u00abTHIS moment.  Candi Sewu at golden hour.\u00bb . . . . . #candisewu #prambanan #yogyakarta #Indonesia #jogja #southeastasia",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Yogyakarta",
+            "start_pos": 2,
+            "end_pos": 12,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997804760932922
+                }
+            ]
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 14,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999231100082397
+                }
+            ]
+        },
+        {
+            "text": "Candi Sewu",
+            "start_pos": 53,
+            "end_pos": 63,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.993584007024765
+                }
+            ]
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 126,
+            "end_pos": 135,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7496480345726013
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\udf0f",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Yogyakarta",
+            "start_pos": 2,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 14,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7@",
+            "start_pos": 25,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "annanymity",
+            "start_pos": 27,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "\u00ab",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "THIS",
+            "start_pos": 39,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "moment",
+            "start_pos": 44,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "Candi",
+            "start_pos": 53,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "Sewu",
+            "start_pos": 59,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 64,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "golden",
+            "start_pos": 67,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "hour",
+            "start_pos": 74,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "\u00bb",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "candisewu",
+            "start_pos": 92,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "prambanan",
+            "start_pos": 103,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "yogyakarta",
+            "start_pos": 114,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "Indonesia",
+            "start_pos": 126,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 136,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "jogja",
+            "start_pos": 137,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "southeastasia",
+            "start_pos": 144,
+            "end_pos": 157,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

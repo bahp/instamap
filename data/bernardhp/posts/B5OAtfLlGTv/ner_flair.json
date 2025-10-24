@@ -1,0 +1,98 @@
+{
+    "text": "Fairytale vibes in Colmar, France \ud83d\ude0d Photo by @tonyrammath",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Colmar",
+            "start_pos": 19,
+            "end_pos": 25,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996315240859985
+                }
+            ]
+        },
+        {
+            "text": "France",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998505115509033
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Fairytale",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "vibes",
+            "start_pos": 10,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "Colmar",
+            "start_pos": 19,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "France",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 36,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "tonyrammath",
+            "start_pos": 46,
+            "end_pos": 57,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverVietnam",
+        "start": 144,
+        "end": 162,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverVietnam"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddfb\ud83c\uddf3",
+        "start": 103,
+        "end": 105,
+        "groupdict": {
+            "flag": "\ud83c\uddfb\ud83c\uddf3",
+            "location": "Viet Nam"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdRennd\u00f8lsetra, Innerdalen",
+        "start": 71,
+        "end": 96,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Rennd\u00f8lsetra, Innerdalen"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf4",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf4",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

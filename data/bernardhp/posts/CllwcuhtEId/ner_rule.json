@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdShinjuku, Tokyo ",
+        "start": 0,
+        "end": 17,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Shinjuku, Tokyo "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddef\ud83c\uddf5",
+        "start": 17,
+        "end": 19,
+        "groupdict": {
+            "flag": "\ud83c\uddef\ud83c\uddf5",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

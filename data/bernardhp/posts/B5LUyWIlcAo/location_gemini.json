@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Old Town Gdansk",
+        "subtitle": "Historic center of Gdansk, Poland",
+        "lat": 54.3486,
+        "lon": 18.6543,
+        "type": "historic district",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Gdansk",
+        "subtitle": "Major port city in northern Poland",
+        "lat": 54.35,
+        "lon": 18.65,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2
+    },
+    {
+        "title": "Amsterdam",
+        "subtitle": "Capital of the Netherlands",
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3
+    },
+    {
+        "title": "Poland",
+        "subtitle": "Country in Central Europe",
+        "lat": 52.0,
+        "lon": 19.0,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.85,
+        "rank": 4
+    }
+]

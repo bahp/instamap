@@ -1,0 +1,313 @@
+{
+    "text": "Exploring Norway \ud83d\ude0d\ud83c\uddf3\ud83c\uddf4 ~ Double Tap \ud83c\udf0d \ud83d\udccd Location: Bj\u00f8rkedalen, Norway \ud83d\udcf8 Photo by: @mal.dickson.photography \u2022 \u2022 \u2022 \u2022 #norway #norgefoto #norwaytravel #bestofnorway #norgerundt #norgebilder #norwayraw #norwaytrip #naturebrilliance #norway_nature",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Norway",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9980898499488831
+                }
+            ]
+        },
+        {
+            "text": "Bj\u00f8rkedalen",
+            "start_pos": 48,
+            "end_pos": 59,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7759315371513367
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 61,
+            "end_pos": 67,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9970375299453735
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Exploring",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 17,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "~",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Double",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Tap",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0d",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Location",
+            "start_pos": 38,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "Bj\u00f8rkedalen",
+            "start_pos": 48,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 61,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 70,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 76,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "mal.dickson.photography",
+            "start_pos": 81,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 105,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 111,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 114,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 121,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "norgefoto",
+            "start_pos": 122,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "norwaytravel",
+            "start_pos": 133,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 146,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "bestofnorway",
+            "start_pos": 147,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 160,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "norgerundt",
+            "start_pos": 161,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 172,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "norgebilder",
+            "start_pos": 173,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 185,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "norwayraw",
+            "start_pos": 186,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 196,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "norwaytrip",
+            "start_pos": 197,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "naturebrilliance",
+            "start_pos": 209,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 226,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 227,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 233,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 234,
+            "end_pos": 240,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

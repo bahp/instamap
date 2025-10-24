@@ -1,0 +1,14 @@
+[
+    {
+        "text": "japan",
+        "start": 42,
+        "end": 47,
+        "groupdict": {
+            "name": "japan",
+            "location": "japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

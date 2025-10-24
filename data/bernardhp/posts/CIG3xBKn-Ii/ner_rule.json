@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccc Follow: @hiddengemsinlondon ",
+        "start": 159,
+        "end": 189,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Follow: @hiddengemsinlondon "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 274,
+        "end": 276,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

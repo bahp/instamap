@@ -1,0 +1,656 @@
+{
+    "text": "The Sirao Flower Gardens, more commonly referred to as Cebu\u2019s \u2018Mini-Amsterdam,\u2019 is one of the best attractions located in Cebu\u2019s Transcentral Highway that attracts tourists for its colorful fields of flowers. When the flower farm craze went viral on social media in 2015, hundreds of visitors flocked the barangay of Sirao to catch glimpse of the fiery multi-colored field of celosias \u2014 the main flower grown in Sirao Garden.   \ud83c\uddf5\ud83c\udded #discoverphilippines  Photographer : Unknown DM for Credits #sirao #flowers #philippines",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Sirao Flower Gardens",
+            "start_pos": 4,
+            "end_pos": 24,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8378745913505554
+                }
+            ]
+        },
+        {
+            "text": "Cebu",
+            "start_pos": 55,
+            "end_pos": 59,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5671305656433105
+                }
+            ]
+        },
+        {
+            "text": "Mini-Amsterdam",
+            "start_pos": 63,
+            "end_pos": 77,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7162618637084961
+                }
+            ]
+        },
+        {
+            "text": "Cebu",
+            "start_pos": 122,
+            "end_pos": 126,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8427027463912964
+                }
+            ]
+        },
+        {
+            "text": "Transcentral Highway",
+            "start_pos": 129,
+            "end_pos": 149,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9783166348934174
+                }
+            ]
+        },
+        {
+            "text": "Sirao",
+            "start_pos": 317,
+            "end_pos": 322,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9418360590934753
+                }
+            ]
+        },
+        {
+            "text": "Sirao Garden",
+            "start_pos": 412,
+            "end_pos": 424,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9512648582458496
+                }
+            ]
+        },
+        {
+            "text": "philippines",
+            "start_pos": 508,
+            "end_pos": 519,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9388676881790161
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "The",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "Sirao",
+            "start_pos": 4,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Flower",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Gardens",
+            "start_pos": 17,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 26,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "commonly",
+            "start_pos": 31,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "referred",
+            "start_pos": 40,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 49,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Cebu",
+            "start_pos": 55,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "\u2018",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Mini-Amsterdam",
+            "start_pos": 63,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "\u2019",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 80,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 83,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 87,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 90,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 94,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "attractions",
+            "start_pos": 99,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 111,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 119,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "Cebu",
+            "start_pos": 122,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 126,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "Transcentral",
+            "start_pos": 129,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "Highway",
+            "start_pos": 142,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 150,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "attracts",
+            "start_pos": 155,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "tourists",
+            "start_pos": 164,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 173,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 177,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "colorful",
+            "start_pos": 181,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "fields",
+            "start_pos": 190,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 197,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "flowers",
+            "start_pos": 200,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 207,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "When",
+            "start_pos": 209,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 214,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "flower",
+            "start_pos": 218,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "farm",
+            "start_pos": 225,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "craze",
+            "start_pos": 230,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "went",
+            "start_pos": 236,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "viral",
+            "start_pos": 241,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 247,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "social",
+            "start_pos": 250,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "media",
+            "start_pos": 257,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 263,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "2015",
+            "start_pos": 266,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 270,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "hundreds",
+            "start_pos": 272,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 281,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "visitors",
+            "start_pos": 284,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "flocked",
+            "start_pos": 293,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 301,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "barangay",
+            "start_pos": 305,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 314,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "Sirao",
+            "start_pos": 317,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 323,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "catch",
+            "start_pos": 326,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "glimpse",
+            "start_pos": 332,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 340,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 343,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "fiery",
+            "start_pos": 347,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "multi-colored",
+            "start_pos": 353,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "field",
+            "start_pos": 367,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 373,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "celosias",
+            "start_pos": 376,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 385,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 387,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "main",
+            "start_pos": 391,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "flower",
+            "start_pos": 396,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "grown",
+            "start_pos": 403,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 409,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "Sirao",
+            "start_pos": 412,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "Garden",
+            "start_pos": 418,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 424,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf5\ud83c\udded",
+            "start_pos": 428,
+            "end_pos": 430,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 431,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "discoverphilippines",
+            "start_pos": 432,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "Photographer",
+            "start_pos": 453,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 466,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "Unknown",
+            "start_pos": 468,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "DM",
+            "start_pos": 476,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 479,
+            "end_pos": 482,
+            "labels": []
+        },
+        {
+            "text": "Credits",
+            "start_pos": 483,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 491,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "sirao",
+            "start_pos": 492,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 498,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "flowers",
+            "start_pos": 499,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 507,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "philippines",
+            "start_pos": 508,
+            "end_pos": 519,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

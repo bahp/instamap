@@ -1,0 +1,31 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kamakura\",\n      \"full_address\": \"Kamakura, Kanagawa, Japan\",\n      \"order\": 1,\n      \"map_url\": \"https://maps.google.com/?cid=6269138749601293570\"\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/3",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_b7a86ffb89e6a15d",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_60f06d51ed78ff5d",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kamakura\",\n      \"full_address\": \"Kamakura, Kanagawa, Japan\",\n      \"order\": 1,\n      \"map_url\": \"https://maps.google.com/?cid=6269138749601293570\"\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/3"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=6269138749601293570",
+        "https://maps.google.com/?cid=6269138749601293570",
+        "http://googleusercontent.com/map_content/3",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "http://googleusercontent.com/url/0",
+        "https://media.istockphoto.com/photos/shimoyoshida-honcho-street-in-fujinomiya-japan-picture-id509209392?s=612x612",
+        "http://googleusercontent.com/url/1",
+        "https://media.istockphoto.com/photos/lake-tanuki-fuji-japan-picture-id913405856?s=612x612",
+        "http://googleusercontent.com/url/2",
+        "https://media.istockphoto.com/photos/fujisan-yumeno-ohashi-bridge-at-sunrise-picture-id1227883595?s=612x612"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Kamakura\",\n      \"full_address\": \"Kamakura, Kanagawa, Japan\",\n      \"order\": 1,\n      \"map_url\": \"https://maps.google.com/?cid=6269138749601293570\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

@@ -1,0 +1,523 @@
+{
+    "text": "Here are some cheap fast foods you can find in Japan under $10! \ud83d\udcb4\ud83e\udd29\ud83c\udf8c  \ud83d\udca1It\u2019s common for Japanese fast food restaurants to offer more healthy and fresh options compared to their American counterparts, such as salads, grilled fish sandwiches, and rice bowls.  \ud83c\udff7 Tag someone visiting soon and let them know!  \ud83c\udfa5 @brianplascencia \u2728  \ud83d\udccdJapan  #japanfood #japanfood #japanesefood #foodporn #reels #cheapbuy #ilovejapan",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Japan",
+            "start_pos": 47,
+            "end_pos": 52,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999061822891235
+                }
+            ]
+        },
+        {
+            "text": "Japanese",
+            "start_pos": 86,
+            "end_pos": 94,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9983817338943481
+                }
+            ]
+        },
+        {
+            "text": "American",
+            "start_pos": 175,
+            "end_pos": 183,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.996509850025177
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Here",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "some",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "cheap",
+            "start_pos": 14,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "fast",
+            "start_pos": 20,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "foods",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 31,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 35,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "find",
+            "start_pos": 39,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 47,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "under",
+            "start_pos": 53,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "$",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcb4\ud83e\udd29\ud83c\udf8c",
+            "start_pos": 64,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udca1",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "It",
+            "start_pos": 70,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 72,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "common",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 82,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "Japanese",
+            "start_pos": 86,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "fast",
+            "start_pos": 95,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "food",
+            "start_pos": 100,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "restaurants",
+            "start_pos": 105,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 117,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "offer",
+            "start_pos": 120,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 126,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "healthy",
+            "start_pos": 131,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 139,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "fresh",
+            "start_pos": 143,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "options",
+            "start_pos": 149,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "compared",
+            "start_pos": 157,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 166,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "their",
+            "start_pos": 169,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "American",
+            "start_pos": 175,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "counterparts",
+            "start_pos": 184,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 196,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "such",
+            "start_pos": 198,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 203,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "salads",
+            "start_pos": 206,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "grilled",
+            "start_pos": 214,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "fish",
+            "start_pos": 222,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "sandwiches",
+            "start_pos": 227,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 237,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 239,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 243,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "bowls",
+            "start_pos": 248,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 253,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udff7",
+            "start_pos": 256,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 258,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "someone",
+            "start_pos": 262,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "visiting",
+            "start_pos": 270,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "soon",
+            "start_pos": 279,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 284,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "let",
+            "start_pos": 288,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "them",
+            "start_pos": 292,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "know",
+            "start_pos": 297,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 301,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfa5",
+            "start_pos": 304,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 306,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "brianplascencia",
+            "start_pos": 307,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 323,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 326,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 327,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 334,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "japanfood",
+            "start_pos": 335,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 345,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "japanfood",
+            "start_pos": 346,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 356,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "japanesefood",
+            "start_pos": 357,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 370,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "foodporn",
+            "start_pos": 371,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 380,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "reels",
+            "start_pos": 381,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 387,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "cheapbuy",
+            "start_pos": 388,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 397,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "ilovejapan",
+            "start_pos": 398,
+            "end_pos": 408,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

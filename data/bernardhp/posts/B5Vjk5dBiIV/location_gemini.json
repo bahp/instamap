@@ -1,0 +1,32 @@
+[
+    {
+        "title": "London",
+        "subtitle": "Capital city of England",
+        "lat": 51.5073219,
+        "lon": -0.1276474,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 1
+    },
+    {
+        "title": "Greece",
+        "subtitle": "Country in Southeast Europe",
+        "lat": 39.074208,
+        "lon": 21.824312,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.85,
+        "rank": 2
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent in the Northern Hemisphere",
+        "lat": 48.69096,
+        "lon": 17.58982,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.75,
+        "rank": 3
+    }
+]

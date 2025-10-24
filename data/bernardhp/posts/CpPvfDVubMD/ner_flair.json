@@ -1,0 +1,416 @@
+{
+    "text": "\u7121\u6570\u306e\u6728\u6750\u304c\u964d\u308a\u6ce8\u3050\u300c\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928\u300d \u305a\u3063\u3068\u884c\u304d\u305f\u304b\u3063\u305f\u300c\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928\u300d\u306b\u884c\u3063\u3066\u304d\u307e\u3057\u305f\u3002\u6728\u306e\u611f\u89e6\u3068\u9999\u308a\u304c\u5fc3\u5730\u3088\u304f\u3066\u3001\u5c0f\u5b66\u751f\u306e\u6642\u65b0\u6821\u820e\u306b\u521d\u3081\u3066\u5165\u3063\u305f\u6642\u306e\u611f\u899a\u3092\u601d\u3044\u51fa\u3057\u307e\u3057\u305f\u3002\u9774\u3092\u8131\u3044\u3067\u5165\u9928\u3059\u308b\u306e\u3082\u65b0\u9bae\u3067\u662f\u975e\u884c\u3063\u3066\u307b\u3057\u3044\u5834\u6240\u3067\u3059\u3002  The \"Library Above the Clouds\" was built as the core facility of Yusuhara's vision, \"Yusuhara, where people and nature coexist in harmony and shine. The library was built entirely from local cedar, with countless drops of wood pouring down from the ceiling.  #\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928 #\u68bc\u539f\u753a #\u68bc\u539f\u753a\u7acb\u56f3\u66f8\u9928 #\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928 #\u9ad8\u77e5 #\u9ad8\u77e5\u770c #\u9ad8\u77e5\u89b3\u5149 #\u56db\u56fd\u65c5\u884c #\u56db\u56fd #\u9688\u7814\u543e",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Yusuhara",
+            "start_pos": 183,
+            "end_pos": 191,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9300204515457153
+                }
+            ]
+        },
+        {
+            "text": "Yusuhara",
+            "start_pos": 203,
+            "end_pos": 211,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6070337295532227
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\u7121\u6570\u306e\u6728\u6750\u304c\u964d\u308a\u6ce8\u3050\u300c\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928\u300d",
+            "start_pos": 0,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "\u305a\u3063\u3068\u884c\u304d\u305f\u304b\u3063\u305f\u300c\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928\u300d\u306b\u884c\u3063\u3066\u304d\u307e\u3057\u305f\u3002\u6728\u306e\u611f\u89e6\u3068\u9999\u308a\u304c\u5fc3\u5730\u3088\u304f\u3066\u3001\u5c0f\u5b66\u751f\u306e\u6642\u65b0\u6821\u820e\u306b\u521d\u3081\u3066\u5165\u3063\u305f\u6642\u306e\u611f\u899a\u3092\u601d\u3044\u51fa\u3057\u307e\u3057\u305f\u3002\u9774\u3092\u8131\u3044\u3067\u5165\u9928\u3059\u308b\u306e\u3082\u65b0\u9bae\u3067\u662f\u975e\u884c\u3063\u3066\u307b\u3057\u3044\u5834\u6240\u3067\u3059",
+            "start_pos": 20,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "\u3002",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 118,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 122,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "Library",
+            "start_pos": 123,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "Above",
+            "start_pos": 131,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 137,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "Clouds",
+            "start_pos": 141,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 149,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "built",
+            "start_pos": 153,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 159,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 162,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "core",
+            "start_pos": 166,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "facility",
+            "start_pos": 171,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 180,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "Yusuhara",
+            "start_pos": 183,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 191,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "vision",
+            "start_pos": 194,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 200,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 202,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "Yusuhara",
+            "start_pos": 203,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 211,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 213,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "people",
+            "start_pos": 219,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 226,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 230,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "coexist",
+            "start_pos": 237,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 245,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "harmony",
+            "start_pos": 248,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 256,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "shine",
+            "start_pos": 260,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 265,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 267,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "library",
+            "start_pos": 271,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 279,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "built",
+            "start_pos": 283,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "entirely",
+            "start_pos": 289,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 298,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "local",
+            "start_pos": 303,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "cedar",
+            "start_pos": 309,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 314,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 316,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "countless",
+            "start_pos": 321,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "drops",
+            "start_pos": 331,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 337,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "wood",
+            "start_pos": 340,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "pouring",
+            "start_pos": 345,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "down",
+            "start_pos": 353,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 358,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 363,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "ceiling",
+            "start_pos": 367,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 374,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "#\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928",
+            "start_pos": 377,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": "#\u68bc\u539f\u753a",
+            "start_pos": 386,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "#\u68bc\u539f\u753a\u7acb\u56f3\u66f8\u9928",
+            "start_pos": 391,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "#\u96f2\u306e\u4e0a\u306e\u56f3\u66f8\u9928",
+            "start_pos": 400,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "#\u9ad8\u77e5",
+            "start_pos": 409,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "#\u9ad8\u77e5\u770c",
+            "start_pos": 413,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "#\u9ad8\u77e5\u89b3\u5149",
+            "start_pos": 418,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "#\u56db\u56fd\u65c5\u884c",
+            "start_pos": 424,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "#\u56db\u56fd",
+            "start_pos": 430,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "#\u9688\u7814\u543e",
+            "start_pos": 434,
+            "end_pos": 438,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

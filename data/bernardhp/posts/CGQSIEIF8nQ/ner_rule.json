@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd #Ravello",
+        "start": 0,
+        "end": 10,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #Ravello"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 150,
+        "end": 155,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

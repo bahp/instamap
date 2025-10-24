@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Strahov Monastery Theological Hall\",\n    \"full_address\": \"Strahov Monastery, Prague 1, Czech Republic\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/04/17/17/29/prague-1605559_960_720.jpg\"\n  },\n  {\n    \"name\": \"Klementinum Baroque Library\",\n    \"full_address\": \"Klementinum, Prague 1, Czech Republic\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/03/23/19/42/library-4433049_960_720.jpg\"\n  },\n  {\n    \"name\": \"Strahov Monastery Philosophical Hall\",\n    \"full_address\": \"Strahov Monastery, Prague 1, Czech Republic\",\n    \"order\": 3,\n    \"image\": \"https://cdn.pixabay.com/photo/2021/02/03/19/00/prague-5987042_960_720.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_127cf9263bb22f1a",
+    "factuality_queries": null,
+    "text_query": [
+        "[",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_62cdd8d1ec8bd297",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Strahov Monastery Theological Hall\",\n    \"full_address\": \"Strahov Monastery, Prague 1, Czech Republic\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/04/17/17/29/prague-1605559_960_720.jpg\"\n  },\n  {\n    \"name\": \"Klementinum Baroque Library\",\n    \"full_address\": \"Klementinum, Prague 1, Czech Republic\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/03/23/19/42/library-4433049_960_720.jpg\"\n  },\n  {\n    \"name\": \"Strahov Monastery Philosophical Hall\",\n    \"full_address\": \"Strahov Monastery, Prague 1, Czech Republic\",\n    \"order\": 3,\n    \"image\": \"https://cdn.pixabay.com/photo/2021/02/03/19/00/prague-5987042_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_5cb89ae978858d7e",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Theological Hall at Strahov Monastery\",\n    \"full_address\": \"Hrad\u010dansk\u00e9 n\u00e1m\u011bst\u00ed 1, 118 00 Praha 1, Czech Republic\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/b/bc/Strahov_Monastery_Library_Prague.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Klementinum\u2019s Baroque Library\",\n    \"full_address\": \"Mari\u00e1nsk\u00e9 n\u00e1m\u011bst\u00ed 5, 110 00 Star\u00e9 M\u011bsto, Czech Republic\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/Klementinum_Prague_Interior_Library.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Philosophical Hall at the Strahov Monastery\",\n    \"full_address\": \"Hrad\u010dansk\u00e9 n\u00e1m\u011bst\u00ed 1, 118 00 Praha 1, Czech Republic\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/Strahov_Monastery_Philosophical_Library.jpg\",\n    \"order\": 3\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_e3a1243dc1308e57",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Strahov Monastery Theological Hall\",\n    \"full_address\": \"Strahov Monastery, 118 00 Prague 1, Czech Republic\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2015/03/06/10/53/prague-171678_960_720.jpg\"\n  },\n  {\n    \"name\": \"Klementinum Baroque Library\",\n    \"full_address\": \"Klementinum, 110 01 Prague 1, Czech Republic\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2018/01/02/21/18/prague-3050309_960_720.jpg\"\n  },\n  {\n    \"name\": \"Strahov Monastery Philosophical Hall\",\n    \"full_address\": \"Strahov Monastery, 118 00 Prague 1, Czech Republic\",\n    \"order\": 3,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/03/13/10/27/strahov-monastery-prague-1575340_960_720.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Strahov Monastery Theological Hall\",\n    \"full_address\": \"Strahov Monastery, Prague 1, Czech Republic\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/04/17/17/29/prague-1605559_960_720.jpg\"\n  },\n  {\n    \"name\": \"Klementinum Baroque Library\",\n    \"full_address\": \"Klementinum, Prague 1, Czech Republic\",\n    \"order\": 2,\n    \"image\": \"https://cdn.pixabay.com/photo/2019/03/23/19/42/library-4433049_960_720.jpg\"\n  },\n  {\n    \"name\": \"Strahov Monastery Philosophical Hall\",\n    \"full_address\": \"Strahov Monastery, Prague 1, Czech Republic\",\n    \"order\": 3,\n    \"image\": \"https://cdn.pixabay.com/photo/2021/02/03/19/00/prague-5987042_960_720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

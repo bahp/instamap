@@ -1,0 +1,1413 @@
+{
+    "text": "Huevos Mayak \ud83e\udd2f- los huevos m\u00e1s adictivos que he probado  Si te gusta, dale amor al post \u2764 y guarda\ud83d\udd12la receta para prepararlos. Est\u00e1n BRUTALES.   \u23f1 Marinado antes de consumir: m\u00ednimo 1 noche (ideal 24h).  \u2744 Aguantan f\u00e1cil 4 d\u00edas en nevera (ideal batch cooking).  \ud83d\udd25 Para toque picante, sustituid pimiento verde por jalape\u00f1o o otro.  \ud83c\udf43 Pod\u00e9is a\u00f1adir el s\u00e9samo en el propio marinado, pero yo prefiero hacerlo en el momento de consumir.  \u267b No os recomiendo reciclar el marinado. Pierde sabor y los huevos se os pondr\u00e1n malos antes. Mejor consumir el marinado cada vez que se preparan.  \ud83e\udd5a Para textura cremosa (como en el v\u00eddeo) 6 min de cocci\u00f3n justos (con huevos al natural). Para m\u00e1s cocidos ajustad tiempo, y importante el ba\u00f1o con hielo para detener la cocci\u00f3n y ayudar a pelar.  \ud83e\uded9MARINADO para 6 huevos: 1/2 taza soja, y 1/2 taza agua y miel/agave/az\u00facar (otros endulzantes ajustad cantidad). Y 2 ajos, y 1 trozo de pimiento verde, rojo y cebollino.   Enjoy!  #huevosmayak #mayak #mayakeggs #huevoscoreanos #huevosmarinados #huevoscocidos #sofboiledeggs #koreaneggs #huevos #batchcooking #avocadotails",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Huevos Mayak",
+            "start_pos": 0,
+            "end_pos": 12,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.634347528219223
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Huevos",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "Mayak",
+            "start_pos": 7,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd2f-",
+            "start_pos": 13,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 16,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "huevos",
+            "start_pos": 20,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1s",
+            "start_pos": 27,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "adictivos",
+            "start_pos": 31,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 41,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "he",
+            "start_pos": 45,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "probado",
+            "start_pos": 48,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Si",
+            "start_pos": 57,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "te",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "gusta",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "dale",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "amor",
+            "start_pos": 75,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 80,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "post",
+            "start_pos": 83,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "\u2764",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "guarda",
+            "start_pos": 92,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd12",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 99,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "receta",
+            "start_pos": 102,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 109,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "prepararlos",
+            "start_pos": 114,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "Est\u00e1n",
+            "start_pos": 127,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "BRUTALES",
+            "start_pos": 133,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 141,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "\u23f1",
+            "start_pos": 145,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "Marinado",
+            "start_pos": 147,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "antes",
+            "start_pos": 156,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 162,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "consumir",
+            "start_pos": 165,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 173,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "m\u00ednimo",
+            "start_pos": 175,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "noche",
+            "start_pos": 184,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 190,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "ideal",
+            "start_pos": 191,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "24h",
+            "start_pos": 197,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 200,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 201,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "\u2744",
+            "start_pos": 204,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "Aguantan",
+            "start_pos": 206,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "f\u00e1cil",
+            "start_pos": 215,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "4",
+            "start_pos": 221,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "d\u00edas",
+            "start_pos": 223,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 228,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "nevera",
+            "start_pos": 231,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 238,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "ideal",
+            "start_pos": 239,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "batch",
+            "start_pos": 245,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "cooking",
+            "start_pos": 251,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 258,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 259,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd25",
+            "start_pos": 262,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "Para",
+            "start_pos": 264,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "toque",
+            "start_pos": 269,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "picante",
+            "start_pos": 275,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 282,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "sustituid",
+            "start_pos": 284,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "pimiento",
+            "start_pos": 294,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "verde",
+            "start_pos": 303,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "por",
+            "start_pos": 309,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "jalape\u00f1o",
+            "start_pos": 313,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "o",
+            "start_pos": 322,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "otro",
+            "start_pos": 324,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 328,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf43",
+            "start_pos": 331,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "Pod\u00e9is",
+            "start_pos": 333,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "a\u00f1adir",
+            "start_pos": 340,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 347,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "s\u00e9samo",
+            "start_pos": 350,
+            "end_pos": 356,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 357,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 360,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "propio",
+            "start_pos": 363,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "marinado",
+            "start_pos": 370,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 378,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": "pero",
+            "start_pos": 380,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "yo",
+            "start_pos": 385,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "prefiero",
+            "start_pos": 388,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "hacerlo",
+            "start_pos": 397,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 405,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 408,
+            "end_pos": 410,
+            "labels": []
+        },
+        {
+            "text": "momento",
+            "start_pos": 411,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 419,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "consumir",
+            "start_pos": 422,
+            "end_pos": 430,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 430,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "\u267b",
+            "start_pos": 433,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "No",
+            "start_pos": 435,
+            "end_pos": 437,
+            "labels": []
+        },
+        {
+            "text": "os",
+            "start_pos": 438,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "recomiendo",
+            "start_pos": 441,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "reciclar",
+            "start_pos": 452,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 461,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "marinado",
+            "start_pos": 464,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 472,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "Pierde",
+            "start_pos": 474,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": "sabor",
+            "start_pos": 481,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 487,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 489,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "huevos",
+            "start_pos": 493,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "se",
+            "start_pos": 500,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "os",
+            "start_pos": 503,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "pondr\u00e1n",
+            "start_pos": 506,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "malos",
+            "start_pos": 514,
+            "end_pos": 519,
+            "labels": []
+        },
+        {
+            "text": "antes",
+            "start_pos": 520,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 525,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "Mejor",
+            "start_pos": 527,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": "consumir",
+            "start_pos": 533,
+            "end_pos": 541,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 542,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "marinado",
+            "start_pos": 545,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "cada",
+            "start_pos": 554,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "vez",
+            "start_pos": 559,
+            "end_pos": 562,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 563,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": "se",
+            "start_pos": 567,
+            "end_pos": 569,
+            "labels": []
+        },
+        {
+            "text": "preparan",
+            "start_pos": 570,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 578,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd5a",
+            "start_pos": 581,
+            "end_pos": 582,
+            "labels": []
+        },
+        {
+            "text": "Para",
+            "start_pos": 583,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "textura",
+            "start_pos": 588,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "cremosa",
+            "start_pos": 596,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 604,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "como",
+            "start_pos": 605,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 610,
+            "end_pos": 612,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 613,
+            "end_pos": 615,
+            "labels": []
+        },
+        {
+            "text": "v\u00eddeo",
+            "start_pos": 616,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 621,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "6",
+            "start_pos": 623,
+            "end_pos": 624,
+            "labels": []
+        },
+        {
+            "text": "min",
+            "start_pos": 625,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 629,
+            "end_pos": 631,
+            "labels": []
+        },
+        {
+            "text": "cocci\u00f3n",
+            "start_pos": 632,
+            "end_pos": 639,
+            "labels": []
+        },
+        {
+            "text": "justos",
+            "start_pos": 640,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 647,
+            "end_pos": 648,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 648,
+            "end_pos": 651,
+            "labels": []
+        },
+        {
+            "text": "huevos",
+            "start_pos": 652,
+            "end_pos": 658,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 659,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": "natural",
+            "start_pos": 662,
+            "end_pos": 669,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 669,
+            "end_pos": 670,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 670,
+            "end_pos": 671,
+            "labels": []
+        },
+        {
+            "text": "Para",
+            "start_pos": 672,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1s",
+            "start_pos": 677,
+            "end_pos": 680,
+            "labels": []
+        },
+        {
+            "text": "cocidos",
+            "start_pos": 681,
+            "end_pos": 688,
+            "labels": []
+        },
+        {
+            "text": "ajustad",
+            "start_pos": 689,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "tiempo",
+            "start_pos": 697,
+            "end_pos": 703,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 703,
+            "end_pos": 704,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 705,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": "importante",
+            "start_pos": 707,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 718,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "ba\u00f1o",
+            "start_pos": 721,
+            "end_pos": 725,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 726,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "hielo",
+            "start_pos": 730,
+            "end_pos": 735,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 736,
+            "end_pos": 740,
+            "labels": []
+        },
+        {
+            "text": "detener",
+            "start_pos": 741,
+            "end_pos": 748,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 749,
+            "end_pos": 751,
+            "labels": []
+        },
+        {
+            "text": "cocci\u00f3n",
+            "start_pos": 752,
+            "end_pos": 759,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 760,
+            "end_pos": 761,
+            "labels": []
+        },
+        {
+            "text": "ayudar",
+            "start_pos": 762,
+            "end_pos": 768,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 769,
+            "end_pos": 770,
+            "labels": []
+        },
+        {
+            "text": "pelar",
+            "start_pos": 771,
+            "end_pos": 776,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 776,
+            "end_pos": 777,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\uded9",
+            "start_pos": 779,
+            "end_pos": 780,
+            "labels": []
+        },
+        {
+            "text": "MARINADO",
+            "start_pos": 780,
+            "end_pos": 788,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 789,
+            "end_pos": 793,
+            "labels": []
+        },
+        {
+            "text": "6",
+            "start_pos": 794,
+            "end_pos": 795,
+            "labels": []
+        },
+        {
+            "text": "huevos",
+            "start_pos": 796,
+            "end_pos": 802,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 802,
+            "end_pos": 803,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 804,
+            "end_pos": 805,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 805,
+            "end_pos": 806,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 806,
+            "end_pos": 807,
+            "labels": []
+        },
+        {
+            "text": "taza",
+            "start_pos": 808,
+            "end_pos": 812,
+            "labels": []
+        },
+        {
+            "text": "soja",
+            "start_pos": 813,
+            "end_pos": 817,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 817,
+            "end_pos": 818,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 819,
+            "end_pos": 820,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 821,
+            "end_pos": 822,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 822,
+            "end_pos": 823,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 823,
+            "end_pos": 824,
+            "labels": []
+        },
+        {
+            "text": "taza",
+            "start_pos": 825,
+            "end_pos": 829,
+            "labels": []
+        },
+        {
+            "text": "agua",
+            "start_pos": 830,
+            "end_pos": 834,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 835,
+            "end_pos": 836,
+            "labels": []
+        },
+        {
+            "text": "miel",
+            "start_pos": 837,
+            "end_pos": 841,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 841,
+            "end_pos": 842,
+            "labels": []
+        },
+        {
+            "text": "agave",
+            "start_pos": 842,
+            "end_pos": 847,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 847,
+            "end_pos": 848,
+            "labels": []
+        },
+        {
+            "text": "az\u00facar",
+            "start_pos": 848,
+            "end_pos": 854,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 855,
+            "end_pos": 856,
+            "labels": []
+        },
+        {
+            "text": "otros",
+            "start_pos": 856,
+            "end_pos": 861,
+            "labels": []
+        },
+        {
+            "text": "endulzantes",
+            "start_pos": 862,
+            "end_pos": 873,
+            "labels": []
+        },
+        {
+            "text": "ajustad",
+            "start_pos": 874,
+            "end_pos": 881,
+            "labels": []
+        },
+        {
+            "text": "cantidad",
+            "start_pos": 882,
+            "end_pos": 890,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 890,
+            "end_pos": 891,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 891,
+            "end_pos": 892,
+            "labels": []
+        },
+        {
+            "text": "Y",
+            "start_pos": 893,
+            "end_pos": 894,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 895,
+            "end_pos": 896,
+            "labels": []
+        },
+        {
+            "text": "ajos",
+            "start_pos": 897,
+            "end_pos": 901,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 901,
+            "end_pos": 902,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 903,
+            "end_pos": 904,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 905,
+            "end_pos": 906,
+            "labels": []
+        },
+        {
+            "text": "trozo",
+            "start_pos": 907,
+            "end_pos": 912,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 913,
+            "end_pos": 915,
+            "labels": []
+        },
+        {
+            "text": "pimiento",
+            "start_pos": 916,
+            "end_pos": 924,
+            "labels": []
+        },
+        {
+            "text": "verde",
+            "start_pos": 925,
+            "end_pos": 930,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 930,
+            "end_pos": 931,
+            "labels": []
+        },
+        {
+            "text": "rojo",
+            "start_pos": 932,
+            "end_pos": 936,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 937,
+            "end_pos": 938,
+            "labels": []
+        },
+        {
+            "text": "cebollino",
+            "start_pos": 939,
+            "end_pos": 948,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 948,
+            "end_pos": 949,
+            "labels": []
+        },
+        {
+            "text": "Enjoy",
+            "start_pos": 952,
+            "end_pos": 957,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 957,
+            "end_pos": 958,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 960,
+            "end_pos": 961,
+            "labels": []
+        },
+        {
+            "text": "huevosmayak",
+            "start_pos": 961,
+            "end_pos": 972,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 973,
+            "end_pos": 974,
+            "labels": []
+        },
+        {
+            "text": "mayak",
+            "start_pos": 974,
+            "end_pos": 979,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 980,
+            "end_pos": 981,
+            "labels": []
+        },
+        {
+            "text": "mayakeggs",
+            "start_pos": 981,
+            "end_pos": 990,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 991,
+            "end_pos": 992,
+            "labels": []
+        },
+        {
+            "text": "huevoscoreanos",
+            "start_pos": 992,
+            "end_pos": 1006,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1007,
+            "end_pos": 1008,
+            "labels": []
+        },
+        {
+            "text": "huevosmarinados",
+            "start_pos": 1008,
+            "end_pos": 1023,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1024,
+            "end_pos": 1025,
+            "labels": []
+        },
+        {
+            "text": "huevoscocidos",
+            "start_pos": 1025,
+            "end_pos": 1038,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1039,
+            "end_pos": 1040,
+            "labels": []
+        },
+        {
+            "text": "sofboiledeggs",
+            "start_pos": 1040,
+            "end_pos": 1053,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1054,
+            "end_pos": 1055,
+            "labels": []
+        },
+        {
+            "text": "koreaneggs",
+            "start_pos": 1055,
+            "end_pos": 1065,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1066,
+            "end_pos": 1067,
+            "labels": []
+        },
+        {
+            "text": "huevos",
+            "start_pos": 1067,
+            "end_pos": 1073,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1074,
+            "end_pos": 1075,
+            "labels": []
+        },
+        {
+            "text": "batchcooking",
+            "start_pos": 1075,
+            "end_pos": 1087,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1088,
+            "end_pos": 1089,
+            "labels": []
+        },
+        {
+            "text": "avocadotails",
+            "start_pos": 1089,
+            "end_pos": 1101,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

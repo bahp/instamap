@@ -1,0 +1,749 @@
+{
+    "text": "Reminder: This is will London looks like in 3 months!\u2744\ud83c\udf84  \ud83d\udca1 London is home to numerous Christmas markets, where you can find unique gifts, delicious food, and festive treats. Popular markets include Winter Wonderland in Hyde Park, Southbank Centre Winter Market, and the traditional market at Covent Garden.  Did you spend Christmas before in London ?\ud83d\ude0d  \ud83c\udfa5 Credits to    1. travelwithveronicca 2. @discoverydock  3. @discoverydock  4. @photographyby_vee  5. @samchowtravels   \ud83d\udccdLondon, UK    #london #londoncity #london\ud83c\uddec\ud83c\udde7 #christmas #christmastime #uk",
+    "labels": [],
+    "entities": [
+        {
+            "text": "London",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9986867308616638
+                }
+            ]
+        },
+        {
+            "text": "London",
+            "start_pos": 59,
+            "end_pos": 65,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9992268085479736
+                }
+            ]
+        },
+        {
+            "text": "Christmas",
+            "start_pos": 86,
+            "end_pos": 95,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6121172308921814
+                }
+            ]
+        },
+        {
+            "text": "Winter Wonderland",
+            "start_pos": 198,
+            "end_pos": 215,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5955974161624908
+                }
+            ]
+        },
+        {
+            "text": "Hyde Park",
+            "start_pos": 219,
+            "end_pos": 228,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9942578077316284
+                }
+            ]
+        },
+        {
+            "text": "Southbank Centre Winter Market",
+            "start_pos": 230,
+            "end_pos": 260,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.6026810184121132
+                }
+            ]
+        },
+        {
+            "text": "Covent Garden",
+            "start_pos": 292,
+            "end_pos": 305,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7881574630737305
+                }
+            ]
+        },
+        {
+            "text": "London",
+            "start_pos": 342,
+            "end_pos": 348,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997357726097107
+                }
+            ]
+        },
+        {
+            "text": "London",
+            "start_pos": 475,
+            "end_pos": 481,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9463229775428772
+                }
+            ]
+        },
+        {
+            "text": "UK",
+            "start_pos": 483,
+            "end_pos": 485,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999532699584961
+                }
+            ]
+        },
+        {
+            "text": "london",
+            "start_pos": 490,
+            "end_pos": 496,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5889521241188049
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Reminder",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 10,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "will",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "looks",
+            "start_pos": 30,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 36,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 41,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "months",
+            "start_pos": 46,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "\u2744\ud83c\udf84",
+            "start_pos": 53,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udca1",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 59,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 66,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "home",
+            "start_pos": 69,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 74,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "numerous",
+            "start_pos": 77,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "Christmas",
+            "start_pos": 86,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "markets",
+            "start_pos": 96,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 105,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 111,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 115,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "find",
+            "start_pos": 119,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "unique",
+            "start_pos": 124,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "gifts",
+            "start_pos": 131,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 136,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "delicious",
+            "start_pos": 138,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "food",
+            "start_pos": 148,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 152,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 154,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "festive",
+            "start_pos": 158,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "treats",
+            "start_pos": 166,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 172,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "Popular",
+            "start_pos": 174,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "markets",
+            "start_pos": 182,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "include",
+            "start_pos": 190,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "Winter",
+            "start_pos": 198,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "Wonderland",
+            "start_pos": 205,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 216,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "Hyde",
+            "start_pos": 219,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "Park",
+            "start_pos": 224,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "Southbank",
+            "start_pos": 230,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "Centre",
+            "start_pos": 240,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "Winter",
+            "start_pos": 247,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "Market",
+            "start_pos": 254,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 260,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 262,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 266,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "traditional",
+            "start_pos": 270,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "market",
+            "start_pos": 282,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 289,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "Covent",
+            "start_pos": 292,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "Garden",
+            "start_pos": 299,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 305,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "Did",
+            "start_pos": 308,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 312,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "spend",
+            "start_pos": 316,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "Christmas",
+            "start_pos": 322,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 332,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 339,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 342,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 349,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 350,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfa5",
+            "start_pos": 353,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "Credits",
+            "start_pos": 355,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 363,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "1.",
+            "start_pos": 369,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "travelwithveronicca",
+            "start_pos": 372,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "2.",
+            "start_pos": 392,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 395,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "discoverydock",
+            "start_pos": 396,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "3.",
+            "start_pos": 411,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 414,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "discoverydock",
+            "start_pos": 415,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "4.",
+            "start_pos": 430,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 433,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "photographyby",
+            "start_pos": 434,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 447,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "vee",
+            "start_pos": 448,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "5.",
+            "start_pos": 453,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 456,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "samchowtravels",
+            "start_pos": 457,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 474,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 475,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 481,
+            "end_pos": 482,
+            "labels": []
+        },
+        {
+            "text": "UK",
+            "start_pos": 483,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 489,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "london",
+            "start_pos": 490,
+            "end_pos": 496,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 497,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "londoncity",
+            "start_pos": 498,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 509,
+            "end_pos": 510,
+            "labels": []
+        },
+        {
+            "text": "london",
+            "start_pos": 510,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddec\ud83c\udde7",
+            "start_pos": 516,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 519,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "christmas",
+            "start_pos": 520,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 530,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "christmastime",
+            "start_pos": 531,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 545,
+            "end_pos": 546,
+            "labels": []
+        },
+        {
+            "text": "uk",
+            "start_pos": 546,
+            "end_pos": 548,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

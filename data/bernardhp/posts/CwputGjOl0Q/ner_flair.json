@@ -1,0 +1,243 @@
+{
+    "text": "Labor Day Sale! Everything in the shop, including this Highland Home diorama, is 20% off through Tuesday!  . . . . . #diorama #dioramaart #scotlandart #scottishhighlands #artprocess",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Labor Day Sale!",
+            "start_pos": 0,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8951136469841003
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Labor",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Day",
+            "start_pos": 6,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Sale",
+            "start_pos": 10,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 14,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "Everything",
+            "start_pos": 16,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 27,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 30,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "shop",
+            "start_pos": 34,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "including",
+            "start_pos": 40,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 50,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Highland",
+            "start_pos": 55,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Home",
+            "start_pos": 64,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "diorama",
+            "start_pos": 69,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 76,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 78,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "20",
+            "start_pos": 81,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "%",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "off",
+            "start_pos": 85,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "through",
+            "start_pos": 89,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "Tuesday",
+            "start_pos": 97,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 111,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "diorama",
+            "start_pos": 118,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "dioramaart",
+            "start_pos": 127,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 138,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "scotlandart",
+            "start_pos": 139,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "scottishhighlands",
+            "start_pos": 152,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 170,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "artprocess",
+            "start_pos": 171,
+            "end_pos": 181,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

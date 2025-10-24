@@ -1,0 +1,141 @@
+[
+    {
+        "text": "1. Brussels by @lorigavalda",
+        "start": 206,
+        "end": 233,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Brussels by @lorigavalda"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Ghent by @kosnio",
+        "start": 234,
+        "end": 253,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Ghent by @kosnio"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Brugge by @bangupnata",
+        "start": 254,
+        "end": 278,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Brugge by @bangupnata"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Mechelen by @bouchta_be",
+        "start": 279,
+        "end": 305,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Mechelen by @bouchta_be"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Leuven by roland_abi",
+        "start": 306,
+        "end": 329,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Leuven by roland_abi"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Ghent by @imad_mouawad",
+        "start": 330,
+        "end": 355,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Ghent by @imad_mouawad"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Brugge by @lorigavalda",
+        "start": 356,
+        "end": 381,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Brugge by @lorigavalda"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Heavenly Pizza in Brugge by @ichmiles",
+        "start": 382,
+        "end": 422,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Heavenly Pizza in Brugge by @ichmiles"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83d\udccd Locations ",
+        "start": 192,
+        "end": 204,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Locations "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde7\ud83c\uddea",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\udde7\ud83c\uddea",
+            "location": "Belgium"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Belgium",
+        "start": 152,
+        "end": 159,
+        "groupdict": {
+            "name": "Belgium",
+            "location": "Belgium"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Libreria Acqua Alta",
+        "subtitle": "Famous bookstore in Venice, Italy",
+        "lat": 45.439871,
+        "lon": 12.341179,
+        "type": "bookstore",
+        "class": "shop",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "Venice",
+        "subtitle": "Historic city in northeastern Italy",
+        "lat": 45.437191,
+        "lon": 12.33459,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Italy",
+        "subtitle": "Country in Southern Europe",
+        "lat": 41.87194,
+        "lon": 12.56738,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    }
+]

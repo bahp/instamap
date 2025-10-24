@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccd Foroglio/ Switzerland ",
+        "start": 89,
+        "end": 113,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Foroglio/ Switzerland "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\udded",
+        "start": 113,
+        "end": 115,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\udded",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Switzerland",
+        "start": 101,
+        "end": 112,
+        "groupdict": {
+            "name": "Switzerland",
+            "location": "Switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "switzerland",
+        "start": 228,
+        "end": 239,
+        "groupdict": {
+            "name": "switzerland",
+            "location": "switzerland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

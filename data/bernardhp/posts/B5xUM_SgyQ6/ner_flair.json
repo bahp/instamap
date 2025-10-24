@@ -1,0 +1,176 @@
+{
+    "text": "The incredible beauty of Switzerland \ud83d\udc9a Which photo is your favorite, 1, 2, 3 or 4? Photos by @sennarelax",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Switzerland",
+            "start_pos": 25,
+            "end_pos": 36,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9947850108146667
+                }
+            ]
+        },
+        {
+            "text": "sennarelax",
+            "start_pos": 94,
+            "end_pos": 104,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7444738149642944
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "The",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "incredible",
+            "start_pos": 4,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 15,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "Switzerland",
+            "start_pos": 25,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc9a",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Which",
+            "start_pos": 39,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 51,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 59,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 77,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "4",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 90,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "sennarelax",
+            "start_pos": 94,
+            "end_pos": 104,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

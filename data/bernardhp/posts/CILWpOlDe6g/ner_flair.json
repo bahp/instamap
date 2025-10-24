@@ -1,0 +1,213 @@
+{
+    "text": "Nestled in San Bernardino national forest is this dream cabin. Which angle is your fav, 1-5? Photos by @dirtandglass Cabin @whiskeyridgechalet Share your story: #roamtheplanet",
+    "labels": [],
+    "entities": [
+        {
+            "text": "San Bernardino",
+            "start_pos": 11,
+            "end_pos": 25,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9909695982933044
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Nestled",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 8,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "San",
+            "start_pos": 11,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Bernardino",
+            "start_pos": 15,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "national",
+            "start_pos": 26,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "forest",
+            "start_pos": 35,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 42,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 45,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "dream",
+            "start_pos": 50,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "cabin",
+            "start_pos": 56,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Which",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "angle",
+            "start_pos": 69,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 75,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 78,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "fav",
+            "start_pos": 83,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "1-5",
+            "start_pos": 88,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "Photos",
+            "start_pos": 93,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 100,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "dirtandglass",
+            "start_pos": 104,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "Cabin",
+            "start_pos": 117,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 123,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "whiskeyridgechalet",
+            "start_pos": 124,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "Share",
+            "start_pos": 143,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 149,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "story",
+            "start_pos": 154,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 161,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "roamtheplanet",
+            "start_pos": 162,
+            "end_pos": 175,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

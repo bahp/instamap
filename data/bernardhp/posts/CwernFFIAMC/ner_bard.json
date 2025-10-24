@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Koufonisia\",\n    \"full_address\": \"Koufonisia, Greece\",\n    \"order\": 1,\n    \"image\": \"https://www.greeka.com/media/uploads/items/koufonisi-small-cyclades-greece_108193_1280x720.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_7ea9df29b287ffa2",
+    "response_id": "r_1c359692acf56cc2",
+    "factuality_queries": null,
+    "text_query": [
+        "Koufonisia",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_3e7386fd993b2820",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Koufonisia\",\n    \"full_address\": \"Koufonisia, Greece\",\n    \"order\": 1,\n    \"image\": \"https://www.greeka.com/media/uploads/items/koufonisi-small-cyclades-greece_108193_1280x720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_30e41e44317e8660",
+            "content": [
+                "As the provided caption only includes the location name \"Koufonisia\", there is not enough information to extract a complete JSON file with name, full address, and order for each location. The location name is \"Koufonisia\", which refers to two islands in the Cyclades archipelago of Greece: Pano Koufonisi (Upper Koufonisi) and Kato Koufonisi (Lower Koufonisi). Without additional context, it is impossible to determine which specific location is being referred to or if both islands are being included in the caption.\n\nHere's a partial JSON file with the available information:\n\n```json\n[\n  {\n    \"name\": \"Koufonisia\",\n    \"full_address\": \"Koufonisia, Greece\",\n    \"order\": 1\n  }\n]\n```\n\nTo provide a more complete JSON file, you would need to provide additional context, such as specific locations within Koufonisia, or clarify whether the caption refers to both Pano Koufonisi and Kato Koufonisi."
+            ]
+        },
+        {
+            "id": "rc_efebaa302514ecf5",
+            "content": [
+                "Since the caption doesn't provide any specific locations other than Koufonisia itself, it's not possible to extract information about individual locations. However, I can provide general information about Koufonisia:\n\n```json\n{\n  \"name\": \"Koufonisia\",\n  \"full_address\": \"Koufonisia, Greece\",\n  \"description\": \"Koufonisia is a small Greek island group in the Aegean Sea, consisting of two main islands, Pano Koufonisi and Kato Koufonisi. It is part of the Small Cyclades island group. Koufonisia is known for its beautiful beaches, clear waters, and relaxed atmosphere.\",\n  \"images\": [\n    \"https://www.greece-islands.com/images/koufonisia/koufonisia-beach-finikia.jpg\",\n    \"https://www.greece-vacation.com/images/koufonisia/koufonisia-beach-pissokas.jpg\",\n    \"https://www.greece-travel.com/images/koufonisia/koufonisia-village-chora.jpg\"\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Koufonisia\",\n    \"full_address\": \"Koufonisia, Greece\",\n    \"order\": 1,\n    \"image\": \"https://www.greeka.com/media/uploads/items/koufonisi-small-cyclades-greece_108193_1280x720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

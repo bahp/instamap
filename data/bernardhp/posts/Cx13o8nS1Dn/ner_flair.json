@@ -1,0 +1,170 @@
+{
+    "text": "Wonderful sunset scene in Vietnam, rice terraces of Mu Cang Chai.  #vietnam #mucangchai #hanoi #hochiminh #hoian",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Vietnam",
+            "start_pos": 26,
+            "end_pos": 33,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9885552525520325
+                }
+            ]
+        },
+        {
+            "text": "Mu Cang Chai",
+            "start_pos": 52,
+            "end_pos": 64,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8655134836832682
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Wonderful",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "sunset",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "scene",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 23,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "Vietnam",
+            "start_pos": 26,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 33,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "rice",
+            "start_pos": 35,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "terraces",
+            "start_pos": 40,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 49,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "Mu",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Cang",
+            "start_pos": 55,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Chai",
+            "start_pos": 60,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "vietnam",
+            "start_pos": 68,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 76,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "mucangchai",
+            "start_pos": 77,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "hanoi",
+            "start_pos": 89,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "hochiminh",
+            "start_pos": 96,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "hoian",
+            "start_pos": 107,
+            "end_pos": 112,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

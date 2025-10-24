@@ -1,0 +1,51 @@
+{
+    "text": "Greenland \ud83c\uddec\ud83c\uddf1 \ud83d\udcf8 @freddychristensen",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Greenland",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9982795715332031
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Greenland",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddec\ud83c\uddf1",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "freddychristensen",
+            "start_pos": 16,
+            "end_pos": 33,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

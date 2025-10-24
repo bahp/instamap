@@ -1,0 +1,36 @@
+[
+    {
+        "text": "\ud83d\udccd \u5730\u5740\u5728\u5b9a\u4f4d\u5904 \u897f\u5b89\u5f00\u8f6640\u5206\u949f\u5de6\u53f3 \u4e5f\u53ef\u4ee5\u5750\u5730\u94c11\u53f7\u7ebf\u7ec8\u70b9\u7ad9\uff08\u6ca3\u6cb3\u68ee\u6797\u516c\u56ed\uff09\u540e \u5750\u51fa\u79df\u6216\u516c\u4ea4\u90fd\u53ef\u4ee5\u5230\u7684 \u8fd9\u91cc\u7b97\u662f\u9655\u897f\u7f8e\u98df\u5927\u835f\u8403\uff0c\u98ce\u683c\u72ec\u7279 \u6709\u620f\u53f0\u3001\u8336\u9986\u3001\u5404\u7c7b\u5c0f\u5403\uff0c\u70df\u706b\u6c14\u5341\u8db3\u3002",
+        "start": 136,
+        "end": 225,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " \u5730\u5740\u5728\u5b9a\u4f4d\u5904 \u897f\u5b89\u5f00\u8f6640\u5206\u949f\u5de6\u53f3 \u4e5f\u53ef\u4ee5\u5750\u5730\u94c11\u53f7\u7ebf\u7ec8\u70b9\u7ad9\uff08\u6ca3\u6cb3\u68ee\u6797\u516c\u56ed\uff09\u540e \u5750\u51fa\u79df\u6216\u516c\u4ea4\u90fd\u53ef\u4ee5\u5230\u7684 \u8fd9\u91cc\u7b97\u662f\u9655\u897f\u7f8e\u98df\u5927\u835f\u8403\uff0c\u98ce\u683c\u72ec\u7279 \u6709\u620f\u53f0\u3001\u8336\u9986\u3001\u5404\u7c7b\u5c0f\u5403\uff0c\u70df\u706b\u6c14\u5341\u8db3\u3002"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccc Todo sobre China en nuestro grupo de Facebook:",
+        "start": 558,
+        "end": 606,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Todo sobre China en nuestro grupo de Facebook:"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "China",
+        "start": 571,
+        "end": 576,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

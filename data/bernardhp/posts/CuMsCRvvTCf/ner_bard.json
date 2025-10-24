@@ -1,0 +1,56 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kyoto\",\n      \"full_address\": \"Kyoto, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/kyoto-japan\"\n    }\n  ]\n}\n```\n\n**Image of Kyoto**\n[Image of Kyoto, Japan]\n\nThe caption mentions the name of the city, Kyoto, and its country, Japan. The city is located in Kansai region, Japan. The order of the location is 1, as it is the first location mentioned in the caption.",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_c902ac55ef2f0487",
+    "factuality_queries": null,
+    "text_query": [
+        "Kyoto",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_aca53da574eb3b19",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kyoto\",\n      \"full_address\": \"Kyoto, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/kyoto-japan\"\n    }\n  ]\n}\n```\n\n**Image of Kyoto**\n[Image of Kyoto, Japan]\n\nThe caption mentions the name of the city, Kyoto, and its country, Japan. The city is located in Kansai region, Japan. The order of the location is 1, as it is the first location mentioned in the caption."
+            ]
+        },
+        {
+            "id": "rc_9e581ed6e57db160",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kyoto\",\n      \"full_address\": \"Kyoto, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/kyoto-japan\"\n    }\n  ]\n}\n```\n\n**Image of Kyoto**\n[Image of Kyoto in Japan]\n\nThe caption mentions the name of the city, Kyoto, and its country, Japan. The city is located in the Kansai region of Japan. The order of the location is 1, as it is the only location mentioned in the caption."
+            ]
+        },
+        {
+            "id": "rc_25505cdf020d0e64",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kyoto\",\n      \"full_address\": \"Kyoto, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/kyoto-japan\"\n    }\n  ]\n}\n```\n\n**Image of Kyoto**\n[Image of Kyoto, Japan]\n\nThe caption mentions the name of the city, Kyoto, and its country, Japan. The city is located in Kansai, Japan. The order of the location is 1, as it is the only location mentioned in the caption."
+            ]
+        }
+    ],
+    "links": [
+        "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2020/05/kyoto-view-iStock-1146262403-562x421.jpg",
+        "https://japancheapo.com/locations/kyoto/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTebmSTODsMu9MXfJM88rt7t99fN7iWO9nRAv05mUWTtRCopQWB3pB-rVb6rUW8",
+        "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2020/05/kyoto-view-iStock-1146262403-562x421.jpg",
+        "https://japancheapo.com/locations/kyoto/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTebmSTODsMu9MXfJM88rt7t99fN7iWO9nRAv05mUWTtRCopQWB3pB-rVb6rUW8",
+        "https://www.japan-guide.com/thumb/XYZeXYZe2158_1680b.jpg",
+        "https://www.japan-guide.com/e/e2158.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY11zFAJOLscjz_uyqH0osxRAfYdYwaEfegMeCiDJpOo80amy5nx6pSc1SsdQt",
+        "https://www.japan-guide.com/thumb/XYZeXYZe2158_1680b.jpg",
+        "https://www.japan-guide.com/e/e2158.html",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY11zFAJOLscjz_uyqH0osxRAfYdYwaEfegMeCiDJpOo80amy5nx6pSc1SsdQt",
+        "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2020/05/kyoto-view-iStock-1146262403-562x421.jpg",
+        "https://japancheapo.com/locations/kyoto/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTebmSTODsMu9MXfJM88rt7t99fN7iWO9nRAv05mUWTtRCopQWB3pB-rVb6rUW8",
+        "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2020/05/kyoto-view-iStock-1146262403-562x421.jpg",
+        "https://japancheapo.com/locations/kyoto/",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTebmSTODsMu9MXfJM88rt7t99fN7iWO9nRAv05mUWTtRCopQWB3pB-rVb6rUW8"
+    ],
+    "images": [
+        "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2020/05/kyoto-view-iStock-1146262403-562x421.jpg"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Kyoto\",\n      \"full_address\": \"Kyoto, Japan\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/kyoto-japan\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

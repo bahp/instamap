@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Snowshill\",\n    \"full_address\": \"Snowshill, Gloucestershire, England, United Kingdom\",\n    \"order\": 1\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_db219232010b6371",
+    "factuality_queries": null,
+    "text_query": [
+        "Snowshill, United Kingdom",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_881417e567c4779b",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Snowshill\",\n    \"full_address\": \"Snowshill, Gloucestershire, England, United Kingdom\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_7bc32d68064d7712",
+            "content": [
+                "Sure, here is the location you requested in JSON format:\n\n```json\n{\n  \"places\": [\n    {\n      \"name\": \"Snowshill\",\n      \"full_address\": \"Snowshill, Gloucestershire, England, UK\",\n      \"order\": 1\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_b28929e50d38acf3",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Snowshill\",\n    \"full_address\": \"Snowshill, Gloucestershire, England, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2023/01/11/18/01/snowshill-3077716_960_720.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Snowshill\",\n    \"full_address\": \"Snowshill, Gloucestershire, England, United Kingdom\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,54 @@
+[
+    {
+        "text": "1. Champs de Mars / Eiffel Tower",
+        "start": 72,
+        "end": 104,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Champs de Mars / Eiffel Tower"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Alexander lll Bridge",
+        "start": 105,
+        "end": 128,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Alexander lll Bridge"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Place des Vosges",
+        "start": 129,
+        "end": 148,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Place des Vosges"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Sacr\u00e9 C\u0153ur/ Montmartre\ud83d\ude00",
+        "start": 149,
+        "end": 175,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Sacr\u00e9 C\u0153ur/ Montmartre\ud83d\ude00"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    }
+]

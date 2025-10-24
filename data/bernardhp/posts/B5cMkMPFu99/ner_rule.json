@@ -1,0 +1,54 @@
+[
+    {
+        "text": "1. Neuschwanstein Castle (@alaa_oth)",
+        "start": 73,
+        "end": 109,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Neuschwanstein Castle (@alaa_oth)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Eltz Castle (@kyrenian)",
+        "start": 110,
+        "end": 136,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Eltz Castle (@kyrenian)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Hohenzollern Castle (@_marcelsiebert)",
+        "start": 169,
+        "end": 209,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Hohenzollern Castle (@_marcelsiebert)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Drachenburg Castle (@pierrebrauer)",
+        "start": 210,
+        "end": 247,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Drachenburg Castle (@pierrebrauer)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Brussels\",\n      \"full_address\": \"Brussels, Belgium\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/brussels-city?phrase=brussels-city\"\n    },\n    {\n      \"name\": \"Ghent\",\n      \"full_address\": \"Ghent, Belgium\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/ghent-city-center?phrase=ghent-city-center\"\n    },\n    {\n      \"name\": \"Brugge\",\n      \"full_address\": \"Brugge, Belgium\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/brugge?phrase=brugge\"\n    },\n    {\n      \"name\": \"Mechelen\",\n      \"full_address\": \"Mechelen, Belgium\",\n      \"order\": 4,\n      \"image\": \"https://www.gettyimages.com/search/mechelen?phrase=mechelen\"\n    },\n    {\n      \"name\": \"Leuven\",\n      \"full_address\": \"Leuven, Belgium\",\n      \"order\": 5,\n      \"image\": \"https://www.gettyimages.com/search/leuven-city?phrase=leuven-city\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_019e9c523e57811c",
+    "factuality_queries": null,
+    "text_query": [
+        "Belgian Cities: Where History Meets Delight. Explore Bruges, Brussels, Ghent & more. Indulge in chocolates, waffles, and art. Uncover the essence of Belgium's charm. #BelgianCityLife \ud83c\udfd9\ufe0f\ud83c\udf6b\ud83c\udfa8",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_5c76afb82c675949",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Brussels\",\n      \"full_address\": \"Brussels, Belgium\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/brussels-city?phrase=brussels-city\"\n    },\n    {\n      \"name\": \"Ghent\",\n      \"full_address\": \"Ghent, Belgium\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/ghent-city-center?phrase=ghent-city-center\"\n    },\n    {\n      \"name\": \"Brugge\",\n      \"full_address\": \"Brugge, Belgium\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/brugge?phrase=brugge\"\n    },\n    {\n      \"name\": \"Mechelen\",\n      \"full_address\": \"Mechelen, Belgium\",\n      \"order\": 4,\n      \"image\": \"https://www.gettyimages.com/search/mechelen?phrase=mechelen\"\n    },\n    {\n      \"name\": \"Leuven\",\n      \"full_address\": \"Leuven, Belgium\",\n      \"order\": 5,\n      \"image\": \"https://www.gettyimages.com/search/leuven-city?phrase=leuven-city\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_3525f29ba68a2ab3",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Brussels\",\n      \"full_address\": \"Brussels, Belgium\",\n      \"order\": 1,\n      \"image\": \"https://www.flickr.com/photos/jordi-lluna/41601030928/in/photostream/\"\n    },\n    {\n      \"name\": \"Ghent\",\n      \"full_address\": \"Ghent, Belgium\",\n      \"order\": 2,\n      \"image\": \"https://www.flickr.com/photos/pixelgal2006/6804297996/in/photostream/\"\n    },\n    {\n      \"name\": \"Brugge\",\n      \"full_address\": \"Brugge, Belgium\",\n      \"order\": 3,\n      \"image\": \"https://www.flickr.com/photos/josee-lefevre/13651750614/in/photostream/\"\n    },\n    {\n      \"name\": \"Mechelen\",\n      \"full_address\": \"Mechelen, Belgium\",\n      \"order\": 4,\n      \"image\": \"https://www.flickr.com/photos/jordi-lluna/41621949248/in/photostream/\"\n    },\n    {\n      \"name\": \"Leuven\",\n      \"full_address\": \"Leuven, Belgium\",\n      \"order\": 5,\n      \"image\": \"https://www.flickr.com/photos/pixelgal2006/6804303528/in/photostream/\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_6787578098e3ea01",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Brussels\",\n      \"full_address\": \"Brussels, Belgium\",\n      \"order\": 1,\n      \"image\": \"https://www.tripsavvy.com/Brussels_Belgium_1271226.jpg\"\n    },\n    {\n      \"name\": \"Ghent\",\n      \"full_address\": \"Ghent, Belgium\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ghent_City_Center.jpg/1280px-Ghent_City_Center.jpg\"\n    },\n    {\n      \"name\": \"Brugge\",\n      \"full_address\": \"Brugge, Belgium\",\n      \"order\": 3,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Brugge_Market_Square.jpg/1280px-Brugge_Market_Square.jpg\"\n    },\n    {\n      \"name\": \"Mechelen\",\n      \"full_address\": \"Mechelen, Belgium\",\n      \"order\": 4,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mechelen_Grote_Markt_20220205.jpg/1280px-Mechelen_Grote_Markt_20220205.jpg\"\n    },\n    {\n      \"name\": \"Leuven\",\n      \"full_address\": \"Leuven, Belgium\",\n      \"order\": 5,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Leuven_Town_Hall.jpg/1280px-Leuven_Town_Hall.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Brussels\",\n      \"full_address\": \"Brussels, Belgium\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/brussels-city?phrase=brussels-city\"\n    },\n    {\n      \"name\": \"Ghent\",\n      \"full_address\": \"Ghent, Belgium\",\n      \"order\": 2,\n      \"image\": \"https://www.gettyimages.com/search/ghent-city-center?phrase=ghent-city-center\"\n    },\n    {\n      \"name\": \"Brugge\",\n      \"full_address\": \"Brugge, Belgium\",\n      \"order\": 3,\n      \"image\": \"https://www.gettyimages.com/search/brugge?phrase=brugge\"\n    },\n    {\n      \"name\": \"Mechelen\",\n      \"full_address\": \"Mechelen, Belgium\",\n      \"order\": 4,\n      \"image\": \"https://www.gettyimages.com/search/mechelen?phrase=mechelen\"\n    },\n    {\n      \"name\": \"Leuven\",\n      \"full_address\": \"Leuven, Belgium\",\n      \"order\": 5,\n      \"image\": \"https://www.gettyimages.com/search/leuven-city?phrase=leuven-city\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

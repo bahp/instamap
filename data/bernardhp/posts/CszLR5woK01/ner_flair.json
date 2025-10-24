@@ -1,0 +1,237 @@
+{
+    "text": "What is your favorite picture ? \ud83d\ude42 1, 2 or 3 ? \ud83d\ude42  Select by @mattberthou \ud83d\udcf8 :  1 @ dm for credit  2 @iamworldahead 3 @b.christie_  Site : isle of skye \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "What",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 5,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 8,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 13,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "picture",
+            "start_pos": 22,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude42",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude42",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "Select",
+            "start_pos": 49,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 56,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "mattberthou",
+            "start_pos": 60,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "dm",
+            "start_pos": 81,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 84,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "credit",
+            "start_pos": 88,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 96,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "iamworldahead",
+            "start_pos": 99,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "b.christie",
+            "start_pos": 116,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "Site",
+            "start_pos": 129,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 134,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "isle",
+            "start_pos": 136,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 141,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "skye",
+            "start_pos": 144,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+            "start_pos": 149,
+            "end_pos": 156,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

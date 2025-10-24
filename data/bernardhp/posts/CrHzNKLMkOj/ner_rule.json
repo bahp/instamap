@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Colombia",
+        "start": 19,
+        "end": 27,
+        "groupdict": {
+            "name": "Colombia",
+            "location": "Colombia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Colombia",
+        "start": 181,
+        "end": 189,
+        "groupdict": {
+            "name": "Colombia",
+            "location": "Colombia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

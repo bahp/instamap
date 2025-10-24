@@ -1,0 +1,165 @@
+[
+    {
+        "text": "\ud83d\udccd: Chongqing, China",
+        "start": 295,
+        "end": 314,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": ": Chongqing, China"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd Summer Palace, Beijing, China",
+        "start": 332,
+        "end": 363,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Summer Palace, Beijing, China"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd Tian Tan Buddha, Hong Hong, China ",
+        "start": 383,
+        "end": 419,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Tian Tan Buddha, Hong Hong, China "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd The Weslake, Hanghou, China",
+        "start": 437,
+        "end": 466,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " The Weslake, Hanghou, China"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd The Weslake, Hanghou, China",
+        "start": 484,
+        "end": 513,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " The Weslake, Hanghou, China"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddf3",
+        "start": 45,
+        "end": 47,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddf3",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "China",
+        "start": 9,
+        "end": 14,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 161,
+        "end": 166,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 309,
+        "end": 314,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 358,
+        "end": 363,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 413,
+        "end": 418,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 461,
+        "end": 466,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 508,
+        "end": 513,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "china",
+        "start": 516,
+        "end": 521,
+        "groupdict": {
+            "name": "china",
+            "location": "china"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

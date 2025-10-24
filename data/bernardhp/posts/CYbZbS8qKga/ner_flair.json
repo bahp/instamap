@@ -1,0 +1,325 @@
+{
+    "text": "Moody Borgund Stavkyrkje\ud83d\udda4\ud83c\uddf3\ud83c\uddf4 ~ Double Tap \ud83c\udf0d \ud83d\udccd Location: Borgund Stavkyrkje, Norway \ud83d\udcf8 Photo by: @christiantrustrup  \u2022 \u2022 \u2022 \u2022 #norway #norgefoto #norwaytravel #bestofnorway #norgerundt #norgebilder #norwayraw #norwaytrip #naturebrilliance #norway_nature",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Moody Borgund Stavkyrkje",
+            "start_pos": 0,
+            "end_pos": 24,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8480774561564127
+                }
+            ]
+        },
+        {
+            "text": "Borgund Stavkyrkje",
+            "start_pos": 55,
+            "end_pos": 73,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7655721008777618
+                }
+            ]
+        },
+        {
+            "text": "Norway",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9970935583114624
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Moody",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "Borgund",
+            "start_pos": 6,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "Stavkyrkje",
+            "start_pos": 14,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udda4\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "~",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Double",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "Tap",
+            "start_pos": 37,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0d",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Location",
+            "start_pos": 45,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Borgund",
+            "start_pos": 55,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Stavkyrkje",
+            "start_pos": 63,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 73,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Norway",
+            "start_pos": 75,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 84,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 90,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 94,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "christiantrustrup",
+            "start_pos": 95,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 118,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 122,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 123,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 130,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "norgefoto",
+            "start_pos": 131,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 141,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "norwaytravel",
+            "start_pos": 142,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "bestofnorway",
+            "start_pos": 156,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "norgerundt",
+            "start_pos": 170,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 181,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "norgebilder",
+            "start_pos": 182,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 194,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "norwayraw",
+            "start_pos": 195,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 205,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "norwaytrip",
+            "start_pos": 206,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 217,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "naturebrilliance",
+            "start_pos": 218,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 235,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "norway",
+            "start_pos": 236,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 242,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 243,
+            "end_pos": 249,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

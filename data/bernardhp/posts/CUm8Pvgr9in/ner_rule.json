@@ -1,0 +1,130 @@
+[
+    {
+        "text": "1. Assisi",
+        "start": 1151,
+        "end": 1160,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Assisi"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Ostuni",
+        "start": 1161,
+        "end": 1170,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Ostuni"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Assisi",
+        "start": 1171,
+        "end": 1180,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Assisi"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Arezzo",
+        "start": 1181,
+        "end": 1190,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Arezzo"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Civita di Bagnoregio",
+        "start": 1191,
+        "end": 1214,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Civita di Bagnoregio"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Perugia",
+        "start": 1215,
+        "end": 1225,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Perugia"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Chianalea-Scilla",
+        "start": 1226,
+        "end": 1245,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Chianalea-Scilla"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Tropea",
+        "start": 1246,
+        "end": 1255,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Tropea"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "Italy",
+        "start": 41,
+        "end": 46,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Italy",
+        "start": 564,
+        "end": 569,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

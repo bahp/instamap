@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdFinland ",
+        "start": 156,
+        "end": 165,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Finland "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddee",
+        "start": 42,
+        "end": 44,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddee",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddee",
+        "start": 165,
+        "end": 167,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddee",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Finland",
+        "start": 157,
+        "end": 164,
+        "groupdict": {
+            "name": "Finland",
+            "location": "Finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

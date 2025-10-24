@@ -1,0 +1,35 @@
+{
+    "content": "\u7531\u4e8e\u8be5\u5e16\u5b50\u4e2d\u6ca1\u6709\u63d0\u53ca\u4efb\u4f55\u5177\u4f53\u7684\u5730\u70b9\uff0c\u56e0\u6b64\u751f\u6210\u7684 JSON \u6587\u4ef6\u4e3a\u7a7a\uff1a\n\n```json\n{\n  \"locations\": []\n}\n```\n\n\u5982\u679c\u60a8\u80fd\u63d0\u4f9b\u6709\u5173\u5e16\u5b50\u4e2d\u63d0\u5230\u7684\u5730\u70b9\u7684\u66f4\u591a\u4fe1\u606f\uff0c\u6211\u53ef\u4ee5\u5c1d\u8bd5\u751f\u6210\u66f4\u8be6\u7ec6\u7684 JSON \u6587\u4ef6\u3002",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_0e189b70bf1258c3",
+    "factuality_queries": null,
+    "text_query": [
+        "\u7b80\u5355\u51e0\u6b65\u5236\u4f5c\u968f\u4fbf\u6254\u4e0d\u843d\u5730\u7684\u56de\u65cb\u7eb8\u98de\u673a",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_cb671273879b993a",
+            "content": [
+                "\u7531\u4e8e\u8be5\u5e16\u5b50\u4e2d\u6ca1\u6709\u63d0\u53ca\u4efb\u4f55\u5177\u4f53\u7684\u5730\u70b9\uff0c\u56e0\u6b64\u751f\u6210\u7684 JSON \u6587\u4ef6\u4e3a\u7a7a\uff1a\n\n```json\n{\n  \"locations\": []\n}\n```\n\n\u5982\u679c\u60a8\u80fd\u63d0\u4f9b\u6709\u5173\u5e16\u5b50\u4e2d\u63d0\u5230\u7684\u5730\u70b9\u7684\u66f4\u591a\u4fe1\u606f\uff0c\u6211\u53ef\u4ee5\u5c1d\u8bd5\u751f\u6210\u66f4\u8be6\u7ec6\u7684 JSON \u6587\u4ef6\u3002"
+            ]
+        },
+        {
+            "id": "rc_45476585901790ec",
+            "content": [
+                "\u6ca1\u6709\u5728\u8be5\u53e5\u8bdd\u4e2d\u627e\u5230\u4efb\u4f55\u5730\u70b9\u4fe1\u606f\u3002"
+            ]
+        },
+        {
+            "id": "rc_c1027a44016d8678",
+            "content": [
+                "\u8be5\u5e16\u5b50\u4e2d\u6ca1\u6709\u63d0\u5230\u4efb\u4f55\u4f4d\u7f6e\u3002\u56e0\u6b64\uff0cJSON \u6587\u4ef6\u5c06\u5982\u4e0b\u6240\u793a\uff1a\n\n```json\n{\n  \"locations\": []\n}\n```\n\n\u6216\u8005\uff0c\u5982\u679c\u60a8\u60f3\u5305\u62ec\u4e00\u4e2a\u865a\u62df\u4f4d\u7f6e\uff0c\u4f8b\u5982\u201c\u623f\u95f4\u201d\u6216\u201c\u6237\u5916\u201d\uff0c\u60a8\u53ef\u4ee5\u5c06\u5176\u6dfb\u52a0\u5230\u6587\u4ef6\u4e2d\uff0c\u5982\u4e0b\u6240\u793a\uff1a\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"\u623f\u95f4\",\n      \"full_address\": \"\",\n      \"order\": 1\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": []\n}\n",
+    "status_code": 200
+}

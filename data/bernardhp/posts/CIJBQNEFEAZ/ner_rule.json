@@ -1,0 +1,71 @@
+[
+    {
+        "text": "\ud83d\udea9Founders: @chrisma1105",
+        "start": 39,
+        "end": 62,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Founders: @chrisma1105"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdChosen by: @vale_774!",
+        "start": 63,
+        "end": 85,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Chosen by: @vale_774!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udea9TAG your BEST FRIENDS \u2b07\ufe0f \ud83d\udea9#ig_europa #ig_europe #europe  #europestyle_ #worldtravelp #wonderful_places #myplace #travelphotography #europa #loves_world #topeuropephoto #lovemycity #cityphotography #natgeotravel #living_europe #europe_gallery  #travelworld #citybestpics #travelgram #loves_world #travel_captures #tv_travel #earthfocus #travelphoto#dresden #germany #deutschland",
+        "start": 127,
+        "end": 505,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "TAG your BEST FRIENDS \u2b07\ufe0f \ud83d\udea9#ig_europa #ig_europe #europe  #europestyle_ #worldtravelp #wonderful_places #myplace #travelphotography #europa #loves_world #topeuropephoto #lovemycity #cityphotography #natgeotravel #living_europe #europe_gallery  #travelworld #citybestpics #travelgram #loves_world #travel_captures #tv_travel #earthfocus #travelphoto#dresden #germany #deutschland"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde9\ud83c\uddea",
+        "start": 13,
+        "end": 15,
+        "groupdict": {
+            "flag": "\ud83c\udde9\ud83c\uddea",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "germany",
+        "start": 6,
+        "end": 13,
+        "groupdict": {
+            "name": "germany",
+            "location": "germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "germany",
+        "start": 485,
+        "end": 492,
+        "groupdict": {
+            "name": "germany",
+            "location": "germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Alsace",
+        "subtitle": "Historical and cultural region in eastern France",
+        "lat": 48.2,
+        "lon": 7.5,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 1
+    },
+    {
+        "title": "Strasbourg",
+        "subtitle": "Major city in Alsace, Grand Est region of France",
+        "lat": 48.5833,
+        "lon": 7.75,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2
+    },
+    {
+        "title": "France",
+        "subtitle": "Country in Western Europe",
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3
+    }
+]

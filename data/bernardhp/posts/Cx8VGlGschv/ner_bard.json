@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Scottish Highlands\",\n    \"full_address\": \"Scottish Highlands, Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Scottish_Highlands_UK.jpg/220px-Scottish_Highlands_UK.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Sutherland\",\n    \"full_address\": \"Sutherland, Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Durness,_Sutherland,_Scotland_in_March_2020.jpg/220px-Durness,_Sutherland,_Scotland_in_March_2020.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Scotland\",\n    \"full_address\": \"Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Scotland.svg/220px-Flag_of_Scotland.svg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"UK\",\n    \"full_address\": \"United Kingdom\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/220px-Flag_of_the_United_Kingdom.svg\",\n    \"order\": 4\n  }\n]\n```",
+    "conversation_id": "c_26fc3271409e3246",
+    "response_id": "r_899e53485ffd3b23",
+    "factuality_queries": null,
+    "text_query": [
+        "scotland abandoned hut",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_9700f4df181e562a",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Scottish Highlands\",\n    \"full_address\": \"Scottish Highlands, Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Scottish_Highlands_UK.jpg/220px-Scottish_Highlands_UK.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Sutherland\",\n    \"full_address\": \"Sutherland, Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Durness,_Sutherland,_Scotland_in_March_2020.jpg/220px-Durness,_Sutherland,_Scotland_in_March_2020.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Scotland\",\n    \"full_address\": \"Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Scotland.svg/220px-Flag_of_Scotland.svg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"UK\",\n    \"full_address\": \"United Kingdom\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/220px-Flag_of_the_United_Kingdom.svg\",\n    \"order\": 4\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_d62b90e3fe8ac443",
+            "content": [
+                "I'm unable to extract locations from the given text."
+            ]
+        },
+        {
+            "id": "rc_cb523bddb03d1a7f",
+            "content": [
+                "Here is the JSON file containing the locations mentioned in the caption:\n\n```json\n[\n  {\n    \"name\": \"Sutherland\",\n    \"full_address\": \"Sutherland, Scotland\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sutherland,_Scotland.jpg/220px-Sutherland,_Scotland.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Scotland\",\n    \"full_address\": \"Scotland, United Kingdom\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Scotland.svg/220px-Flag_of_Scotland.svg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Scottish Highlands\",\n    \"full_address\": \"Scottish Highlands, Scotland\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Scottish_Highlands,_Scotland.jpg/220px-Scottish_Highlands,_Scotland.jpg\",\n    \"order\": 3\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Scottish Highlands\",\n    \"full_address\": \"Scottish Highlands, Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Scottish_Highlands_UK.jpg/220px-Scottish_Highlands_UK.jpg\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Sutherland\",\n    \"full_address\": \"Sutherland, Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Durness,_Sutherland,_Scotland_in_March_2020.jpg/220px-Durness,_Sutherland,_Scotland_in_March_2020.jpg\",\n    \"order\": 2\n  },\n  {\n    \"name\": \"Scotland\",\n    \"full_address\": \"Scotland, UK\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Scotland.svg/220px-Flag_of_Scotland.svg\",\n    \"order\": 3\n  },\n  {\n    \"name\": \"UK\",\n    \"full_address\": \"United Kingdom\",\n    \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/220px-Flag_of_the_United_Kingdom.svg\",\n    \"order\": 4\n  }\n]\n",
+    "status_code": 200
+}

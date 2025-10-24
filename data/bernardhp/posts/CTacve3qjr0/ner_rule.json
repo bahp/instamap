@@ -1,0 +1,60 @@
+[
+    {
+        "text": "\ud83d\udcda You can find this surreal bookstore in  Dujiangyan Zhongshuge, located in Chengdu, China",
+        "start": 12,
+        "end": 102,
+        "groupdict": {
+            "icon": "\ud83d\udcda",
+            "location": " You can find this surreal bookstore in  Dujiangyan Zhongshuge, located in Chengdu, China"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdDujiangyan Zhongshuge, China",
+        "start": 341,
+        "end": 370,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Dujiangyan Zhongshuge, China"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddf3",
+        "start": 372,
+        "end": 374,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddf3",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "China",
+        "start": 97,
+        "end": 102,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 365,
+        "end": 370,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

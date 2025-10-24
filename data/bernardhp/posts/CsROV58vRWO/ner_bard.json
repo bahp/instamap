@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Wood Works Kawagoe\",\n        \"full_address\": \"Japan, \u3012350-0063 Saitama, Kawagoe, Saiwaicho, \uff11\uff14\u22123\",\n        \"order\": 1\n    }\n]\n```",
+    "conversation_id": "c_9af5f9766d103613",
+    "response_id": "r_2010a2c11276681c",
+    "factuality_queries": null,
+    "text_query": [
+        "Wood Works Kawagoe",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_c228a2dfc3f8443e",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n    {\n        \"name\": \"Wood Works Kawagoe\",\n        \"full_address\": \"Japan, \u3012350-0063 Saitama, Kawagoe, Saiwaicho, \uff11\uff14\u22123\",\n        \"order\": 1\n    }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_934da8b7c6e72624",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n[\n  {\n    \"name\": \"Karakimokkou Chopstick Making Workshop\",\n    \"full_address\": \"Saiwaicho, 14-3, Kawagoe, Saitama, Japan \u3012350-0063\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Little Edo\",\n    \"full_address\": \"Kawagoe, Saitama, Japan\",\n    \"order\": 2\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_abf8bc165bd3d86b",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Wood Works Kawagoe\",\n    \"full_address\": \"Japan, \u3012350-0063 Saitama, Kawagoe, Saiwaicho, \uff11\uff14\u22123\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n    {\n        \"name\": \"Wood Works Kawagoe\",\n        \"full_address\": \"Japan, \u3012350-0063 Saitama, Kawagoe, Saiwaicho, \uff11\uff14\u22123\",\n        \"order\": 1\n    }\n]\n",
+    "status_code": 200
+}

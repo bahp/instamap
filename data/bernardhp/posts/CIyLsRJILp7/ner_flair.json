@@ -1,0 +1,1075 @@
+{
+    "text": "The vast Inle Lake is located in the Shan Mountains in central Burma. Near its southern tip, the multi-tiered Phaung Daw U pagoda is home to golden statues. In the hills that rise near the village of Indein, the stupas of the Shwe Indein pagoda look like a field of golden arrows. Not far away, the forest has taken over the stupas of Nyaung Ohak. At the northern end of the lake, a wooden bridge connects the floating village of Maing Thauk to the shore.   \"Fishermen of \u0130nle lake \" Those images look like a painting, right ?  #discoverburma\ud83c\uddf2\ud83c\uddf2 with @ilhan1077   . . . . . .  #burma  #myanmar  #bagan  #mandalay  #yangon  #lake  #reflection  #water  #boat  #lago  #natur  #irox_water  #ignaturale  #trees  #igcentric_nature  #est  #cloud  #onda",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Inle Lake",
+            "start_pos": 9,
+            "end_pos": 18,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9849093556404114
+                }
+            ]
+        },
+        {
+            "text": "Shan Mountains",
+            "start_pos": 37,
+            "end_pos": 51,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9834551215171814
+                }
+            ]
+        },
+        {
+            "text": "Burma",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9992654919624329
+                }
+            ]
+        },
+        {
+            "text": "Phaung Daw U",
+            "start_pos": 110,
+            "end_pos": 122,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8611484368642172
+                }
+            ]
+        },
+        {
+            "text": "Indein",
+            "start_pos": 200,
+            "end_pos": 206,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9990656971931458
+                }
+            ]
+        },
+        {
+            "text": "Shwe Indein",
+            "start_pos": 226,
+            "end_pos": 237,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7081372886896133
+                }
+            ]
+        },
+        {
+            "text": "Nyaung Ohak",
+            "start_pos": 335,
+            "end_pos": 346,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9934132099151611
+                }
+            ]
+        },
+        {
+            "text": "Maing Thauk",
+            "start_pos": 430,
+            "end_pos": 441,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9934831857681274
+                }
+            ]
+        },
+        {
+            "text": "burma",
+            "start_pos": 577,
+            "end_pos": 582,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.56684809923172
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "The",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "vast",
+            "start_pos": 4,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Inle",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "Lake",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 19,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 22,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 33,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "Shan",
+            "start_pos": 37,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "Mountains",
+            "start_pos": 42,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "central",
+            "start_pos": 55,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Burma",
+            "start_pos": 63,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Near",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 75,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "southern",
+            "start_pos": 79,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "tip",
+            "start_pos": 88,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 93,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "multi-tiered",
+            "start_pos": 97,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "Phaung",
+            "start_pos": 110,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "Daw",
+            "start_pos": 117,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "U",
+            "start_pos": 121,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "pagoda",
+            "start_pos": 123,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 130,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "home",
+            "start_pos": 133,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 138,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "golden",
+            "start_pos": 141,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "statues",
+            "start_pos": 148,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 155,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "In",
+            "start_pos": 157,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 160,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "hills",
+            "start_pos": 164,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 170,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "rise",
+            "start_pos": 175,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "near",
+            "start_pos": 180,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 185,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 189,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 197,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "Indein",
+            "start_pos": 200,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 206,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 208,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "stupas",
+            "start_pos": 212,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 219,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 222,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "Shwe",
+            "start_pos": 226,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "Indein",
+            "start_pos": 231,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "pagoda",
+            "start_pos": 238,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "look",
+            "start_pos": 245,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 250,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 255,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "field",
+            "start_pos": 257,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 263,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "golden",
+            "start_pos": 266,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "arrows",
+            "start_pos": 273,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 279,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "Not",
+            "start_pos": 281,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "far",
+            "start_pos": 285,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "away",
+            "start_pos": 289,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 293,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 295,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "forest",
+            "start_pos": 299,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 306,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 310,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 316,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 321,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "stupas",
+            "start_pos": 325,
+            "end_pos": 331,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 332,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "Nyaung",
+            "start_pos": 335,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "Ohak",
+            "start_pos": 342,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "At",
+            "start_pos": 348,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 351,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "northern",
+            "start_pos": 355,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "end",
+            "start_pos": 364,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 368,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 371,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "lake",
+            "start_pos": 375,
+            "end_pos": 379,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 379,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 381,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "wooden",
+            "start_pos": 383,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "bridge",
+            "start_pos": 390,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "connects",
+            "start_pos": 397,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 406,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "floating",
+            "start_pos": 410,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 419,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 427,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "Maing",
+            "start_pos": 430,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "Thauk",
+            "start_pos": 436,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 442,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 445,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "shore",
+            "start_pos": 449,
+            "end_pos": 454,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 454,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 458,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "Fishermen",
+            "start_pos": 459,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 469,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "\u0130nle",
+            "start_pos": 472,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "lake",
+            "start_pos": 477,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 482,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "Those",
+            "start_pos": 484,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "images",
+            "start_pos": 490,
+            "end_pos": 496,
+            "labels": []
+        },
+        {
+            "text": "look",
+            "start_pos": 497,
+            "end_pos": 501,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 502,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 507,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": "painting",
+            "start_pos": 509,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 517,
+            "end_pos": 518,
+            "labels": []
+        },
+        {
+            "text": "right",
+            "start_pos": 519,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 525,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 528,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "discoverburma",
+            "start_pos": 529,
+            "end_pos": 542,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf2\ud83c\uddf2",
+            "start_pos": 542,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 545,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 550,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "ilhan1077",
+            "start_pos": 551,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 563,
+            "end_pos": 564,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 565,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 567,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 569,
+            "end_pos": 570,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 571,
+            "end_pos": 572,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 573,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 576,
+            "end_pos": 577,
+            "labels": []
+        },
+        {
+            "text": "burma",
+            "start_pos": 577,
+            "end_pos": 582,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 584,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "myanmar",
+            "start_pos": 585,
+            "end_pos": 592,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 594,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": "bagan",
+            "start_pos": 595,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 602,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "mandalay",
+            "start_pos": 603,
+            "end_pos": 611,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 613,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "yangon",
+            "start_pos": 614,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 622,
+            "end_pos": 623,
+            "labels": []
+        },
+        {
+            "text": "lake",
+            "start_pos": 623,
+            "end_pos": 627,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 629,
+            "end_pos": 630,
+            "labels": []
+        },
+        {
+            "text": "reflection",
+            "start_pos": 630,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 642,
+            "end_pos": 643,
+            "labels": []
+        },
+        {
+            "text": "water",
+            "start_pos": 643,
+            "end_pos": 648,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 650,
+            "end_pos": 651,
+            "labels": []
+        },
+        {
+            "text": "boat",
+            "start_pos": 651,
+            "end_pos": 655,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 657,
+            "end_pos": 658,
+            "labels": []
+        },
+        {
+            "text": "lago",
+            "start_pos": 658,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 664,
+            "end_pos": 665,
+            "labels": []
+        },
+        {
+            "text": "natur",
+            "start_pos": 665,
+            "end_pos": 670,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 672,
+            "end_pos": 673,
+            "labels": []
+        },
+        {
+            "text": "irox",
+            "start_pos": 673,
+            "end_pos": 677,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 677,
+            "end_pos": 678,
+            "labels": []
+        },
+        {
+            "text": "water",
+            "start_pos": 678,
+            "end_pos": 683,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 685,
+            "end_pos": 686,
+            "labels": []
+        },
+        {
+            "text": "ignaturale",
+            "start_pos": 686,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 698,
+            "end_pos": 699,
+            "labels": []
+        },
+        {
+            "text": "trees",
+            "start_pos": 699,
+            "end_pos": 704,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 706,
+            "end_pos": 707,
+            "labels": []
+        },
+        {
+            "text": "igcentric",
+            "start_pos": 707,
+            "end_pos": 716,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 716,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 717,
+            "end_pos": 723,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 725,
+            "end_pos": 726,
+            "labels": []
+        },
+        {
+            "text": "est",
+            "start_pos": 726,
+            "end_pos": 729,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 731,
+            "end_pos": 732,
+            "labels": []
+        },
+        {
+            "text": "cloud",
+            "start_pos": 732,
+            "end_pos": 737,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 739,
+            "end_pos": 740,
+            "labels": []
+        },
+        {
+            "text": "onda",
+            "start_pos": 740,
+            "end_pos": 744,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

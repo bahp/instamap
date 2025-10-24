@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverChina ",
+        "start": 63,
+        "end": 80,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverChina "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "China",
+        "start": 25,
+        "end": 30,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

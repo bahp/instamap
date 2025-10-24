@@ -1,0 +1,147 @@
+{
+    "text": "Who would you take with you on a road trip ? #discoveritaly\ud83c\uddee\ud83c\uddf9 with @pieronitiziano  #italy #roadtrip  #ontheroad",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Who",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 4,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 10,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 14,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 19,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "road",
+            "start_pos": 33,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 38,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "discoveritaly",
+            "start_pos": 46,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 62,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "pieronitiziano",
+            "start_pos": 68,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 85,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "roadtrip",
+            "start_pos": 92,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "ontheroad",
+            "start_pos": 103,
+            "end_pos": 112,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

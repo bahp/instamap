@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), the image (image), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Atitlan\",\n      \"full_address\": \"Panajachel, Solol\u00e1, Guatemala\",\n      \"image\": \"https://www.explorersweb.com/wp-content/uploads/2013/09/Lake-Atitlan-Guatemala.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Panajachel\",\n      \"full_address\": \"Panajachel, Solol\u00e1, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Panajachel.jpg/1200px-Panajachel.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Solol\u00e1 Department\",\n      \"full_address\": \"Solol\u00e1 Department, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Solol\u00e1_Department_Map.svg/300px-Solol\u00e1_Department_Map.svg.png\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Guatemala\",\n      \"full_address\": \"Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Guatemala.svg/300px-Flag_of_Guatemala.svg.png\",\n      \"order\": 4\n    }\n  ]\n}\n```",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_ffa498b29069fdd5",
+    "factuality_queries": null,
+    "text_query": [
+        "Lake Atitlan, Guatemala",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_f7715db77bc4e4a1",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), the image (image), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Atitlan\",\n      \"full_address\": \"Panajachel, Solol\u00e1, Guatemala\",\n      \"image\": \"https://www.explorersweb.com/wp-content/uploads/2013/09/Lake-Atitlan-Guatemala.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Panajachel\",\n      \"full_address\": \"Panajachel, Solol\u00e1, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Panajachel.jpg/1200px-Panajachel.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Solol\u00e1 Department\",\n      \"full_address\": \"Solol\u00e1 Department, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Solol\u00e1_Department_Map.svg/300px-Solol\u00e1_Department_Map.svg.png\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Guatemala\",\n      \"full_address\": \"Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Guatemala.svg/300px-Flag_of_Guatemala.svg.png\",\n      \"order\": 4\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_3847fd9465f6d20a",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), the image (image), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Atitlan\",\n      \"full_address\": \"Lake Atitlan, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lake_Atitlan_panorama_from_Panajachel.jpg/1280px-Lake_Atitlan_panorama_from_Panajachel.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Guatemala\",\n      \"full_address\": \"Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Guatemala_%28coat_of_arms%29.svg/120px-Guatemala_%28coat_of_arms%29.svg.png\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_712b6bf4f0add79e",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), the image (image), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Atitlan\",\n      \"full_address\": \"Lake Atitlan, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lago_Atitl%C3%A1n%2C_Guatemala.jpg/1200px-Lago_Atitl%C3%A1n%2C_Guatemala.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Guatemala\",\n      \"full_address\": \"Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flag_of_Guatemala.svg/2560px-Flag_of_Guatemala.svg.png\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Lake Atitlan\",\n      \"full_address\": \"Panajachel, Solol\u00e1, Guatemala\",\n      \"image\": \"https://www.explorersweb.com/wp-content/uploads/2013/09/Lake-Atitlan-Guatemala.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Panajachel\",\n      \"full_address\": \"Panajachel, Solol\u00e1, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Panajachel.jpg/1200px-Panajachel.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Solol\u00e1 Department\",\n      \"full_address\": \"Solol\u00e1 Department, Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Solol\u00e1_Department_Map.svg/300px-Solol\u00e1_Department_Map.svg.png\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Guatemala\",\n      \"full_address\": \"Guatemala\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Guatemala.svg/300px-Flag_of_Guatemala.svg.png\",\n      \"order\": 4\n    }\n  ]\n}\n",
+    "status_code": 200
+}

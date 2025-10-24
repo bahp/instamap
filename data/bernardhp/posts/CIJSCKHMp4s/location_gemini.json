@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Serengeti National Park",
+        "subtitle": "Famous for wildebeest migration",
+        "lat": -2.333333,
+        "lon": 34.833333,
+        "type": "national park",
+        "class": "protected_area",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 1
+    },
+    {
+        "title": "Tanzania",
+        "subtitle": "East African country",
+        "lat": -6.369028,
+        "lon": 34.888822,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": 1
+    },
+    {
+        "title": "Mount Kilimanjaro",
+        "subtitle": "Africa's highest peak",
+        "lat": -3.0674,
+        "lon": 37.3556,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": null
+    },
+    {
+        "title": "East Africa",
+        "subtitle": "Eastern region of Africa",
+        "lat": -1.9868,
+        "lon": 35.631,
+        "type": "region",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 8,
+        "page": null
+    }
+]

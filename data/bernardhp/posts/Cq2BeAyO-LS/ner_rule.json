@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdBENITSURU",
+        "start": 830,
+        "end": 840,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "BENITSURU"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Japan",
+        "start": 896,
+        "end": 901,
+        "groupdict": {
+            "name": "Japan",
+            "location": "Japan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

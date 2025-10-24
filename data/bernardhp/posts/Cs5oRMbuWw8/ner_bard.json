@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which they were found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Restaurante Ponto Final\",\n      \"full_address\": \"Rua do Ginjal 72, Cacilhas, Almada, Portugal\",\n      \"image\": \"https://lh5.googleusercontent.com/p/AF1QipN14tS0s31Z52xQh104w3tP27X19j_37z84-o\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Cacilhas\",\n      \"full_address\": \"Cacilhas, Almada, Portugal\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cacilhas_e_Trafaria_from_Lisbon_in_the_night.jpg/1280px-Cacilhas_e_Trafaria_from_Lisbon_in_the_night.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Almada\",\n      \"full_address\": \"Almada, Portugal\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Almada_from_Lisbon.jpg/1280px-Almada_from_Lisbon.jpg\",\n      \"order\": 3\n    }\n  ]\n}\n```",
+    "conversation_id": "c_5488e61e6b3c7949",
+    "response_id": "r_8c7b1d16b08aee6a",
+    "factuality_queries": null,
+    "text_query": [
+        "Restaurante Ponto final ",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_4a79551e753cd685",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which they were found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Restaurante Ponto Final\",\n      \"full_address\": \"Rua do Ginjal 72, Cacilhas, Almada, Portugal\",\n      \"image\": \"https://lh5.googleusercontent.com/p/AF1QipN14tS0s31Z52xQh104w3tP27X19j_37z84-o\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Cacilhas\",\n      \"full_address\": \"Cacilhas, Almada, Portugal\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cacilhas_e_Trafaria_from_Lisbon_in_the_night.jpg/1280px-Cacilhas_e_Trafaria_from_Lisbon_in_the_night.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Almada\",\n      \"full_address\": \"Almada, Portugal\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Almada_from_Lisbon.jpg/1280px-Almada_from_Lisbon.jpg\",\n      \"order\": 3\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_a3ee64a08f02da67",
+            "content": [
+                "Sure, here's the JSON file extracting location information from the provided caption:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Restaurante Ponto Final\",\n      \"full_address\": \"Restaurante Ponto Final, Cacilhas, Almada, Portugal\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Restaurante_Ponto_Final.jpg/1280px-Restaurante_Ponto_Final.jpg\"\n    },\n    {\n      \"name\": \"Cacilhas\",\n      \"full_address\": \"Cacilhas, Almada, Portugal\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cacilhas_from_the_Tagus_River.jpg/1280px-Cacilhas_from_the_Tagus_River.jpg\"\n    },\n    {\n      \"name\": \"Almada\",\n      \"full_address\": \"Almada, Portugal\",\n      \"order\": 3,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Almada_from_the_Tagus_River.jpg/1280px-Almada_from_the_Tagus_River.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_786561673910f19a",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address) and the order (order) in which they were found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Restaurante Ponto Final\",\n      \"full_address\": \"Restaurante Ponto Final, Rua do Ginjal 72, 2800-285 Almada, Portugal\",\n      \"order\": 1,\n      \"image\": \"https://uploads-cdn.cloudinary.com/q30/e1fb27b6/image/upload/v1669787282/restaurante_ponto_final.jpg\"\n    },\n    {\n      \"name\": \"Cacilhas\",\n      \"full_address\": \"Cacilhas, Almada, Portugal\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Lisbon\",\n      \"full_address\": \"Lisbon, Portugal\",\n      \"order\": 3\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Restaurante Ponto Final\",\n      \"full_address\": \"Rua do Ginjal 72, Cacilhas, Almada, Portugal\",\n      \"image\": \"https://lh5.googleusercontent.com/p/AF1QipN14tS0s31Z52xQh104w3tP27X19j_37z84-o\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Cacilhas\",\n      \"full_address\": \"Cacilhas, Almada, Portugal\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cacilhas_e_Trafaria_from_Lisbon_in_the_night.jpg/1280px-Cacilhas_e_Trafaria_from_Lisbon_in_the_night.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Almada\",\n      \"full_address\": \"Almada, Portugal\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Almada_from_Lisbon.jpg/1280px-Almada_from_Lisbon.jpg\",\n      \"order\": 3\n    }\n  ]\n}\n",
+    "status_code": 200
+}

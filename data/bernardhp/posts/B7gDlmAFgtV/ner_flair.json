@@ -1,0 +1,193 @@
+{
+    "text": "Take a trip to Xingping, China with the cormorant fisherman! \u2014 \ud83d\udccd #DiscoverChina \u2014 \ud83d\udcf8 Photo taken by @filippo_cesarini",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Xingping",
+            "start_pos": 15,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9986016154289246
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999709129333496
+                }
+            ]
+        },
+        {
+            "text": "cesarini",
+            "start_pos": 108,
+            "end_pos": 116,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9985393285751343
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Take",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 5,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 7,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 12,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Xingping",
+            "start_pos": 15,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 31,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 36,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "cormorant",
+            "start_pos": 40,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "fisherman",
+            "start_pos": 50,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "DiscoverChina",
+            "start_pos": 66,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "\u2014",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 84,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "taken",
+            "start_pos": 90,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 96,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 99,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "filippo",
+            "start_pos": 100,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "cesarini",
+            "start_pos": 108,
+            "end_pos": 116,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

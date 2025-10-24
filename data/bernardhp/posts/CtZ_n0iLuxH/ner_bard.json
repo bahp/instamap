@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Pandora Mountains\",\n      \"full_address\": \"Aokigahara, Nar\u00e1-ken, 939-1360, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aokigahara_Forest_2007.jpg/1200px-Aokigahara_Forest_2007.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Hida-Takayama\",\n      \"full_address\": \"Takayama, Gifu, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hida_Takayama_in_spring.jpg/1200px-Hida_Takayama_in_spring.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Bamboo Forest\",\n      \"full_address\": \"Arashiyama Bamboo Grove, Kyoto, 616-8416, Japan\",\n      \"image\": \"https://www.japan-guide.com/images/photos/2009/04/araschiyama-bamboo-grove-new.jpg\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nI hope this is helpful!",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_8c2d1849210cdaa3",
+    "factuality_queries": null,
+    "text_query": [
+        "\u00bfC\u00f3mo se llaman los emojis de texto?",
+        4
+    ],
+    "choices": [
+        {
+            "id": "rc_a79668624934b7a1",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Pandora Mountains\",\n      \"full_address\": \"Aokigahara, Nar\u00e1-ken, 939-1360, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aokigahara_Forest_2007.jpg/1200px-Aokigahara_Forest_2007.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Hida-Takayama\",\n      \"full_address\": \"Takayama, Gifu, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hida_Takayama_in_spring.jpg/1200px-Hida_Takayama_in_spring.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Bamboo Forest\",\n      \"full_address\": \"Arashiyama Bamboo Grove, Kyoto, 616-8416, Japan\",\n      \"image\": \"https://www.japan-guide.com/images/photos/2009/04/araschiyama-bamboo-grove-new.jpg\",\n      \"order\": 2\n    }\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_288a59d65e9fb690",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Pandora Mountains\",\n      \"full_address\": \"Hokkaido, Japan\",\n      \"image\": \"https://assets.cntraveler.com/sites/default/files/styles/article_featured_image_16x9/public/2020/12/10/GettyImages-1228041629-20201210-032704-japan-hokkaido.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Hida-Takayama\",\n      \"full_address\": \"Gifu Prefecture, Japan\",\n      \"image\": \"https://www.japan-guide.com/data/img/japan/guide/takayama/takayama-morning.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Bamboo Forest\",\n      \"full_address\": \"Kyoto, Japan\",\n      \"image\": \"https://www.japan-guide.com/data/img/japan/guide/kyoto/arashiyama-bamboo.jpg\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_53820ad175711710",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Pandora Mountains\",\n      \"full_address\": \"Hokkaido, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pandora_Mountains.jpg/1200px-Pandora_Mountains.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Hida-Takayama\",\n      \"full_address\": \"Gifu Prefecture, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hida-Takayama_in_snow.jpg/1200px-Hida-Takayama_in_snow.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Bamboo Forest\",\n      \"full_address\": \"Kyoto Prefecture, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bamboo_grove_Kinkaku-ji.jpg/1200px-Bamboo_grove_Kinkaku-ji.jpg\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Pandora Mountains\",\n      \"full_address\": \"Aokigahara, Nar\u00e1-ken, 939-1360, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aokigahara_Forest_2007.jpg/1200px-Aokigahara_Forest_2007.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Hida-Takayama\",\n      \"full_address\": \"Takayama, Gifu, Japan\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hida_Takayama_in_spring.jpg/1200px-Hida_Takayama_in_spring.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Bamboo Forest\",\n      \"full_address\": \"Arashiyama Bamboo Grove, Kyoto, 616-8416, Japan\",\n      \"image\": \"https://www.japan-guide.com/images/photos/2009/04/araschiyama-bamboo-grove-new.jpg\",\n      \"order\": 2\n    }\n  ]\n}\n",
+    "status_code": 200
+}

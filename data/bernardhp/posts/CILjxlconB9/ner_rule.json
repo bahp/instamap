@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddf0\ud83c\uddff",
+        "start": 382,
+        "end": 384,
+        "groupdict": {
+            "flag": "\ud83c\uddf0\ud83c\uddff",
+            "location": "Kazakhstan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Kazakhstan",
+        "start": 19,
+        "end": 29,
+        "groupdict": {
+            "name": "Kazakhstan",
+            "location": "Kazakhstan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "kazakhstan",
+        "start": 433,
+        "end": 443,
+        "groupdict": {
+            "name": "kazakhstan",
+            "location": "kazakhstan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

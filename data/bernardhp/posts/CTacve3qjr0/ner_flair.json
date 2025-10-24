@@ -1,0 +1,497 @@
+{
+    "text": "Pure magic \u2728\ud83d\udcda You can find this surreal bookstore in  Dujiangyan Zhongshuge, located in Chengdu, China. This two-story bookstore was designed by architecture firm X+Living, and is a true wonderland for book lovers. C-shaped bookshelves and mirrored ceilings give off an extended, almost never-ending illusion. Would you spend the day here?  \ud83d\udccdDujiangyan Zhongshuge, China  \ud83c\udde8\ud83c\uddf3 #discoverChina with @xlivingart",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Dujiangyan Zhongshuge",
+            "start_pos": 54,
+            "end_pos": 75,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7524592280387878
+                }
+            ]
+        },
+        {
+            "text": "Chengdu",
+            "start_pos": 88,
+            "end_pos": 95,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997261166572571
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 97,
+            "end_pos": 102,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9999419450759888
+                }
+            ]
+        },
+        {
+            "text": "Dujiangyan Zhongshuge",
+            "start_pos": 342,
+            "end_pos": 363,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7576959431171417
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 365,
+            "end_pos": 370,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998070597648621
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Pure",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "magic",
+            "start_pos": 5,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "\u2728\ud83d\udcda",
+            "start_pos": 11,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "You",
+            "start_pos": 14,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 18,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "find",
+            "start_pos": 22,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 27,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "surreal",
+            "start_pos": 32,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "bookstore",
+            "start_pos": 40,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "Dujiangyan",
+            "start_pos": 54,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "Zhongshuge",
+            "start_pos": 65,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 77,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 85,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "Chengdu",
+            "start_pos": 88,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 97,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 104,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "two-story",
+            "start_pos": 109,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "bookstore",
+            "start_pos": 119,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 129,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "designed",
+            "start_pos": 133,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 142,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "architecture",
+            "start_pos": 145,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "firm",
+            "start_pos": 158,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "X",
+            "start_pos": 163,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "+",
+            "start_pos": 164,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "Living",
+            "start_pos": 165,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 171,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 173,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 177,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 180,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "true",
+            "start_pos": 182,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "wonderland",
+            "start_pos": 187,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 198,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "book",
+            "start_pos": 202,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "lovers",
+            "start_pos": 207,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "C-shaped",
+            "start_pos": 215,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "bookshelves",
+            "start_pos": 224,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 236,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "mirrored",
+            "start_pos": 240,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "ceilings",
+            "start_pos": 249,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "give",
+            "start_pos": 258,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "off",
+            "start_pos": 263,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 267,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "extended",
+            "start_pos": 270,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 278,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "almost",
+            "start_pos": 280,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "never-ending",
+            "start_pos": 287,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "illusion",
+            "start_pos": 300,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 308,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "Would",
+            "start_pos": 310,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 316,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "spend",
+            "start_pos": 320,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 326,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "day",
+            "start_pos": 330,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 334,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 338,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 341,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "Dujiangyan",
+            "start_pos": 342,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "Zhongshuge",
+            "start_pos": 353,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 365,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\uddf3",
+            "start_pos": 372,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 375,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "discoverChina",
+            "start_pos": 376,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 390,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 395,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "xlivingart",
+            "start_pos": 396,
+            "end_pos": 406,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

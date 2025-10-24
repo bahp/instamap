@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddec\ud83c\uddf1",
+        "start": 25,
+        "end": 27,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\uddf1",
+            "location": "Greenland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Greenland",
+        "start": 14,
+        "end": 23,
+        "groupdict": {
+            "name": "Greenland",
+            "location": "Greenland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "greenland",
+        "start": 51,
+        "end": 60,
+        "groupdict": {
+            "name": "greenland",
+            "location": "greenland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

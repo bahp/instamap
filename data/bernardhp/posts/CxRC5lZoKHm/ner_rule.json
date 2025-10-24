@@ -1,0 +1,136 @@
+[
+    {
+        "text": "\ud83d\udccd Neal\u2019s Yardl",
+        "start": 471,
+        "end": 485,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Neal\u2019s Yardl"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdLeadenhall Market, Gracechurch St, London \ud83d\udccd4-7 Royal Exchangel",
+        "start": 486,
+        "end": 549,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Leadenhall Market, Gracechurch St, London \ud83d\udccd4-7 Royal Exchangel"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdMarquess of Anglesey ",
+        "start": 574,
+        "end": 596,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Marquess of Anglesey "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdSt Dunstan in the East",
+        "start": 618,
+        "end": 641,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "St Dunstan in the East"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdWembly temple ",
+        "start": 667,
+        "end": 682,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Wembly temple "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdMini Dubai at wooden Wharf ",
+        "start": 683,
+        "end": 711,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Mini Dubai at wooden Wharf "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdUp Side Down Globe ",
+        "start": 712,
+        "end": 732,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Up Side Down Globe "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdGod\u2019s Own Junkyard Cafe museum",
+        "start": 758,
+        "end": 789,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "God\u2019s Own Junkyard Cafe museum"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdThe Royal Exchange",
+        "start": 790,
+        "end": 809,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "The Royal Exchange"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdPainted Hall",
+        "start": 810,
+        "end": 823,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Painted Hall"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\udde7",
+        "start": 97,
+        "end": 99,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\udde7",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "United Kingdom",
+        "start": 144,
+        "end": 158,
+        "groupdict": {
+            "name": "United Kingdom",
+            "location": "United Kingdom"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

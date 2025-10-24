@@ -1,0 +1,86 @@
+[
+    {
+        "text": "\ud83c\uddee\ud83c\uddf8",
+        "start": 8,
+        "end": 10,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf8",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "norway",
+        "start": 174,
+        "end": 180,
+        "groupdict": {
+            "name": "norway",
+            "location": "norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "iceland",
+        "start": 182,
+        "end": 189,
+        "groupdict": {
+            "name": "iceland",
+            "location": "iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "greenland",
+        "start": 191,
+        "end": 200,
+        "groupdict": {
+            "name": "greenland",
+            "location": "greenland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "denmark",
+        "start": 202,
+        "end": 209,
+        "groupdict": {
+            "name": "denmark",
+            "location": "denmark"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "sweden",
+        "start": 211,
+        "end": 217,
+        "groupdict": {
+            "name": "sweden",
+            "location": "sweden"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "finland",
+        "start": 228,
+        "end": 235,
+        "groupdict": {
+            "name": "finland",
+            "location": "finland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

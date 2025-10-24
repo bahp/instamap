@@ -1,0 +1,170 @@
+[
+    {
+        "text": "1. Circo Romano de M\u00e9rida",
+        "start": 431,
+        "end": 456,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Circo Romano de M\u00e9rida"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Acueducto de San L\u00e1zaro",
+        "start": 457,
+        "end": 483,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Acueducto de San L\u00e1zaro"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Termas Romanas de San L\u00e1zaro",
+        "start": 484,
+        "end": 515,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Termas Romanas de San L\u00e1zaro"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Termas Romanas de M\u00e9rida",
+        "start": 516,
+        "end": 543,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Termas Romanas de M\u00e9rida"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Museo Nacional de Arte Romano",
+        "start": 544,
+        "end": 576,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Museo Nacional de Arte Romano"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Teatro Romano de M\u00e9rida",
+        "start": 577,
+        "end": 603,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Teatro Romano de M\u00e9rida"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Anfiteatro Romano",
+        "start": 604,
+        "end": 624,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Anfiteatro Romano"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Casa Romana del Anfiteatro",
+        "start": 625,
+        "end": 654,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Casa Romana del Anfiteatro"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Alcazaba de M\u00e9rida",
+        "start": 655,
+        "end": 676,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Alcazaba de M\u00e9rida"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Puente Romano de M\u00e9rida",
+        "start": 677,
+        "end": 704,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Puente Romano de M\u00e9rida"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "11. Templo de Diana",
+        "start": 705,
+        "end": 724,
+        "groupdict": {
+            "order": "11",
+            "sep": ".",
+            "location": "Templo de Diana"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "12.Acueducto de los Milagros",
+        "start": 725,
+        "end": 753,
+        "groupdict": {
+            "order": "12",
+            "sep": ".",
+            "location": "Acueducto de los Milagros"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 1244,
+        "end": 1246,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

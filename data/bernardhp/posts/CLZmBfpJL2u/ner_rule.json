@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf9\ud83c\udded",
+        "start": 18,
+        "end": 20,
+        "groupdict": {
+            "flag": "\ud83c\uddf9\ud83c\udded",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Thailand",
+        "start": 8,
+        "end": 16,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

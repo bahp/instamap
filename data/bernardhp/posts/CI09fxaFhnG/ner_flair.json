@@ -1,0 +1,205 @@
+{
+    "text": "\ud83d\udccc Tag someone to visit Assisi with! \ud83c\udf0e Assisi, Italy \ud83c\uddee\ud83c\uddf9  \ud83d\udcf8 @minga.mrc \ud83d\udc3e Follow @best.city.shots #\u20e3 Use #mybestcityshots to be featured",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Assisi",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7391111254692078
+                }
+            ]
+        },
+        {
+            "text": "Assisi",
+            "start_pos": 38,
+            "end_pos": 44,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.31181517243385315
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 46,
+            "end_pos": 51,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996795654296875
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udccc",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 2,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "someone",
+            "start_pos": 6,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 14,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "Assisi",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 30,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0e",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Assisi",
+            "start_pos": 38,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 46,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 52,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 56,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "minga.mrc",
+            "start_pos": 59,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc3e",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 71,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "best.city.shots",
+            "start_pos": 79,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "#\u20e3",
+            "start_pos": 95,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "Use",
+            "start_pos": 98,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "mybestcityshots",
+            "start_pos": 103,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 119,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "be",
+            "start_pos": 122,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "featured",
+            "start_pos": 125,
+            "end_pos": 133,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

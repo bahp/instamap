@@ -1,0 +1,93 @@
+{
+    "text": "Destination \ud83e\udde1 . #magicmountaincamp  #magicmountaincafe  #\u0e1e\u0e30\u0e40\u0e22\u0e32 #thailand  #igtravel #igthailand",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Destination",
+            "start_pos": 0,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udde1",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 14,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "magicmountaincamp",
+            "start_pos": 17,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "magicmountaincafe",
+            "start_pos": 37,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "#\u0e1e\u0e30\u0e40\u0e22\u0e32",
+            "start_pos": 56,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "thailand",
+            "start_pos": 64,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "igtravel",
+            "start_pos": 75,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "igthailand",
+            "start_pos": 85,
+            "end_pos": 95,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

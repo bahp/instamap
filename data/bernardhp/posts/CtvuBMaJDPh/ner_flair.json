@@ -1,0 +1,104 @@
+{
+    "text": "Kamakura  in June \ud83d\ude83  #kamakura #\u0e04\u0e32\u0e21\u0e32\u0e04\u0e38\u0e23\u0e30 #japan #\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19 #lbzero",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Kamakura",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9098248481750488
+                }
+            ]
+        },
+        {
+            "text": "japan",
+            "start_pos": 42,
+            "end_pos": 47,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9828282594680786
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Kamakura",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "June",
+            "start_pos": 13,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude83",
+            "start_pos": 18,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "kamakura",
+            "start_pos": 22,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "#\u0e04\u0e32\u0e21\u0e32\u0e04\u0e38\u0e23\u0e30",
+            "start_pos": 31,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "japan",
+            "start_pos": 42,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "#\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19",
+            "start_pos": 48,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 57,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "lbzero",
+            "start_pos": 58,
+            "end_pos": 64,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

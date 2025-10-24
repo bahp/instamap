@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverIceland ",
+        "start": 41,
+        "end": 60,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverIceland "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf8",
+        "start": 36,
+        "end": 38,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf8",
+            "location": "Iceland"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

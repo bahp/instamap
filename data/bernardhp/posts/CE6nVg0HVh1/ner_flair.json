@@ -1,0 +1,565 @@
+{
+    "text": "Si te gustan los pueblitos de Espa\u00f1a tanto como a nosotros, apunta este nuevo destino en tu lista: \u00a1Alcal\u00e1 del J\u00facar! \ud83d\udcdd Este peque\u00f1o pueblo manchego es uno de los m\u00e1s pintorescos del pa\u00eds. \u00a1Se encuentra a los pies de la Hoz del J\u00facar y est\u00e1 presidido por un castillo precioso! \ud83e\udd29 \u00bfNo os parece de lo m\u00e1s bonito? Descubre este y otros lugares m\u00e1gicos en #UnMapaMuyNuestro \ud83d\udcf8: @welcometoelmundo\ud83d\udccdAlcal\u00e1 del J\u00facar, Albacete",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Alcal\u00e1 del J\u00facar",
+            "start_pos": 100,
+            "end_pos": 116,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6685357193152109
+                }
+            ]
+        },
+        {
+            "text": "Alcal\u00e1 del J\u00facar",
+            "start_pos": 391,
+            "end_pos": 407,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.5827634135882059
+                }
+            ]
+        },
+        {
+            "text": "Albacete",
+            "start_pos": 409,
+            "end_pos": 417,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.8980865478515625
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Si",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "te",
+            "start_pos": 3,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "gustan",
+            "start_pos": 6,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 13,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "pueblitos",
+            "start_pos": 17,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 27,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "Espa\u00f1a",
+            "start_pos": 30,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "tanto",
+            "start_pos": 37,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "como",
+            "start_pos": 43,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "nosotros",
+            "start_pos": 50,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "apunta",
+            "start_pos": 60,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "este",
+            "start_pos": 67,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "nuevo",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "destino",
+            "start_pos": 78,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "tu",
+            "start_pos": 89,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "lista",
+            "start_pos": 92,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 97,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "\u00a1",
+            "start_pos": 99,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "Alcal\u00e1",
+            "start_pos": 100,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 107,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "J\u00facar",
+            "start_pos": 111,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcdd",
+            "start_pos": 118,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "Este",
+            "start_pos": 120,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "peque\u00f1o",
+            "start_pos": 125,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "pueblo",
+            "start_pos": 133,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "manchego",
+            "start_pos": 140,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 149,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "uno",
+            "start_pos": 152,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 156,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 159,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1s",
+            "start_pos": 163,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "pintorescos",
+            "start_pos": 167,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 179,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "pa\u00eds",
+            "start_pos": 183,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 187,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "\u00a1",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "Se",
+            "start_pos": 190,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "encuentra",
+            "start_pos": 193,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 203,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 205,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "pies",
+            "start_pos": 209,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 214,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 217,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "Hoz",
+            "start_pos": 220,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 224,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "J\u00facar",
+            "start_pos": 228,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 234,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "est\u00e1",
+            "start_pos": 236,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "presidido",
+            "start_pos": 241,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "por",
+            "start_pos": 251,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 255,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "castillo",
+            "start_pos": 258,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "precioso",
+            "start_pos": 267,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 275,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd29",
+            "start_pos": 277,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "\u00bf",
+            "start_pos": 279,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "No",
+            "start_pos": 280,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "os",
+            "start_pos": 283,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "parece",
+            "start_pos": 286,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 293,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "lo",
+            "start_pos": 296,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1s",
+            "start_pos": 299,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "bonito",
+            "start_pos": 303,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 309,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "Descubre",
+            "start_pos": 311,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "este",
+            "start_pos": 320,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "otros",
+            "start_pos": 327,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "lugares",
+            "start_pos": 333,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "m\u00e1gicos",
+            "start_pos": 341,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 349,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 352,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "UnMapaMuyNuestro",
+            "start_pos": 353,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 370,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 371,
+            "end_pos": 372,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 373,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "welcometoelmundo",
+            "start_pos": 374,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 390,
+            "end_pos": 391,
+            "labels": []
+        },
+        {
+            "text": "Alcal\u00e1",
+            "start_pos": 391,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 398,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "J\u00facar",
+            "start_pos": 402,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 407,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "Albacete",
+            "start_pos": 409,
+            "end_pos": 417,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

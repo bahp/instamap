@@ -1,0 +1,127 @@
+{
+    "text": "Koufonisia  By @pastelidis_greece  #bestplaces_greece #greece #koufonisia",
+    "labels": [],
+    "entities": [
+        {
+            "text": "greece",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6725270748138428
+                }
+            ]
+        },
+        {
+            "text": "greece",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7410157322883606
+                }
+            ]
+        },
+        {
+            "text": "greece",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7747235894203186
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Koufonisia",
+            "start_pos": 0,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "By",
+            "start_pos": 12,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "pastelidis",
+            "start_pos": 16,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "greece",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "bestplaces",
+            "start_pos": 36,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "greece",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "greece",
+            "start_pos": 55,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "koufonisia",
+            "start_pos": 63,
+            "end_pos": 73,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,177 @@
+{
+    "text": "\ud83d\udd14The bells are ringing\u2026\ud83d\udd14  \"Scenes from South Tyrol!\u26f0 \u00bb \ud83c\uddee\ud83c\uddf9 #discoverSouthTyrol with @kylevollaers  #southtyrol #tyrol #church",
+    "labels": [],
+    "entities": [
+        {
+            "text": "South Tyrol",
+            "start_pos": 39,
+            "end_pos": 50,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.5024860054254532
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udd14",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 1,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "bells",
+            "start_pos": 5,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 11,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "ringing",
+            "start_pos": 15,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "\u2026\ud83d\udd14",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "Scenes",
+            "start_pos": 27,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 34,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "South",
+            "start_pos": 39,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Tyrol",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\u26f0",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "\u00bb",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 55,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "discoverSouthTyrol",
+            "start_pos": 59,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 78,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "kylevollaers",
+            "start_pos": 84,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 98,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "southtyrol",
+            "start_pos": 99,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 110,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "tyrol",
+            "start_pos": 111,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 117,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "church",
+            "start_pos": 118,
+            "end_pos": 124,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

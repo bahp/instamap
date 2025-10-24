@@ -1,0 +1,37 @@
+{
+    "content": "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Bow Lake\",\n      \"full_address\": \"Bow Lake, Improvement District No. 9, AB T0L, Canada\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Mistaya Lake\",\n      \"full_address\": \"Mistaya Lake, Improvement District No. 9, AB T0L, Canada\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Columbia Icefield Glacier Adventure\",\n      \"full_address\": \"Highway 93, 93 Icefields Pkwy Highway, Improvement District No. 12, AB T1L 1J3, Canada\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Columbia Icefield Skywalk\",\n      \"full_address\": \"Highway 93, Icefields Pkwy, Improvement District No. 12, AB T1L 1J3, Canada\",\n      \"order\": 3\n    }\n  ]\n}\n```\n\nThis file contains 4 locations. Each location has a name, a full address, and an order. The order is the order in which the location was found in the text.\n\nI hope this is helpful!\nhttp://googleusercontent.com/map_content/0",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_76878e2db45b9deb",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_9d16c84324d092c1",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Bow Lake\",\n      \"full_address\": \"Bow Lake, Improvement District No. 9, AB T0L, Canada\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Mistaya Lake\",\n      \"full_address\": \"Mistaya Lake, Improvement District No. 9, AB T0L, Canada\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Columbia Icefield Glacier Adventure\",\n      \"full_address\": \"Highway 93, 93 Icefields Pkwy Highway, Improvement District No. 12, AB T1L 1J3, Canada\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Columbia Icefield Skywalk\",\n      \"full_address\": \"Highway 93, Icefields Pkwy, Improvement District No. 12, AB T1L 1J3, Canada\",\n      \"order\": 3\n    }\n  ]\n}\n```\n\nThis file contains 4 locations. Each location has a name, a full address, and an order. The order is the order in which the location was found in the text.\n\nI hope this is helpful!\nhttp://googleusercontent.com/map_content/0"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=17194481970620781312",
+        "https://maps.google.com/?cid=6728206490848652940",
+        "https://maps.google.com/?cid=6858994554514723197",
+        "https://www.banffjaspercollection.com/attractions/glacier-adventure/",
+        "https://maps.google.com/?cid=7094638688500473168",
+        "https://www.banffjaspercollection.com/attractions/columbia-icefield/skywalk/",
+        "https://maps.google.com/?cid=5987390113395107451",
+        "https://maps.google.com/?cid=17194481970620781312",
+        "https://maps.google.com/?cid=6728206490848652940",
+        "https://maps.google.com/?cid=6858994554514723197",
+        "https://www.banffjaspercollection.com/attractions/glacier-adventure/",
+        "https://maps.google.com/?cid=7094638688500473168",
+        "https://www.banffjaspercollection.com/attractions/columbia-icefield/skywalk/",
+        "https://maps.google.com/?cid=5987390113395107451",
+        "http://googleusercontent.com/map_content/0",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Bow Lake\",\n      \"full_address\": \"Bow Lake, Improvement District No. 9, AB T0L, Canada\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"Mistaya Lake\",\n      \"full_address\": \"Mistaya Lake, Improvement District No. 9, AB T0L, Canada\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Columbia Icefield Glacier Adventure\",\n      \"full_address\": \"Highway 93, 93 Icefields Pkwy Highway, Improvement District No. 12, AB T1L 1J3, Canada\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Columbia Icefield Skywalk\",\n      \"full_address\": \"Highway 93, Icefields Pkwy, Improvement District No. 12, AB T1L 1J3, Canada\",\n      \"order\": 3\n    }\n  ]\n}\n",
+    "status_code": 200
+}

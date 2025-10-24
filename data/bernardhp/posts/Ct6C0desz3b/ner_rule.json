@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccdPulau Pototoga, Mentawai islands, West Sumatra",
+        "start": 148,
+        "end": 195,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Pulau Pototoga, Mentawai islands, West Sumatra"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Indonesia",
+        "start": 77,
+        "end": 86,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "indonesia",
+        "start": 248,
+        "end": 257,
+        "groupdict": {
+            "name": "indonesia",
+            "location": "indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

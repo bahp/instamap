@@ -1,0 +1,73 @@
+[
+    {
+        "text": "\ud83d\udccd Norway",
+        "start": 582,
+        "end": 590,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Norway"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Norway",
+        "start": 30,
+        "end": 36,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 72,
+        "end": 78,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 468,
+        "end": 474,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 584,
+        "end": 590,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "norway",
+        "start": 634,
+        "end": 640,
+        "groupdict": {
+            "name": "norway",
+            "location": "norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

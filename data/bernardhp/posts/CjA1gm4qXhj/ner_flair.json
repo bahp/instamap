@@ -1,0 +1,123 @@
+{
+    "text": "Abhaneri Chand Baori!!! #abhaneri  #chandbaori  #abhaneristepwell  #rajasthan  #tourism  #joyahoidays",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Abhaneri Chand Baori",
+            "start_pos": 0,
+            "end_pos": 20,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9625016649564108
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Abhaneri",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Chand",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Baori",
+            "start_pos": 15,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "!!",
+            "start_pos": 20,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "abhaneri",
+            "start_pos": 25,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "chandbaori",
+            "start_pos": 36,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "abhaneristepwell",
+            "start_pos": 49,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "rajasthan",
+            "start_pos": 68,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "tourism",
+            "start_pos": 80,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "joyahoidays",
+            "start_pos": 90,
+            "end_pos": 101,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

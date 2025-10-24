@@ -1,0 +1,1276 @@
+{
+    "text": "La PAGODA FEIHONG- \u98de\u8679\u5854 est\u00e1 ubicada en el Templo Guangsheng en el condado de Hongtong de la provincia de Shanxi, en el norte de China.  . La Pagoda Feihong fue terminada en 1527 durante la dinast\u00eda Ming y adornada con azulejos vidriados en 1622. . Respecto a las figuras vidriadas que pueblan la Pagoda, se despliega una rica variedad: aparte de aquellas relacionadas con el credo budista, tambi\u00e9n cobran vida criaturas legendarias extra\u00eddas del folclore y la mitolog\u00eda, adem\u00e1s de ornamentos auspiciosos que emanan de las tradiciones arraigadas. en esta regi\u00f3n. .  \u201c\u7409\u7483\u5b9d\u5854\u3001\u5929\u4e0b\u65e0\u53cc\u201d\uff0c\u8fd9\u662f\u5bf9\u98de\u8679\u5854\u6700\u6021\u5f53\u8bc4\u4ef7\u3002\u7eda\u4e3d\u591a\u5f69\u7684\u7409\u7483\u6784\u4ef6\uff0c\u5728\u9633\u5149\u4e0b\u71a0\u71a0\u751f\u8f89\uff0c\u5b9b\u5982\u96e8\u540e\u5f69\u8679\uff0c\u6545\u79f0\u98de\u8679\u3002 . ****************************** Author\ud83d\udcf8: \u5c0f\u7ea2\u4e66@ CHOS1N \ud83d\udce9 DM para promociones de pago y colaboraci\u00f3n ****************************** \ud83c\udc04\ud83d\uded2 \u00a1Bienvenidos a nuestro BLOG y TIENDA ONLINE para apasionados de China: https://www.letraschinas.site ****************************** \ud83d\udccc Todo sobre China en nuestro grupo de Facebook\ud83d\udc47\ud83d\udc47https://www.facebook.com/groups/amigosdechina ****************************** . . . . .  #shanxi #\u5c71\u897f #\u53e4\u5efa\u7b51 #pagoda #pagodas #ancientworld #chinesearchitecture #ancientarchitecture #tempio #temples #monuments #loves_monuments #oldarchitecture #oldbuildings #templearchitecture #monumentos #monument #ancient #Shanxi #\u5c71\u897f",
+    "labels": [],
+    "entities": [
+        {
+            "text": "La PAGODA FEIHONG",
+            "start_pos": 0,
+            "end_pos": 17,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.571017861366272
+                }
+            ]
+        },
+        {
+            "text": "ubicada en el Templo Guangsheng en el condado de Hongtong de la provincia de Shanxi, en el norte de",
+            "start_pos": 28,
+            "end_pos": 127,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.8446713075041771
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 128,
+            "end_pos": 133,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5881991386413574
+                }
+            ]
+        },
+        {
+            "text": "China",
+            "start_pos": 818,
+            "end_pos": 823,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.4509141743183136
+                }
+            ]
+        },
+        {
+            "text": "Todo sobre China en nuestro grupo de Facebook",
+            "start_pos": 888,
+            "end_pos": 933,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7684161067008972
+                }
+            ]
+        },
+        {
+            "text": "Shanxi",
+            "start_pos": 1241,
+            "end_pos": 1247,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9795736074447632
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "La",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "PAGODA",
+            "start_pos": 3,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "FEIHONG",
+            "start_pos": 10,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\u98de\u8679\u5854",
+            "start_pos": 19,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "est\u00e1",
+            "start_pos": 23,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "ubicada",
+            "start_pos": 28,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 36,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 39,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "Templo",
+            "start_pos": 42,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "Guangsheng",
+            "start_pos": 49,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 60,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 63,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "condado",
+            "start_pos": 66,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 74,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "Hongtong",
+            "start_pos": 77,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 89,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "provincia",
+            "start_pos": 92,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 102,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "Shanxi",
+            "start_pos": 105,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 111,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 113,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 116,
+            "end_pos": 118,
+            "labels": []
+        },
+        {
+            "text": "norte",
+            "start_pos": 119,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 125,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 128,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 136,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "La",
+            "start_pos": 138,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "Pagoda",
+            "start_pos": 141,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "Feihong",
+            "start_pos": 148,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "fue",
+            "start_pos": 156,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "terminada",
+            "start_pos": 160,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 170,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "1527",
+            "start_pos": 173,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "durante",
+            "start_pos": 178,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 186,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "dinast\u00eda",
+            "start_pos": 189,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "Ming",
+            "start_pos": 198,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 203,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "adornada",
+            "start_pos": 205,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 214,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "azulejos",
+            "start_pos": 218,
+            "end_pos": 226,
+            "labels": []
+        },
+        {
+            "text": "vidriados",
+            "start_pos": 227,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 237,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "1622",
+            "start_pos": 240,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 244,
+            "end_pos": 245,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 246,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "Respecto",
+            "start_pos": 248,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 257,
+            "end_pos": 258,
+            "labels": []
+        },
+        {
+            "text": "las",
+            "start_pos": 259,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "figuras",
+            "start_pos": 263,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "vidriadas",
+            "start_pos": 271,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 281,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "pueblan",
+            "start_pos": 285,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 293,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "Pagoda",
+            "start_pos": 296,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 302,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "se",
+            "start_pos": 304,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "despliega",
+            "start_pos": 307,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 317,
+            "end_pos": 320,
+            "labels": []
+        },
+        {
+            "text": "rica",
+            "start_pos": 321,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "variedad",
+            "start_pos": 326,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 334,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "aparte",
+            "start_pos": 336,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 343,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "aquellas",
+            "start_pos": 346,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "relacionadas",
+            "start_pos": 355,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 368,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 372,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "credo",
+            "start_pos": 375,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "budista",
+            "start_pos": 381,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 388,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "tambi\u00e9n",
+            "start_pos": 390,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "cobran",
+            "start_pos": 398,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "vida",
+            "start_pos": 405,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "criaturas",
+            "start_pos": 410,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "legendarias",
+            "start_pos": 420,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "extra\u00eddas",
+            "start_pos": 432,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 442,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "folclore",
+            "start_pos": 446,
+            "end_pos": 454,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 455,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 457,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "mitolog\u00eda",
+            "start_pos": 460,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 469,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "adem\u00e1s",
+            "start_pos": 471,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 478,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": "ornamentos",
+            "start_pos": 481,
+            "end_pos": 491,
+            "labels": []
+        },
+        {
+            "text": "auspiciosos",
+            "start_pos": 492,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 504,
+            "end_pos": 507,
+            "labels": []
+        },
+        {
+            "text": "emanan",
+            "start_pos": 508,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 515,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "las",
+            "start_pos": 518,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "tradiciones",
+            "start_pos": 522,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "arraigadas",
+            "start_pos": 534,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 544,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 546,
+            "end_pos": 548,
+            "labels": []
+        },
+        {
+            "text": "esta",
+            "start_pos": 549,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "regi\u00f3n",
+            "start_pos": 554,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 560,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 562,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "\u201c\u7409\u7483\u5b9d\u5854\u3001\u5929\u4e0b\u65e0\u53cc\u201d\uff0c\u8fd9\u662f\u5bf9\u98de\u8679\u5854\u6700\u6021\u5f53\u8bc4\u4ef7\u3002\u7eda\u4e3d\u591a\u5f69\u7684\u7409\u7483\u6784\u4ef6\uff0c\u5728\u9633\u5149\u4e0b\u71a0\u71a0\u751f\u8f89\uff0c\u5b9b\u5982\u96e8\u540e\u5f69\u8679\uff0c\u6545\u79f0\u98de\u8679",
+            "start_pos": 565,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": "\u3002",
+            "start_pos": 619,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 621,
+            "end_pos": 622,
+            "labels": []
+        },
+        {
+            "text": "******************************",
+            "start_pos": 623,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": "Author",
+            "start_pos": 654,
+            "end_pos": 660,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 660,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 661,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "\u5c0f\u7ea2\u4e66@",
+            "start_pos": 663,
+            "end_pos": 667,
+            "labels": []
+        },
+        {
+            "text": "CHOS1N",
+            "start_pos": 668,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udce9",
+            "start_pos": 675,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "DM",
+            "start_pos": 677,
+            "end_pos": 679,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 680,
+            "end_pos": 684,
+            "labels": []
+        },
+        {
+            "text": "promociones",
+            "start_pos": 685,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 697,
+            "end_pos": 699,
+            "labels": []
+        },
+        {
+            "text": "pago",
+            "start_pos": 700,
+            "end_pos": 704,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 705,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": "colaboraci\u00f3n",
+            "start_pos": 707,
+            "end_pos": 719,
+            "labels": []
+        },
+        {
+            "text": "******************************",
+            "start_pos": 720,
+            "end_pos": 750,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udc04\ud83d\uded2",
+            "start_pos": 751,
+            "end_pos": 753,
+            "labels": []
+        },
+        {
+            "text": "\u00a1",
+            "start_pos": 754,
+            "end_pos": 755,
+            "labels": []
+        },
+        {
+            "text": "Bienvenidos",
+            "start_pos": 755,
+            "end_pos": 766,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 767,
+            "end_pos": 768,
+            "labels": []
+        },
+        {
+            "text": "nuestro",
+            "start_pos": 769,
+            "end_pos": 776,
+            "labels": []
+        },
+        {
+            "text": "BLOG",
+            "start_pos": 777,
+            "end_pos": 781,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 782,
+            "end_pos": 783,
+            "labels": []
+        },
+        {
+            "text": "TIENDA",
+            "start_pos": 784,
+            "end_pos": 790,
+            "labels": []
+        },
+        {
+            "text": "ONLINE",
+            "start_pos": 791,
+            "end_pos": 797,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 798,
+            "end_pos": 802,
+            "labels": []
+        },
+        {
+            "text": "apasionados",
+            "start_pos": 803,
+            "end_pos": 814,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 815,
+            "end_pos": 817,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 818,
+            "end_pos": 823,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 823,
+            "end_pos": 824,
+            "labels": []
+        },
+        {
+            "text": "https",
+            "start_pos": 825,
+            "end_pos": 830,
+            "labels": []
+        },
+        {
+            "text": "://",
+            "start_pos": 830,
+            "end_pos": 833,
+            "labels": []
+        },
+        {
+            "text": "www.letraschinas.site",
+            "start_pos": 833,
+            "end_pos": 854,
+            "labels": []
+        },
+        {
+            "text": "******************************",
+            "start_pos": 855,
+            "end_pos": 885,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccc",
+            "start_pos": 886,
+            "end_pos": 887,
+            "labels": []
+        },
+        {
+            "text": "Todo",
+            "start_pos": 888,
+            "end_pos": 892,
+            "labels": []
+        },
+        {
+            "text": "sobre",
+            "start_pos": 893,
+            "end_pos": 898,
+            "labels": []
+        },
+        {
+            "text": "China",
+            "start_pos": 899,
+            "end_pos": 904,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 905,
+            "end_pos": 907,
+            "labels": []
+        },
+        {
+            "text": "nuestro",
+            "start_pos": 908,
+            "end_pos": 915,
+            "labels": []
+        },
+        {
+            "text": "grupo",
+            "start_pos": 916,
+            "end_pos": 921,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 922,
+            "end_pos": 924,
+            "labels": []
+        },
+        {
+            "text": "Facebook",
+            "start_pos": 925,
+            "end_pos": 933,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc47\ud83d\udc47",
+            "start_pos": 933,
+            "end_pos": 935,
+            "labels": []
+        },
+        {
+            "text": "https",
+            "start_pos": 935,
+            "end_pos": 940,
+            "labels": []
+        },
+        {
+            "text": "://",
+            "start_pos": 940,
+            "end_pos": 943,
+            "labels": []
+        },
+        {
+            "text": "www.facebook.com",
+            "start_pos": 943,
+            "end_pos": 959,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 959,
+            "end_pos": 960,
+            "labels": []
+        },
+        {
+            "text": "groups",
+            "start_pos": 960,
+            "end_pos": 966,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 966,
+            "end_pos": 967,
+            "labels": []
+        },
+        {
+            "text": "amigosdechina",
+            "start_pos": 967,
+            "end_pos": 980,
+            "labels": []
+        },
+        {
+            "text": "******************************",
+            "start_pos": 981,
+            "end_pos": 1011,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1012,
+            "end_pos": 1013,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1014,
+            "end_pos": 1015,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1016,
+            "end_pos": 1017,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1018,
+            "end_pos": 1019,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 1020,
+            "end_pos": 1021,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1023,
+            "end_pos": 1024,
+            "labels": []
+        },
+        {
+            "text": "shanxi",
+            "start_pos": 1024,
+            "end_pos": 1030,
+            "labels": []
+        },
+        {
+            "text": "#\u5c71\u897f",
+            "start_pos": 1031,
+            "end_pos": 1034,
+            "labels": []
+        },
+        {
+            "text": "#\u53e4\u5efa\u7b51",
+            "start_pos": 1035,
+            "end_pos": 1039,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1040,
+            "end_pos": 1041,
+            "labels": []
+        },
+        {
+            "text": "pagoda",
+            "start_pos": 1041,
+            "end_pos": 1047,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1048,
+            "end_pos": 1049,
+            "labels": []
+        },
+        {
+            "text": "pagodas",
+            "start_pos": 1049,
+            "end_pos": 1056,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1057,
+            "end_pos": 1058,
+            "labels": []
+        },
+        {
+            "text": "ancientworld",
+            "start_pos": 1058,
+            "end_pos": 1070,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1071,
+            "end_pos": 1072,
+            "labels": []
+        },
+        {
+            "text": "chinesearchitecture",
+            "start_pos": 1072,
+            "end_pos": 1091,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1092,
+            "end_pos": 1093,
+            "labels": []
+        },
+        {
+            "text": "ancientarchitecture",
+            "start_pos": 1093,
+            "end_pos": 1112,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1113,
+            "end_pos": 1114,
+            "labels": []
+        },
+        {
+            "text": "tempio",
+            "start_pos": 1114,
+            "end_pos": 1120,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1121,
+            "end_pos": 1122,
+            "labels": []
+        },
+        {
+            "text": "temples",
+            "start_pos": 1122,
+            "end_pos": 1129,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1130,
+            "end_pos": 1131,
+            "labels": []
+        },
+        {
+            "text": "monuments",
+            "start_pos": 1131,
+            "end_pos": 1140,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1141,
+            "end_pos": 1142,
+            "labels": []
+        },
+        {
+            "text": "loves",
+            "start_pos": 1142,
+            "end_pos": 1147,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 1147,
+            "end_pos": 1148,
+            "labels": []
+        },
+        {
+            "text": "monuments",
+            "start_pos": 1148,
+            "end_pos": 1157,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1158,
+            "end_pos": 1159,
+            "labels": []
+        },
+        {
+            "text": "oldarchitecture",
+            "start_pos": 1159,
+            "end_pos": 1174,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1175,
+            "end_pos": 1176,
+            "labels": []
+        },
+        {
+            "text": "oldbuildings",
+            "start_pos": 1176,
+            "end_pos": 1188,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1189,
+            "end_pos": 1190,
+            "labels": []
+        },
+        {
+            "text": "templearchitecture",
+            "start_pos": 1190,
+            "end_pos": 1208,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1209,
+            "end_pos": 1210,
+            "labels": []
+        },
+        {
+            "text": "monumentos",
+            "start_pos": 1210,
+            "end_pos": 1220,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1221,
+            "end_pos": 1222,
+            "labels": []
+        },
+        {
+            "text": "monument",
+            "start_pos": 1222,
+            "end_pos": 1230,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1231,
+            "end_pos": 1232,
+            "labels": []
+        },
+        {
+            "text": "ancient",
+            "start_pos": 1232,
+            "end_pos": 1239,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 1240,
+            "end_pos": 1241,
+            "labels": []
+        },
+        {
+            "text": "Shanxi",
+            "start_pos": 1241,
+            "end_pos": 1247,
+            "labels": []
+        },
+        {
+            "text": "#\u5c71\u897f",
+            "start_pos": 1248,
+            "end_pos": 1251,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,723 @@
+{
+    "text": "Zakynthos island, home to some of the most ethereal beaches? \ud83c\udf0a\ud83c\udfdd   Zakynthos is one of the most popular Greek islands \ud83c\uddec\ud83c\uddf7 with stunning landscapes, dreamy beaches with white sand and crystal clear turquoise waters are the main reasons why this island is so famous. \ud83d\udc99   Did you know? \ud83d\ude2f Zakynthos island and Rhodes island share top place as having the longest annual sun exposure in Greece. \u2600  Follow @travelmosa Follow @travelmosa Follow @travelmosa \ud83d\udcf8: @jess.wandering  \u2022 \u2022 \u2022 \u2022 #Seascape #zakynthos #zakynthosisland  #clearsea #explorepage #explore #greece #greekisland",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Zakynthos",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5427329540252686
+                }
+            ]
+        },
+        {
+            "text": "Zakynthos",
+            "start_pos": 66,
+            "end_pos": 75,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9829974174499512
+                }
+            ]
+        },
+        {
+            "text": "Greek",
+            "start_pos": 103,
+            "end_pos": 108,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9660871624946594
+                }
+            ]
+        },
+        {
+            "text": "Zakynthos island",
+            "start_pos": 283,
+            "end_pos": 299,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7867487967014313
+                }
+            ]
+        },
+        {
+            "text": "Rhodes island",
+            "start_pos": 304,
+            "end_pos": 317,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6764162480831146
+                }
+            ]
+        },
+        {
+            "text": "Greece",
+            "start_pos": 379,
+            "end_pos": 385,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997734427452087
+                }
+            ]
+        },
+        {
+            "text": "greece",
+            "start_pos": 547,
+            "end_pos": 553,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9002358317375183
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Zakynthos",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "home",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 23,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "some",
+            "start_pos": 26,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 31,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 34,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 38,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "ethereal",
+            "start_pos": 43,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "beaches",
+            "start_pos": 52,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf0a\ud83c\udfdd",
+            "start_pos": 61,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Zakynthos",
+            "start_pos": 66,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 76,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 79,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 83,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 86,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 90,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "popular",
+            "start_pos": 95,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "Greek",
+            "start_pos": 103,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "islands",
+            "start_pos": 109,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddec\ud83c\uddf7",
+            "start_pos": 117,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 120,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "stunning",
+            "start_pos": 125,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "landscapes",
+            "start_pos": 134,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 144,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "dreamy",
+            "start_pos": 146,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "beaches",
+            "start_pos": 153,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 161,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "white",
+            "start_pos": 166,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "sand",
+            "start_pos": 172,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 177,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "crystal",
+            "start_pos": 181,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "clear",
+            "start_pos": 189,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "turquoise",
+            "start_pos": 195,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "waters",
+            "start_pos": 205,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 212,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 216,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "main",
+            "start_pos": 220,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "reasons",
+            "start_pos": 225,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "why",
+            "start_pos": 233,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 237,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 242,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 249,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 252,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "famous",
+            "start_pos": 255,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 261,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc99",
+            "start_pos": 263,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "Did",
+            "start_pos": 267,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 271,
+            "end_pos": 274,
+            "labels": []
+        },
+        {
+            "text": "know",
+            "start_pos": 275,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 279,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude2f",
+            "start_pos": 281,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "Zakynthos",
+            "start_pos": 283,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 293,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 300,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": "Rhodes",
+            "start_pos": 304,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "island",
+            "start_pos": 311,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "share",
+            "start_pos": 318,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "top",
+            "start_pos": 324,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 328,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 334,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "having",
+            "start_pos": 337,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 344,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "longest",
+            "start_pos": 348,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "annual",
+            "start_pos": 356,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "sun",
+            "start_pos": 363,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "exposure",
+            "start_pos": 367,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 376,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "Greece",
+            "start_pos": 379,
+            "end_pos": 385,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 385,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "\u2600",
+            "start_pos": 387,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 390,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 397,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "travelmosa",
+            "start_pos": 398,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 409,
+            "end_pos": 415,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 416,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "travelmosa",
+            "start_pos": 417,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 428,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 435,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "travelmosa",
+            "start_pos": 436,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 447,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 448,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 450,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "jess.wandering",
+            "start_pos": 451,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 467,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 469,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 471,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 473,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 475,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "Seascape",
+            "start_pos": 476,
+            "end_pos": 484,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 485,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "zakynthos",
+            "start_pos": 486,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 496,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "zakynthosisland",
+            "start_pos": 497,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 514,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "clearsea",
+            "start_pos": 515,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 524,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "explorepage",
+            "start_pos": 525,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 537,
+            "end_pos": 538,
+            "labels": []
+        },
+        {
+            "text": "explore",
+            "start_pos": 538,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 546,
+            "end_pos": 547,
+            "labels": []
+        },
+        {
+            "text": "greece",
+            "start_pos": 547,
+            "end_pos": 553,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 554,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "greekisland",
+            "start_pos": 555,
+            "end_pos": 566,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

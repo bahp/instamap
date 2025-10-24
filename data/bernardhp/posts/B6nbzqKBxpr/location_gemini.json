@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Europe",
+        "subtitle": "A continent popular for van life",
+        "lat": 48.69096,
+        "lon": 9.14062,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 1
+    },
+    {
+        "title": "USA",
+        "subtitle": "The United States for van travel",
+        "lat": 39.8283,
+        "lon": -98.5795,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2
+    },
+    {
+        "title": "Australia",
+        "subtitle": "A country and continent for van life",
+        "lat": -25.2744,
+        "lon": 133.7751,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3
+    }
+]

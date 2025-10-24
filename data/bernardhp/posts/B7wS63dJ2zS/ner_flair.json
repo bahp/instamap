@@ -1,0 +1,447 @@
+{
+    "text": "Do you like reading ? \ud83d\ude0d\ud83d\ude0d - \u2022 \u2022 \u2022 \u2022 Cr: @nomadic__van  #vanlife #vanliving #vanlifediaries #homeonwheels #homeiswhereyouparkit #digitalnomads #tinyhouse #travelingfamily #minimalism #vanlifestyle #VanlifeMagazine #CamperLifestyle #VanlifeExplorers #camper #vanagon #getoutstayout #tinyhouse #wander #getoutside #roadtrip #campervan #cabin #theoutbound #vanlifers #vandwelling #vanlifeideas #buslife #nomadlifestore",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Do",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 3,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "like",
+            "start_pos": 7,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "reading",
+            "start_pos": 12,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d\ud83d\ude0d",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 29,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 33,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "Cr",
+            "start_pos": 35,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "nomadic",
+            "start_pos": 40,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "__",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "van",
+            "start_pos": 49,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "vanlife",
+            "start_pos": 55,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "vanliving",
+            "start_pos": 64,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 74,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "vanlifediaries",
+            "start_pos": 75,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "homeonwheels",
+            "start_pos": 91,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "homeiswhereyouparkit",
+            "start_pos": 105,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 126,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "digitalnomads",
+            "start_pos": 127,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 141,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "tinyhouse",
+            "start_pos": 142,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 152,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "travelingfamily",
+            "start_pos": 153,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "minimalism",
+            "start_pos": 170,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 181,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "vanlifestyle",
+            "start_pos": 182,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 195,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "VanlifeMagazine",
+            "start_pos": 196,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "CamperLifestyle",
+            "start_pos": 213,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "VanlifeExplorers",
+            "start_pos": 230,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 247,
+            "end_pos": 248,
+            "labels": []
+        },
+        {
+            "text": "camper",
+            "start_pos": 248,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 255,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "vanagon",
+            "start_pos": 256,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 264,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "getoutstayout",
+            "start_pos": 265,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 279,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "tinyhouse",
+            "start_pos": 280,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 290,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "wander",
+            "start_pos": 291,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 298,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "getoutside",
+            "start_pos": 299,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 310,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "roadtrip",
+            "start_pos": 311,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 320,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "campervan",
+            "start_pos": 321,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 331,
+            "end_pos": 332,
+            "labels": []
+        },
+        {
+            "text": "cabin",
+            "start_pos": 332,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 338,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "theoutbound",
+            "start_pos": 339,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 351,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "vanlifers",
+            "start_pos": 352,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 362,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "vandwelling",
+            "start_pos": 363,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 375,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "vanlifeideas",
+            "start_pos": 376,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 389,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "buslife",
+            "start_pos": 390,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 398,
+            "end_pos": 399,
+            "labels": []
+        },
+        {
+            "text": "nomadlifestore",
+            "start_pos": 399,
+            "end_pos": 413,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

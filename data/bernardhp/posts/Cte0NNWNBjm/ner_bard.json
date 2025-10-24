@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Valle de las Animas\",\n      \"full_address\": \"Sur Lipez Province, Bolivia\",\n      \"image\": \"https://www.casadelaplata.com.bo/wp-content/uploads/2020/07/valle-de-las-animas-bolivia_destacado.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"La Paz\",\n      \"full_address\": \"La Paz, Bolivia\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/LaPaz_from_Teleferico_2015_09_02.jpg/1200px-LaPaz_from_Teleferico_2015_09_02.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Laguna Honda\",\n      \"full_address\": \"Uyuni Province, Bolivia\",\n      \"image\": \"https://www.bolivia.travel/wp-content/uploads/2021/11/laguna-honda-bolivia-uyuni-altitud-sur-lipez.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Salar de Uyuni\",\n      \"full_address\": \"Uyuni Province, Bolivia\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Salar_de_Uyuni.jpg/1200px-Salar_de_Uyuni.jpg\",\n      \"order\": 3\n    }\n  ]\n}\n```",
+    "conversation_id": "c_b70974265f32c372",
+    "response_id": "r_77e6ab8568c675d5",
+    "factuality_queries": null,
+    "text_query": [
+        "\u00bfC\u00f3mo se llaman los emojis de texto?",
+        4
+    ],
+    "choices": [
+        {
+            "id": "rc_4fbf8bbd1396956e",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Valle de las Animas\",\n      \"full_address\": \"Sur Lipez Province, Bolivia\",\n      \"image\": \"https://www.casadelaplata.com.bo/wp-content/uploads/2020/07/valle-de-las-animas-bolivia_destacado.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"La Paz\",\n      \"full_address\": \"La Paz, Bolivia\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/LaPaz_from_Teleferico_2015_09_02.jpg/1200px-LaPaz_from_Teleferico_2015_09_02.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Laguna Honda\",\n      \"full_address\": \"Uyuni Province, Bolivia\",\n      \"image\": \"https://www.bolivia.travel/wp-content/uploads/2021/11/laguna-honda-bolivia-uyuni-altitud-sur-lipez.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Salar de Uyuni\",\n      \"full_address\": \"Uyuni Province, Bolivia\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Salar_de_Uyuni.jpg/1200px-Salar_de_Uyuni.jpg\",\n      \"order\": 3\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_6057644b5e542692",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Valle de las \u00c1nimas\",\n      \"full_address\": \"Unnamed Road, Bolivia\",\n      \"order\": 0,\n      \"image\": \"https://www.google.com/search?q=Valle de las \u00c1nimas, Bolivia&tbm=isch\"\n    },\n    {\n      \"name\": \"La Paz\",\n      \"full_address\": \"La Paz, Bolivia\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=La Paz, Bolivia&tbm=isch\"\n    },\n    {\n      \"name\": \"Laguna Honda\",\n      \"full_address\": \"Laguna Honda National Park, Bolivia\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Laguna Honda, Bolivia&tbm=isch\"\n    },\n    {\n      \"name\": \"Salar de Uyuni\",\n      \"full_address\": \"Salar de Uyuni, Bolivia\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Salar de Uyuni, Bolivia&tbm=isch\"\n    }\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_ae95889b4891681c",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address) and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Salar de Uyuni\",\n      \"full_address\": \"Salar de Uyuni, Bolivia\",\n      \"order\": 0,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Salar_de_Uyuni_Bolivia.jpg/220px-Salar_de_Uyuni_Bolivia.jpg\"\n    },\n    {\n      \"name\": \"La Paz\",\n      \"full_address\": \"La Paz, Bolivia\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/La_Paz%2C_Bolivia.jpg/220px-La_Paz%2C_Bolivia.jpg\"\n    },\n    {\n      \"name\": \"Valle de las \u00c1nimas\",\n      \"full_address\": \"Valle de las \u00c1nimas, Bolivia\",\n      \"order\": 2,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Valle_de_las_%C3%81nimas.jpg/220px-Valle_de_las_%C3%81nimas.jpg\"\n    }\n  ]\n}\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Valle de las Animas\",\n      \"full_address\": \"Sur Lipez Province, Bolivia\",\n      \"image\": \"https://www.casadelaplata.com.bo/wp-content/uploads/2020/07/valle-de-las-animas-bolivia_destacado.jpg\",\n      \"order\": 0\n    },\n    {\n      \"name\": \"La Paz\",\n      \"full_address\": \"La Paz, Bolivia\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/LaPaz_from_Teleferico_2015_09_02.jpg/1200px-LaPaz_from_Teleferico_2015_09_02.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Laguna Honda\",\n      \"full_address\": \"Uyuni Province, Bolivia\",\n      \"image\": \"https://www.bolivia.travel/wp-content/uploads/2021/11/laguna-honda-bolivia-uyuni-altitud-sur-lipez.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Salar de Uyuni\",\n      \"full_address\": \"Uyuni Province, Bolivia\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Salar_de_Uyuni.jpg/1200px-Salar_de_Uyuni.jpg\",\n      \"order\": 3\n    }\n  ]\n}\n",
+    "status_code": 200
+}

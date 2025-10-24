@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Paris",
+        "subtitle": "Capital city of France",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "France",
+        "subtitle": "Country in Western Europe",
+        "lat": 46.603354,
+        "lon": 1.888334,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent",
+        "lat": 48.69096,
+        "lon": 10.992,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3
+    }
+]

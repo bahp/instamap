@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddf7\ud83c\uddf4",
+        "start": 158,
+        "end": 160,
+        "groupdict": {
+            "flag": "\ud83c\uddf7\ud83c\uddf4",
+            "location": "Romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Romania",
+        "start": 149,
+        "end": 156,
+        "groupdict": {
+            "name": "Romania",
+            "location": "Romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "romania",
+        "start": 551,
+        "end": 558,
+        "groupdict": {
+            "name": "romania",
+            "location": "romania"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

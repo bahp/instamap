@@ -1,0 +1,79 @@
+[
+    {
+        "text": "1. Scala dei Turchi, Sicily (@lucatriptico)",
+        "start": 213,
+        "end": 256,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Scala dei Turchi, Sicily (@lucatriptico)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Porto Flavia, Sardinia (@valentinoselis)",
+        "start": 257,
+        "end": 300,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Porto Flavia, Sardinia (@valentinoselis)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Castro Marina, Puglia (@francescogiannotta)",
+        "start": 301,
+        "end": 347,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Castro Marina, Puglia (@francescogiannotta)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Marina Serra, Puglia (@andrewsofficial)",
+        "start": 348,
+        "end": 390,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Marina Serra, Puglia (@andrewsofficial)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Sardinia (@marklions)",
+        "start": 442,
+        "end": 466,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Sardinia (@marklions)"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "Italy",
+        "start": 13,
+        "end": 18,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

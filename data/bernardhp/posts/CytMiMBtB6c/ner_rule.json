@@ -1,0 +1,77 @@
+[
+    {
+        "text": "2. Astronomical Clock by @whybehome",
+        "start": 110,
+        "end": 145,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Astronomical Clock by @whybehome"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Old Town Square by @momentsofgregory",
+        "start": 146,
+        "end": 185,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Old Town Square by @momentsofgregory"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Charles Bridge by @dropolto",
+        "start": 253,
+        "end": 283,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Charles Bridge by @dropolto"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Old Town Square by @laszdo",
+        "start": 349,
+        "end": 378,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Old Town Square by @laszdo"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83d\udccd Locations ",
+        "start": 48,
+        "end": 60,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Locations "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\udde8\ud83c\uddff",
+        "start": 44,
+        "end": 46,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddff",
+            "location": "Czechia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

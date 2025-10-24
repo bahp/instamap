@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\udded\ud83c\uddf7",
+        "start": 173,
+        "end": 175,
+        "groupdict": {
+            "flag": "\ud83c\udded\ud83c\uddf7",
+            "location": "Croatia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udded\ud83c\uddf7",
+        "start": 467,
+        "end": 469,
+        "groupdict": {
+            "flag": "\ud83c\udded\ud83c\uddf7",
+            "location": "Croatia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Croatia",
+        "start": 99,
+        "end": 106,
+        "groupdict": {
+            "name": "Croatia",
+            "location": "Croatia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

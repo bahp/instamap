@@ -1,0 +1,821 @@
+{
+    "text": "\ud83c\uddee\ud83c\uddf9 Ammirando Sant'Agata Feltria, un incantevole borgo di origine pre-romana, posto sulle colline del Montefeltro, nell'entroterra riminese \u2022 \ud83c\uddec\ud83c\udde7 Admiring Sant'Agata Feltria, an enchanting village of pre-Roman origins, located on the Montefeltro hills, in the Rimini hinterland \u2022 Foto di @globetr8tters  \u2063\u2022 #viaggiainitalia con #eborghi! \u2022 #borghi #borghimedievali #santagatafeltria #rimini #VisitRimini #montefeltro #ig_rimini #inemiliaromagna #paesedelnatale #ig_emiliaromagna #alluring_emiliaromagna #igersemiliaromagna #travel #clickfor_emiliaromagna #volgoemiliaromagna #igersitalia #italiastyle_borghi #don_in_italy #borghitaliani #borghiitaliani #turismoitaliano #instaitalia #worldtravelpics #italiainfotografia #italiainunoscatto #italiasuperscatti #discoveritaly #italiait",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Ammirando Sant'Agata Feltria",
+            "start_pos": 3,
+            "end_pos": 31,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9342857003211975
+                }
+            ]
+        },
+        {
+            "text": "Montefeltro",
+            "start_pos": 101,
+            "end_pos": 112,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6076483726501465
+                }
+            ]
+        },
+        {
+            "text": "Sant'Agata Feltria",
+            "start_pos": 153,
+            "end_pos": 171,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8336315155029297
+                }
+            ]
+        },
+        {
+            "text": "pre-Roman",
+            "start_pos": 198,
+            "end_pos": 207,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.6406665444374084
+                }
+            ]
+        },
+        {
+            "text": "Montefeltro",
+            "start_pos": 232,
+            "end_pos": 243,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5954614877700806
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddee\ud83c\uddf9",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "Ammirando",
+            "start_pos": 3,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "Sant'Agata",
+            "start_pos": 13,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Feltria",
+            "start_pos": 24,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 33,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "incantevole",
+            "start_pos": 36,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "borgo",
+            "start_pos": 48,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 54,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "origine",
+            "start_pos": 57,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "pre-romana",
+            "start_pos": 65,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "posto",
+            "start_pos": 77,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "sulle",
+            "start_pos": 83,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "colline",
+            "start_pos": 89,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 97,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "Montefeltro",
+            "start_pos": 101,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 112,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "nell'entroterra",
+            "start_pos": 114,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "riminese",
+            "start_pos": 130,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddec\ud83c\udde7",
+            "start_pos": 141,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "Admiring",
+            "start_pos": 144,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "Sant'Agata",
+            "start_pos": 153,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "Feltria",
+            "start_pos": 164,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 171,
+            "end_pos": 172,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 173,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "enchanting",
+            "start_pos": 176,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 187,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 195,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "pre-Roman",
+            "start_pos": 198,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "origins",
+            "start_pos": 208,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 215,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 217,
+            "end_pos": 224,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 225,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 228,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "Montefeltro",
+            "start_pos": 232,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "hills",
+            "start_pos": 244,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 249,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 251,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 254,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "Rimini",
+            "start_pos": 258,
+            "end_pos": 264,
+            "labels": []
+        },
+        {
+            "text": "hinterland",
+            "start_pos": 265,
+            "end_pos": 275,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "Foto",
+            "start_pos": 278,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 283,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 286,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "globetr8tters",
+            "start_pos": 287,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": "\u2063\u2022",
+            "start_pos": 302,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 305,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "viaggiainitalia",
+            "start_pos": 306,
+            "end_pos": 321,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 322,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 326,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "eborghi",
+            "start_pos": 327,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 334,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 336,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 338,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "borghi",
+            "start_pos": 339,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 346,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "borghimedievali",
+            "start_pos": 347,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "santagatafeltria",
+            "start_pos": 364,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 381,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "rimini",
+            "start_pos": 382,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 389,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "VisitRimini",
+            "start_pos": 390,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 402,
+            "end_pos": 403,
+            "labels": []
+        },
+        {
+            "text": "montefeltro",
+            "start_pos": 403,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 415,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 416,
+            "end_pos": 418,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 418,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "rimini",
+            "start_pos": 419,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 426,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "inemiliaromagna",
+            "start_pos": 427,
+            "end_pos": 442,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 443,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": "paesedelnatale",
+            "start_pos": 444,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 459,
+            "end_pos": 460,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 460,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 462,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "emiliaromagna",
+            "start_pos": 463,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 477,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "alluring",
+            "start_pos": 478,
+            "end_pos": 486,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 486,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "emiliaromagna",
+            "start_pos": 487,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 501,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "igersemiliaromagna",
+            "start_pos": 502,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 521,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 522,
+            "end_pos": 528,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 529,
+            "end_pos": 530,
+            "labels": []
+        },
+        {
+            "text": "clickfor",
+            "start_pos": 530,
+            "end_pos": 538,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 538,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "emiliaromagna",
+            "start_pos": 539,
+            "end_pos": 552,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 553,
+            "end_pos": 554,
+            "labels": []
+        },
+        {
+            "text": "volgoemiliaromagna",
+            "start_pos": 554,
+            "end_pos": 572,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 573,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "igersitalia",
+            "start_pos": 574,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 586,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "italiastyle",
+            "start_pos": 587,
+            "end_pos": 598,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 598,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "borghi",
+            "start_pos": 599,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 606,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "don",
+            "start_pos": 607,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 610,
+            "end_pos": 611,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 611,
+            "end_pos": 613,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 613,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 614,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 620,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "borghitaliani",
+            "start_pos": 621,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 635,
+            "end_pos": 636,
+            "labels": []
+        },
+        {
+            "text": "borghiitaliani",
+            "start_pos": 636,
+            "end_pos": 650,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 651,
+            "end_pos": 652,
+            "labels": []
+        },
+        {
+            "text": "turismoitaliano",
+            "start_pos": 652,
+            "end_pos": 667,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 668,
+            "end_pos": 669,
+            "labels": []
+        },
+        {
+            "text": "instaitalia",
+            "start_pos": 669,
+            "end_pos": 680,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 681,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "worldtravelpics",
+            "start_pos": 682,
+            "end_pos": 697,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 698,
+            "end_pos": 699,
+            "labels": []
+        },
+        {
+            "text": "italiainfotografia",
+            "start_pos": 699,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 718,
+            "end_pos": 719,
+            "labels": []
+        },
+        {
+            "text": "italiainunoscatto",
+            "start_pos": 719,
+            "end_pos": 736,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 737,
+            "end_pos": 738,
+            "labels": []
+        },
+        {
+            "text": "italiasuperscatti",
+            "start_pos": 738,
+            "end_pos": 755,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 756,
+            "end_pos": 757,
+            "labels": []
+        },
+        {
+            "text": "discoveritaly",
+            "start_pos": 757,
+            "end_pos": 770,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 771,
+            "end_pos": 772,
+            "labels": []
+        },
+        {
+            "text": "italiait",
+            "start_pos": 772,
+            "end_pos": 780,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

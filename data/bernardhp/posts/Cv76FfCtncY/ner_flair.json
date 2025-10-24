@@ -1,0 +1,921 @@
+{
+    "text": "\ud83d\udccc Save this for when you visit Paris \ud83c\uddeb\ud83c\uddf7\u2728  \ud83d\udccdCaf\u00e9 - Restaurant Le Jardin du Petit Palais  Located in the heart of my favorite museum, Petit Palais, this cafe is a hidden gem that you can\u2019t miss! When you visit, I highly recommend sitting on the terrace and soaking up the beauty of the museum, fountain, and garden while having a delicious lunch. Petit Palais is free to enter, so you can visit this cafe for free as well! \ud83c\udf74  Have you heard of this cafe before? \ud83e\udd0d  Follow @helloangelia for more travel tips around the world \u2728  #parisfrance #visitparis #exploreparis #exploreeurope #visiteurope #parisvibes #europetrip Paris France, Paris restaurant, travel reels, europe travel, European summer",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Paris",
+            "start_pos": 31,
+            "end_pos": 36,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9772586226463318
+                }
+            ]
+        },
+        {
+            "text": "Le Jardin du Petit Palais  Located",
+            "start_pos": 61,
+            "end_pos": 95,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7254567742347717
+                }
+            ]
+        },
+        {
+            "text": "Petit Palais",
+            "start_pos": 132,
+            "end_pos": 144,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7693933546543121
+                }
+            ]
+        },
+        {
+            "text": "Petit Palais",
+            "start_pos": 345,
+            "end_pos": 357,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.43199168145656586
+                }
+            ]
+        },
+        {
+            "text": "Paris France",
+            "start_pos": 616,
+            "end_pos": 628,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7428981065750122
+                }
+            ]
+        },
+        {
+            "text": "Paris",
+            "start_pos": 630,
+            "end_pos": 635,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991307854652405
+                }
+            ]
+        },
+        {
+            "text": "European",
+            "start_pos": 677,
+            "end_pos": 685,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9542824029922485
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udccc",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Save",
+            "start_pos": 2,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 7,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 12,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 16,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 21,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 25,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "Paris",
+            "start_pos": 31,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddeb\ud83c\uddf7\u2728",
+            "start_pos": 37,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "Caf\u00e9",
+            "start_pos": 43,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "Restaurant",
+            "start_pos": 50,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "Le",
+            "start_pos": 61,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "Jardin",
+            "start_pos": 64,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "du",
+            "start_pos": 71,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Petit",
+            "start_pos": 74,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "Palais",
+            "start_pos": 80,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "Located",
+            "start_pos": 88,
+            "end_pos": 95,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 96,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 99,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "heart",
+            "start_pos": 103,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 109,
+            "end_pos": 111,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 112,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 115,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "museum",
+            "start_pos": 124,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 130,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "Petit",
+            "start_pos": 132,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "Palais",
+            "start_pos": 138,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 144,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 146,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "cafe",
+            "start_pos": 151,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 156,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 159,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "hidden",
+            "start_pos": 161,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "gem",
+            "start_pos": 168,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 172,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 177,
+            "end_pos": 180,
+            "labels": []
+        },
+        {
+            "text": "ca",
+            "start_pos": 181,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "n\u2019t",
+            "start_pos": 183,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "miss",
+            "start_pos": 187,
+            "end_pos": 191,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 191,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "When",
+            "start_pos": 193,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 198,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 202,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 207,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 209,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "highly",
+            "start_pos": 211,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "recommend",
+            "start_pos": 218,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "sitting",
+            "start_pos": 228,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 236,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 239,
+            "end_pos": 242,
+            "labels": []
+        },
+        {
+            "text": "terrace",
+            "start_pos": 243,
+            "end_pos": 250,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 251,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "soaking",
+            "start_pos": 255,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 263,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 266,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "beauty",
+            "start_pos": 270,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 277,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 280,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "museum",
+            "start_pos": 284,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 290,
+            "end_pos": 291,
+            "labels": []
+        },
+        {
+            "text": "fountain",
+            "start_pos": 292,
+            "end_pos": 300,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 300,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 302,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "garden",
+            "start_pos": 306,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "while",
+            "start_pos": 313,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "having",
+            "start_pos": 319,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 326,
+            "end_pos": 327,
+            "labels": []
+        },
+        {
+            "text": "delicious",
+            "start_pos": 328,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "lunch",
+            "start_pos": 338,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 343,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "Petit",
+            "start_pos": 345,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "Palais",
+            "start_pos": 351,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 358,
+            "end_pos": 360,
+            "labels": []
+        },
+        {
+            "text": "free",
+            "start_pos": 361,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 366,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "enter",
+            "start_pos": 369,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 374,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 376,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 379,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 383,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 387,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 393,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "cafe",
+            "start_pos": 398,
+            "end_pos": 402,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 403,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "free",
+            "start_pos": 407,
+            "end_pos": 411,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 412,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "well",
+            "start_pos": 415,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 419,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf74",
+            "start_pos": 421,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 424,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 429,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "heard",
+            "start_pos": 433,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 439,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 442,
+            "end_pos": 446,
+            "labels": []
+        },
+        {
+            "text": "cafe",
+            "start_pos": 447,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 452,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 458,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd0d",
+            "start_pos": 460,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 463,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "helloangelia",
+            "start_pos": 471,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 484,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 488,
+            "end_pos": 492,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 493,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "tips",
+            "start_pos": 500,
+            "end_pos": 504,
+            "labels": []
+        },
+        {
+            "text": "around",
+            "start_pos": 505,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 512,
+            "end_pos": 515,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 516,
+            "end_pos": 521,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 522,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 525,
+            "end_pos": 526,
+            "labels": []
+        },
+        {
+            "text": "parisfrance",
+            "start_pos": 526,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 538,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "visitparis",
+            "start_pos": 539,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 550,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "exploreparis",
+            "start_pos": 551,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 564,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "exploreeurope",
+            "start_pos": 565,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 579,
+            "end_pos": 580,
+            "labels": []
+        },
+        {
+            "text": "visiteurope",
+            "start_pos": 580,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 592,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "parisvibes",
+            "start_pos": 593,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 604,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "europetrip",
+            "start_pos": 605,
+            "end_pos": 615,
+            "labels": []
+        },
+        {
+            "text": "Paris",
+            "start_pos": 616,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "France",
+            "start_pos": 622,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 628,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "Paris",
+            "start_pos": 630,
+            "end_pos": 635,
+            "labels": []
+        },
+        {
+            "text": "restaurant",
+            "start_pos": 636,
+            "end_pos": 646,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 646,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 648,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "reels",
+            "start_pos": 655,
+            "end_pos": 660,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 660,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 662,
+            "end_pos": 668,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 669,
+            "end_pos": 675,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 675,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "European",
+            "start_pos": 677,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "summer",
+            "start_pos": 686,
+            "end_pos": 692,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

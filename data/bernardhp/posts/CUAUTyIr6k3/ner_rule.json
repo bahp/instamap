@@ -1,0 +1,180 @@
+[
+    {
+        "text": "1. Mont-Saint-Michel",
+        "start": 1077,
+        "end": 1097,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Mont-Saint-Michel"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Grasse",
+        "start": 1098,
+        "end": 1107,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Grasse"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Ch\u00e2teau Royal D'Amboise",
+        "start": 1108,
+        "end": 1134,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Ch\u00e2teau Royal D'Amboise"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Ch\u00e2teau de Costa\u00e9res",
+        "start": 1135,
+        "end": 1158,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Ch\u00e2teau de Costa\u00e9res"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Valensole",
+        "start": 1159,
+        "end": 1171,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Valensole"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Ch\u00e2teau de la Bretesche",
+        "start": 1172,
+        "end": 1198,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Ch\u00e2teau de la Bretesche"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Dinan",
+        "start": 1199,
+        "end": 1207,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Dinan"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Phare de Kermorvan",
+        "start": 1208,
+        "end": 1229,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Phare de Kermorvan"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Jardins du Ch\u00e2teau de Villandry",
+        "start": 1230,
+        "end": 1264,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Jardins du Ch\u00e2teau de Villandry"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Les Penitents des Mees",
+        "start": 1265,
+        "end": 1291,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Les Penitents des Mees"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "France",
+        "start": 24,
+        "end": 30,
+        "groupdict": {
+            "name": "France",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "France",
+        "start": 191,
+        "end": 197,
+        "groupdict": {
+            "name": "France",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "France",
+        "start": 620,
+        "end": 626,
+        "groupdict": {
+            "name": "France",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "France",
+        "start": 1038,
+        "end": 1044,
+        "groupdict": {
+            "name": "France",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

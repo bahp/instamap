@@ -1,0 +1,62 @@
+[
+    {
+        "text": "\ud83c\uddf0\ud83c\udded",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddf0\ud83c\udded",
+            "location": "Cambodia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddf0\ud83c\udded",
+        "start": 276,
+        "end": 278,
+        "groupdict": {
+            "flag": "\ud83c\uddf0\ud83c\udded",
+            "location": "Cambodia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Cambodia",
+        "start": 3,
+        "end": 11,
+        "groupdict": {
+            "name": "Cambodia",
+            "location": "Cambodia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "cambodia",
+        "start": 44,
+        "end": 52,
+        "groupdict": {
+            "name": "cambodia",
+            "location": "cambodia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "cambodia",
+        "start": 268,
+        "end": 276,
+        "groupdict": {
+            "name": "cambodia",
+            "location": "cambodia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

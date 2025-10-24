@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), the image (image), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Wharton Beach\",\n      \"full_address\": \"Duke of Orleans Bay, Esperance, Western Australia\",\n      \"image\": \"https://www.westernaustralia.com.au/assets/images/regions/esperance/wharlton-beach-esperance.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Esperance\",\n      \"full_address\": \"Esperance, Western Australia\",\n      \"image\": \"https://www.google.com/search?q=Esperance+Western+Australia&sxsrf=ALiCzU067y9l7nD6sT_tN7fQ34Y7v3m9Q&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJ4P36yY9vAhWH0qMKH-03DqQQ_AUoAXoECAEQAA&biw=1024&bih=623&dpr=1\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Western Australia\",\n      \"full_address\": \"Western Australia, Australia\",\n      \"image\": \"https://www.westernaustralia.com.au/assets/images/regions/map-of-western-australia.jpg\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Australia\",\n      \"full_address\": \"Australia\",\n      \"image\": \"https://www.australia.gov.au/sites/default/files/files/image/australia.jpg\",\n      \"order\": 4\n    }\n  ]\n}\n```",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_cda3871e505cd225",
+    "factuality_queries": null,
+    "text_query": [
+        "Wharton Beach, Esperance",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_6f89732fe5c7f3a6",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), the image (image), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Wharton Beach\",\n      \"full_address\": \"Duke of Orleans Bay, Esperance, Western Australia\",\n      \"image\": \"https://www.westernaustralia.com.au/assets/images/regions/esperance/wharlton-beach-esperance.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Esperance\",\n      \"full_address\": \"Esperance, Western Australia\",\n      \"image\": \"https://www.google.com/search?q=Esperance+Western+Australia&sxsrf=ALiCzU067y9l7nD6sT_tN7fQ34Y7v3m9Q&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJ4P36yY9vAhWH0qMKH-03DqQQ_AUoAXoECAEQAA&biw=1024&bih=623&dpr=1\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Western Australia\",\n      \"full_address\": \"Western Australia, Australia\",\n      \"image\": \"https://www.westernaustralia.com.au/assets/images/regions/map-of-western-australia.jpg\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Australia\",\n      \"full_address\": \"Australia\",\n      \"image\": \"https://www.australia.gov.au/sites/default/files/files/image/australia.jpg\",\n      \"order\": 4\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_e19cf9b70922162b",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Wharton Beach\",\n      \"full_address\": \"Esperance, Australia\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wharton_Beach,_Esperance.jpg/1200px-Wharton_Beach,_Esperance.jpg\"\n    },\n    {\n      \"name\": \"Esperance\",\n      \"full_address\": \"Esperance, Australia\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_c44cf41d90e22fe3",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Wharton Beach\",\n      \"full_address\": \"Wharton Beach, Esperance, Australia\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wharton_Beach_%28Esperance%29.jpg/1200px-Wharton_Beach_%28Esperance%29.jpg\"\n    },\n    {\n      \"name\": \"Esperance\",\n      \"full_address\": \"Esperance, Western Australia, Australia\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Western Australia\",\n      \"full_address\": \"Western Australia, Australia\",\n      \"order\": 3\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Wharton Beach\",\n      \"full_address\": \"Duke of Orleans Bay, Esperance, Western Australia\",\n      \"image\": \"https://www.westernaustralia.com.au/assets/images/regions/esperance/wharlton-beach-esperance.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Esperance\",\n      \"full_address\": \"Esperance, Western Australia\",\n      \"image\": \"https://www.google.com/search?q=Esperance+Western+Australia&sxsrf=ALiCzU067y9l7nD6sT_tN7fQ34Y7v3m9Q&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJ4P36yY9vAhWH0qMKH-03DqQQ_AUoAXoECAEQAA&biw=1024&bih=623&dpr=1\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Western Australia\",\n      \"full_address\": \"Western Australia, Australia\",\n      \"image\": \"https://www.westernaustralia.com.au/assets/images/regions/map-of-western-australia.jpg\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Australia\",\n      \"full_address\": \"Australia\",\n      \"image\": \"https://www.australia.gov.au/sites/default/files/files/image/australia.jpg\",\n      \"order\": 4\n    }\n  ]\n}\n",
+    "status_code": 200
+}

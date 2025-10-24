@@ -1,0 +1,228 @@
+{
+    "text": "10/10 would take up residence in a cosy corner of Liverpool Street Lebanese restaurant @kenza_london for the night \ud83d\udd25 [\ud83d\udcf7: @fernando.azorin]",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Liverpool Street",
+            "start_pos": 50,
+            "end_pos": 66,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5935872495174408
+                }
+            ]
+        },
+        {
+            "text": "Lebanese",
+            "start_pos": 67,
+            "end_pos": 75,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.46210241317749023
+                }
+            ]
+        },
+        {
+            "text": "kenza",
+            "start_pos": 88,
+            "end_pos": 93,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6933906674385071
+                }
+            ]
+        },
+        {
+            "text": "london",
+            "start_pos": 94,
+            "end_pos": 100,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9417210221290588
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "10",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 2,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 3,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "would",
+            "start_pos": 6,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 12,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "up",
+            "start_pos": 17,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "residence",
+            "start_pos": 20,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 30,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 33,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "cosy",
+            "start_pos": 35,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "corner",
+            "start_pos": 40,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 47,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "Liverpool",
+            "start_pos": 50,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Street",
+            "start_pos": 60,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "Lebanese",
+            "start_pos": 67,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "restaurant",
+            "start_pos": 76,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "kenza",
+            "start_pos": 88,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "london",
+            "start_pos": 94,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 101,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 105,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "night",
+            "start_pos": 109,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd25",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "[\ud83d\udcf7",
+            "start_pos": 117,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 119,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 121,
+            "end_pos": 122,
+            "labels": []
+        },
+        {
+            "text": "fernando.azorin",
+            "start_pos": 122,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "]",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

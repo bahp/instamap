@@ -1,0 +1,1160 @@
+{
+    "text": "\ud83d\udccdAchadas da Cruz, Madeira, Portugal \ud83c\uddf5\ud83c\uddf9   Telef\u00e9rico das Achadas da Cruz can take you down from a huge cliff to an incredibly unique spot on Madeira, which is the traditional village of Faj\u00e1 da Quebrada Nova.   Nestled away on the north-western coast of Madeira, the small parish was once home to hundreds who tended to their livestock and agriculture. Today, many of the small, traditional homes have been unoccupied for years.   Share with friends and bookmark. Don\u2019t miss this unique spot exploring Madeira.   Visit it just before the sunset for the best pictures in your Instagram \ud83d\ude09 . . . . . . .  #hello_myreelworld #digitalnomads #earth_shotz #mood_in_frame #naturefandom #wonderful_places #divineforest #expediapic #justcloudscomm #explorar_portugal #portugalonthetop #planetopedia  #beautifuldestinations #voyaged #super_madeira #europe_vacations #earthtracer #discoverearth #travelguide #visitmadeira #visitportugal #visitworld",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Achadas da Cruz",
+            "start_pos": 1,
+            "end_pos": 16,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6799923976262411
+                }
+            ]
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 18,
+            "end_pos": 25,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9953472018241882
+                }
+            ]
+        },
+        {
+            "text": "Portugal",
+            "start_pos": 27,
+            "end_pos": 35,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9992684721946716
+                }
+            ]
+        },
+        {
+            "text": "Telef\u00e9rico das Achadas da Cruz",
+            "start_pos": 41,
+            "end_pos": 71,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7247364282608032
+                }
+            ]
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 140,
+            "end_pos": 147,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.990540623664856
+                }
+            ]
+        },
+        {
+            "text": "Faj\u00e1 da Quebrada Nova",
+            "start_pos": 185,
+            "end_pos": 206,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.979027584195137
+                }
+            ]
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 253,
+            "end_pos": 260,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9985260367393494
+                }
+            ]
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 501,
+            "end_pos": 508,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9707678556442261
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Achadas",
+            "start_pos": 1,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 9,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "Cruz",
+            "start_pos": 12,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 18,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 25,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "Portugal",
+            "start_pos": 27,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf5\ud83c\uddf9",
+            "start_pos": 36,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Telef\u00e9rico",
+            "start_pos": 41,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "das",
+            "start_pos": 52,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "Achadas",
+            "start_pos": 56,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 64,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "Cruz",
+            "start_pos": 67,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 72,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "take",
+            "start_pos": 76,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 81,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "down",
+            "start_pos": 85,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 90,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 95,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "huge",
+            "start_pos": 97,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "cliff",
+            "start_pos": 102,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 108,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 111,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "incredibly",
+            "start_pos": 114,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "unique",
+            "start_pos": 125,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "spot",
+            "start_pos": 132,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 137,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 140,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "which",
+            "start_pos": 149,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 155,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 158,
+            "end_pos": 161,
+            "labels": []
+        },
+        {
+            "text": "traditional",
+            "start_pos": 162,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 174,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 182,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "Faj\u00e1",
+            "start_pos": 185,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "da",
+            "start_pos": 190,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "Quebrada",
+            "start_pos": 193,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "Nova",
+            "start_pos": 202,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 206,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "Nestled",
+            "start_pos": 210,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "away",
+            "start_pos": 218,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 223,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 226,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "north-western",
+            "start_pos": 230,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "coast",
+            "start_pos": 244,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 250,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 253,
+            "end_pos": 260,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 260,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 262,
+            "end_pos": 265,
+            "labels": []
+        },
+        {
+            "text": "small",
+            "start_pos": 266,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "parish",
+            "start_pos": 272,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "was",
+            "start_pos": 279,
+            "end_pos": 282,
+            "labels": []
+        },
+        {
+            "text": "once",
+            "start_pos": 283,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "home",
+            "start_pos": 288,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 293,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "hundreds",
+            "start_pos": 296,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 305,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "tended",
+            "start_pos": 309,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 316,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "their",
+            "start_pos": 319,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "livestock",
+            "start_pos": 325,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 335,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "agriculture",
+            "start_pos": 339,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 350,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "Today",
+            "start_pos": 352,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 357,
+            "end_pos": 358,
+            "labels": []
+        },
+        {
+            "text": "many",
+            "start_pos": 359,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 364,
+            "end_pos": 366,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 367,
+            "end_pos": 370,
+            "labels": []
+        },
+        {
+            "text": "small",
+            "start_pos": 371,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 376,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": "traditional",
+            "start_pos": 378,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "homes",
+            "start_pos": 390,
+            "end_pos": 395,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 396,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 401,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "unoccupied",
+            "start_pos": 406,
+            "end_pos": 416,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 417,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "years",
+            "start_pos": 421,
+            "end_pos": 426,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 426,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "Share",
+            "start_pos": 430,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 436,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "friends",
+            "start_pos": 441,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 449,
+            "end_pos": 452,
+            "labels": []
+        },
+        {
+            "text": "bookmark",
+            "start_pos": 453,
+            "end_pos": 461,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 461,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "Do",
+            "start_pos": 463,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": "n\u2019t",
+            "start_pos": 465,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "miss",
+            "start_pos": 469,
+            "end_pos": 473,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 474,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "unique",
+            "start_pos": 479,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "spot",
+            "start_pos": 486,
+            "end_pos": 490,
+            "labels": []
+        },
+        {
+            "text": "exploring",
+            "start_pos": 491,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "Madeira",
+            "start_pos": 501,
+            "end_pos": 508,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 508,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "Visit",
+            "start_pos": 512,
+            "end_pos": 517,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 518,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "just",
+            "start_pos": 521,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "before",
+            "start_pos": 526,
+            "end_pos": 532,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 533,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": "sunset",
+            "start_pos": 537,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 544,
+            "end_pos": 547,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 548,
+            "end_pos": 551,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 552,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "pictures",
+            "start_pos": 557,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 566,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 569,
+            "end_pos": 573,
+            "labels": []
+        },
+        {
+            "text": "Instagram",
+            "start_pos": 574,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude09",
+            "start_pos": 584,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 586,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 588,
+            "end_pos": 589,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 590,
+            "end_pos": 591,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 592,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 594,
+            "end_pos": 595,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 596,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 598,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 601,
+            "end_pos": 602,
+            "labels": []
+        },
+        {
+            "text": "hello",
+            "start_pos": 602,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 607,
+            "end_pos": 608,
+            "labels": []
+        },
+        {
+            "text": "myreelworld",
+            "start_pos": 608,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 620,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "digitalnomads",
+            "start_pos": 621,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 635,
+            "end_pos": 636,
+            "labels": []
+        },
+        {
+            "text": "earth",
+            "start_pos": 636,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 641,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "shotz",
+            "start_pos": 642,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 648,
+            "end_pos": 649,
+            "labels": []
+        },
+        {
+            "text": "mood",
+            "start_pos": 649,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 653,
+            "end_pos": 654,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 654,
+            "end_pos": 656,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 656,
+            "end_pos": 657,
+            "labels": []
+        },
+        {
+            "text": "frame",
+            "start_pos": 657,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 663,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "naturefandom",
+            "start_pos": 664,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 677,
+            "end_pos": 678,
+            "labels": []
+        },
+        {
+            "text": "wonderful",
+            "start_pos": 678,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 687,
+            "end_pos": 688,
+            "labels": []
+        },
+        {
+            "text": "places",
+            "start_pos": 688,
+            "end_pos": 694,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 695,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "divineforest",
+            "start_pos": 696,
+            "end_pos": 708,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 709,
+            "end_pos": 710,
+            "labels": []
+        },
+        {
+            "text": "expediapic",
+            "start_pos": 710,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 721,
+            "end_pos": 722,
+            "labels": []
+        },
+        {
+            "text": "justcloudscomm",
+            "start_pos": 722,
+            "end_pos": 736,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 737,
+            "end_pos": 738,
+            "labels": []
+        },
+        {
+            "text": "explorar",
+            "start_pos": 738,
+            "end_pos": 746,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 746,
+            "end_pos": 747,
+            "labels": []
+        },
+        {
+            "text": "portugal",
+            "start_pos": 747,
+            "end_pos": 755,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 756,
+            "end_pos": 757,
+            "labels": []
+        },
+        {
+            "text": "portugalonthetop",
+            "start_pos": 757,
+            "end_pos": 773,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 774,
+            "end_pos": 775,
+            "labels": []
+        },
+        {
+            "text": "planetopedia",
+            "start_pos": 775,
+            "end_pos": 787,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 789,
+            "end_pos": 790,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 790,
+            "end_pos": 811,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 812,
+            "end_pos": 813,
+            "labels": []
+        },
+        {
+            "text": "voyaged",
+            "start_pos": 813,
+            "end_pos": 820,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 821,
+            "end_pos": 822,
+            "labels": []
+        },
+        {
+            "text": "super",
+            "start_pos": 822,
+            "end_pos": 827,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 827,
+            "end_pos": 828,
+            "labels": []
+        },
+        {
+            "text": "madeira",
+            "start_pos": 828,
+            "end_pos": 835,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 836,
+            "end_pos": 837,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 837,
+            "end_pos": 843,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 843,
+            "end_pos": 844,
+            "labels": []
+        },
+        {
+            "text": "vacations",
+            "start_pos": 844,
+            "end_pos": 853,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 854,
+            "end_pos": 855,
+            "labels": []
+        },
+        {
+            "text": "earthtracer",
+            "start_pos": 855,
+            "end_pos": 866,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 867,
+            "end_pos": 868,
+            "labels": []
+        },
+        {
+            "text": "discoverearth",
+            "start_pos": 868,
+            "end_pos": 881,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 882,
+            "end_pos": 883,
+            "labels": []
+        },
+        {
+            "text": "travelguide",
+            "start_pos": 883,
+            "end_pos": 894,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 895,
+            "end_pos": 896,
+            "labels": []
+        },
+        {
+            "text": "visitmadeira",
+            "start_pos": 896,
+            "end_pos": 908,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 909,
+            "end_pos": 910,
+            "labels": []
+        },
+        {
+            "text": "visitportugal",
+            "start_pos": 910,
+            "end_pos": 923,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 924,
+            "end_pos": 925,
+            "labels": []
+        },
+        {
+            "text": "visitworld",
+            "start_pos": 925,
+            "end_pos": 935,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

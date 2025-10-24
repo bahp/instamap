@@ -1,0 +1,79 @@
+[
+    {
+        "title": "London",
+        "subtitle": "Capital city of England and the United Kingdom",
+        "lat": 51.5073219,
+        "lon": -0.1276474,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent in the Northern Hemisphere",
+        "lat": 48.69096,
+        "lon": 10.999687,
+        "type": "continent",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 9,
+        "page": null
+    },
+    {
+        "title": "United Kingdom",
+        "subtitle": "Island country in Western Europe",
+        "lat": 55.378051,
+        "lon": -3.435973,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "Great Britain",
+        "subtitle": "Large island in the North Atlantic Ocean",
+        "lat": 54.7023545,
+        "lon": -3.2765757,
+        "type": "island",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "Big Ben",
+        "subtitle": "Iconic clock tower in London",
+        "lat": 51.500684,
+        "lon": -0.124578,
+        "type": "clock tower",
+        "class": "building",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "City of Westminster",
+        "subtitle": "Borough in Central London, home to Parliament",
+        "lat": 51.5007,
+        "lon": -0.1246,
+        "type": "borough",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": null
+    },
+    {
+        "title": "Tower Bridge",
+        "subtitle": "Famous bascule and suspension bridge in London",
+        "lat": 51.50556,
+        "lon": -0.07548,
+        "type": "bridge",
+        "class": "bridge",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    }
+]

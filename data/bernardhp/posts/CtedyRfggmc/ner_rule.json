@@ -1,0 +1,194 @@
+[
+    {
+        "text": "\ud83d\udccdBanggai Islands: Unknown to international tourism",
+        "start": 210,
+        "end": 260,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Banggai Islands: Unknown to international tourism"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdRaja Ampat: Experience the last paradise",
+        "start": 262,
+        "end": 303,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Raja Ampat: Experience the last paradise"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdTogean Islands: Escape to secluded tropical bliss",
+        "start": 305,
+        "end": 355,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Togean Islands: Escape to secluded tropical bliss"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdBali: Lush landscapes and vibrant culture",
+        "start": 357,
+        "end": 399,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Bali: Lush landscapes and vibrant culture"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdSulawesi: Natural wonders and unique culture",
+        "start": 401,
+        "end": 446,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Sulawesi: Natural wonders and unique culture"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdNusa Lembongan: Idyllic beaches and water sports",
+        "start": 448,
+        "end": 497,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Nusa Lembongan: Idyllic beaches and water sports"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdBanggai-Inseln: Dem internationalen Tourismus noch unbekannt",
+        "start": 889,
+        "end": 950,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Banggai-Inseln: Dem internationalen Tourismus noch unbekannt"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdRaja Ampat: Erlebe das letzte Paradies",
+        "start": 952,
+        "end": 991,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Raja Ampat: Erlebe das letzte Paradies"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdTogean-Inseln: Entfliehe in die Abgeschiedenheit tropischer Gl\u00fcckseligkeit",
+        "start": 993,
+        "end": 1068,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Togean-Inseln: Entfliehe in die Abgeschiedenheit tropischer Gl\u00fcckseligkeit"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdBali: \u00dcppige Landschaften und lebendige Kultur",
+        "start": 1070,
+        "end": 1117,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Bali: \u00dcppige Landschaften und lebendige Kultur"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdSulawesi: Naturwunder und einzigartige Kultur",
+        "start": 1119,
+        "end": 1165,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Sulawesi: Naturwunder und einzigartige Kultur"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdNusa Lembongan: Idyllische Str\u00e4nde und Wassersport",
+        "start": 1167,
+        "end": 1218,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Nusa Lembongan: Idyllische Str\u00e4nde und Wassersport"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\udde9",
+        "start": 38,
+        "end": 40,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\udde9\ud83c\uddea",
+        "start": 644,
+        "end": 646,
+        "groupdict": {
+            "flag": "\ud83c\udde9\ud83c\uddea",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\udde9",
+        "start": 687,
+        "end": 689,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Indonesia",
+        "start": 27,
+        "end": 36,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Indonesia",
+        "start": 86,
+        "end": 95,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

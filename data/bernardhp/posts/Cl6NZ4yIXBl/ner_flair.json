@@ -1,0 +1,357 @@
+{
+    "text": "\ud83c\uddf0\ud83c\udded Cambodia \ud83d\udcf8 Cr\u00e9dit photo @areyouhomeyet  #cambodia #cambodge #trip #angkorwat #angkor #southeastasia #travelblog #beautifulplaces #angkorwattemple #khmer #ruine #backpacker #jungle #siemreap #travels #travelphotography #travel #asia #travelblogger #temple #temples #cambodia\ud83c\uddf0\ud83c\udded #cambodiatrip #siemreapcambodia",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Cambodia",
+            "start_pos": 3,
+            "end_pos": 11,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9980595707893372
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddf0\ud83c\udded",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "Cambodia",
+            "start_pos": 3,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "Cr\u00e9dit",
+            "start_pos": 14,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 21,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "areyouhomeyet",
+            "start_pos": 28,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "cambodia",
+            "start_pos": 44,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "cambodge",
+            "start_pos": 54,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 63,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "trip",
+            "start_pos": 64,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "angkorwat",
+            "start_pos": 70,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 80,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "angkor",
+            "start_pos": 81,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 88,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "southeastasia",
+            "start_pos": 89,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "travelblog",
+            "start_pos": 104,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "beautifulplaces",
+            "start_pos": 116,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "angkorwattemple",
+            "start_pos": 133,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 149,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "khmer",
+            "start_pos": 150,
+            "end_pos": 155,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 156,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "ruine",
+            "start_pos": 157,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 163,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "backpacker",
+            "start_pos": 164,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "jungle",
+            "start_pos": 176,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 183,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "siemreap",
+            "start_pos": 184,
+            "end_pos": 192,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 193,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "travels",
+            "start_pos": 194,
+            "end_pos": 201,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 202,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "travelphotography",
+            "start_pos": 203,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 221,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 222,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "asia",
+            "start_pos": 230,
+            "end_pos": 234,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 235,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "travelblogger",
+            "start_pos": 236,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 250,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "temple",
+            "start_pos": 251,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 258,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "temples",
+            "start_pos": 259,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 267,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "cambodia",
+            "start_pos": 268,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf0\ud83c\udded",
+            "start_pos": 276,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 279,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "cambodiatrip",
+            "start_pos": 280,
+            "end_pos": 292,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 293,
+            "end_pos": 294,
+            "labels": []
+        },
+        {
+            "text": "siemreapcambodia",
+            "start_pos": 294,
+            "end_pos": 310,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

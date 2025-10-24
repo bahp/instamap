@@ -1,0 +1,81 @@
+{
+    "text": "Good evening from Rome! \ud83c\udf19 \u2728   \ud83d\udcf8 @ahmadbinnasser",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Rome",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9928479194641113
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Good",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "evening",
+            "start_pos": 5,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 13,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Rome",
+            "start_pos": 18,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf19",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 32,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "ahmadbinnasser",
+            "start_pos": 33,
+            "end_pos": 47,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "text": "6- Train du Montenvers Mer de Glace et visiter la grotte des glaces",
+        "start": 203,
+        "end": 270,
+        "groupdict": {
+            "order": "6",
+            "sep": "-",
+            "location": "Train du Montenvers Mer de Glace et visiter la grotte des glaces"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "france",
+        "start": 357,
+        "end": 363,
+        "groupdict": {
+            "name": "france",
+            "location": "france"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

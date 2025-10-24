@@ -1,0 +1,146 @@
+{
+    "text": "Amazing night at Akita, Japan \ud83d\ude0d Tag who you'd go here with \u2728 Photo by @hrk1108",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Akita",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9968374967575073
+                }
+            ]
+        },
+        {
+            "text": "Japan",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991177916526794
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Amazing",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "night",
+            "start_pos": 8,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 14,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "Akita",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Japan",
+            "start_pos": 24,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude0d",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 32,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "who",
+            "start_pos": 36,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 40,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "'d",
+            "start_pos": 43,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "go",
+            "start_pos": 46,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "here",
+            "start_pos": 49,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 54,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 61,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 67,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "hrk1108",
+            "start_pos": 71,
+            "end_pos": 78,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

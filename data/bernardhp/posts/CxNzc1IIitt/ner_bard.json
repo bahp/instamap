@@ -1,0 +1,43 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"The Gently Mad Book Shop & Bookbinder\",\n    \"full_address\": \"2 Summer Pl, Edinburgh EH3 5NR, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Royal Botanic Garden Edinburgh\",\n    \"full_address\": \"Edinburgh EH3 5NZ, UK\",\n    \"order\": 2\n  }\n]\n```\nhttp://googleusercontent.com/map_content/2",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_8689d779ca1faf0a",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_8e7e222df2bd3b88",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"The Gently Mad Book Shop & Bookbinder\",\n    \"full_address\": \"2 Summer Pl, Edinburgh EH3 5NR, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Royal Botanic Garden Edinburgh\",\n    \"full_address\": \"Edinburgh EH3 5NZ, UK\",\n    \"order\": 2\n  }\n]\n```\nhttp://googleusercontent.com/map_content/2"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "http://googleusercontent.com/map_content/0",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "http://googleusercontent.com/map_content/1",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "http://googleusercontent.com/map_content/2",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"The Gently Mad Book Shop & Bookbinder\",\n    \"full_address\": \"2 Summer Pl, Edinburgh EH3 5NR, UK\",\n    \"order\": 1\n  },\n  {\n    \"name\": \"Royal Botanic Garden Edinburgh\",\n    \"full_address\": \"Edinburgh EH3 5NZ, UK\",\n    \"order\": 2\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Pitigliano",
+        "subtitle": "Historic hilltop town in Tuscany, Italy.",
+        "lat": 42.636652,
+        "lon": 11.666992,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Amalfi Coast",
+        "subtitle": "Scenic coastal region in Southern Italy.",
+        "lat": 40.6312489,
+        "lon": 14.5997235,
+        "type": "coastline",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2
+    },
+    {
+        "title": "Italy",
+        "subtitle": "Country in Southern Europe.",
+        "lat": 42.796336,
+        "lon": 12.723708,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3
+    },
+    {
+        "title": "Mediterranean Sea",
+        "subtitle": "Intercontinental sea bordering Southern Europe.",
+        "lat": 35.0,
+        "lon": 18.0,
+        "type": "sea",
+        "class": "natural",
+        "confidence": 0.7,
+        "rank": 4
+    },
+    {
+        "title": "Europe",
+        "subtitle": "Continent, western part of Eurasia.",
+        "lat": 48.69096,
+        "lon": 19.145136,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.6,
+        "rank": 5
+    }
+]

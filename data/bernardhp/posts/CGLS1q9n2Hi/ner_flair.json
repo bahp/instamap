@@ -1,0 +1,547 @@
+{
+    "text": "Tag #kings_villages \ud83c\udfc6The Artist \ud83d\udc49@brigrc \ud83c\udf8a . Location: Varenna Lombardia, Italia  . \ud83c\udf89\ud83c\udf8a\ud83c\udf89 Our Congratulations!!\ud83c\udf89\ud83c\udf8a\ud83c\udf89 . Please visit Her/His Gallery!! ___________________________________ \ud83d\udd0e Pic chosen by Admins @nicole_marongiu @gravity300  ___________________________________ KINGS_VILLAGES is Member of \ud83d\udc51@Kings_hubs_staff . Visit the Kings Galleries: @kings_hdr @kings_cats @dm_photolife_bnw ________________________________ Graphics by @ impressionismo ________________________________",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Varenna Lombardia",
+            "start_pos": 55,
+            "end_pos": 72,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.925072431564331
+                }
+            ]
+        },
+        {
+            "text": "Italia",
+            "start_pos": 74,
+            "end_pos": 80,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9805386066436768
+                }
+            ]
+        },
+        {
+            "text": "Kings Galleries",
+            "start_pos": 330,
+            "end_pos": 345,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.9727247655391693
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Tag",
+            "start_pos": 0,
+            "end_pos": 3,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 4,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "kings",
+            "start_pos": 5,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "villages",
+            "start_pos": 11,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udfc6",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 21,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "Artist",
+            "start_pos": 25,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc49@",
+            "start_pos": 32,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "brigrc",
+            "start_pos": 34,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf8a",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Location",
+            "start_pos": 45,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "Varenna",
+            "start_pos": 55,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "Lombardia",
+            "start_pos": 63,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 72,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "Italia",
+            "start_pos": 74,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 82,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf89\ud83c\udf8a\ud83c\udf89",
+            "start_pos": 84,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "Our",
+            "start_pos": 88,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "Congratulations",
+            "start_pos": 92,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "!\ud83c\udf89\ud83c\udf8a\ud83c\udf89",
+            "start_pos": 108,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 113,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "Please",
+            "start_pos": 115,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "visit",
+            "start_pos": 122,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "Her",
+            "start_pos": 128,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 131,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "His",
+            "start_pos": 132,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "Gallery",
+            "start_pos": 136,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 144,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "___________________________________",
+            "start_pos": 146,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd0e",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "Pic",
+            "start_pos": 184,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "chosen",
+            "start_pos": 188,
+            "end_pos": 194,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 195,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "Admins",
+            "start_pos": 198,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 205,
+            "end_pos": 206,
+            "labels": []
+        },
+        {
+            "text": "nicole",
+            "start_pos": 206,
+            "end_pos": 212,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "marongiu",
+            "start_pos": 213,
+            "end_pos": 221,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 222,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "gravity300",
+            "start_pos": 223,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "___________________________________",
+            "start_pos": 235,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "KINGS",
+            "start_pos": 271,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "VILLAGES",
+            "start_pos": 277,
+            "end_pos": 285,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 286,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "Member",
+            "start_pos": 289,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 296,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc51@",
+            "start_pos": 299,
+            "end_pos": 301,
+            "labels": []
+        },
+        {
+            "text": "Kings",
+            "start_pos": 301,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 306,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "hubs",
+            "start_pos": 307,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 311,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "staff",
+            "start_pos": 312,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 318,
+            "end_pos": 319,
+            "labels": []
+        },
+        {
+            "text": "Visit",
+            "start_pos": 320,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 326,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "Kings",
+            "start_pos": 330,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "Galleries",
+            "start_pos": 336,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 345,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 347,
+            "end_pos": 348,
+            "labels": []
+        },
+        {
+            "text": "kings",
+            "start_pos": 348,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 353,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "hdr",
+            "start_pos": 354,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 358,
+            "end_pos": 359,
+            "labels": []
+        },
+        {
+            "text": "kings",
+            "start_pos": 359,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 364,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "cats",
+            "start_pos": 365,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 370,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "dm",
+            "start_pos": 371,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 373,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "photolife",
+            "start_pos": 374,
+            "end_pos": 383,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 383,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "bnw",
+            "start_pos": 384,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "________________________________",
+            "start_pos": 388,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "Graphics",
+            "start_pos": 421,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 430,
+            "end_pos": 432,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 433,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "impressionismo",
+            "start_pos": 435,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "________________________________",
+            "start_pos": 450,
+            "end_pos": 482,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

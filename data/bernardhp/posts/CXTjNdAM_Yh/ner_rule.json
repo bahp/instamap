@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf1\ud83c\uddfb",
+        "start": 7,
+        "end": 9,
+        "groupdict": {
+            "flag": "\ud83c\uddf1\ud83c\uddfb",
+            "location": "Latvia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Latvia",
+        "start": 10,
+        "end": 16,
+        "groupdict": {
+            "name": "Latvia",
+            "location": "Latvia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

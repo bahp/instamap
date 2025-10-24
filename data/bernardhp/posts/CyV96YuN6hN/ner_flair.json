@@ -1,0 +1,721 @@
+{
+    "text": "L'autunno con il suoi colori \u00e8 davvero una stagione magica\ud83e\udde1 Qui siamo alla Baita Segantini, a Passo Rolle\ud83e\udd70 Ci siete mai stati?  Autumn with its colours is truly a magical season\ud83e\udde1 Here we are at the Baita Segantini, in Passo Rolle\ud83e\udd70 Have you ever been there?  Der Herbst mit seinen Farben ist wirklich eine magische Jahreszeit\ud83e\udde1 Hier sind wir in der Baita Segantini in Passo Rolle\ud83e\udd70 Waren Sie schon einmal dort?  \ud83d\udcf8 @andreastamanini   #baitasegantini #passorolle #paledisanmartino #trentino #dolomiti #nature #autumn #october #wonderful #wanderlust #travelgram #beautifuldestinations #enjoy #passionedolomiti",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Qui siamo alla Baita Segantini",
+            "start_pos": 60,
+            "end_pos": 90,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7218063592910766
+                }
+            ]
+        },
+        {
+            "text": "Baita Segantini",
+            "start_pos": 198,
+            "end_pos": 213,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6759773790836334
+                }
+            ]
+        },
+        {
+            "text": "Passo Rolle",
+            "start_pos": 218,
+            "end_pos": 229,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9182274043560028
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "L'autunno",
+            "start_pos": 0,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 10,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 14,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "suoi",
+            "start_pos": 17,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "colori",
+            "start_pos": 22,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "\u00e8",
+            "start_pos": 29,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "davvero",
+            "start_pos": 31,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 39,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "stagione",
+            "start_pos": 43,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "magica",
+            "start_pos": 52,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udde1",
+            "start_pos": 58,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "Qui",
+            "start_pos": 60,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "siamo",
+            "start_pos": 64,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "alla",
+            "start_pos": 70,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Baita",
+            "start_pos": 75,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "Segantini",
+            "start_pos": 81,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "Passo",
+            "start_pos": 94,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "Rolle",
+            "start_pos": 100,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd70",
+            "start_pos": 105,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "Ci",
+            "start_pos": 107,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "siete",
+            "start_pos": 110,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "mai",
+            "start_pos": 116,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "stati",
+            "start_pos": 120,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 125,
+            "end_pos": 126,
+            "labels": []
+        },
+        {
+            "text": "Autumn",
+            "start_pos": 128,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 135,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 140,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "colours",
+            "start_pos": 144,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 152,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "truly",
+            "start_pos": 155,
+            "end_pos": 160,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 161,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "magical",
+            "start_pos": 163,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "season",
+            "start_pos": 171,
+            "end_pos": 177,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udde1",
+            "start_pos": 177,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "Here",
+            "start_pos": 179,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "we",
+            "start_pos": 184,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 187,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 191,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 194,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "Baita",
+            "start_pos": 198,
+            "end_pos": 203,
+            "labels": []
+        },
+        {
+            "text": "Segantini",
+            "start_pos": 204,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 213,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 215,
+            "end_pos": 217,
+            "labels": []
+        },
+        {
+            "text": "Passo",
+            "start_pos": 218,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "Rolle",
+            "start_pos": 224,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd70",
+            "start_pos": 229,
+            "end_pos": 230,
+            "labels": []
+        },
+        {
+            "text": "Have",
+            "start_pos": 231,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 236,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 240,
+            "end_pos": 244,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 245,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "there",
+            "start_pos": 250,
+            "end_pos": 255,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 255,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "Der",
+            "start_pos": 258,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "Herbst",
+            "start_pos": 262,
+            "end_pos": 268,
+            "labels": []
+        },
+        {
+            "text": "mit",
+            "start_pos": 269,
+            "end_pos": 272,
+            "labels": []
+        },
+        {
+            "text": "seinen",
+            "start_pos": 273,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "Farben",
+            "start_pos": 280,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "ist",
+            "start_pos": 287,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "wirklich",
+            "start_pos": 291,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "eine",
+            "start_pos": 300,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "magische",
+            "start_pos": 305,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": "Jahreszeit",
+            "start_pos": 314,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udde1",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "Hier",
+            "start_pos": 326,
+            "end_pos": 330,
+            "labels": []
+        },
+        {
+            "text": "sind",
+            "start_pos": 331,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "wir",
+            "start_pos": 336,
+            "end_pos": 339,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 340,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "der",
+            "start_pos": 343,
+            "end_pos": 346,
+            "labels": []
+        },
+        {
+            "text": "Baita",
+            "start_pos": 347,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "Segantini",
+            "start_pos": 353,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 363,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "Passo",
+            "start_pos": 366,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "Rolle",
+            "start_pos": 372,
+            "end_pos": 377,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd70",
+            "start_pos": 377,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "Waren",
+            "start_pos": 379,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "Sie",
+            "start_pos": 385,
+            "end_pos": 388,
+            "labels": []
+        },
+        {
+            "text": "schon",
+            "start_pos": 389,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "einmal",
+            "start_pos": 395,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "dort",
+            "start_pos": 402,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 406,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 409,
+            "end_pos": 410,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 411,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "andreastamanini",
+            "start_pos": 412,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 430,
+            "end_pos": 431,
+            "labels": []
+        },
+        {
+            "text": "baitasegantini",
+            "start_pos": 431,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 446,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "passorolle",
+            "start_pos": 447,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 458,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "paledisanmartino",
+            "start_pos": 459,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 476,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "trentino",
+            "start_pos": 477,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 486,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "dolomiti",
+            "start_pos": 487,
+            "end_pos": 495,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 496,
+            "end_pos": 497,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 497,
+            "end_pos": 503,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 504,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "autumn",
+            "start_pos": 505,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 512,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "october",
+            "start_pos": 513,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 521,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "wonderful",
+            "start_pos": 522,
+            "end_pos": 531,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 532,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "wanderlust",
+            "start_pos": 533,
+            "end_pos": 543,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 544,
+            "end_pos": 545,
+            "labels": []
+        },
+        {
+            "text": "travelgram",
+            "start_pos": 545,
+            "end_pos": 555,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 556,
+            "end_pos": 557,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 557,
+            "end_pos": 578,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 579,
+            "end_pos": 580,
+            "labels": []
+        },
+        {
+            "text": "enjoy",
+            "start_pos": 580,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 586,
+            "end_pos": 587,
+            "labels": []
+        },
+        {
+            "text": "passionedolomiti",
+            "start_pos": 587,
+            "end_pos": 603,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

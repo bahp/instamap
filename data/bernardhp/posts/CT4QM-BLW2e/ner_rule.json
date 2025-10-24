@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddec\ud83c\uddf7",
+        "start": 117,
+        "end": 119,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\uddf7",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Greece",
+        "start": 379,
+        "end": 385,
+        "groupdict": {
+            "name": "Greece",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "greece",
+        "start": 548,
+        "end": 554,
+        "groupdict": {
+            "name": "greece",
+            "location": "greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

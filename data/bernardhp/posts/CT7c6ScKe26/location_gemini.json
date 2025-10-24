@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Hanging Temple",
+        "subtitle": "Ancient temple built on a cliff in Datong",
+        "lat": 39.6594,
+        "lon": 113.7297,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "Datong City",
+        "subtitle": "City in Shanxi Province, China",
+        "lat": 40.0934,
+        "lon": 113.2982,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Shanxi Province",
+        "subtitle": "Province in Northern China",
+        "lat": 37.5777,
+        "lon": 112.2922,
+        "type": "province",
+        "class": "boundary",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": null
+    },
+    {
+        "title": "China",
+        "subtitle": "Country in East Asia",
+        "lat": 35.0,
+        "lon": 105.0,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    },
+    {
+        "title": "Guizhou Province",
+        "subtitle": "Province in Southwest China",
+        "lat": 26.8115,
+        "lon": 106.8741,
+        "type": "province",
+        "class": "boundary",
+        "confidence": 0.8,
+        "rank": 6,
+        "page": null
+    },
+    {
+        "title": "Commagene",
+        "subtitle": "Ancient kingdom in modern-day Turkey",
+        "lat": 37.9351,
+        "lon": 38.3073,
+        "type": "historical region",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 8,
+        "page": null
+    }
+]

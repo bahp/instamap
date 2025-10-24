@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdTerrenkur, Almaty, Kazakhstan\ud83c\uddf0",
+        "start": 142,
+        "end": 173,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Terrenkur, Almaty, Kazakhstan\ud83c\uddf0"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf0\ud83c\uddff",
+        "start": 172,
+        "end": 174,
+        "groupdict": {
+            "flag": "\ud83c\uddf0\ud83c\uddff",
+            "location": "Kazakhstan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Kazakhstan",
+        "start": 26,
+        "end": 36,
+        "groupdict": {
+            "name": "Kazakhstan",
+            "location": "Kazakhstan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Kazakhstan",
+        "start": 162,
+        "end": 172,
+        "groupdict": {
+            "name": "Kazakhstan",
+            "location": "Kazakhstan"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

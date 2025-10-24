@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd : Portofino, Italy ",
+        "start": 0,
+        "end": 21,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " : Portofino, Italy "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 21,
+        "end": 23,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Italy",
+        "start": 15,
+        "end": 20,
+        "groupdict": {
+            "name": "Italy",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

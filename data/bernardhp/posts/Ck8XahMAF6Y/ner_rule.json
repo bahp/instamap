@@ -1,0 +1,75 @@
+[
+    {
+        "text": "10. The nor, Chiang Mai",
+        "start": 328,
+        "end": 351,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "The nor, Chiang Mai"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddf9\ud83c\udded",
+        "start": 773,
+        "end": 775,
+        "groupdict": {
+            "flag": "\ud83c\uddf9\ud83c\udded",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Thailand",
+        "start": 46,
+        "end": 54,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Thailand",
+        "start": 137,
+        "end": 145,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Thailand",
+        "start": 449,
+        "end": 457,
+        "groupdict": {
+            "name": "Thailand",
+            "location": "Thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "thailand",
+        "start": 765,
+        "end": 773,
+        "groupdict": {
+            "name": "thailand",
+            "location": "thailand"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

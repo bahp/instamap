@@ -1,0 +1,1090 @@
+{
+    "text": "PLANAZO GRATIS \u2728 s\u00faper secreto!!   Y es que ha estado 20 a\u00f1os cerrado y vuelve a abrir \ud83e\udd72\u2665 qu\u00e9 fantas\u00eda!!  Bajo cascadas y una monta\u00f1a encontramos esta cueva de 1817!!   La han rehabilitado y ahora en su interior (adem\u00e1s de poder recorrer sus tunelcitos) hay una expo con fotos mega antiguas de su origen.  Es peque\u00f1ita pero S\u00daPER CURIOSA de ver \ud83e\udd70\ud83e\udd70 y al lado tienes los restos de la Iglesia de San Isidoro del siglo XI (otra maravilla de Madrid).  \u2b50 Se puede subir a la c\u00fapula, antes habia un templete pero ahora esta ilumina el interior.  \u23f0 HORARIOS: 11-13 y 18-20h. \ud83d\udccd Monta\u00f1a de los Gatos. El Retiro, Paseo Fern\u00e1n Nu\u00f1ez. El mejor metro para verlo es Principe de Vergara \ud83d\ude09  Gu\u00e1rdalo para ir prontito \ud83d\udd10\ud83d\udd10 \u00bfCon qui\u00e9n vas a ir para adentrarte en esta cueva?   #madrid #planesmadrid #gratis #planazo #cultura",
+    "labels": [],
+    "entities": [
+        {
+            "text": "lado tienes los restos de la Iglesia de San Isidoro del siglo XI",
+            "start_pos": 353,
+            "end_pos": 417,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8398060959119064
+                }
+            ]
+        },
+        {
+            "text": "otra maravilla de Madrid",
+            "start_pos": 419,
+            "end_pos": 443,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8129183501005173
+                }
+            ]
+        },
+        {
+            "text": "Monta\u00f1a de los Gatos",
+            "start_pos": 569,
+            "end_pos": 589,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9173258543014526
+                }
+            ]
+        },
+        {
+            "text": "El Retiro",
+            "start_pos": 591,
+            "end_pos": 600,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6109102666378021
+                }
+            ]
+        },
+        {
+            "text": "Paseo Fern\u00e1n Nu\u00f1ez",
+            "start_pos": 602,
+            "end_pos": 620,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6879797081152598
+                }
+            ]
+        },
+        {
+            "text": "Principe de Vergara",
+            "start_pos": 651,
+            "end_pos": 670,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7295214831829071
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "PLANAZO",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "GRATIS",
+            "start_pos": 8,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\u2728",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "s\u00faper",
+            "start_pos": 17,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "secreto",
+            "start_pos": 23,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Y",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 37,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "que",
+            "start_pos": 40,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "ha",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "estado",
+            "start_pos": 47,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "20",
+            "start_pos": 54,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "a\u00f1os",
+            "start_pos": 57,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "cerrado",
+            "start_pos": 62,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "vuelve",
+            "start_pos": 72,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 79,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "abrir",
+            "start_pos": 81,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd72\u2665",
+            "start_pos": 87,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "qu\u00e9",
+            "start_pos": 90,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "fantas\u00eda",
+            "start_pos": 94,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 103,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "Bajo",
+            "start_pos": 106,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "cascadas",
+            "start_pos": 111,
+            "end_pos": 119,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 120,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 122,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "monta\u00f1a",
+            "start_pos": 126,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "encontramos",
+            "start_pos": 134,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "esta",
+            "start_pos": 146,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "cueva",
+            "start_pos": 151,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 157,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "1817",
+            "start_pos": 160,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 164,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 165,
+            "end_pos": 166,
+            "labels": []
+        },
+        {
+            "text": "La",
+            "start_pos": 169,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "han",
+            "start_pos": 172,
+            "end_pos": 175,
+            "labels": []
+        },
+        {
+            "text": "rehabilitado",
+            "start_pos": 176,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 189,
+            "end_pos": 190,
+            "labels": []
+        },
+        {
+            "text": "ahora",
+            "start_pos": 191,
+            "end_pos": 196,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 197,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 200,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "interior",
+            "start_pos": 203,
+            "end_pos": 211,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 212,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "adem\u00e1s",
+            "start_pos": 213,
+            "end_pos": 219,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 220,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "poder",
+            "start_pos": 223,
+            "end_pos": 228,
+            "labels": []
+        },
+        {
+            "text": "recorrer",
+            "start_pos": 229,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "sus",
+            "start_pos": 238,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "tunelcitos",
+            "start_pos": 242,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 252,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": "hay",
+            "start_pos": 254,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "una",
+            "start_pos": 258,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "expo",
+            "start_pos": 262,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "con",
+            "start_pos": 267,
+            "end_pos": 270,
+            "labels": []
+        },
+        {
+            "text": "fotos",
+            "start_pos": 271,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "mega",
+            "start_pos": 277,
+            "end_pos": 281,
+            "labels": []
+        },
+        {
+            "text": "antiguas",
+            "start_pos": 282,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 291,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "su",
+            "start_pos": 294,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "origen",
+            "start_pos": 297,
+            "end_pos": 303,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 303,
+            "end_pos": 304,
+            "labels": []
+        },
+        {
+            "text": "Es",
+            "start_pos": 306,
+            "end_pos": 308,
+            "labels": []
+        },
+        {
+            "text": "peque\u00f1ita",
+            "start_pos": 309,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "pero",
+            "start_pos": 319,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "S\u00daPER",
+            "start_pos": 324,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "CURIOSA",
+            "start_pos": 330,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 338,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "ver",
+            "start_pos": 341,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd70\ud83e\udd70",
+            "start_pos": 345,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 348,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "al",
+            "start_pos": 350,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "lado",
+            "start_pos": 353,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "tienes",
+            "start_pos": 358,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 365,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "restos",
+            "start_pos": 369,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 376,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 379,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "Iglesia",
+            "start_pos": 382,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 390,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "San",
+            "start_pos": 393,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "Isidoro",
+            "start_pos": 397,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "del",
+            "start_pos": 405,
+            "end_pos": 408,
+            "labels": []
+        },
+        {
+            "text": "siglo",
+            "start_pos": 409,
+            "end_pos": 414,
+            "labels": []
+        },
+        {
+            "text": "XI",
+            "start_pos": 415,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 418,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "otra",
+            "start_pos": 419,
+            "end_pos": 423,
+            "labels": []
+        },
+        {
+            "text": "maravilla",
+            "start_pos": 424,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 434,
+            "end_pos": 436,
+            "labels": []
+        },
+        {
+            "text": "Madrid",
+            "start_pos": 437,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": ")",
+            "start_pos": 443,
+            "end_pos": 444,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 444,
+            "end_pos": 445,
+            "labels": []
+        },
+        {
+            "text": "\u2b50",
+            "start_pos": 447,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "Se",
+            "start_pos": 449,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "puede",
+            "start_pos": 452,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "subir",
+            "start_pos": 458,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 464,
+            "end_pos": 465,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 466,
+            "end_pos": 468,
+            "labels": []
+        },
+        {
+            "text": "c\u00fapula",
+            "start_pos": 469,
+            "end_pos": 475,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 475,
+            "end_pos": 476,
+            "labels": []
+        },
+        {
+            "text": "antes",
+            "start_pos": 477,
+            "end_pos": 482,
+            "labels": []
+        },
+        {
+            "text": "habia",
+            "start_pos": 483,
+            "end_pos": 488,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 489,
+            "end_pos": 491,
+            "labels": []
+        },
+        {
+            "text": "templete",
+            "start_pos": 492,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "pero",
+            "start_pos": 501,
+            "end_pos": 505,
+            "labels": []
+        },
+        {
+            "text": "ahora",
+            "start_pos": 506,
+            "end_pos": 511,
+            "labels": []
+        },
+        {
+            "text": "esta",
+            "start_pos": 512,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "ilumina",
+            "start_pos": 517,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "el",
+            "start_pos": 525,
+            "end_pos": 527,
+            "labels": []
+        },
+        {
+            "text": "interior",
+            "start_pos": 528,
+            "end_pos": 536,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 536,
+            "end_pos": 537,
+            "labels": []
+        },
+        {
+            "text": "\u23f0",
+            "start_pos": 539,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "HORARIOS",
+            "start_pos": 541,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 549,
+            "end_pos": 550,
+            "labels": []
+        },
+        {
+            "text": "11-13",
+            "start_pos": 551,
+            "end_pos": 556,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 557,
+            "end_pos": 558,
+            "labels": []
+        },
+        {
+            "text": "18-20h",
+            "start_pos": 559,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 565,
+            "end_pos": 566,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 567,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "Monta\u00f1a",
+            "start_pos": 569,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 577,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "los",
+            "start_pos": 580,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "Gatos",
+            "start_pos": 584,
+            "end_pos": 589,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 589,
+            "end_pos": 590,
+            "labels": []
+        },
+        {
+            "text": "El",
+            "start_pos": 591,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "Retiro",
+            "start_pos": 594,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 600,
+            "end_pos": 601,
+            "labels": []
+        },
+        {
+            "text": "Paseo",
+            "start_pos": 602,
+            "end_pos": 607,
+            "labels": []
+        },
+        {
+            "text": "Fern\u00e1n",
+            "start_pos": 608,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "Nu\u00f1ez",
+            "start_pos": 615,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 620,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "El",
+            "start_pos": 622,
+            "end_pos": 624,
+            "labels": []
+        },
+        {
+            "text": "mejor",
+            "start_pos": 625,
+            "end_pos": 630,
+            "labels": []
+        },
+        {
+            "text": "metro",
+            "start_pos": 631,
+            "end_pos": 636,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 637,
+            "end_pos": 641,
+            "labels": []
+        },
+        {
+            "text": "verlo",
+            "start_pos": 642,
+            "end_pos": 647,
+            "labels": []
+        },
+        {
+            "text": "es",
+            "start_pos": 648,
+            "end_pos": 650,
+            "labels": []
+        },
+        {
+            "text": "Principe",
+            "start_pos": 651,
+            "end_pos": 659,
+            "labels": []
+        },
+        {
+            "text": "de",
+            "start_pos": 660,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "Vergara",
+            "start_pos": 663,
+            "end_pos": 670,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\ude09",
+            "start_pos": 671,
+            "end_pos": 672,
+            "labels": []
+        },
+        {
+            "text": "Gu\u00e1rdalo",
+            "start_pos": 674,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 683,
+            "end_pos": 687,
+            "labels": []
+        },
+        {
+            "text": "ir",
+            "start_pos": 688,
+            "end_pos": 690,
+            "labels": []
+        },
+        {
+            "text": "prontito",
+            "start_pos": 691,
+            "end_pos": 699,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udd10\ud83d\udd10",
+            "start_pos": 700,
+            "end_pos": 702,
+            "labels": []
+        },
+        {
+            "text": "\u00bf",
+            "start_pos": 703,
+            "end_pos": 704,
+            "labels": []
+        },
+        {
+            "text": "Con",
+            "start_pos": 704,
+            "end_pos": 707,
+            "labels": []
+        },
+        {
+            "text": "qui\u00e9n",
+            "start_pos": 708,
+            "end_pos": 713,
+            "labels": []
+        },
+        {
+            "text": "vas",
+            "start_pos": 714,
+            "end_pos": 717,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 718,
+            "end_pos": 719,
+            "labels": []
+        },
+        {
+            "text": "ir",
+            "start_pos": 720,
+            "end_pos": 722,
+            "labels": []
+        },
+        {
+            "text": "para",
+            "start_pos": 723,
+            "end_pos": 727,
+            "labels": []
+        },
+        {
+            "text": "adentrarte",
+            "start_pos": 728,
+            "end_pos": 738,
+            "labels": []
+        },
+        {
+            "text": "en",
+            "start_pos": 739,
+            "end_pos": 741,
+            "labels": []
+        },
+        {
+            "text": "esta",
+            "start_pos": 742,
+            "end_pos": 746,
+            "labels": []
+        },
+        {
+            "text": "cueva",
+            "start_pos": 747,
+            "end_pos": 752,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 752,
+            "end_pos": 753,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 756,
+            "end_pos": 757,
+            "labels": []
+        },
+        {
+            "text": "madrid",
+            "start_pos": 757,
+            "end_pos": 763,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 764,
+            "end_pos": 765,
+            "labels": []
+        },
+        {
+            "text": "planesmadrid",
+            "start_pos": 765,
+            "end_pos": 777,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 778,
+            "end_pos": 779,
+            "labels": []
+        },
+        {
+            "text": "gratis",
+            "start_pos": 779,
+            "end_pos": 785,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 786,
+            "end_pos": 787,
+            "labels": []
+        },
+        {
+            "text": "planazo",
+            "start_pos": 787,
+            "end_pos": 794,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 795,
+            "end_pos": 796,
+            "labels": []
+        },
+        {
+            "text": "cultura",
+            "start_pos": 796,
+            "end_pos": 803,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"London, UK\",\n      \"full_address\": \"London, United Kingdom\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=London&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=London&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_278e4592d96f1d5a",
+    "response_id": "r_71c079405fd74cde",
+    "factuality_queries": null,
+    "text_query": [
+        "locations in the caption",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_1d2a1e8938bcce13",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"London, UK\",\n      \"full_address\": \"London, United Kingdom\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=London&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=London&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_87936f8cf1ed734f",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"London\",\n      \"full_address\": \"London, UK\",\n      \"order\": 1\n    }\n  ],\n  \"images\": [\n    {\n      \"url\": \"https://i.pinimg.com/originals/56/2e/2a/562e2a8ee90b6535f714b0363432d768.jpg\",\n      \"caption\": \"Winter Wonderland in Hyde Park\"\n    },\n    {\n      \"url\": \"https://i.pinimg.com/original/9c/11/17/9c1117ea03b92a6f5302d8272853e425.jpg\",\n      \"caption\": \"Southbank Centre Winter Market\"\n    },\n    {\n      \"url\": \"https://i.pinimg.com/originals/9c/11/17/9c1117ea03b92a6f5302d8272853e425.jpg\",\n      \"caption\": \"Covent Garden\"\n    }\n  ]\n}\n```\nI hope this is helpful!"
+            ]
+        },
+        {
+            "id": "rc_e69ae1156679f40a",
+            "content": [
+                "Sure, here is the json file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"London\",\n      \"full_address\": \"London, UK\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=London, UK\"\n    },\n    {\n      \"name\": \"Winter Wonderland\",\n      \"full_address\": \"Hyde Park, London, UK\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Winter Wonderland in Hyde Park, London, UK\"\n    },\n    {\n      \"name\": \"Southbank Centre Winter Market\",\n      \"full_address\": \"South Bank, London, UK\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Southbank Centre Winter Market, London, UK\"\n    },\n    {\n      \"name\": \"Covent Garden\",\n      \"full_address\": \"Covent Garden, London, UK\",\n      \"order\": 4,\n      \"image\": \"https://www.google.com/search?q=Covent Garden, London, UK\"\n    }\n  ]\n}\n```\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"London, UK\",\n      \"full_address\": \"London, United Kingdom\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=London&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=London&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

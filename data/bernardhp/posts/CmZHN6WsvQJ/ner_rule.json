@@ -1,0 +1,156 @@
+[
+    {
+        "text": "1. Castillo de Colomares by @pdamian_gomez",
+        "start": 70,
+        "end": 112,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Castillo de Colomares by @pdamian_gomez"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Ronda by @accadaniel",
+        "start": 113,
+        "end": 136,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Ronda by @accadaniel"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Seville by @serentripidy",
+        "start": 137,
+        "end": 164,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Seville by @serentripidy"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Torremolinos by @pdamian_gomez",
+        "start": 165,
+        "end": 198,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Torremolinos by @pdamian_gomez"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Marbella by @delafuentecam",
+        "start": 199,
+        "end": 228,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Marbella by @delafuentecam"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Izn\u00e1jar by @delafuentecam",
+        "start": 229,
+        "end": 257,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Izn\u00e1jar by @delafuentecam"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Malaga by @world_walkerz",
+        "start": 258,
+        "end": 285,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Malaga by @world_walkerz"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Granada by @delafuentecam",
+        "start": 286,
+        "end": 314,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Granada by @delafuentecam"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Cordoba by @world_walkerz",
+        "start": 315,
+        "end": 343,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Cordoba by @world_walkerz"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Setenil de las Bodegas by @pakmunoz",
+        "start": 344,
+        "end": 383,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Setenil de las Bodegas by @pakmunoz"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 36,
+        "end": 38,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Spain",
+        "start": 28,
+        "end": 33,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

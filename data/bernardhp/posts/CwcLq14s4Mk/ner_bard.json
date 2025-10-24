@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Rifugio Friedrich August\",\n      \"full_address\": \"Rifugio Friedrich August, Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.rifugiofriedrichaugust.it/images/rifugiofriedrichaugust.jpg\"\n    },\n    {\n      \"name\": \"Passo Sella\",\n      \"full_address\": \"Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passosellasudtirol.it/images/passosellasudtirol.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    },\n    {\n      \"name\": \"Trentino-Alto Adige\",\n      \"full_address\": \"Trentino-Alto Adige, Italy\",\n      \"order\": 4,\n      \"image\": \"https://www.trentino-altoadige.it/images/trentino-altoadige.jpg\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_2c9a8500da631524",
+    "response_id": "r_090ec8ee94e9a246",
+    "factuality_queries": null,
+    "text_query": [
+        "bombolone alla crema vista Dolomiti? \ud83d\udc9b\ud83e\udd50",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_230917c5d4943b03",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Rifugio Friedrich August\",\n      \"full_address\": \"Rifugio Friedrich August, Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.rifugiofriedrichaugust.it/images/rifugiofriedrichaugust.jpg\"\n    },\n    {\n      \"name\": \"Passo Sella\",\n      \"full_address\": \"Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passosellasudtirol.it/images/passosellasudtirol.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    },\n    {\n      \"name\": \"Trentino-Alto Adige\",\n      \"full_address\": \"Trentino-Alto Adige, Italy\",\n      \"order\": 4,\n      \"image\": \"https://www.trentino-altoadige.it/images/trentino-altoadige.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_ce431930817c53aa",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Rifugio Friedrich August\",\n      \"full_address\": \"Rifugio Friedrich August, Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.rifugiofriedrich-august.it/images/rifugio-friedrich-august.jpg\"\n    },\n    {\n      \"name\": \"Passo Sella\",\n      \"full_address\": \"Passo Sella, South Tyrol, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passosella.it/images/passosello.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_439d46d532a06ef6",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Rifugio Friedrich August\",\n      \"full_address\": \"Rifugio Friedrich August, Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.rifugiofriedrichaugust.it/images/rifugiofriedrichaugust.jpg\"\n    },\n    {\n      \"name\": \"Passo Sella\",\n      \"full_address\": \"Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passosellatrentino.it/images/passosellatrentino.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Rifugio Friedrich August\",\n      \"full_address\": \"Rifugio Friedrich August, Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.rifugiofriedrichaugust.it/images/rifugiofriedrichaugust.jpg\"\n    },\n    {\n      \"name\": \"Passo Sella\",\n      \"full_address\": \"Passo Sella, Trentino-Alto Adige, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passosellasudtirol.it/images/passosellasudtirol.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    },\n    {\n      \"name\": \"Trentino-Alto Adige\",\n      \"full_address\": \"Trentino-Alto Adige, Italy\",\n      \"order\": 4,\n      \"image\": \"https://www.trentino-altoadige.it/images/trentino-altoadige.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

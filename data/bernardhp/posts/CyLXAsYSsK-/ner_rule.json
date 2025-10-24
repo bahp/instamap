@@ -1,0 +1,41 @@
+[
+    {
+        "text": "1. Ryuonji temple / #\u9f8d\u7a4f\u5bfa",
+        "start": 312,
+        "end": 336,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Ryuonji temple / #\u9f8d\u7a4f\u5bfa"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Jingoji Temple / #\u795e\u8b77\u5bfa",
+        "start": 936,
+        "end": 960,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Jingoji Temple / #\u795e\u8b77\u5bfa"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. Iwato Ochiba Shrine / #\u5ca9\u6238\u843d\u8449\u795e\u793e",
+        "start": 1323,
+        "end": 1356,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "Iwato Ochiba Shrine / #\u5ca9\u6238\u843d\u8449\u795e\u793e"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"United States\",\n      \"full_address\": \"United States, North America\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=United+States&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=United+States&gs_l=psy-ab.3..0i2j.117782.133144..135747...0.0...1.236.236.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102395.0..1.1.0...\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_278e4592d96f1d5a",
+    "response_id": "r_137bcd30e7e66f4e",
+    "factuality_queries": null,
+    "text_query": [
+        "cookie dough bark recipe",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_bc71a4a96a73c037",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"United States\",\n      \"full_address\": \"United States, North America\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=United+States&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=United+States&gs_l=psy-ab.3..0i2j.117782.133144..135747...0.0...1.236.236.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102395.0..1.1.0...\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_5597176be6426e63",
+            "content": [
+                "Sure, here is the JSON file:\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Freezer\",\n      \"full_address\": \"Freezer\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=Freezer&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Freezer&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Baking sheet\",\n      \"full_address\": \"Baking sheet\",\n      \"order\": 2,\n      \"image\": \"https://www.google.com/search?q=Baking+sheet&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Baking+sheet&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    },\n    {\n      \"name\": \"Airtight container\",\n      \"full_address\": \"Airtight container\",\n      \"order\": 3,\n      \"image\": \"https://www.google.com/search?q=Airtight+container&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=Airtight+container&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_30c0507ecc706733",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"United States\",\n      \"full_address\": \"United States of America\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=United+States&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=United+States&gs_l=psy-ab.3..0i2j.12291.14491..14705...0.0...1.194.194.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102723.0..1.1.0...\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"United States\",\n      \"full_address\": \"United States, North America\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/search?q=United+States&safe=off&client=firefox-b&ei=h1eNYq2tCoa5rQO2_4LwCQ&oq=United+States&gs_l=psy-ab.3..0i2j.117782.133144..135747...0.0...1.236.236.1.0.0.0.0.1.0..1.gws-wiz.0...0i71k1.102395.0..1.1.0...\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

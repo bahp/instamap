@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"London\",\n    \"full_address\": \"London, England, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2015/10/06/18/44/london-1936988_960_720.jpg\"\n  }\n]\n```",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_69cc6acd0579562e",
+    "factuality_queries": null,
+    "text_query": [
+        "autumn in london",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_dbb1c5858aca2bc3",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"London\",\n    \"full_address\": \"London, England, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2015/10/06/18/44/london-1936988_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_8da823a5050aa0b1",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"London\",\n    \"full_address\": \"London, England, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2021/02/02/19/43/london-5976985_960_720.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_36102f174562047a",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"London\",\n    \"full_address\": \"London, England, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2016/10/03/21/43/london-1725945_960_720.jpg\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"London\",\n    \"full_address\": \"London, England, UK\",\n    \"order\": 1,\n    \"image\": \"https://cdn.pixabay.com/photo/2015/10/06/18/44/london-1936988_960_720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

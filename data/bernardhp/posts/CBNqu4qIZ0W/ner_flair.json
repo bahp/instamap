@@ -1,0 +1,159 @@
+{
+    "text": "\ud83c\uddfa\ud83c\uddff #discoverUzbekistan with @humminglion : \"\u202aFifty Shades of Blue \ud83d\udc99\u202c \"  This place is definitely on my bucket list !",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Fifty Shades of Blue",
+            "start_pos": 45,
+            "end_pos": 65,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.7813117653131485
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddfa\ud83c\uddff",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "discoverUzbekistan",
+            "start_pos": 4,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "with",
+            "start_pos": 23,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "humminglion",
+            "start_pos": 29,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "\"\u202a",
+            "start_pos": 43,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "Fifty",
+            "start_pos": 45,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "Shades",
+            "start_pos": 51,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 58,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "Blue",
+            "start_pos": 61,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc99\u202c",
+            "start_pos": 66,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "This",
+            "start_pos": 72,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 77,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 83,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "definitely",
+            "start_pos": 86,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 97,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 100,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "bucket",
+            "start_pos": 103,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "list",
+            "start_pos": 110,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 115,
+            "end_pos": 116,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

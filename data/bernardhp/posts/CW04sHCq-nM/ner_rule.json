@@ -1,0 +1,190 @@
+[
+    {
+        "text": "1. Tumpak Sewu",
+        "start": 406,
+        "end": 420,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "Tumpak Sewu"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. Tegallalang",
+        "start": 421,
+        "end": 435,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "Tegallalang"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. Tegallalang",
+        "start": 436,
+        "end": 450,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "Tegallalang"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. Nusa Penida",
+        "start": 451,
+        "end": 465,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "Nusa Penida"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. Kelimutu National Park",
+        "start": 466,
+        "end": 491,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "Kelimutu National Park"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. Bromo Tengger Semeru",
+        "start": 492,
+        "end": 515,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "Bromo Tengger Semeru"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. Wae Rebo Village",
+        "start": 516,
+        "end": 535,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "Wae Rebo Village"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. Broken Beach",
+        "start": 536,
+        "end": 551,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "Broken Beach"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. Tumpak Sewu",
+        "start": 552,
+        "end": 566,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "Tumpak Sewu"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83d\udccdPhotos and places in Indonesia:",
+        "start": 373,
+        "end": 405,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Photos and places in Indonesia:"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\udde9",
+        "start": 568,
+        "end": 570,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\udde9",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Indonesia",
+        "start": 21,
+        "end": 30,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Indonesia",
+        "start": 125,
+        "end": 134,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Indonesia",
+        "start": 342,
+        "end": 351,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Indonesia",
+        "start": 395,
+        "end": 404,
+        "groupdict": {
+            "name": "Indonesia",
+            "location": "Indonesia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

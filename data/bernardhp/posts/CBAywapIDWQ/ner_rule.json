@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\udde8\ud83c\uddf4",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\udde8\ud83c\uddf4",
+            "location": "Colombia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Colombia",
+        "start": 99,
+        "end": 107,
+        "groupdict": {
+            "name": "Colombia",
+            "location": "Colombia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

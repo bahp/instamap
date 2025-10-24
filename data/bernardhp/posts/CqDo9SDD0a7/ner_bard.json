@@ -1,0 +1,56 @@
+{
+    "content": "Sure, here is a JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Len\u00e7\u00f3is Maranhenses\",\n      \"full_address\": \"Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil\",\n      \"order\": 1,\n      \"image\": \"[Image of Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil]\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_8b8b93b8e34e0282",
+    "response_id": "r_0b4830265aec6cda",
+    "factuality_queries": null,
+    "text_query": [
+        "locations of Len\u00e7\u00f3is Maranhenses - Maranh\u00e3o -Brasil",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_cacb4de3d7c7f93a",
+            "content": [
+                "Sure, here is a JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Len\u00e7\u00f3is Maranhenses\",\n      \"full_address\": \"Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil\",\n      \"order\": 1,\n      \"image\": \"[Image of Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil]\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_564e7ed31973d33c",
+            "content": [
+                "{\"locations\": [\n    {\n        \"name\": \"Len\u00e7\u00f3is Maranhenses\",\n        \"full_address\": \"Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil\",\n        \"url\": \"[Image of Len\u00e7\u00f3is Maranhenses, Brazil]\",\n        \"order\": 1\n    }\n]}"
+            ]
+        },
+        {
+            "id": "rc_593cb23564615234",
+            "content": [
+                "{\"locations\": [\n    {\n        \"name\": \"Len\u00e7\u00f3is Maranhenses\",\n        \"full_address\": \"Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil\",\n        \"url\": \"[Image of Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil]\",\n        \"order\": 1\n    }\n]}"
+            ]
+        }
+    ],
+    "links": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/1200px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+        "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-55NkTlqvgNw2bk0BLiJ2OUUQg_gUcgyR1Z_WX5QUcYiPlB0qf4hSfmzk2gT",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/1200px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+        "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-55NkTlqvgNw2bk0BLiJ2OUUQg_gUcgyR1Z_WX5QUcYiPlB0qf4hSfmzk2gT",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/640px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+        "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu87Jvl8ktaXPaUhy2_hXEcGR1DPfUxgLN357DgUbSC-OQTx2jdnDiBu0yuhOp",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/640px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+        "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu87Jvl8ktaXPaUhy2_hXEcGR1DPfUxgLN357DgUbSC-OQTx2jdnDiBu0yuhOp",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/1200px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+        "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-55NkTlqvgNw2bk0BLiJ2OUUQg_gUcgyR1Z_WX5QUcYiPlB0qf4hSfmzk2gT",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/1200px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg",
+        "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-55NkTlqvgNw2bk0BLiJ2OUUQg_gUcgyR1Z_WX5QUcYiPlB0qf4hSfmzk2gT"
+    ],
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/1200px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg"
+    ],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Len\u00e7\u00f3is Maranhenses\",\n      \"full_address\": \"Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil\",\n      \"order\": 1,\n      \"image\": \"[Image of Len\u00e7\u00f3is Maranhenses National Park, Maranh\u00e3o, Brazil]\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

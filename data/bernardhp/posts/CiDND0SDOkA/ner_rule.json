@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccdSyros island, Cyclades, Greece",
+        "start": 567,
+        "end": 598,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Syros island, Cyclades, Greece"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\uddf7",
+        "start": 50,
+        "end": 52,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\uddf7",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddec\ud83c\uddf7",
+        "start": 98,
+        "end": 100,
+        "groupdict": {
+            "flag": "\ud83c\uddec\ud83c\uddf7",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Greece",
+        "start": 592,
+        "end": 598,
+        "groupdict": {
+            "name": "Greece",
+            "location": "Greece"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

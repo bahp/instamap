@@ -1,0 +1,379 @@
+{
+    "text": "Damnoen Saduak Floating Market - Ratchaburi, Thailand \ud83d\udcfd by : @unachicatrotamundos  . . . . . #lostinthailand #Thailandreopening #damnoensaduak #damnoensaduakfloatingmarket #ratchaburi #amazingthailand #unseenthailand #travelblogger #bloggersofinstagram #instagrammers #travelphotography #thailandinstagram #amazingthailand #reiselust #agameoftones #traveladdict #lovetravel #adventure #neverstopexploring",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Damnoen Saduak Floating Market -",
+            "start_pos": 0,
+            "end_pos": 32,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9209868907928467
+                }
+            ]
+        },
+        {
+            "text": "Ratchaburi",
+            "start_pos": 33,
+            "end_pos": 43,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5874121189117432
+                }
+            ]
+        },
+        {
+            "text": "Thailand",
+            "start_pos": 45,
+            "end_pos": 53,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991204142570496
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Damnoen",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "Saduak",
+            "start_pos": 8,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "Floating",
+            "start_pos": 15,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "Market",
+            "start_pos": 24,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Ratchaburi",
+            "start_pos": 33,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "Thailand",
+            "start_pos": 45,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcfd",
+            "start_pos": 54,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 56,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "unachicatrotamundos",
+            "start_pos": 62,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 83,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 89,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 91,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "lostinthailand",
+            "start_pos": 94,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "Thailandreopening",
+            "start_pos": 110,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 128,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "damnoensaduak",
+            "start_pos": 129,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 143,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "damnoensaduakfloatingmarket",
+            "start_pos": 144,
+            "end_pos": 171,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 172,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "ratchaburi",
+            "start_pos": 173,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 184,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "amazingthailand",
+            "start_pos": 185,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 201,
+            "end_pos": 202,
+            "labels": []
+        },
+        {
+            "text": "unseenthailand",
+            "start_pos": 202,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 217,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "travelblogger",
+            "start_pos": 218,
+            "end_pos": 231,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 232,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "bloggersofinstagram",
+            "start_pos": 233,
+            "end_pos": 252,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 253,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "instagrammers",
+            "start_pos": 254,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 268,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "travelphotography",
+            "start_pos": 269,
+            "end_pos": 286,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 287,
+            "end_pos": 288,
+            "labels": []
+        },
+        {
+            "text": "thailandinstagram",
+            "start_pos": 288,
+            "end_pos": 305,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 306,
+            "end_pos": 307,
+            "labels": []
+        },
+        {
+            "text": "amazingthailand",
+            "start_pos": 307,
+            "end_pos": 322,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 323,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "reiselust",
+            "start_pos": 324,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 334,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "agameoftones",
+            "start_pos": 335,
+            "end_pos": 347,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 348,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "traveladdict",
+            "start_pos": 349,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 362,
+            "end_pos": 363,
+            "labels": []
+        },
+        {
+            "text": "lovetravel",
+            "start_pos": 363,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 374,
+            "end_pos": 375,
+            "labels": []
+        },
+        {
+            "text": "adventure",
+            "start_pos": 375,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 385,
+            "end_pos": 386,
+            "labels": []
+        },
+        {
+            "text": "neverstopexploring",
+            "start_pos": 386,
+            "end_pos": 404,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

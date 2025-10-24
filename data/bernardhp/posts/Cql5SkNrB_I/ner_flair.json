@@ -1,0 +1,141 @@
+{
+    "text": "Hurlingham Books.\ud83d\udcda\ud83d\udcda\ud83d\udcda. #london #uk #england #love #instagood #travel Credit @oncewaslost_",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Hurlingham Books.",
+            "start_pos": 0,
+            "end_pos": 17,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.5170334279537201
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Hurlingham",
+            "start_pos": 0,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "Books.",
+            "start_pos": 11,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcda\ud83d\udcda\ud83d\udcda",
+            "start_pos": 17,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 22,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "london",
+            "start_pos": 23,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "uk",
+            "start_pos": 31,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "england",
+            "start_pos": 35,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "love",
+            "start_pos": 44,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "instagood",
+            "start_pos": 50,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 60,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 61,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "Credit",
+            "start_pos": 68,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 75,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "oncewaslost",
+            "start_pos": 76,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 87,
+            "end_pos": 88,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

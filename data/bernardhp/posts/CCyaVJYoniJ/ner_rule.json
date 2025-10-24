@@ -1,0 +1,38 @@
+[
+    {
+        "text": "\ud83c\uddf2\ud83c\uddfa",
+        "start": 319,
+        "end": 321,
+        "groupdict": {
+            "flag": "\ud83c\uddf2\ud83c\uddfa",
+            "location": "Mauritius"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Mauritius",
+        "start": 63,
+        "end": 72,
+        "groupdict": {
+            "name": "Mauritius",
+            "location": "Mauritius"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "mauritius",
+        "start": 354,
+        "end": 363,
+        "groupdict": {
+            "name": "mauritius",
+            "location": "mauritius"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

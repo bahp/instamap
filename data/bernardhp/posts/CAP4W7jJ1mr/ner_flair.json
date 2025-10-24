@@ -1,0 +1,768 @@
+{
+    "text": "Amazon is great if you know what you're looking for \u2013 but nothing will ever come close to the joy of browsing one of London's independent book stores or asking their knowledgable staff for recommendations.  @librerialondon is one of our favourites \u2013 a place where printed words on physical pages are so important that using your phone within its walls is banned. We're looking forward to being able to hide in amongst its shelves when restrictions are lifted, and until then you can DM their Instagram account to ask for new lockdown reads.  Missing your local book store? Tag them in the comments to show them you care. \ud83d\udcda\ud83d\udc9e",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Amazon",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.5297197699546814
+                }
+            ]
+        },
+        {
+            "text": "London",
+            "start_pos": 117,
+            "end_pos": 123,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9992364645004272
+                }
+            ]
+        },
+        {
+            "text": "librerialondon",
+            "start_pos": 208,
+            "end_pos": 222,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.4824155867099762
+                }
+            ]
+        },
+        {
+            "text": "Instagram",
+            "start_pos": 492,
+            "end_pos": 501,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.6809361577033997
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Amazon",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 7,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "great",
+            "start_pos": 10,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "if",
+            "start_pos": 16,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 19,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "know",
+            "start_pos": 23,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "what",
+            "start_pos": 28,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 33,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "'re",
+            "start_pos": 36,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "looking",
+            "start_pos": 40,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 48,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\u2013",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "but",
+            "start_pos": 54,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "nothing",
+            "start_pos": 58,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "will",
+            "start_pos": 66,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "ever",
+            "start_pos": 71,
+            "end_pos": 75,
+            "labels": []
+        },
+        {
+            "text": "come",
+            "start_pos": 76,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "close",
+            "start_pos": 81,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 87,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 90,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "joy",
+            "start_pos": 94,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 98,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "browsing",
+            "start_pos": 101,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 110,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 114,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "London",
+            "start_pos": 117,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "'s",
+            "start_pos": 123,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "independent",
+            "start_pos": 126,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "book",
+            "start_pos": 138,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "stores",
+            "start_pos": 143,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 150,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "asking",
+            "start_pos": 153,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "their",
+            "start_pos": 160,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "knowledgable",
+            "start_pos": 166,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "staff",
+            "start_pos": 179,
+            "end_pos": 184,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 185,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": "recommendations",
+            "start_pos": 189,
+            "end_pos": 204,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 204,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 207,
+            "end_pos": 208,
+            "labels": []
+        },
+        {
+            "text": "librerialondon",
+            "start_pos": 208,
+            "end_pos": 222,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 223,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 226,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 230,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "our",
+            "start_pos": 233,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "favourites",
+            "start_pos": 237,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "\u2013",
+            "start_pos": 248,
+            "end_pos": 249,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 250,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "place",
+            "start_pos": 252,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "where",
+            "start_pos": 258,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "printed",
+            "start_pos": 264,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "words",
+            "start_pos": 272,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "on",
+            "start_pos": 278,
+            "end_pos": 280,
+            "labels": []
+        },
+        {
+            "text": "physical",
+            "start_pos": 281,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": "pages",
+            "start_pos": 290,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 296,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "so",
+            "start_pos": 300,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "important",
+            "start_pos": 303,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "that",
+            "start_pos": 313,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "using",
+            "start_pos": 318,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 324,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "phone",
+            "start_pos": 329,
+            "end_pos": 334,
+            "labels": []
+        },
+        {
+            "text": "within",
+            "start_pos": 335,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 342,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "walls",
+            "start_pos": 346,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 352,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": "banned",
+            "start_pos": 355,
+            "end_pos": 361,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 361,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "We",
+            "start_pos": 363,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "'re",
+            "start_pos": 365,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "looking",
+            "start_pos": 369,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "forward",
+            "start_pos": 377,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 385,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "being",
+            "start_pos": 388,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "able",
+            "start_pos": 394,
+            "end_pos": 398,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 399,
+            "end_pos": 401,
+            "labels": []
+        },
+        {
+            "text": "hide",
+            "start_pos": 402,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 407,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "amongst",
+            "start_pos": 410,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "its",
+            "start_pos": 418,
+            "end_pos": 421,
+            "labels": []
+        },
+        {
+            "text": "shelves",
+            "start_pos": 422,
+            "end_pos": 429,
+            "labels": []
+        },
+        {
+            "text": "when",
+            "start_pos": 430,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "restrictions",
+            "start_pos": 435,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "are",
+            "start_pos": 448,
+            "end_pos": 451,
+            "labels": []
+        },
+        {
+            "text": "lifted",
+            "start_pos": 452,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 458,
+            "end_pos": 459,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 460,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "until",
+            "start_pos": 464,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "then",
+            "start_pos": 470,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 475,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "can",
+            "start_pos": 479,
+            "end_pos": 482,
+            "labels": []
+        },
+        {
+            "text": "DM",
+            "start_pos": 483,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "their",
+            "start_pos": 486,
+            "end_pos": 491,
+            "labels": []
+        },
+        {
+            "text": "Instagram",
+            "start_pos": 492,
+            "end_pos": 501,
+            "labels": []
+        },
+        {
+            "text": "account",
+            "start_pos": 502,
+            "end_pos": 509,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 510,
+            "end_pos": 512,
+            "labels": []
+        },
+        {
+            "text": "ask",
+            "start_pos": 513,
+            "end_pos": 516,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 517,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "new",
+            "start_pos": 521,
+            "end_pos": 524,
+            "labels": []
+        },
+        {
+            "text": "lockdown",
+            "start_pos": 525,
+            "end_pos": 533,
+            "labels": []
+        },
+        {
+            "text": "reads",
+            "start_pos": 534,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 539,
+            "end_pos": 540,
+            "labels": []
+        },
+        {
+            "text": "Missing",
+            "start_pos": 542,
+            "end_pos": 549,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 550,
+            "end_pos": 554,
+            "labels": []
+        },
+        {
+            "text": "local",
+            "start_pos": 555,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "book",
+            "start_pos": 561,
+            "end_pos": 565,
+            "labels": []
+        },
+        {
+            "text": "store",
+            "start_pos": 566,
+            "end_pos": 571,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 571,
+            "end_pos": 572,
+            "labels": []
+        },
+        {
+            "text": "Tag",
+            "start_pos": 573,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "them",
+            "start_pos": 577,
+            "end_pos": 581,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 582,
+            "end_pos": 584,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 585,
+            "end_pos": 588,
+            "labels": []
+        },
+        {
+            "text": "comments",
+            "start_pos": 589,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 598,
+            "end_pos": 600,
+            "labels": []
+        },
+        {
+            "text": "show",
+            "start_pos": 601,
+            "end_pos": 605,
+            "labels": []
+        },
+        {
+            "text": "them",
+            "start_pos": 606,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "you",
+            "start_pos": 611,
+            "end_pos": 614,
+            "labels": []
+        },
+        {
+            "text": "care",
+            "start_pos": 615,
+            "end_pos": 619,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 619,
+            "end_pos": 620,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcda\ud83d\udc9e",
+            "start_pos": 621,
+            "end_pos": 623,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

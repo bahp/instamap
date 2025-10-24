@@ -1,0 +1,116 @@
+{
+    "text": "\u00a1\u00a1Ronald y Alba!! Follow: @spainbachata  Dancers: @ronaldyalba",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Ronald y Alba",
+            "start_pos": 2,
+            "end_pos": 15,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7652544776598612
+                }
+            ]
+        },
+        {
+            "text": "ronaldyalba",
+            "start_pos": 51,
+            "end_pos": 62,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8682305812835693
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\u00a1\u00a1",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "Ronald",
+            "start_pos": 2,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "y",
+            "start_pos": 9,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "Alba",
+            "start_pos": 11,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 18,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 24,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "spainbachata",
+            "start_pos": 27,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "Dancers",
+            "start_pos": 41,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "ronaldyalba",
+            "start_pos": 51,
+            "end_pos": 62,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

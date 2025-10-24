@@ -1,0 +1,49 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Hurlingham Books\",\n    \"full_address\": \"Ranelagh Gardens, 91 Fulham High St, London SW6 3JS, UK\",\n    \"order\": 1\n  }\n]\n```\nhttp://googleusercontent.com/map_content/3",
+    "conversation_id": "c_a8bec54cde1a77bd",
+    "response_id": "r_2b1c23fe1ce9b258",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_37016a7f828ece9f",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Hurlingham Books\",\n    \"full_address\": \"Ranelagh Gardens, 91 Fulham High St, London SW6 3JS, UK\",\n    \"order\": 1\n  }\n]\n```\nhttp://googleusercontent.com/map_content/3"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "http://googleusercontent.com/map_content/2",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "https://maps.google.com/?cid=4847698521767125290",
+        "http://www.thegentlymad.co.uk/",
+        "http://googleusercontent.com/map_content/1",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "https://maps.google.com/?cid=7135294398792037486",
+        "https://www.rbge.org.uk/",
+        "http://googleusercontent.com/map_content/0",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg",
+        "https://maps.google.com/?cid=14745608019005883053",
+        "http://www.hurlinghambooks.com/",
+        "https://maps.google.com/?cid=14745608019005883053",
+        "http://www.hurlinghambooks.com/",
+        "http://googleusercontent.com/map_content/3",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Hurlingham Books\",\n    \"full_address\": \"Ranelagh Gardens, 91 Fulham High St, London SW6 3JS, UK\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

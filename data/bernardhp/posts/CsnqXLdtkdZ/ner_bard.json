@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address) and the order (order) in which they were found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lisbon\",\n      \"full_address\": \"Lisbon, Portugal\",\n      \"image\": \"https://www.lisbonguide.net/img/lisbon/lisbon-tourism-board-lisbon-guide-lisbon-city-guide.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Jardim do Torel\",\n      \"full_address\": \"Jardim do Torel, Lisbon, Portugal\",\n      \"image\": \"https://www.timeout.pt/lisboa/pt/fotos/2016/06/13/54945/img_54945_560_373.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Lisbon Free Pool\",\n      \"full_address\": \"Lisbon Free Pool, Lisbon, Portugal\",\n      \"image\": \"https://lh5.googleusercontent.com/p/AF1QipN14tS0s31Z52xQh104w3tP27X19j_37z84-o\",\n      \"order\": 3\n    }\n  ]\n}\n```",
+    "conversation_id": "c_5488e61e6b3c7949",
+    "response_id": "r_5bb7b9084108dce3",
+    "factuality_queries": null,
+    "text_query": [
+        "lisbonfreepool",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_339c4a78d8615000",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address) and the order (order) in which they were found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lisbon\",\n      \"full_address\": \"Lisbon, Portugal\",\n      \"image\": \"https://www.lisbonguide.net/img/lisbon/lisbon-tourism-board-lisbon-guide-lisbon-city-guide.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Jardim do Torel\",\n      \"full_address\": \"Jardim do Torel, Lisbon, Portugal\",\n      \"image\": \"https://www.timeout.pt/lisboa/pt/fotos/2016/06/13/54945/img_54945_560_373.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Lisbon Free Pool\",\n      \"full_address\": \"Lisbon Free Pool, Lisbon, Portugal\",\n      \"image\": \"https://lh5.googleusercontent.com/p/AF1QipN14tS0s31Z52xQh104w3tP27X19j_37z84-o\",\n      \"order\": 3\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_72105fe9282999f3",
+            "content": [
+                "Sure! Here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Lisbon Free Pool\",\n      \"full_address\": \"Lisbon Free Pool, Jardim do Torel, Lisbon, Portugal\",\n      \"order\": 1,\n      \"image\": \"https://www.instagram.com/p/CPw_vR4n6m3/?utm_source=ig_web_copy_link\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_1c8a9799625a6137",
+            "content": [
+                "Here is a JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which they were found in the text:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Jardim do Torel\",\n      \"full_address\": \"Jardim do Torel, Lisbon, Portugal\",\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Jardim_do_Torel.JPG/800px-Jardim_do_Torel.JPG\",\n      \"order\": 0\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Lisbon\",\n      \"full_address\": \"Lisbon, Portugal\",\n      \"image\": \"https://www.lisbonguide.net/img/lisbon/lisbon-tourism-board-lisbon-guide-lisbon-city-guide.jpg\",\n      \"order\": 1\n    },\n    {\n      \"name\": \"Jardim do Torel\",\n      \"full_address\": \"Jardim do Torel, Lisbon, Portugal\",\n      \"image\": \"https://www.timeout.pt/lisboa/pt/fotos/2016/06/13/54945/img_54945_560_373.jpg\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Lisbon Free Pool\",\n      \"full_address\": \"Lisbon Free Pool, Lisbon, Portugal\",\n      \"image\": \"https://lh5.googleusercontent.com/p/AF1QipN14tS0s31Z52xQh104w3tP27X19j_37z84-o\",\n      \"order\": 3\n    }\n  ]\n}\n",
+    "status_code": 200
+}

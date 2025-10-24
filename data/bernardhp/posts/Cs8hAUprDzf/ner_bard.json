@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Saxer L\u00fccke\",\n      \"full_address\": \"Saxer L\u00fccke, Appenzell, Switzerland\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saxer_L%C3%BCcke_Panorama_mit_Regenbogen.jpg/600px-Saxer_L%C3%BCcke_Panorama_mit_Regenbogen.jpg\"\n    }\n  ]\n}\n```\n",
+    "conversation_id": "c_5488e61e6b3c7949",
+    "response_id": "r_624586eff5faa203",
+    "factuality_queries": null,
+    "text_query": [
+        "locations in \"Save for this summer! ",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_1abd996706147883",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Saxer L\u00fccke\",\n      \"full_address\": \"Saxer L\u00fccke, Appenzell, Switzerland\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saxer_L%C3%BCcke_Panorama_mit_Regenbogen.jpg/600px-Saxer_L%C3%BCcke_Panorama_mit_Regenbogen.jpg\"\n    }\n  ]\n}\n```\n"
+            ]
+        },
+        {
+            "id": "rc_4968d43daabe5cce",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Saxer L\u00fccke\",\n      \"full_address\": \"Saxer L\u00fccke, Appenzell, Switzerland\",\n      \"order\": 1,\n      \"image\": \"https://i.imgur.com/bO1gK3h.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_8dd9e5ace4bf6d18",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Saxer L\u00fccke\",\n      \"full_address\": \"Saxer L\u00fccke, Appenzell, Switzerland\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Saxer_L%C3%BCcke.jpg/220px-Saxer_L%C3%BCcke.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Saxer L\u00fccke\",\n      \"full_address\": \"Saxer L\u00fccke, Appenzell, Switzerland\",\n      \"order\": 1,\n      \"image\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saxer_L%C3%BCcke_Panorama_mit_Regenbogen.jpg/600px-Saxer_L%C3%BCcke_Panorama_mit_Regenbogen.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udcccShanghai, Hu for short, is a renowned international metropolis drawing more and more attention from all over the world",
+        "start": 54,
+        "end": 173,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": "Shanghai, Hu for short, is a renowned international metropolis drawing more and more attention from all over the world"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "China",
+        "start": 321,
+        "end": 326,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

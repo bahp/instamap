@@ -1,0 +1,59 @@
+[
+    {
+        "text": "\ud83d\udea9Founders: @chrisma1105",
+        "start": 48,
+        "end": 71,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "Founders: @chrisma1105"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccdChosen by: @vale_774!",
+        "start": 72,
+        "end": 94,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Chosen by: @vale_774!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udea9TAG your BEST FRIENDS \u2b07\ufe0f \ud83d\udea9Happy 3rd Sunday of Advent ",
+        "start": 136,
+        "end": 190,
+        "groupdict": {
+            "icon": "\ud83d\udea9",
+            "location": "TAG your BEST FRIENDS \u2b07\ufe0f \ud83d\udea9Happy 3rd Sunday of Advent "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddeb\ud83c\uddf7",
+        "start": 20,
+        "end": 22,
+        "groupdict": {
+            "flag": "\ud83c\uddeb\ud83c\uddf7",
+            "location": "France"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "france",
+        "start": 14,
+        "end": 20,
+        "groupdict": {
+            "name": "france",
+            "location": "france"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

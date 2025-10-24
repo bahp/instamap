@@ -1,0 +1,237 @@
+{
+    "text": "\ud83e\udd5aCARBONARA PRO\ud83e\udd5areceta por Alex Frenchguycooking #carbonara #carbogang #spaghetti #espaguetis #pasta #pastacarbonara #receta #recetas #comida #comer #comiendo #cocina #cocinar #cocinando #parati",
+    "labels": [],
+    "entities": [],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83e\udd5a",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "CARBONARA",
+            "start_pos": 1,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "PRO",
+            "start_pos": 11,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\ud83e\udd5a",
+            "start_pos": 14,
+            "end_pos": 15,
+            "labels": []
+        },
+        {
+            "text": "receta",
+            "start_pos": 15,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "por",
+            "start_pos": 22,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "Alex",
+            "start_pos": 26,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "Frenchguycooking",
+            "start_pos": 31,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "carbonara",
+            "start_pos": 49,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 59,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "carbogang",
+            "start_pos": 60,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 70,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "spaghetti",
+            "start_pos": 71,
+            "end_pos": 80,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 81,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "espaguetis",
+            "start_pos": 82,
+            "end_pos": 92,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 93,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "pasta",
+            "start_pos": 94,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 100,
+            "end_pos": 101,
+            "labels": []
+        },
+        {
+            "text": "pastacarbonara",
+            "start_pos": 101,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "receta",
+            "start_pos": 117,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 124,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "recetas",
+            "start_pos": 125,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 133,
+            "end_pos": 134,
+            "labels": []
+        },
+        {
+            "text": "comida",
+            "start_pos": 134,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 141,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "comer",
+            "start_pos": 142,
+            "end_pos": 147,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 148,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "comiendo",
+            "start_pos": 149,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 158,
+            "end_pos": 159,
+            "labels": []
+        },
+        {
+            "text": "cocina",
+            "start_pos": 159,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 166,
+            "end_pos": 167,
+            "labels": []
+        },
+        {
+            "text": "cocinar",
+            "start_pos": 167,
+            "end_pos": 174,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 175,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "cocinando",
+            "start_pos": 176,
+            "end_pos": 185,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 186,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "parati",
+            "start_pos": 187,
+            "end_pos": 193,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

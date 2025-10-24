@@ -1,0 +1,249 @@
+{
+    "text": "Which is your favorite view of Tuscany from 1 to 9? \ud83c\udf43 Swipe left & Save it to have it in your bucket list! \ud83d\udc48 What a @nature paradise, right?  \ud83d\udcf7 @ilhan1077",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Tuscany",
+            "start_pos": 31,
+            "end_pos": 38,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9954348206520081
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Which",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 6,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "favorite",
+            "start_pos": 14,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "view",
+            "start_pos": 23,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 28,
+            "end_pos": 30,
+            "labels": []
+        },
+        {
+            "text": "Tuscany",
+            "start_pos": 31,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 39,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 44,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 46,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "9",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udf43",
+            "start_pos": 52,
+            "end_pos": 53,
+            "labels": []
+        },
+        {
+            "text": "Swipe",
+            "start_pos": 54,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "left",
+            "start_pos": 60,
+            "end_pos": 64,
+            "labels": []
+        },
+        {
+            "text": "&",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "Save",
+            "start_pos": 67,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 72,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 75,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "have",
+            "start_pos": 78,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 83,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 86,
+            "end_pos": 88,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 89,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "bucket",
+            "start_pos": 94,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "list",
+            "start_pos": 101,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 105,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc48",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "What",
+            "start_pos": 109,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "nature",
+            "start_pos": 117,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "paradise",
+            "start_pos": 124,
+            "end_pos": 132,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 132,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "right",
+            "start_pos": 134,
+            "end_pos": 139,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 139,
+            "end_pos": 140,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 142,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 144,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "ilhan1077",
+            "start_pos": 145,
+            "end_pos": 154,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

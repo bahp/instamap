@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Icefields Parkway",
+        "subtitle": "Scenic highway in Alberta, Canada",
+        "lat": 52.3276,
+        "lon": -117.2086,
+        "type": "scenic route",
+        "class": "highway",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 1
+    },
+    {
+        "title": "Cape Breton Island",
+        "subtitle": "Island in Nova Scotia, Canada",
+        "lat": 46.1667,
+        "lon": -60.75,
+        "type": "island",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": 2
+    },
+    {
+        "title": "Jasper National Park",
+        "subtitle": "National park in Alberta, Canada",
+        "lat": 52.5696,
+        "lon": -117.8016,
+        "type": "national park",
+        "class": "leisure",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 3
+    },
+    {
+        "title": "Canadian Rockies",
+        "subtitle": "Mountain range in Western Canada",
+        "lat": 51.5,
+        "lon": -116.0,
+        "type": "mountain range",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 8,
+        "page": 6
+    },
+    {
+        "title": "Alberta",
+        "subtitle": "Province in Western Canada",
+        "lat": 53.9333,
+        "lon": -116.5765,
+        "type": "province",
+        "class": "boundary",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": 8
+    },
+    {
+        "title": "Banff",
+        "subtitle": "Town in Alberta, Canada",
+        "lat": 51.1784,
+        "lon": -115.5708,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 9
+    },
+    {
+        "title": "Canada",
+        "subtitle": "Country in North America",
+        "lat": 56.1304,
+        "lon": -106.3468,
+        "type": "country",
+        "class": "boundary",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Scanno\",\n      \"full_address\": \"Scanno, AQ, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.scanno.it/images/scanno-italy.jpg\"\n    },\n    {\n      \"name\": \"Abruzzo\",\n      \"full_address\": \"Abruzzo, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.abruzzo.it/images/abruzzo-italy.jpg\"\n    },\n    {\n      \"name\": \"Italy\",\n      \"full_address\": \"Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.italy.it/images/italy-europe.jpg\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_2c9a8500da631524",
+    "response_id": "r_b2750aa28defae9b",
+    "factuality_queries": null,
+    "text_query": [
+        "Scanno, Italy",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_936baf2d2a8c7d57",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Scanno\",\n      \"full_address\": \"Scanno, AQ, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.scanno.it/images/scanno-italy.jpg\"\n    },\n    {\n      \"name\": \"Abruzzo\",\n      \"full_address\": \"Abruzzo, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.abruzzo.it/images/abruzzo-italy.jpg\"\n    },\n    {\n      \"name\": \"Italy\",\n      \"full_address\": \"Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.italy.it/images/italy-europe.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_6c9ef169e8522635",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Scanno\",\n      \"full_address\": \"Scanno, L'Aquila, Abruzzo, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.scanno.it/images/scanno-village-abruzzo-italy.jpg\"\n    }\n  ],\n  \"hashtags\": [\n    \"#scanno\",\n    \"#abruzzo\",\n    \"#borghiitaliani\",\n    \"#italiastyle_borghi\",\n    \"#borghipiubelliditalia\",\n    \"#italy\",\n    \"#borghideiborghi\",\n    \"#divine_villages\",\n    \"#italia\",\n    \"#borghiviaggioitaliano\",\n    \"#beautifuldestinations\",\n    \"#livetravelchannel\",\n    \"#wonderful_vacations\",\n    \"#worldmastershotz\",\n    \"#bestvacations\",\n    \"#earthpix\",\n    \"#italy\",\n    \"#bestplacetogo\",\n    \"#travelawesome\",\n    \"#borghi\",\n    \"#discoverearth\",\n    \"#places_wow\",\n    \"#italy_bestplaces\",\n    \"#k\u0131ngs_villages\",\n    \"#theitalybest\",\n    \"#traveladdicted\"\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_0ac6bad1f2d4b57b",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Scanno\",\n      \"full_address\": \"Scanno, L'Aquila, Abruzzo, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.scanno.it/images/scanno-italy.jpg\"\n    },\n    {\n      \"name\": \"Abruzzo\",\n      \"full_address\": \"Abruzzo, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.abruzzo.it/images/abruzzo-italy.jpg\"\n    },\n    {\n      \"name\": \"Italy\",\n      \"full_address\": \"Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.italy.it/images/italy-country-europe.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Scanno\",\n      \"full_address\": \"Scanno, AQ, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.scanno.it/images/scanno-italy.jpg\"\n    },\n    {\n      \"name\": \"Abruzzo\",\n      \"full_address\": \"Abruzzo, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.abruzzo.it/images/abruzzo-italy.jpg\"\n    },\n    {\n      \"name\": \"Italy\",\n      \"full_address\": \"Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.italy.it/images/italy-europe.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

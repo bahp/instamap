@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccd #DiscoverEthiopia ",
+        "start": 214,
+        "end": 234,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " #DiscoverEthiopia "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "Ethiopia",
+        "start": 18,
+        "end": 26,
+        "groupdict": {
+            "name": "Ethiopia",
+            "location": "Ethiopia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccd : Ronda, Spain ",
+        "start": 0,
+        "end": 17,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " : Ronda, Spain "
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddf8",
+        "start": 17,
+        "end": 19,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddf8",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Spain",
+        "start": 11,
+        "end": 16,
+        "groupdict": {
+            "name": "Spain",
+            "location": "Spain"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

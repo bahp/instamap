@@ -1,0 +1,235 @@
+{
+    "text": "\ud83c\uddf2\ud83c\uddf2 #discovermyanmar witth @danielkordan : \"Ancient temples in Myanmar. Collection of my photos from different regions of this interesting country: Mrauk U and Lake Inle.\"",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Myanmar",
+            "start_pos": 62,
+            "end_pos": 69,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9989583492279053
+                }
+            ]
+        },
+        {
+            "text": "Mrauk U",
+            "start_pos": 147,
+            "end_pos": 154,
+            "labels": [
+                {
+                    "value": "ORG",
+                    "confidence": 0.7579869031906128
+                }
+            ]
+        },
+        {
+            "text": "Lake Inle",
+            "start_pos": 159,
+            "end_pos": 168,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8467735052108765
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddf2\ud83c\uddf2",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "discovermyanmar",
+            "start_pos": 4,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "witth",
+            "start_pos": 20,
+            "end_pos": 25,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 26,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "danielkordan",
+            "start_pos": 27,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 40,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 42,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "Ancient",
+            "start_pos": 43,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "temples",
+            "start_pos": 51,
+            "end_pos": 58,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 59,
+            "end_pos": 61,
+            "labels": []
+        },
+        {
+            "text": "Myanmar",
+            "start_pos": 62,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "Collection",
+            "start_pos": 71,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 82,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 85,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 88,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 95,
+            "end_pos": 99,
+            "labels": []
+        },
+        {
+            "text": "different",
+            "start_pos": 100,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "regions",
+            "start_pos": 110,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 118,
+            "end_pos": 120,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 121,
+            "end_pos": 125,
+            "labels": []
+        },
+        {
+            "text": "interesting",
+            "start_pos": 126,
+            "end_pos": 137,
+            "labels": []
+        },
+        {
+            "text": "country",
+            "start_pos": 138,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 145,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "Mrauk",
+            "start_pos": 147,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "U",
+            "start_pos": 153,
+            "end_pos": 154,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 155,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "Lake",
+            "start_pos": 159,
+            "end_pos": 163,
+            "labels": []
+        },
+        {
+            "text": "Inle",
+            "start_pos": 164,
+            "end_pos": 168,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 168,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 169,
+            "end_pos": 170,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

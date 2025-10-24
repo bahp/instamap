@@ -1,0 +1,25 @@
+{
+    "content": "Here is the JSON file you requested:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Merki\",\n      \"full_address\": \"Merki, Kazakhstan\",\n      \"order\": 1\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/0",
+    "conversation_id": "c_c2a10bb1b0790355",
+    "response_id": "r_c792825a4a89249b",
+    "factuality_queries": null,
+    "text_query": "",
+    "choices": [
+        {
+            "id": "rc_9616093c99d06cdf",
+            "content": [
+                "Here is the JSON file you requested:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Merki\",\n      \"full_address\": \"Merki, Kazakhstan\",\n      \"order\": 1\n    }\n  ]\n}\n```\nhttp://googleusercontent.com/map_content/0"
+            ]
+        }
+    ],
+    "links": [
+        "https://maps.google.com/?cid=2159947370104912582",
+        "https://maps.google.com/?cid=2159947370104912582",
+        "http://googleusercontent.com/map_content/0",
+        "https://www.gstatic.com/images/branding/productlogos/maps/v7/192px.svg"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Merki\",\n      \"full_address\": \"Merki, Kazakhstan\",\n      \"order\": 1\n    }\n  ]\n}\n",
+    "status_code": 200
+}

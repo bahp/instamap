@@ -1,0 +1,527 @@
+{
+    "text": "Photo by @andrea_frazzetta / An aerial view of the famous ghost town of Craco, Italy. The town has been chosen as a location for many historical movies. Abandoned in 1963 after a disastrous landslide, this village in the province of Matera, Italy, attracts thousands of tourists every year. To see more photos from my travels, follow me @andrea_frazzetta. #italy #basilicata",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Craco",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9991599321365356
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 79,
+            "end_pos": 84,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998819828033447
+                }
+            ]
+        },
+        {
+            "text": "Matera",
+            "start_pos": 233,
+            "end_pos": 239,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997451901435852
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 241,
+            "end_pos": 246,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998791217803955
+                }
+            ]
+        },
+        {
+            "text": "italy",
+            "start_pos": 357,
+            "end_pos": 362,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9262334108352661
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Photo",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 6,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 9,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "andrea",
+            "start_pos": 10,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "frazzetta",
+            "start_pos": 17,
+            "end_pos": 26,
+            "labels": []
+        },
+        {
+            "text": "/",
+            "start_pos": 27,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "An",
+            "start_pos": 29,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "aerial",
+            "start_pos": 32,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "view",
+            "start_pos": 39,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 44,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 47,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "famous",
+            "start_pos": 51,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "ghost",
+            "start_pos": 58,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "town",
+            "start_pos": 64,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 69,
+            "end_pos": 71,
+            "labels": []
+        },
+        {
+            "text": "Craco",
+            "start_pos": 72,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 77,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 79,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "The",
+            "start_pos": 86,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "town",
+            "start_pos": 90,
+            "end_pos": 94,
+            "labels": []
+        },
+        {
+            "text": "has",
+            "start_pos": 95,
+            "end_pos": 98,
+            "labels": []
+        },
+        {
+            "text": "been",
+            "start_pos": 99,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "chosen",
+            "start_pos": 104,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "as",
+            "start_pos": 111,
+            "end_pos": 113,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 114,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "location",
+            "start_pos": 116,
+            "end_pos": 124,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 125,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "many",
+            "start_pos": 129,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "historical",
+            "start_pos": 134,
+            "end_pos": 144,
+            "labels": []
+        },
+        {
+            "text": "movies",
+            "start_pos": 145,
+            "end_pos": 151,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 151,
+            "end_pos": 152,
+            "labels": []
+        },
+        {
+            "text": "Abandoned",
+            "start_pos": 153,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 163,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "1963",
+            "start_pos": 166,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "after",
+            "start_pos": 171,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 177,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "disastrous",
+            "start_pos": 179,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "landslide",
+            "start_pos": 190,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 199,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 201,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "village",
+            "start_pos": 206,
+            "end_pos": 213,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 214,
+            "end_pos": 216,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 217,
+            "end_pos": 220,
+            "labels": []
+        },
+        {
+            "text": "province",
+            "start_pos": 221,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 230,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "Matera",
+            "start_pos": 233,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 239,
+            "end_pos": 240,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 241,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 246,
+            "end_pos": 247,
+            "labels": []
+        },
+        {
+            "text": "attracts",
+            "start_pos": 248,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "thousands",
+            "start_pos": 257,
+            "end_pos": 266,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 267,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "tourists",
+            "start_pos": 270,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "every",
+            "start_pos": 279,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "year",
+            "start_pos": 285,
+            "end_pos": 289,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 289,
+            "end_pos": 290,
+            "labels": []
+        },
+        {
+            "text": "To",
+            "start_pos": 291,
+            "end_pos": 293,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 294,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "more",
+            "start_pos": 298,
+            "end_pos": 302,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 303,
+            "end_pos": 309,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 310,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 315,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "travels",
+            "start_pos": 318,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "follow",
+            "start_pos": 327,
+            "end_pos": 333,
+            "labels": []
+        },
+        {
+            "text": "me",
+            "start_pos": 334,
+            "end_pos": 336,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 337,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "andrea",
+            "start_pos": 338,
+            "end_pos": 344,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 344,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "frazzetta",
+            "start_pos": 345,
+            "end_pos": 354,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 354,
+            "end_pos": 355,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 356,
+            "end_pos": 357,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 357,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "basilicata",
+            "start_pos": 364,
+            "end_pos": 374,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

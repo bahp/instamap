@@ -1,0 +1,23 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"@stiftstflorian\",\n    \"full_address\": \"Austria\",\n    \"order\": 1\n  }\n]\n```",
+    "conversation_id": "c_639ce65694f18af5",
+    "response_id": "r_b0ec301438b17138",
+    "factuality_queries": null,
+    "text_query": [
+        "\ud83d\udcda I opened this secret door and found the most beautiful library I have ever seen! @stiftstflorian is really a hidden gem!",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_fddd462b80a92340",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"@stiftstflorian\",\n    \"full_address\": \"Austria\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"@stiftstflorian\",\n    \"full_address\": \"Austria\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

@@ -1,0 +1,153 @@
+{
+    "text": "\ud83c\uddf3\ud83c\uddf4 #discovernorway via @mittnorge : \" Tourist cabins in the mountains \u26f0\ud83d\udccdRennd\u00f8lsetra, Innerdalen Photo by @bardlarsen \"",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Rennd\u00f8lsetra",
+            "start_pos": 72,
+            "end_pos": 84,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9492471218109131
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "discovernorway",
+            "start_pos": 4,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "via",
+            "start_pos": 19,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 23,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "mittnorge",
+            "start_pos": 24,
+            "end_pos": 33,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 34,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 36,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": "Tourist",
+            "start_pos": 38,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "cabins",
+            "start_pos": 46,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 53,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 56,
+            "end_pos": 59,
+            "labels": []
+        },
+        {
+            "text": "mountains",
+            "start_pos": 60,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "\u26f0\ud83d\udccd",
+            "start_pos": 70,
+            "end_pos": 72,
+            "labels": []
+        },
+        {
+            "text": "Rennd\u00f8lsetra",
+            "start_pos": 72,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 84,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "Innerdalen",
+            "start_pos": 86,
+            "end_pos": 96,
+            "labels": []
+        },
+        {
+            "text": "Photo",
+            "start_pos": 97,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 103,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 106,
+            "end_pos": 107,
+            "labels": []
+        },
+        {
+            "text": "bardlarsen",
+            "start_pos": 107,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 118,
+            "end_pos": 119,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

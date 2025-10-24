@@ -1,0 +1,32 @@
+[
+    {
+        "title": "London",
+        "subtitle": "Capital city of England, United Kingdom",
+        "lat": 51.5072,
+        "lon": -0.1276,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 1
+    },
+    {
+        "title": "Big Ben",
+        "subtitle": "Iconic clock tower at Houses of Parliament",
+        "lat": 51.5007,
+        "lon": -0.1246,
+        "type": "clock tower",
+        "class": "man_made",
+        "confidence": 1.0,
+        "rank": 2
+    },
+    {
+        "title": "Westminster",
+        "subtitle": "Historic area in London, home to Parliament",
+        "lat": 51.5,
+        "lon": -0.13,
+        "type": "district",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3
+    }
+]

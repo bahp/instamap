@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Candi Sewu\",\n      \"full_address\": \"Candi Sewu, Prambanan, Sleman Regency, Special Region of Yogyakarta, Indonesia\",\n      \"order\": 1,\n      \"image\": \"https://www.candi.co/images/candi-sewu-yogyakarta.jpg\"\n    },\n    {\n      \"name\": \"Prambanan\",\n      \"full_address\": \"Prambanan, Sleman Regency, Special Region of Yogyakarta, Indonesia\",\n      \"order\": 2,\n      \"image\": \"https://www.prambanan.co/images/prambanan-temple-yogyakarta.jpg\"\n    },\n    {\n      \"name\": \"Yogyakarta\",\n      \"full_address\": \"Yogyakarta, Indonesia\",\n      \"order\": 3,\n      \"image\": \"https://www.yogyakarta.co/images/yogyakarta-city-indonesia.jpg\"\n    },\n    {\n      \"name\": \"Indonesia\",\n      \"full_address\": \"Indonesia\",\n      \"order\": 4,\n      \"image\": \"https://www.indonesia.com/images/indonesia-country-southeast-asia.jpg\"\n    },\n    {\n      \"name\": \"Southeast Asia\",\n      \"full_address\": \"Southeast Asia\",\n      \"order\": 5,\n      \"image\": \"https://www.southeastasia.com/images/southeast-asia-region-asia.jpg\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_2c9a8500da631524",
+    "response_id": "r_f37962f1f9fd83da",
+    "factuality_queries": null,
+    "text_query": [
+        "Candi Sewu, Yogyakarta, Indonesia",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_31f4dd8c2faecdc8",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Candi Sewu\",\n      \"full_address\": \"Candi Sewu, Prambanan, Sleman Regency, Special Region of Yogyakarta, Indonesia\",\n      \"order\": 1,\n      \"image\": \"https://www.candi.co/images/candi-sewu-yogyakarta.jpg\"\n    },\n    {\n      \"name\": \"Prambanan\",\n      \"full_address\": \"Prambanan, Sleman Regency, Special Region of Yogyakarta, Indonesia\",\n      \"order\": 2,\n      \"image\": \"https://www.prambanan.co/images/prambanan-temple-yogyakarta.jpg\"\n    },\n    {\n      \"name\": \"Yogyakarta\",\n      \"full_address\": \"Yogyakarta, Indonesia\",\n      \"order\": 3,\n      \"image\": \"https://www.yogyakarta.co/images/yogyakarta-city-indonesia.jpg\"\n    },\n    {\n      \"name\": \"Indonesia\",\n      \"full_address\": \"Indonesia\",\n      \"order\": 4,\n      \"image\": \"https://www.indonesia.com/images/indonesia-country-southeast-asia.jpg\"\n    },\n    {\n      \"name\": \"Southeast Asia\",\n      \"full_address\": \"Southeast Asia\",\n      \"order\": 5,\n      \"image\": \"https://www.southeastasia.com/images/southeast-asia-region-asia.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_a4462ea0e9b551e8",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Candi Sewu\",\n      \"full_address\": \"Candi Sewu, Yogyakarta, Indonesia\",\n      \"order\": 1,\n      \"image\": \"https://www.google.com/url?q=Yogyakarta%20Indonesia%20%20Candi%20Sewu\",\n      \"thumbnail\": \"https://www.google.com/url?q=Yogyakarta%20Indonesia%20Candi%20Sewu\"\n    },\n    {\n      \"name\": \"Yogyakarta\",\n      \"full_address\": \"Yogyakarta, Indonesia\",\n      \"order\": 2\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_02e83a00add1748b",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Candi Sewu\",\n      \"full_address\": \"Candi Sewu, Jl. Raya Candi Sewu, Prambanan, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571, Indonesia\",\n      \"order\": 1,\n      \"image\": \"https://www.flickr.com/photos/15060955757@N07/32321451793_f63561b828_b.jpg\"\n    },\n    {\n      \"name\": \"Prambanan\",\n      \"full_address\": \"Prambanan, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571, Indonesia\",\n      \"order\": 2\n    },\n    {\n      \"name\": \"Yogyakarta\",\n      \"full_address\": \"Yogyakarta, Indonesia\",\n      \"order\": 3\n    },\n    {\n      \"name\": \"Indonesia\",\n      \"full_address\": \"Indonesia\",\n      \"order\": 4\n    },\n    {\n      \"name\": \"Southeast Asia\",\n      \"full_address\": \"Southeast Asia\",\n      \"order\": 5\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Candi Sewu\",\n      \"full_address\": \"Candi Sewu, Prambanan, Sleman Regency, Special Region of Yogyakarta, Indonesia\",\n      \"order\": 1,\n      \"image\": \"https://www.candi.co/images/candi-sewu-yogyakarta.jpg\"\n    },\n    {\n      \"name\": \"Prambanan\",\n      \"full_address\": \"Prambanan, Sleman Regency, Special Region of Yogyakarta, Indonesia\",\n      \"order\": 2,\n      \"image\": \"https://www.prambanan.co/images/prambanan-temple-yogyakarta.jpg\"\n    },\n    {\n      \"name\": \"Yogyakarta\",\n      \"full_address\": \"Yogyakarta, Indonesia\",\n      \"order\": 3,\n      \"image\": \"https://www.yogyakarta.co/images/yogyakarta-city-indonesia.jpg\"\n    },\n    {\n      \"name\": \"Indonesia\",\n      \"full_address\": \"Indonesia\",\n      \"order\": 4,\n      \"image\": \"https://www.indonesia.com/images/indonesia-country-southeast-asia.jpg\"\n    },\n    {\n      \"name\": \"Southeast Asia\",\n      \"full_address\": \"Southeast Asia\",\n      \"order\": 5,\n      \"image\": \"https://www.southeastasia.com/images/southeast-asia-region-asia.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

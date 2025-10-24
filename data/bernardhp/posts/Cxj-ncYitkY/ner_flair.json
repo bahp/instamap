@@ -1,0 +1,789 @@
+{
+    "text": "Which image is your favourite ?? Quale immagine \u00e8 la tua preferita ?? Scegli il tuo scatto preferito tagga un amico e condividi sul tuo story...!! 1- Val di Funes @timphilippus 2- Canale di Tenno @artur.alla 3- Lago di Dobbiaco @font93 4- Rifugio Lago Nambino @arturlandscapes 5- Lago di Carezza @blackmountain__ 6- Le Odle @trekwithartur 7- Tre Cime di Lavaredo @marioshsmith @maufderlauer 8- Val di Fumo @artur.alla 9- Lago di Antermoia @simone.zafrani 10- Lago di Resia @teo_barla_",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Val di Funes",
+            "start_pos": 150,
+            "end_pos": 162,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6490873396396637
+                }
+            ]
+        },
+        {
+            "text": "Canale di Tenno",
+            "start_pos": 180,
+            "end_pos": 195,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9360025525093079
+                }
+            ]
+        },
+        {
+            "text": "Lago di Dobbiaco",
+            "start_pos": 211,
+            "end_pos": 227,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.6018213629722595
+                }
+            ]
+        },
+        {
+            "text": "Rifugio Lago Nambino",
+            "start_pos": 239,
+            "end_pos": 259,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8839448491732279
+                }
+            ]
+        },
+        {
+            "text": "Lago di Carezza",
+            "start_pos": 280,
+            "end_pos": 295,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.7149308721224467
+                }
+            ]
+        },
+        {
+            "text": "Le Odle",
+            "start_pos": 316,
+            "end_pos": 323,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8951663672924042
+                }
+            ]
+        },
+        {
+            "text": "Tre Cime di Lavaredo",
+            "start_pos": 342,
+            "end_pos": 362,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9357104599475861
+                }
+            ]
+        },
+        {
+            "text": "marioshsmith",
+            "start_pos": 364,
+            "end_pos": 376,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.4739188253879547
+                }
+            ]
+        },
+        {
+            "text": "Val di Fumo",
+            "start_pos": 394,
+            "end_pos": 405,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9666659633318583
+                }
+            ]
+        },
+        {
+            "text": "Lago di Antermoia",
+            "start_pos": 421,
+            "end_pos": 438,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8891654809316
+                }
+            ]
+        },
+        {
+            "text": "simone.zafrani",
+            "start_pos": 440,
+            "end_pos": 454,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.898785412311554
+                }
+            ]
+        },
+        {
+            "text": "Lago di Resia",
+            "start_pos": 459,
+            "end_pos": 472,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.9070865710576376
+                }
+            ]
+        },
+        {
+            "text": "barla",
+            "start_pos": 478,
+            "end_pos": 483,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.977462112903595
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Which",
+            "start_pos": 0,
+            "end_pos": 5,
+            "labels": []
+        },
+        {
+            "text": "image",
+            "start_pos": 6,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 12,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 15,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 20,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 31,
+            "end_pos": 32,
+            "labels": []
+        },
+        {
+            "text": "Quale",
+            "start_pos": 33,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "immagine",
+            "start_pos": 39,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "\u00e8",
+            "start_pos": 48,
+            "end_pos": 49,
+            "labels": []
+        },
+        {
+            "text": "la",
+            "start_pos": 50,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "tua",
+            "start_pos": 53,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "preferita",
+            "start_pos": 57,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 68,
+            "end_pos": 69,
+            "labels": []
+        },
+        {
+            "text": "Scegli",
+            "start_pos": 70,
+            "end_pos": 76,
+            "labels": []
+        },
+        {
+            "text": "il",
+            "start_pos": 77,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "tuo",
+            "start_pos": 80,
+            "end_pos": 83,
+            "labels": []
+        },
+        {
+            "text": "scatto",
+            "start_pos": 84,
+            "end_pos": 90,
+            "labels": []
+        },
+        {
+            "text": "preferito",
+            "start_pos": 91,
+            "end_pos": 100,
+            "labels": []
+        },
+        {
+            "text": "tagga",
+            "start_pos": 101,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "un",
+            "start_pos": 107,
+            "end_pos": 109,
+            "labels": []
+        },
+        {
+            "text": "amico",
+            "start_pos": 110,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "e",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "condividi",
+            "start_pos": 118,
+            "end_pos": 127,
+            "labels": []
+        },
+        {
+            "text": "sul",
+            "start_pos": 128,
+            "end_pos": 131,
+            "labels": []
+        },
+        {
+            "text": "tuo",
+            "start_pos": 132,
+            "end_pos": 135,
+            "labels": []
+        },
+        {
+            "text": "story",
+            "start_pos": 136,
+            "end_pos": 141,
+            "labels": []
+        },
+        {
+            "text": "...!",
+            "start_pos": 141,
+            "end_pos": 145,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 145,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "1",
+            "start_pos": 147,
+            "end_pos": 148,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 148,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "Val",
+            "start_pos": 150,
+            "end_pos": 153,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 154,
+            "end_pos": 156,
+            "labels": []
+        },
+        {
+            "text": "Funes",
+            "start_pos": 157,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 163,
+            "end_pos": 164,
+            "labels": []
+        },
+        {
+            "text": "timphilippus",
+            "start_pos": 164,
+            "end_pos": 176,
+            "labels": []
+        },
+        {
+            "text": "2",
+            "start_pos": 177,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 178,
+            "end_pos": 179,
+            "labels": []
+        },
+        {
+            "text": "Canale",
+            "start_pos": 180,
+            "end_pos": 186,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 187,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "Tenno",
+            "start_pos": 190,
+            "end_pos": 195,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 196,
+            "end_pos": 197,
+            "labels": []
+        },
+        {
+            "text": "artur.alla",
+            "start_pos": 197,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "3",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 209,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "Lago",
+            "start_pos": 211,
+            "end_pos": 215,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 216,
+            "end_pos": 218,
+            "labels": []
+        },
+        {
+            "text": "Dobbiaco",
+            "start_pos": 219,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 228,
+            "end_pos": 229,
+            "labels": []
+        },
+        {
+            "text": "font93",
+            "start_pos": 229,
+            "end_pos": 235,
+            "labels": []
+        },
+        {
+            "text": "4",
+            "start_pos": 236,
+            "end_pos": 237,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 237,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": "Rifugio",
+            "start_pos": 239,
+            "end_pos": 246,
+            "labels": []
+        },
+        {
+            "text": "Lago",
+            "start_pos": 247,
+            "end_pos": 251,
+            "labels": []
+        },
+        {
+            "text": "Nambino",
+            "start_pos": 252,
+            "end_pos": 259,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 260,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "arturlandscapes",
+            "start_pos": 261,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "5",
+            "start_pos": 277,
+            "end_pos": 278,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 278,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "Lago",
+            "start_pos": 280,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 285,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "Carezza",
+            "start_pos": 288,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 296,
+            "end_pos": 297,
+            "labels": []
+        },
+        {
+            "text": "blackmountain",
+            "start_pos": 297,
+            "end_pos": 310,
+            "labels": []
+        },
+        {
+            "text": "__",
+            "start_pos": 310,
+            "end_pos": 312,
+            "labels": []
+        },
+        {
+            "text": "6",
+            "start_pos": 313,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 314,
+            "end_pos": 315,
+            "labels": []
+        },
+        {
+            "text": "Le",
+            "start_pos": 316,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "Odle",
+            "start_pos": 319,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "trekwithartur",
+            "start_pos": 325,
+            "end_pos": 338,
+            "labels": []
+        },
+        {
+            "text": "7",
+            "start_pos": 339,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 340,
+            "end_pos": 341,
+            "labels": []
+        },
+        {
+            "text": "Tre",
+            "start_pos": 342,
+            "end_pos": 345,
+            "labels": []
+        },
+        {
+            "text": "Cime",
+            "start_pos": 346,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 351,
+            "end_pos": 353,
+            "labels": []
+        },
+        {
+            "text": "Lavaredo",
+            "start_pos": 354,
+            "end_pos": 362,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 363,
+            "end_pos": 364,
+            "labels": []
+        },
+        {
+            "text": "marioshsmith",
+            "start_pos": 364,
+            "end_pos": 376,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 377,
+            "end_pos": 378,
+            "labels": []
+        },
+        {
+            "text": "maufderlauer",
+            "start_pos": 378,
+            "end_pos": 390,
+            "labels": []
+        },
+        {
+            "text": "8",
+            "start_pos": 391,
+            "end_pos": 392,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 392,
+            "end_pos": 393,
+            "labels": []
+        },
+        {
+            "text": "Val",
+            "start_pos": 394,
+            "end_pos": 397,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 398,
+            "end_pos": 400,
+            "labels": []
+        },
+        {
+            "text": "Fumo",
+            "start_pos": 401,
+            "end_pos": 405,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 406,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "artur.alla",
+            "start_pos": 407,
+            "end_pos": 417,
+            "labels": []
+        },
+        {
+            "text": "9",
+            "start_pos": 418,
+            "end_pos": 419,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 419,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "Lago",
+            "start_pos": 421,
+            "end_pos": 425,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 426,
+            "end_pos": 428,
+            "labels": []
+        },
+        {
+            "text": "Antermoia",
+            "start_pos": 429,
+            "end_pos": 438,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 439,
+            "end_pos": 440,
+            "labels": []
+        },
+        {
+            "text": "simone.zafrani",
+            "start_pos": 440,
+            "end_pos": 454,
+            "labels": []
+        },
+        {
+            "text": "10",
+            "start_pos": 455,
+            "end_pos": 457,
+            "labels": []
+        },
+        {
+            "text": "-",
+            "start_pos": 457,
+            "end_pos": 458,
+            "labels": []
+        },
+        {
+            "text": "Lago",
+            "start_pos": 459,
+            "end_pos": 463,
+            "labels": []
+        },
+        {
+            "text": "di",
+            "start_pos": 464,
+            "end_pos": 466,
+            "labels": []
+        },
+        {
+            "text": "Resia",
+            "start_pos": 467,
+            "end_pos": 472,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 473,
+            "end_pos": 474,
+            "labels": []
+        },
+        {
+            "text": "teo",
+            "start_pos": 474,
+            "end_pos": 477,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 477,
+            "end_pos": 478,
+            "labels": []
+        },
+        {
+            "text": "barla",
+            "start_pos": 478,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 483,
+            "end_pos": 484,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

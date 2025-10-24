@@ -1,0 +1,35 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Tintagel\",\n    \"full_address\": \"Tintagel, Cornwall, England, UK\",\n    \"order\": 1\n  }\n]\n```",
+    "conversation_id": "c_aac8f8b2c48c1e35",
+    "response_id": "r_502e18b95e0a674a",
+    "factuality_queries": null,
+    "text_query": [
+        "No key is required to unlock this breathtaking view!",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_f3162e00d21e8cf6",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Tintagel\",\n    \"full_address\": \"Tintagel, Cornwall, England, UK\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_80dcfd537a2ce589",
+            "content": [
+                "Sure, here is the JSON file extracting the name, full address, and order of the locations from the caption:\n\n```json\n[\n    {\n        \"name\": \"Tintagel\",\n        \"full_address\": \"Tintagel, Cornwall, England, UK\",\n        \"order\": 1\n    }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_61927254f260364f",
+            "content": [
+                "{\"locations\": [\n    {\n        \"name\": \"Tintagel\",\n        \"full_address\": \"Tintagel, Cornwall, England, UK\",\n        \"order\": 2\n    }\n]}"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Tintagel\",\n    \"full_address\": \"Tintagel, Cornwall, England, UK\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}

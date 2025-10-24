@@ -1,0 +1,42 @@
+{
+    "content": "```json\n[\n  {\n    \"name\": \"Royal Palace of Caserta\",\n    \"full_address\": \"Caserta, Italy\",\n    \"order\": 1,\n    \"image_url\": \"https://cdn.pixabay.com/photo/2016/09/02/royal-palace-of-caserta-caserta-italy-1648700_960_720.jpg\"\n  }\n]\n```\n",
+    "conversation_id": "c_aac8f8b2c48c1e35",
+    "response_id": "r_8656c84cbeddb89c",
+    "factuality_queries": null,
+    "text_query": [
+        "Royal Palace of Caserta, Italy",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_1cdb1ba49ca86f47",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Royal Palace of Caserta\",\n    \"full_address\": \"Caserta, Italy\",\n    \"order\": 1,\n    \"image_url\": \"https://cdn.pixabay.com/photo/2016/09/02/royal-palace-of-caserta-caserta-italy-1648700_960_720.jpg\"\n  }\n]\n```\n"
+            ]
+        },
+        {
+            "id": "rc_4ba4ecedd07f0f07",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Royal Palace of Caserta\",\n    \"full_address\": \"Royal Palace of Caserta, Viale Enrico Caruso, 200, 81100 Caserta (CE), Italy\",\n    \"order\": 1,\n    \"image\": \"[Image of Royal Palace of Caserta, Italy]\"\n  }\n]\n```\n\nI apologize for the missing image in the JSON response. I am currently not able to directly embed images in JSON responses. However, I can provide you with the image URL or a description of the image. Please let me know if you would like me to do that."
+            ]
+        },
+        {
+            "id": "rc_6a9b5559f17e67fb",
+            "content": [
+                "```json\n[\n  {\n    \"name\": \"Royal Palace of Caserta\",\n    \"full_address\": \"Viale Enrico Caruso, 27, 81100 Caserta CE, Italy\",\n    \"order\": 1,\n    \"image\": \"https://i.imgur.com/a/v1fN8kR\"\n  }\n]\n```"
+            ]
+        }
+    ],
+    "links": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Reggia_di_Caserta%2C_prospettiva_dalla_fontana_di_Venere_e_Adone_-_panoramio.jpg",
+        "https://en.wikipedia.org/wiki/Royal_Palace_of_Caserta",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVUrEJMO_YMXkPD40nWfMsx8zG8yp2Z1mGzyj0ZLz5AOY3qotd4UDZYmRZeJUY",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Reggia_di_Caserta%2C_prospettiva_dalla_fontana_di_Venere_e_Adone_-_panoramio.jpg",
+        "https://en.wikipedia.org/wiki/Royal_Palace_of_Caserta",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVUrEJMO_YMXkPD40nWfMsx8zG8yp2Z1mGzyj0ZLz5AOY3qotd4UDZYmRZeJUY"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"Royal Palace of Caserta\",\n    \"full_address\": \"Caserta, Italy\",\n    \"order\": 1,\n    \"image_url\": \"https://cdn.pixabay.com/photo/2016/09/02/royal-palace-of-caserta-caserta-italy-1648700_960_720.jpg\"\n  }\n]\n",
+    "status_code": 200
+}

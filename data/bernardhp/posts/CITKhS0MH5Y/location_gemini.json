@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Colosseum",
+        "subtitle": "Ancient amphitheatre in Rome, Italy",
+        "lat": 41.8902,
+        "lon": 12.4922,
+        "type": "amphitheatre",
+        "class": "historic_building",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null
+    },
+    {
+        "title": "Rome",
+        "subtitle": "Capital city of Italy and Lazio region",
+        "lat": 41.9028,
+        "lon": 12.4964,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null
+    },
+    {
+        "title": "Lazio",
+        "subtitle": "Region in central Italy",
+        "lat": 41.7346,
+        "lon": 13.0483,
+        "type": "region",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": null
+    },
+    {
+        "title": "Italy",
+        "subtitle": "Country in Southern Europe",
+        "lat": 42.8333,
+        "lon": 12.8333,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": null
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "text": "\ud83d\udccd#Mardalsfossen, Norway",
+        "start": 111,
+        "end": 134,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "#Mardalsfossen, Norway"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83c\uddf3\ud83c\uddf4",
+        "start": 0,
+        "end": 2,
+        "groupdict": {
+            "flag": "\ud83c\uddf3\ud83c\uddf4",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Norway",
+        "start": 46,
+        "end": 52,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "Norway",
+        "start": 128,
+        "end": 134,
+        "groupdict": {
+            "name": "Norway",
+            "location": "Norway"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

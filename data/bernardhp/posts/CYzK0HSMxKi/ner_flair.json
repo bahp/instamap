@@ -1,0 +1,996 @@
+{
+    "text": "January 14 brought us an insane aurora, the longest and most intense I\u2019ve seen in Stockholm since 2015! I took about 2000 images from downtown and my balcony. Please see the reel for this particular \u2018show\u2019 over Riddarholmen and Gamla Stan. #viewstockholm #sweden_images #loves_united_scandinavia  #igscstockholm  #igs_europe #ig_europe #loves_sweden #bestcitybreaks  #loves_united_europe #topeuropephotos #sweden_photolovers  #igworld_global #loves_united_sweden #worlds_beautiful_photos #stockholm_insta #awesome_phototrip #best_worldplaces  #bestcaptureglobal #best_worldplaces #exceptional_pictures #divine_worldplaces #world_photo_shots #aurora #worldaurora #ig_auroraborealis #auroraborealis #auroraborealisnotifications #astrophotography #umeaaurorahunters #northernlightsphotos #northernlights @sweden",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Stockholm",
+            "start_pos": 82,
+            "end_pos": 91,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997416138648987
+                }
+            ]
+        },
+        {
+            "text": "Riddarholmen",
+            "start_pos": 211,
+            "end_pos": 223,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.36186087131500244
+                }
+            ]
+        },
+        {
+            "text": "Gamla Stan",
+            "start_pos": 228,
+            "end_pos": 238,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.760917067527771
+                }
+            ]
+        },
+        {
+            "text": "sweden",
+            "start_pos": 802,
+            "end_pos": 808,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9794802665710449
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "January",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": "14",
+            "start_pos": 8,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "brought",
+            "start_pos": 11,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "us",
+            "start_pos": 19,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "an",
+            "start_pos": 22,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "insane",
+            "start_pos": 25,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "aurora",
+            "start_pos": 32,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 38,
+            "end_pos": 39,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 40,
+            "end_pos": 43,
+            "labels": []
+        },
+        {
+            "text": "longest",
+            "start_pos": 44,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 52,
+            "end_pos": 55,
+            "labels": []
+        },
+        {
+            "text": "most",
+            "start_pos": 56,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "intense",
+            "start_pos": 61,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "\u2019ve",
+            "start_pos": 70,
+            "end_pos": 73,
+            "labels": []
+        },
+        {
+            "text": "seen",
+            "start_pos": 74,
+            "end_pos": 78,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 79,
+            "end_pos": 81,
+            "labels": []
+        },
+        {
+            "text": "Stockholm",
+            "start_pos": 82,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "since",
+            "start_pos": 92,
+            "end_pos": 97,
+            "labels": []
+        },
+        {
+            "text": "2015",
+            "start_pos": 98,
+            "end_pos": 102,
+            "labels": []
+        },
+        {
+            "text": "!",
+            "start_pos": 102,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 104,
+            "end_pos": 105,
+            "labels": []
+        },
+        {
+            "text": "took",
+            "start_pos": 106,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "about",
+            "start_pos": 111,
+            "end_pos": 116,
+            "labels": []
+        },
+        {
+            "text": "2000",
+            "start_pos": 117,
+            "end_pos": 121,
+            "labels": []
+        },
+        {
+            "text": "images",
+            "start_pos": 122,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 129,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "downtown",
+            "start_pos": 134,
+            "end_pos": 142,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 143,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "my",
+            "start_pos": 147,
+            "end_pos": 149,
+            "labels": []
+        },
+        {
+            "text": "balcony",
+            "start_pos": 150,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 157,
+            "end_pos": 158,
+            "labels": []
+        },
+        {
+            "text": "Please",
+            "start_pos": 159,
+            "end_pos": 165,
+            "labels": []
+        },
+        {
+            "text": "see",
+            "start_pos": 166,
+            "end_pos": 169,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 170,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "reel",
+            "start_pos": 174,
+            "end_pos": 178,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 179,
+            "end_pos": 182,
+            "labels": []
+        },
+        {
+            "text": "this",
+            "start_pos": 183,
+            "end_pos": 187,
+            "labels": []
+        },
+        {
+            "text": "particular",
+            "start_pos": 188,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": "\u2018",
+            "start_pos": 199,
+            "end_pos": 200,
+            "labels": []
+        },
+        {
+            "text": "show\u2019",
+            "start_pos": 200,
+            "end_pos": 205,
+            "labels": []
+        },
+        {
+            "text": "over",
+            "start_pos": 206,
+            "end_pos": 210,
+            "labels": []
+        },
+        {
+            "text": "Riddarholmen",
+            "start_pos": 211,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "and",
+            "start_pos": 224,
+            "end_pos": 227,
+            "labels": []
+        },
+        {
+            "text": "Gamla",
+            "start_pos": 228,
+            "end_pos": 233,
+            "labels": []
+        },
+        {
+            "text": "Stan",
+            "start_pos": 234,
+            "end_pos": 238,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 238,
+            "end_pos": 239,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 240,
+            "end_pos": 241,
+            "labels": []
+        },
+        {
+            "text": "viewstockholm",
+            "start_pos": 241,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 255,
+            "end_pos": 256,
+            "labels": []
+        },
+        {
+            "text": "sweden",
+            "start_pos": 256,
+            "end_pos": 262,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 262,
+            "end_pos": 263,
+            "labels": []
+        },
+        {
+            "text": "images",
+            "start_pos": 263,
+            "end_pos": 269,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 270,
+            "end_pos": 271,
+            "labels": []
+        },
+        {
+            "text": "loves",
+            "start_pos": 271,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 276,
+            "end_pos": 277,
+            "labels": []
+        },
+        {
+            "text": "united",
+            "start_pos": 277,
+            "end_pos": 283,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 283,
+            "end_pos": 284,
+            "labels": []
+        },
+        {
+            "text": "scandinavia",
+            "start_pos": 284,
+            "end_pos": 295,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 297,
+            "end_pos": 298,
+            "labels": []
+        },
+        {
+            "text": "igscstockholm",
+            "start_pos": 298,
+            "end_pos": 311,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 313,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "igs",
+            "start_pos": 314,
+            "end_pos": 317,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 317,
+            "end_pos": 318,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 318,
+            "end_pos": 324,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 325,
+            "end_pos": 326,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 326,
+            "end_pos": 328,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 328,
+            "end_pos": 329,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 329,
+            "end_pos": 335,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 336,
+            "end_pos": 337,
+            "labels": []
+        },
+        {
+            "text": "loves",
+            "start_pos": 337,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 342,
+            "end_pos": 343,
+            "labels": []
+        },
+        {
+            "text": "sweden",
+            "start_pos": 343,
+            "end_pos": 349,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 350,
+            "end_pos": 351,
+            "labels": []
+        },
+        {
+            "text": "bestcitybreaks",
+            "start_pos": 351,
+            "end_pos": 365,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 367,
+            "end_pos": 368,
+            "labels": []
+        },
+        {
+            "text": "loves",
+            "start_pos": 368,
+            "end_pos": 373,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 373,
+            "end_pos": 374,
+            "labels": []
+        },
+        {
+            "text": "united",
+            "start_pos": 374,
+            "end_pos": 380,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 380,
+            "end_pos": 381,
+            "labels": []
+        },
+        {
+            "text": "europe",
+            "start_pos": 381,
+            "end_pos": 387,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 388,
+            "end_pos": 389,
+            "labels": []
+        },
+        {
+            "text": "topeuropephotos",
+            "start_pos": 389,
+            "end_pos": 404,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 405,
+            "end_pos": 406,
+            "labels": []
+        },
+        {
+            "text": "sweden",
+            "start_pos": 406,
+            "end_pos": 412,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 412,
+            "end_pos": 413,
+            "labels": []
+        },
+        {
+            "text": "photolovers",
+            "start_pos": 413,
+            "end_pos": 424,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 426,
+            "end_pos": 427,
+            "labels": []
+        },
+        {
+            "text": "igworld",
+            "start_pos": 427,
+            "end_pos": 434,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 434,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "global",
+            "start_pos": 435,
+            "end_pos": 441,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 442,
+            "end_pos": 443,
+            "labels": []
+        },
+        {
+            "text": "loves",
+            "start_pos": 443,
+            "end_pos": 448,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 448,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "united",
+            "start_pos": 449,
+            "end_pos": 455,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 455,
+            "end_pos": 456,
+            "labels": []
+        },
+        {
+            "text": "sweden",
+            "start_pos": 456,
+            "end_pos": 462,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 463,
+            "end_pos": 464,
+            "labels": []
+        },
+        {
+            "text": "worlds",
+            "start_pos": 464,
+            "end_pos": 470,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 470,
+            "end_pos": 471,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 471,
+            "end_pos": 480,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 480,
+            "end_pos": 481,
+            "labels": []
+        },
+        {
+            "text": "photos",
+            "start_pos": 481,
+            "end_pos": 487,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 488,
+            "end_pos": 489,
+            "labels": []
+        },
+        {
+            "text": "stockholm",
+            "start_pos": 489,
+            "end_pos": 498,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 498,
+            "end_pos": 499,
+            "labels": []
+        },
+        {
+            "text": "insta",
+            "start_pos": 499,
+            "end_pos": 504,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 505,
+            "end_pos": 506,
+            "labels": []
+        },
+        {
+            "text": "awesome",
+            "start_pos": 506,
+            "end_pos": 513,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 513,
+            "end_pos": 514,
+            "labels": []
+        },
+        {
+            "text": "phototrip",
+            "start_pos": 514,
+            "end_pos": 523,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 524,
+            "end_pos": 525,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 525,
+            "end_pos": 529,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 529,
+            "end_pos": 530,
+            "labels": []
+        },
+        {
+            "text": "worldplaces",
+            "start_pos": 530,
+            "end_pos": 541,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 543,
+            "end_pos": 544,
+            "labels": []
+        },
+        {
+            "text": "bestcaptureglobal",
+            "start_pos": 544,
+            "end_pos": 561,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 562,
+            "end_pos": 563,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 563,
+            "end_pos": 567,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 567,
+            "end_pos": 568,
+            "labels": []
+        },
+        {
+            "text": "worldplaces",
+            "start_pos": 568,
+            "end_pos": 579,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 580,
+            "end_pos": 581,
+            "labels": []
+        },
+        {
+            "text": "exceptional",
+            "start_pos": 581,
+            "end_pos": 592,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 592,
+            "end_pos": 593,
+            "labels": []
+        },
+        {
+            "text": "pictures",
+            "start_pos": 593,
+            "end_pos": 601,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 602,
+            "end_pos": 603,
+            "labels": []
+        },
+        {
+            "text": "divine",
+            "start_pos": 603,
+            "end_pos": 609,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 609,
+            "end_pos": 610,
+            "labels": []
+        },
+        {
+            "text": "worldplaces",
+            "start_pos": 610,
+            "end_pos": 621,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 622,
+            "end_pos": 623,
+            "labels": []
+        },
+        {
+            "text": "world",
+            "start_pos": 623,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 628,
+            "end_pos": 629,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 629,
+            "end_pos": 634,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 634,
+            "end_pos": 635,
+            "labels": []
+        },
+        {
+            "text": "shots",
+            "start_pos": 635,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 641,
+            "end_pos": 642,
+            "labels": []
+        },
+        {
+            "text": "aurora",
+            "start_pos": 642,
+            "end_pos": 648,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 649,
+            "end_pos": 650,
+            "labels": []
+        },
+        {
+            "text": "worldaurora",
+            "start_pos": 650,
+            "end_pos": 661,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 662,
+            "end_pos": 663,
+            "labels": []
+        },
+        {
+            "text": "ig",
+            "start_pos": 663,
+            "end_pos": 665,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 665,
+            "end_pos": 666,
+            "labels": []
+        },
+        {
+            "text": "auroraborealis",
+            "start_pos": 666,
+            "end_pos": 680,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 681,
+            "end_pos": 682,
+            "labels": []
+        },
+        {
+            "text": "auroraborealis",
+            "start_pos": 682,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 697,
+            "end_pos": 698,
+            "labels": []
+        },
+        {
+            "text": "auroraborealisnotifications",
+            "start_pos": 698,
+            "end_pos": 725,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 726,
+            "end_pos": 727,
+            "labels": []
+        },
+        {
+            "text": "astrophotography",
+            "start_pos": 727,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 744,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "umeaaurorahunters",
+            "start_pos": 745,
+            "end_pos": 762,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 763,
+            "end_pos": 764,
+            "labels": []
+        },
+        {
+            "text": "northernlightsphotos",
+            "start_pos": 764,
+            "end_pos": 784,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 785,
+            "end_pos": 786,
+            "labels": []
+        },
+        {
+            "text": "northernlights",
+            "start_pos": 786,
+            "end_pos": 800,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 801,
+            "end_pos": 802,
+            "labels": []
+        },
+        {
+            "text": "sweden",
+            "start_pos": 802,
+            "end_pos": 808,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

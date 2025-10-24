@@ -1,0 +1,189 @@
+{
+    "text": "Good day from Greenland \u2744\ud83c\uddec\ud83c\uddf1 \ud83d\udcf8 @kuhrmarvin  Tags:  #greenland #arctic #iceberg #travel #beautifuldestinations #earth #photography #ponant #expedition",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Greenland",
+            "start_pos": 14,
+            "end_pos": 23,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9894717335700989
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Good",
+            "start_pos": 0,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "day",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "from",
+            "start_pos": 9,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "Greenland",
+            "start_pos": 14,
+            "end_pos": 23,
+            "labels": []
+        },
+        {
+            "text": "\u2744\ud83c\uddec\ud83c\uddf1",
+            "start_pos": 24,
+            "end_pos": 27,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 28,
+            "end_pos": 29,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 30,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "kuhrmarvin",
+            "start_pos": 31,
+            "end_pos": 41,
+            "labels": []
+        },
+        {
+            "text": "Tags",
+            "start_pos": 43,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 50,
+            "end_pos": 51,
+            "labels": []
+        },
+        {
+            "text": "greenland",
+            "start_pos": 51,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "arctic",
+            "start_pos": 62,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "iceberg",
+            "start_pos": 70,
+            "end_pos": 77,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 78,
+            "end_pos": 79,
+            "labels": []
+        },
+        {
+            "text": "travel",
+            "start_pos": 79,
+            "end_pos": 85,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 86,
+            "end_pos": 87,
+            "labels": []
+        },
+        {
+            "text": "beautifuldestinations",
+            "start_pos": 87,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 109,
+            "end_pos": 110,
+            "labels": []
+        },
+        {
+            "text": "earth",
+            "start_pos": 110,
+            "end_pos": 115,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 116,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "photography",
+            "start_pos": 117,
+            "end_pos": 128,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 129,
+            "end_pos": 130,
+            "labels": []
+        },
+        {
+            "text": "ponant",
+            "start_pos": 130,
+            "end_pos": 136,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 137,
+            "end_pos": 138,
+            "labels": []
+        },
+        {
+            "text": "expedition",
+            "start_pos": 138,
+            "end_pos": 148,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

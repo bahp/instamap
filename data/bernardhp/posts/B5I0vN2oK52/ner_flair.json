@@ -1,0 +1,206 @@
+{
+    "text": "\ud83d\udccdHavana , Cuba \ud83c\udde8\ud83c\uddfa \u2753Which one is your favourite? 1-2-3-4-5 or 6? \ud83d\udcf7: @eugeniahanganu Follow @citybestviews for the best urban photo\ud83d\udc46",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Havana",
+            "start_pos": 1,
+            "end_pos": 7,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9959885478019714
+                }
+            ]
+        },
+        {
+            "text": "Cuba",
+            "start_pos": 10,
+            "end_pos": 14,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.99992835521698
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "\ud83d\udccd",
+            "start_pos": 0,
+            "end_pos": 1,
+            "labels": []
+        },
+        {
+            "text": "Havana",
+            "start_pos": 1,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "Cuba",
+            "start_pos": 10,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\udde8\ud83c\uddfa",
+            "start_pos": 15,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": "\u2753",
+            "start_pos": 18,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "Which",
+            "start_pos": 19,
+            "end_pos": 24,
+            "labels": []
+        },
+        {
+            "text": "one",
+            "start_pos": 25,
+            "end_pos": 28,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 29,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "your",
+            "start_pos": 32,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "favourite",
+            "start_pos": 37,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "1-2-3-4-5",
+            "start_pos": 48,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "or",
+            "start_pos": 58,
+            "end_pos": 60,
+            "labels": []
+        },
+        {
+            "text": "6",
+            "start_pos": 61,
+            "end_pos": 62,
+            "labels": []
+        },
+        {
+            "text": "?",
+            "start_pos": 62,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf7",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 65,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 67,
+            "end_pos": 68,
+            "labels": []
+        },
+        {
+            "text": "eugeniahanganu",
+            "start_pos": 68,
+            "end_pos": 82,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 83,
+            "end_pos": 89,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 90,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "citybestviews",
+            "start_pos": 91,
+            "end_pos": 104,
+            "labels": []
+        },
+        {
+            "text": "for",
+            "start_pos": 105,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 109,
+            "end_pos": 112,
+            "labels": []
+        },
+        {
+            "text": "best",
+            "start_pos": 113,
+            "end_pos": 117,
+            "labels": []
+        },
+        {
+            "text": "urban",
+            "start_pos": 118,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "photo",
+            "start_pos": 124,
+            "end_pos": 129,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udc46",
+            "start_pos": 129,
+            "end_pos": 130,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

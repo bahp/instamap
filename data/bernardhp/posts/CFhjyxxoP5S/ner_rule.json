@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddf5\ud83c\udded",
+        "start": 71,
+        "end": 73,
+        "groupdict": {
+            "flag": "\ud83c\uddf5\ud83c\udded",
+            "location": "Philippines"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "philippines",
+        "start": 135,
+        "end": 146,
+        "groupdict": {
+            "name": "philippines",
+            "location": "philippines"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

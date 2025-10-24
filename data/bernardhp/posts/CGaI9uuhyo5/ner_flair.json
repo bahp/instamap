@@ -1,0 +1,109 @@
+{
+    "text": "Camogli, Italy  \ud83d\udcf8: @giorgioluperini  #camogli #italy",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Camogli",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7969112396240234
+                }
+            ]
+        },
+        {
+            "text": "Italy",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9997950196266174
+                }
+            ]
+        },
+        {
+            "text": "italy",
+            "start_pos": 47,
+            "end_pos": 52,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9420888423919678
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Camogli",
+            "start_pos": 0,
+            "end_pos": 7,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 7,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "Italy",
+            "start_pos": 9,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 16,
+            "end_pos": 17,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "giorgioluperini",
+            "start_pos": 20,
+            "end_pos": 35,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "camogli",
+            "start_pos": 38,
+            "end_pos": 45,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 46,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "italy",
+            "start_pos": 47,
+            "end_pos": 52,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

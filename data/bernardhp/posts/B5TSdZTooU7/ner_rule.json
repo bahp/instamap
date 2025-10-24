@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udccdlocation\u00a0#pitigliano \ud83d\udcf7Visitate la sua bellissima Galleria \ud83d\udcf7 Visit his/her amazing gallery\ud83d\udd37",
+        "start": 69,
+        "end": 160,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "location\u00a0#pitigliano \ud83d\udcf7Visitate la sua bellissima Galleria \ud83d\udcf7 Visit his/her amazing gallery\ud83d\udd37"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "italy",
+        "start": 551,
+        "end": 556,
+        "groupdict": {
+            "name": "italy",
+            "location": "italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

@@ -1,0 +1,159 @@
+{
+    "text": "If I cry, it\u2019s only a beautiful thing.   Spoken by Andrew Garfield   #andrewgarfield #grief #losingaparent #griefjourney",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Andrew Garfield",
+            "start_pos": 51,
+            "end_pos": 66,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.8088766038417816
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "If",
+            "start_pos": 0,
+            "end_pos": 2,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 3,
+            "end_pos": 4,
+            "labels": []
+        },
+        {
+            "text": "cry",
+            "start_pos": 5,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 8,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "it",
+            "start_pos": 10,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "\u2019s",
+            "start_pos": 12,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "only",
+            "start_pos": 15,
+            "end_pos": 19,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 20,
+            "end_pos": 21,
+            "labels": []
+        },
+        {
+            "text": "beautiful",
+            "start_pos": 22,
+            "end_pos": 31,
+            "labels": []
+        },
+        {
+            "text": "thing",
+            "start_pos": 32,
+            "end_pos": 37,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "Spoken",
+            "start_pos": 41,
+            "end_pos": 47,
+            "labels": []
+        },
+        {
+            "text": "by",
+            "start_pos": 48,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "Andrew",
+            "start_pos": 51,
+            "end_pos": 57,
+            "labels": []
+        },
+        {
+            "text": "Garfield",
+            "start_pos": 58,
+            "end_pos": 66,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 69,
+            "end_pos": 70,
+            "labels": []
+        },
+        {
+            "text": "andrewgarfield",
+            "start_pos": 70,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "grief",
+            "start_pos": 86,
+            "end_pos": 91,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 92,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "losingaparent",
+            "start_pos": 93,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "griefjourney",
+            "start_pos": 108,
+            "end_pos": 120,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

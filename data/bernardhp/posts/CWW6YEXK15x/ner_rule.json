@@ -1,0 +1,39 @@
+[
+    {
+        "text": "1. by @adamhuston ",
+        "start": 49,
+        "end": 67,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "by @adamhuston "
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddea",
+        "start": 19,
+        "end": 21,
+        "groupdict": {
+            "flag": "\ud83c\uddea\ud83c\uddea",
+            "location": "Estonia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Estonia",
+        "start": 22,
+        "end": 29,
+        "groupdict": {
+            "name": "Estonia",
+            "location": "Estonia"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

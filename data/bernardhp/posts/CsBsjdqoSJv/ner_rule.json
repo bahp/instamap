@@ -1,0 +1,25 @@
+[
+    {
+        "text": "\ud83d\udcda I opened this secret door and found the most beautiful library I have ever seen! @stiftstflorian is really a hidden gem!",
+        "start": 0,
+        "end": 122,
+        "groupdict": {
+            "icon": "\ud83d\udcda",
+            "location": " I opened this secret door and found the most beautiful library I have ever seen! @stiftstflorian is really a hidden gem!"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "austria",
+        "start": 133,
+        "end": 140,
+        "groupdict": {
+            "name": "austria",
+            "location": "austria"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

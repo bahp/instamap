@@ -1,0 +1,26 @@
+[
+    {
+        "text": "\ud83c\uddfb\ud83c\udde6",
+        "start": 574,
+        "end": 576,
+        "groupdict": {
+            "flag": "\ud83c\uddfb\ud83c\udde6",
+            "location": "Holy See (Vatican City State)"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "\ud83c\uddee\ud83c\uddf9",
+        "start": 600,
+        "end": 602,
+        "groupdict": {
+            "flag": "\ud83c\uddee\ud83c\uddf9",
+            "location": "Italy"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    }
+]

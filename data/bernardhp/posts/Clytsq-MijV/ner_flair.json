@@ -1,0 +1,62 @@
+{
+    "text": "Norway \ud83c\uddf3\ud83c\uddf4 \ud83d\udcf8 @yuriyshevchenko",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Norway",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9996843338012695
+                }
+            ]
+        },
+        {
+            "text": "yuriyshevchenko",
+            "start_pos": 13,
+            "end_pos": 28,
+            "labels": [
+                {
+                    "value": "PER",
+                    "confidence": 0.998316764831543
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "Norway",
+            "start_pos": 0,
+            "end_pos": 6,
+            "labels": []
+        },
+        {
+            "text": "\ud83c\uddf3\ud83c\uddf4",
+            "start_pos": 7,
+            "end_pos": 9,
+            "labels": []
+        },
+        {
+            "text": "\ud83d\udcf8",
+            "start_pos": 10,
+            "end_pos": 11,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 12,
+            "end_pos": 13,
+            "labels": []
+        },
+        {
+            "text": "yuriyshevchenko",
+            "start_pos": 13,
+            "end_pos": 28,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

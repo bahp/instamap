@@ -1,0 +1,37 @@
+[
+    {
+        "text": "\ud83d\udccc Todo sobre China en nuestro grupo de Facebook: art\u00edculos, v\u00eddeos, fotos y opiniones sobre China: actualidad, cultura, lengua, viajes, curiosidades, empleo",
+        "start": 1002,
+        "end": 1158,
+        "groupdict": {
+            "icon": "\ud83d\udccc",
+            "location": " Todo sobre China en nuestro grupo de Facebook: art\u00edculos, v\u00eddeos, fotos y opiniones sobre China: actualidad, cultura, lengua, viajes, curiosidades, empleo"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "China",
+        "start": 1015,
+        "end": 1020,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    },
+    {
+        "text": "China",
+        "start": 1094,
+        "end": 1099,
+        "groupdict": {
+            "name": "China",
+            "location": "China"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

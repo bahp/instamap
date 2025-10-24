@@ -1,0 +1,24 @@
+[
+    {
+        "text": "\ud83d\udccdBig Ben, London",
+        "start": 0,
+        "end": 16,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": "Big Ben, London"
+        },
+        "method": "rule",
+        "rule": "icon"
+    },
+    {
+        "text": "\ud83d\udccd Tag @londondecanted",
+        "start": 64,
+        "end": 85,
+        "groupdict": {
+            "icon": "\ud83d\udccd",
+            "location": " Tag @londondecanted"
+        },
+        "method": "rule",
+        "rule": "icon"
+    }
+]

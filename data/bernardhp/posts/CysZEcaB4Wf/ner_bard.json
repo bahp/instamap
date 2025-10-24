@@ -1,0 +1,48 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Sant'Agata Feltria\",\n      \"full_address\": \"Sant'Agata Feltria, Rimini, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/santa-agata-feltria-italy\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_780fff67c728f87a",
+    "response_id": "r_6179366b93113307",
+    "factuality_queries": null,
+    "text_query": [
+        "Sant'Agata Feltria",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_d22eaee87d6126d7",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Sant'Agata Feltria\",\n      \"full_address\": \"Sant'Agata Feltria, Rimini, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/santa-agata-feltria-italy\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_8f573b8f759fd25b",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Sant'Agata Feltria\",\n      \"full_address\": \"Sant'Agata Feltria, Rimini, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/photos/sant-agata-feltria-rimini-italy\"\n    }\n  ]\n}\n```\n\n**Image of Sant'Agata Feltria**\n[Image of Sant'Agata Feltria in Rimini, Italy]\n\nThe caption mentions the name of the town, Sant'Agata Feltria, and its country, Italy. The town is located in the Rimini province, Italy. The order of the location is 1, as it is the only location mentioned in the caption."
+            ]
+        },
+        {
+            "id": "rc_a922375eab630a1e",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Sant'Agata Feltria\",\n      \"full_address\": \"Sant'Agata Feltria, Rimini, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/sant-agata-feltria\"\n    }\n  ]\n}\n```\n\n**Image of Sant'Agata Feltria**\n[Image of Sant'Agata Feltria in Rimini, Italy]\n\nThe caption mentions the name of the town, Sant'Agata Feltria, and its country, Italy. The town is located in Rimini, Italy. The order of the location is 1, as it is the first location mentioned in the caption."
+            ]
+        }
+    ],
+    "links": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sant%27Agata_Feltria.jpg/1200px-Sant%27Agata_Feltria.jpg",
+        "https://en.wikipedia.org/wiki/Sant%27Agata_Feltria",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLsfhYW1nbz1SJPyZ50fsruAPT104NXJlVZEligspEGdPzvIAqmElDHamrdi6C",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sant%27Agata_Feltria.jpg/1200px-Sant%27Agata_Feltria.jpg",
+        "https://en.wikipedia.org/wiki/Sant%27Agata_Feltria",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLsfhYW1nbz1SJPyZ50fsruAPT104NXJlVZEligspEGdPzvIAqmElDHamrdi6C",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sant%27Agata_Feltria.jpg/1200px-Sant%27Agata_Feltria.jpg",
+        "https://en.wikipedia.org/wiki/Sant%27Agata_Feltria",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLsfhYW1nbz1SJPyZ50fsruAPT104NXJlVZEligspEGdPzvIAqmElDHamrdi6C",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sant%27Agata_Feltria.jpg/1200px-Sant%27Agata_Feltria.jpg",
+        "https://en.wikipedia.org/wiki/Sant%27Agata_Feltria",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLsfhYW1nbz1SJPyZ50fsruAPT104NXJlVZEligspEGdPzvIAqmElDHamrdi6C"
+    ],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Sant'Agata Feltria\",\n      \"full_address\": \"Sant'Agata Feltria, Rimini, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.gettyimages.com/search/santa-agata-feltria-italy\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

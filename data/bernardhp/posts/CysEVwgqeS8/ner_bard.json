@@ -1,0 +1,35 @@
+{
+    "content": "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kazakhstan\",\n      \"full_address\": \"Kazakhstan\",\n      \"order\": 1,\n      \"image\": \"https://i.imgur.com/f12345.jpg\"\n    }\n  ]\n}\n```\n\nThe caption mentions only \"Kazakhstan\" as the location. The order in which it was found in the text is 1.",
+    "conversation_id": "c_499e93477a3f7099",
+    "response_id": "r_5cfdae6e47fef8e7",
+    "factuality_queries": null,
+    "text_query": [
+        "Kazakhstan",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_02e39eca1f6e57ef",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kazakhstan\",\n      \"full_address\": \"Kazakhstan\",\n      \"order\": 1,\n      \"image\": \"https://i.imgur.com/f12345.jpg\"\n    }\n  ]\n}\n```\n\nThe caption mentions only \"Kazakhstan\" as the location. The order in which it was found in the text is 1."
+            ]
+        },
+        {
+            "id": "rc_bd12ce7619719336",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kazakhstan\",\n      \"full_address\": \"Kazakhstan\",\n      \"image\": \"https://www.cia.gov/library/publications/the-world-factbook/geos/kz.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\nThe caption only mentions one location, which is Kazakhstan. I have extracted the name of the country, the full address (Kazakhstan), and the order in which it was found in the text (1). I have also included an image of Kazakhstan to enhance the content."
+            ]
+        },
+        {
+            "id": "rc_2e804d6431167913",
+            "content": [
+                "```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Kazakhstan\",\n      \"full_address\": \"Kazakhstan\",\n      \"image\": \"https://i.imgur.com/j61q9rG.jpg\",\n      \"order\": 1\n    }\n  ]\n}\n```\n\nThe caption mentions the country Kazakhstan. The full address is simply \"Kazakhstan\".\nThe order in which the location was found in the text is 1."
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Kazakhstan\",\n      \"full_address\": \"Kazakhstan\",\n      \"order\": 1,\n      \"image\": \"https://i.imgur.com/f12345.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

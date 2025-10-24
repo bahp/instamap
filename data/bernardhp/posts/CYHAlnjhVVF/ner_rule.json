@@ -1,0 +1,156 @@
+[
+    {
+        "text": "1. by @magictiron",
+        "start": 56,
+        "end": 73,
+        "groupdict": {
+            "order": "1",
+            "sep": ".",
+            "location": "by @magictiron"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "2. by @stevenvanderhulst",
+        "start": 74,
+        "end": 98,
+        "groupdict": {
+            "order": "2",
+            "sep": ".",
+            "location": "by @stevenvanderhulst"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "3. by @voyageblonde",
+        "start": 99,
+        "end": 118,
+        "groupdict": {
+            "order": "3",
+            "sep": ".",
+            "location": "by @voyageblonde"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "4. by @stevenvanderhulst",
+        "start": 119,
+        "end": 143,
+        "groupdict": {
+            "order": "4",
+            "sep": ".",
+            "location": "by @stevenvanderhulst"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "5. by @magictiron",
+        "start": 144,
+        "end": 161,
+        "groupdict": {
+            "order": "5",
+            "sep": ".",
+            "location": "by @magictiron"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "6. by @voyageblonde",
+        "start": 162,
+        "end": 181,
+        "groupdict": {
+            "order": "6",
+            "sep": ".",
+            "location": "by @voyageblonde"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "7. by @stevenvanderhulst",
+        "start": 182,
+        "end": 206,
+        "groupdict": {
+            "order": "7",
+            "sep": ".",
+            "location": "by @stevenvanderhulst"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "8. by @magictiron",
+        "start": 207,
+        "end": 224,
+        "groupdict": {
+            "order": "8",
+            "sep": ".",
+            "location": "by @magictiron"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "9. by @voyageblonde",
+        "start": 225,
+        "end": 244,
+        "groupdict": {
+            "order": "9",
+            "sep": ".",
+            "location": "by @voyageblonde"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "10. by @stevenvanderhulst",
+        "start": 245,
+        "end": 270,
+        "groupdict": {
+            "order": "10",
+            "sep": ".",
+            "location": "by @stevenvanderhulst"
+        },
+        "method": "rule",
+        "rule": "bullet",
+        "type": "multiline"
+    },
+    {
+        "text": "\ud83c\udde9\ud83c\uddea",
+        "start": 26,
+        "end": 28,
+        "groupdict": {
+            "flag": "\ud83c\udde9\ud83c\uddea",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "flag"
+    },
+    {
+        "text": "Germany",
+        "start": 29,
+        "end": 36,
+        "groupdict": {
+            "name": "Germany",
+            "location": "Germany"
+        },
+        "method": "rule",
+        "rule": "country",
+        "attr": "text"
+    }
+]

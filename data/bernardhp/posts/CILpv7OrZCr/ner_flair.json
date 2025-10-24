@@ -1,0 +1,963 @@
+{
+    "text": "presents P H O T O \u2022 @fatihmorguel \u2022 L O C A T I O N S \u2022 Turkey \u2022 \u2022 Sumela Monastery \u2022 Sumela Monastery is a Greek Orthodox monastery dedicated to the Virgin Mary located at Karada\u011f (Greek: Sou Mel\u00e1, meaning \"Black Mountain\") within the Pontic Mountains, in the Ma\u00e7ka district of Trabzon Province in modern Turkey. \u2022 Follow @archeo.traveler \u2022 Hashtag #ArcheoTravelers \u2022 #archaeology #archeology #archeologia #arqueologia #archeologie #archaeologie #antiquearchaeology #archaeological #ancientbuilding #archaeologicalsite #archeologicalsite #ancientarchitecture #ancientruins #ancient #ancientworld #archaeologylovers #heritage #igworldclub_archaeology #discovery #ancientart #history #visitturkey #turkey #travelturkey #SumelaMonastery #Sumela #Monastery #ancientbuilding",
+    "labels": [],
+    "entities": [
+        {
+            "text": "Turkey",
+            "start_pos": 57,
+            "end_pos": 63,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9974821209907532
+                }
+            ]
+        },
+        {
+            "text": "Sumela Monastery",
+            "start_pos": 68,
+            "end_pos": 84,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9401614964008331
+                }
+            ]
+        },
+        {
+            "text": "Sumela Monastery",
+            "start_pos": 87,
+            "end_pos": 103,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9639589786529541
+                }
+            ]
+        },
+        {
+            "text": "Greek",
+            "start_pos": 109,
+            "end_pos": 114,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.879629909992218
+                }
+            ]
+        },
+        {
+            "text": "Virgin Mary",
+            "start_pos": 151,
+            "end_pos": 162,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9190627038478851
+                }
+            ]
+        },
+        {
+            "text": "Karada\u011f",
+            "start_pos": 174,
+            "end_pos": 181,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9363277554512024
+                }
+            ]
+        },
+        {
+            "text": "Greek",
+            "start_pos": 183,
+            "end_pos": 188,
+            "labels": [
+                {
+                    "value": "MISC",
+                    "confidence": 0.9790270328521729
+                }
+            ]
+        },
+        {
+            "text": "Sou Mel\u00e1",
+            "start_pos": 190,
+            "end_pos": 198,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9084942042827606
+                }
+            ]
+        },
+        {
+            "text": "Black Mountain",
+            "start_pos": 209,
+            "end_pos": 223,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.6415566802024841
+                }
+            ]
+        },
+        {
+            "text": "Pontic Mountains",
+            "start_pos": 237,
+            "end_pos": 253,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9848110973834991
+                }
+            ]
+        },
+        {
+            "text": "Ma\u00e7ka",
+            "start_pos": 262,
+            "end_pos": 267,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.7209276556968689
+                }
+            ]
+        },
+        {
+            "text": "Trabzon Province",
+            "start_pos": 280,
+            "end_pos": 296,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.8888807892799377
+                }
+            ]
+        },
+        {
+            "text": "Turkey",
+            "start_pos": 307,
+            "end_pos": 313,
+            "labels": [
+                {
+                    "value": "LOC",
+                    "confidence": 0.9998083710670471
+                }
+            ]
+        }
+    ],
+    "relations": [],
+    "tokens": [
+        {
+            "text": "presents",
+            "start_pos": 0,
+            "end_pos": 8,
+            "labels": []
+        },
+        {
+            "text": "P",
+            "start_pos": 9,
+            "end_pos": 10,
+            "labels": []
+        },
+        {
+            "text": "H",
+            "start_pos": 11,
+            "end_pos": 12,
+            "labels": []
+        },
+        {
+            "text": "O",
+            "start_pos": 13,
+            "end_pos": 14,
+            "labels": []
+        },
+        {
+            "text": "T",
+            "start_pos": 15,
+            "end_pos": 16,
+            "labels": []
+        },
+        {
+            "text": "O",
+            "start_pos": 17,
+            "end_pos": 18,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 19,
+            "end_pos": 20,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 21,
+            "end_pos": 22,
+            "labels": []
+        },
+        {
+            "text": "fatihmorguel",
+            "start_pos": 22,
+            "end_pos": 34,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 35,
+            "end_pos": 36,
+            "labels": []
+        },
+        {
+            "text": "L",
+            "start_pos": 37,
+            "end_pos": 38,
+            "labels": []
+        },
+        {
+            "text": "O",
+            "start_pos": 39,
+            "end_pos": 40,
+            "labels": []
+        },
+        {
+            "text": "C",
+            "start_pos": 41,
+            "end_pos": 42,
+            "labels": []
+        },
+        {
+            "text": "A",
+            "start_pos": 43,
+            "end_pos": 44,
+            "labels": []
+        },
+        {
+            "text": "T",
+            "start_pos": 45,
+            "end_pos": 46,
+            "labels": []
+        },
+        {
+            "text": "I",
+            "start_pos": 47,
+            "end_pos": 48,
+            "labels": []
+        },
+        {
+            "text": "O",
+            "start_pos": 49,
+            "end_pos": 50,
+            "labels": []
+        },
+        {
+            "text": "N",
+            "start_pos": 51,
+            "end_pos": 52,
+            "labels": []
+        },
+        {
+            "text": "S",
+            "start_pos": 53,
+            "end_pos": 54,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 55,
+            "end_pos": 56,
+            "labels": []
+        },
+        {
+            "text": "Turkey",
+            "start_pos": 57,
+            "end_pos": 63,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 64,
+            "end_pos": 65,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 66,
+            "end_pos": 67,
+            "labels": []
+        },
+        {
+            "text": "Sumela",
+            "start_pos": 68,
+            "end_pos": 74,
+            "labels": []
+        },
+        {
+            "text": "Monastery",
+            "start_pos": 75,
+            "end_pos": 84,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 85,
+            "end_pos": 86,
+            "labels": []
+        },
+        {
+            "text": "Sumela",
+            "start_pos": 87,
+            "end_pos": 93,
+            "labels": []
+        },
+        {
+            "text": "Monastery",
+            "start_pos": 94,
+            "end_pos": 103,
+            "labels": []
+        },
+        {
+            "text": "is",
+            "start_pos": 104,
+            "end_pos": 106,
+            "labels": []
+        },
+        {
+            "text": "a",
+            "start_pos": 107,
+            "end_pos": 108,
+            "labels": []
+        },
+        {
+            "text": "Greek",
+            "start_pos": 109,
+            "end_pos": 114,
+            "labels": []
+        },
+        {
+            "text": "Orthodox",
+            "start_pos": 115,
+            "end_pos": 123,
+            "labels": []
+        },
+        {
+            "text": "monastery",
+            "start_pos": 124,
+            "end_pos": 133,
+            "labels": []
+        },
+        {
+            "text": "dedicated",
+            "start_pos": 134,
+            "end_pos": 143,
+            "labels": []
+        },
+        {
+            "text": "to",
+            "start_pos": 144,
+            "end_pos": 146,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 147,
+            "end_pos": 150,
+            "labels": []
+        },
+        {
+            "text": "Virgin",
+            "start_pos": 151,
+            "end_pos": 157,
+            "labels": []
+        },
+        {
+            "text": "Mary",
+            "start_pos": 158,
+            "end_pos": 162,
+            "labels": []
+        },
+        {
+            "text": "located",
+            "start_pos": 163,
+            "end_pos": 170,
+            "labels": []
+        },
+        {
+            "text": "at",
+            "start_pos": 171,
+            "end_pos": 173,
+            "labels": []
+        },
+        {
+            "text": "Karada\u011f",
+            "start_pos": 174,
+            "end_pos": 181,
+            "labels": []
+        },
+        {
+            "text": "(",
+            "start_pos": 182,
+            "end_pos": 183,
+            "labels": []
+        },
+        {
+            "text": "Greek",
+            "start_pos": 183,
+            "end_pos": 188,
+            "labels": []
+        },
+        {
+            "text": ":",
+            "start_pos": 188,
+            "end_pos": 189,
+            "labels": []
+        },
+        {
+            "text": "Sou",
+            "start_pos": 190,
+            "end_pos": 193,
+            "labels": []
+        },
+        {
+            "text": "Mel\u00e1",
+            "start_pos": 194,
+            "end_pos": 198,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 198,
+            "end_pos": 199,
+            "labels": []
+        },
+        {
+            "text": "meaning",
+            "start_pos": 200,
+            "end_pos": 207,
+            "labels": []
+        },
+        {
+            "text": "\"",
+            "start_pos": 208,
+            "end_pos": 209,
+            "labels": []
+        },
+        {
+            "text": "Black",
+            "start_pos": 209,
+            "end_pos": 214,
+            "labels": []
+        },
+        {
+            "text": "Mountain",
+            "start_pos": 215,
+            "end_pos": 223,
+            "labels": []
+        },
+        {
+            "text": "\")",
+            "start_pos": 223,
+            "end_pos": 225,
+            "labels": []
+        },
+        {
+            "text": "within",
+            "start_pos": 226,
+            "end_pos": 232,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 233,
+            "end_pos": 236,
+            "labels": []
+        },
+        {
+            "text": "Pontic",
+            "start_pos": 237,
+            "end_pos": 243,
+            "labels": []
+        },
+        {
+            "text": "Mountains",
+            "start_pos": 244,
+            "end_pos": 253,
+            "labels": []
+        },
+        {
+            "text": ",",
+            "start_pos": 253,
+            "end_pos": 254,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 255,
+            "end_pos": 257,
+            "labels": []
+        },
+        {
+            "text": "the",
+            "start_pos": 258,
+            "end_pos": 261,
+            "labels": []
+        },
+        {
+            "text": "Ma\u00e7ka",
+            "start_pos": 262,
+            "end_pos": 267,
+            "labels": []
+        },
+        {
+            "text": "district",
+            "start_pos": 268,
+            "end_pos": 276,
+            "labels": []
+        },
+        {
+            "text": "of",
+            "start_pos": 277,
+            "end_pos": 279,
+            "labels": []
+        },
+        {
+            "text": "Trabzon",
+            "start_pos": 280,
+            "end_pos": 287,
+            "labels": []
+        },
+        {
+            "text": "Province",
+            "start_pos": 288,
+            "end_pos": 296,
+            "labels": []
+        },
+        {
+            "text": "in",
+            "start_pos": 297,
+            "end_pos": 299,
+            "labels": []
+        },
+        {
+            "text": "modern",
+            "start_pos": 300,
+            "end_pos": 306,
+            "labels": []
+        },
+        {
+            "text": "Turkey",
+            "start_pos": 307,
+            "end_pos": 313,
+            "labels": []
+        },
+        {
+            "text": ".",
+            "start_pos": 313,
+            "end_pos": 314,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 315,
+            "end_pos": 316,
+            "labels": []
+        },
+        {
+            "text": "Follow",
+            "start_pos": 317,
+            "end_pos": 323,
+            "labels": []
+        },
+        {
+            "text": "@",
+            "start_pos": 324,
+            "end_pos": 325,
+            "labels": []
+        },
+        {
+            "text": "archeo.traveler",
+            "start_pos": 325,
+            "end_pos": 340,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 341,
+            "end_pos": 342,
+            "labels": []
+        },
+        {
+            "text": "Hashtag",
+            "start_pos": 343,
+            "end_pos": 350,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 351,
+            "end_pos": 352,
+            "labels": []
+        },
+        {
+            "text": "ArcheoTravelers",
+            "start_pos": 352,
+            "end_pos": 367,
+            "labels": []
+        },
+        {
+            "text": "\u2022",
+            "start_pos": 368,
+            "end_pos": 369,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 370,
+            "end_pos": 371,
+            "labels": []
+        },
+        {
+            "text": "archaeology",
+            "start_pos": 371,
+            "end_pos": 382,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 383,
+            "end_pos": 384,
+            "labels": []
+        },
+        {
+            "text": "archeology",
+            "start_pos": 384,
+            "end_pos": 394,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 395,
+            "end_pos": 396,
+            "labels": []
+        },
+        {
+            "text": "archeologia",
+            "start_pos": 396,
+            "end_pos": 407,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 408,
+            "end_pos": 409,
+            "labels": []
+        },
+        {
+            "text": "arqueologia",
+            "start_pos": 409,
+            "end_pos": 420,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 421,
+            "end_pos": 422,
+            "labels": []
+        },
+        {
+            "text": "archeologie",
+            "start_pos": 422,
+            "end_pos": 433,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 434,
+            "end_pos": 435,
+            "labels": []
+        },
+        {
+            "text": "archaeologie",
+            "start_pos": 435,
+            "end_pos": 447,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 448,
+            "end_pos": 449,
+            "labels": []
+        },
+        {
+            "text": "antiquearchaeology",
+            "start_pos": 449,
+            "end_pos": 467,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 468,
+            "end_pos": 469,
+            "labels": []
+        },
+        {
+            "text": "archaeological",
+            "start_pos": 469,
+            "end_pos": 483,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 484,
+            "end_pos": 485,
+            "labels": []
+        },
+        {
+            "text": "ancientbuilding",
+            "start_pos": 485,
+            "end_pos": 500,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 501,
+            "end_pos": 502,
+            "labels": []
+        },
+        {
+            "text": "archaeologicalsite",
+            "start_pos": 502,
+            "end_pos": 520,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 521,
+            "end_pos": 522,
+            "labels": []
+        },
+        {
+            "text": "archeologicalsite",
+            "start_pos": 522,
+            "end_pos": 539,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 540,
+            "end_pos": 541,
+            "labels": []
+        },
+        {
+            "text": "ancientarchitecture",
+            "start_pos": 541,
+            "end_pos": 560,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 561,
+            "end_pos": 562,
+            "labels": []
+        },
+        {
+            "text": "ancientruins",
+            "start_pos": 562,
+            "end_pos": 574,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 575,
+            "end_pos": 576,
+            "labels": []
+        },
+        {
+            "text": "ancient",
+            "start_pos": 576,
+            "end_pos": 583,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 584,
+            "end_pos": 585,
+            "labels": []
+        },
+        {
+            "text": "ancientworld",
+            "start_pos": 585,
+            "end_pos": 597,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 598,
+            "end_pos": 599,
+            "labels": []
+        },
+        {
+            "text": "archaeologylovers",
+            "start_pos": 599,
+            "end_pos": 616,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 617,
+            "end_pos": 618,
+            "labels": []
+        },
+        {
+            "text": "heritage",
+            "start_pos": 618,
+            "end_pos": 626,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 627,
+            "end_pos": 628,
+            "labels": []
+        },
+        {
+            "text": "igworldclub",
+            "start_pos": 628,
+            "end_pos": 639,
+            "labels": []
+        },
+        {
+            "text": "_",
+            "start_pos": 639,
+            "end_pos": 640,
+            "labels": []
+        },
+        {
+            "text": "archaeology",
+            "start_pos": 640,
+            "end_pos": 651,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 652,
+            "end_pos": 653,
+            "labels": []
+        },
+        {
+            "text": "discovery",
+            "start_pos": 653,
+            "end_pos": 662,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 663,
+            "end_pos": 664,
+            "labels": []
+        },
+        {
+            "text": "ancientart",
+            "start_pos": 664,
+            "end_pos": 674,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 675,
+            "end_pos": 676,
+            "labels": []
+        },
+        {
+            "text": "history",
+            "start_pos": 676,
+            "end_pos": 683,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 684,
+            "end_pos": 685,
+            "labels": []
+        },
+        {
+            "text": "visitturkey",
+            "start_pos": 685,
+            "end_pos": 696,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 697,
+            "end_pos": 698,
+            "labels": []
+        },
+        {
+            "text": "turkey",
+            "start_pos": 698,
+            "end_pos": 704,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 705,
+            "end_pos": 706,
+            "labels": []
+        },
+        {
+            "text": "travelturkey",
+            "start_pos": 706,
+            "end_pos": 718,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 719,
+            "end_pos": 720,
+            "labels": []
+        },
+        {
+            "text": "SumelaMonastery",
+            "start_pos": 720,
+            "end_pos": 735,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 736,
+            "end_pos": 737,
+            "labels": []
+        },
+        {
+            "text": "Sumela",
+            "start_pos": 737,
+            "end_pos": 743,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 744,
+            "end_pos": 745,
+            "labels": []
+        },
+        {
+            "text": "Monastery",
+            "start_pos": 745,
+            "end_pos": 754,
+            "labels": []
+        },
+        {
+            "text": "#",
+            "start_pos": 755,
+            "end_pos": 756,
+            "labels": []
+        },
+        {
+            "text": "ancientbuilding",
+            "start_pos": 756,
+            "end_pos": 771,
+            "labels": []
+        }
+    ],
+    "method": "flair"
+}

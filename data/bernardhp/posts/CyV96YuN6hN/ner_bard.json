@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Baita Segantini\",\n      \"full_address\": \"Baita Segantini, Passo Rolle, San Martino di Castrozza, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.baitasegantini.it/images/baitasegantini.jpg\"\n    },\n    {\n      \"name\": \"Passo Rolle\",\n      \"full_address\": \"Passo Rolle, San Martino di Castrozza, Trentino-Alto Adige, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passorolle.it/images/passorolle.jpg\"\n    },\n    {\n      \"name\": \"Pale di San Martino\",\n      \"full_address\": \"Pale di San Martino, Trentino-Alto Adige, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.paledisanmartino.it/images/paledisanmartino.jpg\"\n    },\n    {\n      \"name\": \"Trentino-Alto Adige\",\n      \"full_address\": \"Trentino-Alto Adige, Italy\",\n      \"order\": 4,\n      \"image\": \"https://www.trentino-altoadige.it/images/trentino-altoadige.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 5,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    }\n  ]\n}\n```",
+    "conversation_id": "c_2c9a8500da631524",
+    "response_id": "r_9678e03d8ec0b120",
+    "factuality_queries": null,
+    "text_query": [
+        "Baita Segantini, Passo Rolle, paledisanmartino, trentino, dolomiti",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_c32c8912523ff470",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Baita Segantini\",\n      \"full_address\": \"Baita Segantini, Passo Rolle, San Martino di Castrozza, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.baitasegantini.it/images/baitasegantini.jpg\"\n    },\n    {\n      \"name\": \"Passo Rolle\",\n      \"full_address\": \"Passo Rolle, San Martino di Castrozza, Trentino-Alto Adige, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passorolle.it/images/passorolle.jpg\"\n    },\n    {\n      \"name\": \"Pale di San Martino\",\n      \"full_address\": \"Pale di San Martino, Trentino-Alto Adige, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.paledisanmartino.it/images/paledisanmartino.jpg\"\n    },\n    {\n      \"name\": \"Trentino-Alto Adige\",\n      \"full_address\": \"Trentino-Alto Adige, Italy\",\n      \"order\": 4,\n      \"image\": \"https://www.trentino-altoadige.it/images/trentino-altoadige.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 5,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_0f72a922ca0d5b73",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Baita Segantini\",\n      \"full_address\": \"Baita Segantini, Passo Rolle, Trentino, Italy\",\n      \"order\": 1,\n      \"image\": \"https://i.imgur.com/jQvJ837.jpg\"\n    },\n    {\n      \"name\": \"Passo Rolle\",\n      \"full_address\": \"Passo Rolle, Trentino, Italy\",\n      \"order\": 2,\n      \"image\": \"https://i.imgur.com/jsQ7k0C.jpg\"\n    },\n    {\n      \"name\": \"Pale di San Martino\",\n      \"full_address\": \"Pale di San Martino, Trentino, Italy\",\n      \"order\": 3,\n      \"image\": \"https://i.imgur.com/jZ7f43R.jpg\"\n    },\n    {\n      \"name\": \"Trentino\",\n      \"full_address\": \"Trentino, Italy\",\n      \"order\": 4,\n      \"image\": \"https://i.imgur.com/j1zJ415.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 5,\n      \"image\": \"https://i.imgur.com/jU4v5q4.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        },
+        {
+            "id": "rc_77c5d869c887fe7a",
+            "content": [
+                "Sure, here is the JSON file:\n\n```json\n{\n  \"locations\": [\n    {\n      \"name\": \"Baita Segantini\",\n      \"full_address\": \"Baita Segantini, Passo Rolle, Trentino, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.baitasegantini.it/images/baitasegantini-autumn.jpg\"\n    },\n    {\n      \"name\": \"Passo Rolle\",\n      \"full_address\": \"Passo Rolle, Trentino, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passorolle.it/images/passorolle-autumn.jpg\"\n    },\n    {\n      \"name\": \"Pale di San Martino\",\n      \"full_address\": \"Pale di San Martino, Trentino, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.paledisanmartino.it/images/paledisanmartino-autumn.jpg\"\n    },\n    {\n      \"name\": \"Trentino\",\n      \"full_address\": \"Trentino, Italy\",\n      \"order\": 4,\n      \"image\": \"https://www.trentino.it/images/trentino-autumn.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 5,\n      \"image\": \"https://www.dolomites.it/images/dolomites-autumn.jpg\"\n    }\n  ]\n}\n```"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n{\n  \"locations\": [\n    {\n      \"name\": \"Baita Segantini\",\n      \"full_address\": \"Baita Segantini, Passo Rolle, San Martino di Castrozza, Trentino-Alto Adige, Italy\",\n      \"order\": 1,\n      \"image\": \"https://www.baitasegantini.it/images/baitasegantini.jpg\"\n    },\n    {\n      \"name\": \"Passo Rolle\",\n      \"full_address\": \"Passo Rolle, San Martino di Castrozza, Trentino-Alto Adige, Italy\",\n      \"order\": 2,\n      \"image\": \"https://www.passorolle.it/images/passorolle.jpg\"\n    },\n    {\n      \"name\": \"Pale di San Martino\",\n      \"full_address\": \"Pale di San Martino, Trentino-Alto Adige, Italy\",\n      \"order\": 3,\n      \"image\": \"https://www.paledisanmartino.it/images/paledisanmartino.jpg\"\n    },\n    {\n      \"name\": \"Trentino-Alto Adige\",\n      \"full_address\": \"Trentino-Alto Adige, Italy\",\n      \"order\": 4,\n      \"image\": \"https://www.trentino-altoadige.it/images/trentino-altoadige.jpg\"\n    },\n    {\n      \"name\": \"Dolomites\",\n      \"full_address\": \"Dolomites, Italy\",\n      \"order\": 5,\n      \"image\": \"https://www.dolomites.it/images/dolomites.jpg\"\n    }\n  ]\n}\n",
+    "status_code": 200
+}

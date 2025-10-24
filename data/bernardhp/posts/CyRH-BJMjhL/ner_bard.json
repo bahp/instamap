@@ -1,0 +1,35 @@
+{
+    "content": "Sure, here is the JSON file extracting for each of the locations in the following caption, \"Who's looking forward to the snowy winter days in New York City? \u2603\ufe0f\u26f8\ufe0f\u2728\ud83c\udf28\ufe0f Photos by @marzenka_. Tag your best travel photos with #travellingthroughtheworld\", the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"New York City\",\n    \"full_address\": \"New York, NY, USA\",\n    \"image\": \"https://www.nycgo.com/images/cms/global/general-photos/2017/winter/wintertime-view-of-the-statue-of-liberty-new-york-city_1024x768.jpg\",\n    \"order\": 1\n  }\n]\n```",
+    "conversation_id": "c_06a8570cace66980",
+    "response_id": "r_9e048129a8858b2a",
+    "factuality_queries": null,
+    "text_query": [
+        "New York City",
+        1
+    ],
+    "choices": [
+        {
+            "id": "rc_9dabaad0627bd28e",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption, \"Who's looking forward to the snowy winter days in New York City? \u2603\ufe0f\u26f8\ufe0f\u2728\ud83c\udf28\ufe0f Photos by @marzenka_. Tag your best travel photos with #travellingthroughtheworld\", the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"New York City\",\n    \"full_address\": \"New York, NY, USA\",\n    \"image\": \"https://www.nycgo.com/images/cms/global/general-photos/2017/winter/wintertime-view-of-the-statue-of-liberty-new-york-city_1024x768.jpg\",\n    \"order\": 1\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_d1f87d3af0c7e246",
+            "content": [
+                "Sure, here is a JSON file containing all the locations mentioned in the provided caption:\n\n```json\n[\n  {\n    \"name\": \"New York City\",\n    \"full_address\": \"New York, NY, USA\",\n    \"image\": \"https://www.tripsavvy.com/thmb/best-things-to-do-in-new-york-city-at-night-usa-4506992-vi184131-419415-w1024-h768-fit-crop.jpg\"\n  }\n]\n```"
+            ]
+        },
+        {
+            "id": "rc_71ff240a80249b58",
+            "content": [
+                "Sure, here is the JSON file extracting for each of the locations in the following caption the name (name), the full address (full_address), and the order (order) in which it was found in the text:\n\n```json\n[\n  {\n    \"name\": \"New York City\",\n    \"full_address\": \"New York, NY, USA\",\n    \"image\": \"https://www.nycgo.com/image/ny/45428/750/500/1/new-york-city-winter-skyline.jpg\",\n    \"order\": 1\n  }\n]\n```\n\nI hope this is helpful!"
+            ]
+        }
+    ],
+    "links": [],
+    "images": [],
+    "program_lang": "json",
+    "code": "\n[\n  {\n    \"name\": \"New York City\",\n    \"full_address\": \"New York, NY, USA\",\n    \"image\": \"https://www.nycgo.com/images/cms/global/general-photos/2017/winter/wintertime-view-of-the-statue-of-liberty-new-york-city_1024x768.jpg\",\n    \"order\": 1\n  }\n]\n",
+    "status_code": 200
+}
