@@ -16913,5 +16913,77 @@ var data = [
         "rank": 1,
         "page": null,
         "shortcode": "Cec_L-xMfNF"
+    },
+    {
+        "title": "Certosa di San Lorenzo",
+        "subtitle": "Historic monastery in Padula, Italy",
+        "lat": 40.3805,
+        "lon": 15.6558,
+        "type": "monastery",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": null,
+        "shortcode": "Ceg6A9XLvWL"
+    },
+    {
+        "title": "Dolomites",
+        "subtitle": "Mountain range in northeastern Italy",
+        "lat": 46.4907157,
+        "lon": 11.8398436,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 8,
+        "page": 1,
+        "shortcode": "CelUnSFIu0I"
+    },
+    {
+        "title": "Abbazia di San Galgano",
+        "subtitle": "Ruined medieval Cistercian abbey without a roof in Tuscany",
+        "lat": 43.1491,
+        "lon": 11.1558,
+        "type": "abbey",
+        "class": "historic",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CeoCpzgqkRM"
+    },
+    {
+        "title": "Rifugio all'Alpe di Tires",
+        "subtitle": "Mountain hut between Catinaccio and Alpe di Siusi",
+        "lat": 46.509825,
+        "lon": 11.583321,
+        "type": "mountain_hut",
+        "class": "tourism",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "Cep-0froQ7U"
+    },
+    {
+        "title": "Giau Pass",
+        "subtitle": "High mountain pass in the Dolomites, Italy",
+        "lat": 46.48,
+        "lon": 12.036,
+        "type": "mountain pass",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "Ceqed7IsGQW"
+    },
+    {
+        "title": "Lago di Carezza",
+        "subtitle": "Alpine lake in the Dolomites, South Tyrol, Italy",
+        "lat": 46.40833,
+        "lon": 11.57917,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "Cer3je3sliP"
     }
 ];
