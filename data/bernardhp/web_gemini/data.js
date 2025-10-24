@@ -17705,5 +17705,77 @@ var data = [
         "rank": 1,
         "page": null,
         "shortcode": "CjA1gm4qXhj"
+    },
+    {
+        "title": "Koh Phi Phi Leh Lagoon",
+        "subtitle": "Stunning lagoon on Phi Phi Leh island, Thailand",
+        "lat": 7.6766,
+        "lon": 98.7628,
+        "type": "lagoon",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "CjDAy9cK3B6"
+    },
+    {
+        "title": "Bali",
+        "subtitle": "Indonesian island and province",
+        "lat": -8.4095176,
+        "lon": 115.188916,
+        "type": "province",
+        "class": "boundary",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": null,
+        "shortcode": "CjDXWU9JvYU"
+    },
+    {
+        "title": "Koh Lipe Island",
+        "subtitle": "Tropical island in Satun Province, Thailand",
+        "lat": 6.4883,
+        "lon": 99.3,
+        "type": "island",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "CjJ8wNmJtry"
+    },
+    {
+        "title": "Varenna",
+        "subtitle": "Picturesque town on Lake Como, Italy",
+        "lat": 45.9936082,
+        "lon": 9.2847049,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": null,
+        "shortcode": "CjU_yJqj-FU"
+    },
+    {
+        "title": "Journey Coffee",
+        "subtitle": "A coffee shop in Chiang Rai, Thailand",
+        "lat": 19.9048383,
+        "lon": 99.8357416,
+        "type": "cafe",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": null,
+        "shortcode": "Cjefp8Tv2O_"
+    },
+    {
+        "title": "Milan",
+        "subtitle": "Major city in Northern Italy's Lombardy region.",
+        "lat": 45.464194,
+        "lon": 9.189626,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null,
+        "shortcode": "CjnqodaPVK7"
     }
 ];
