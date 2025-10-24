@@ -113,7 +113,7 @@ Caption: "{caption}"
 """
 
 # --- The model --
-model_name = 'gemini-2.5-flash' # 'gemini-1.5-pro' not working
+model_name = 'gemini-2.5-flash' # 'gemini-2.5-pro' not working
 caption_filename = 'caption.txt'
 location_filename = 'location_gemini.json'
 
@@ -222,16 +222,17 @@ for i, f in enumerate(files_list):
 
             elif e.code == 429:
                 # This block specifically catches the 429 Quota Exceeded error
-                print(f"\nError: Quota exceeded. Full error: {e}")
+                print(f"[Error] Quota exceeded. Full error: {e}")
 
                 if attempt == MAX_ATTEMPTS - 1:
                     print("Last attempt failed. No more attempts.")
+                    stop_execution = True
                     break  # Exit loop
 
                 # --- Parse the error message to get the wait time ---
                 error_message = str(e)
                 match = re.search(r"Please retry in ([\d.]+)s", error_message)
-                wait_time = float(match.group(1)) if match else 60
+                wait_time = float(match.group(1))+10 if match else 180
                 text = 'suggested by the API' if match else 'fallback'
                 print(f"Waiting for {wait_time:.2f} seconds as {text}.")
                 time.sleep(wait_time)
