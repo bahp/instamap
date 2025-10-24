@@ -36,7 +36,10 @@ jobs:
     # This 'if' statement is CRITICAL
     # It prevents the workflow from looping by checking if its own
     # commit message triggered this run.
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    if: |
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'push' && !contains(github.event.head_commit.message, '[skip ci]'))
 
     runs-on: ubuntu-latest
     steps:
@@ -115,23 +118,20 @@ jobs:
           cp -rf ./data/bernardhp/web_gemini/* _site/
 
           # --- NEW CODE BLOCK TO ADD TIMESTAMP ---
-          echo "Injecting 'Last updated' timestamp..."
+           echo "Injecting 'Last updated' timestamp overlay..."
 
           # Get the current date and time (UTC)
-          # Format example: "Friday, October 24, 2025 at 12:32 PM UTC"
-          LAST_UPDATED_STRING=$(date -u +"%A, %B %d, %Y at %I:%M %p UTC")
+           LAST_UPDATED_STRING=$(date -u +"%A, %B %d, %Y at %I:%M %p UTC")
 
-          # Create the HTML snippet using Bootstrap classes
-          # Using single quotes for HTML attributes is safer for the 'sed' command
-          HTML_SNIPPET="<div class='text-center text-muted small py-3 mt-4'>Last updated: $LAST_UPDATED_STRING</div>"
-          
-          # Use 'sed' to find the lLne with </body> and insert the snippet *before* it.
-          # The '/<\/body>/i' command finds the line (case-insensitive)
-          # and the 'i\' command inserts the text before it.
+          # Create the HTML snippet for the small, light-gray note
+          # We use single-quotes for the HTML attributes.
+          HTML_SNIPPET="<div class='p-2 bg-light text-dark rounded shadow-sm' style='position:fixed; bottom:10px; left:50%; transform:translateX(-50%); z-index:999; font-size: 0.75rem;'>Last updated: $LAST_UPDATED_STRING</div>"
+
+          # Use 'sed' to find the line with </body> and insert the snippet *before* it.
           sed -i '/<\/body>/i '"$HTML_SNIPPET" _site/index.html
 
           echo "Timestamp injected successfully."
-          # --- END OF NEW CODE BLOCK ---
+          # --- END OF NEW CODE BLOCK --
 
           # Remove files you don't want deployed (like the workflow file itself)
           rm -rf _site/.github
