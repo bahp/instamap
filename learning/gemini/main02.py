@@ -134,6 +134,7 @@ BASE_WAIT_TIME = 2
 
 # Define the folder to search
 search_path = Path('./../../data/bernardhp/')
+#search_path = Path('./data/bernardhp/')
 print(f"Searching in path: {search_path}")
 
 # Use .rglob() which means "recursive glob"
@@ -161,12 +162,22 @@ for i, f in enumerate(files_list):
             print(f"{i:4}/{len(files_list)}. Post already processed: {f.parent.stem} | {len(data)} location(s) found.")
             continue
 
-    # Read caption
-    with open(f, 'r') as ft:
-        caption = ft.read()
 
     print(f"{i:4}/{len(files_list)}. Processing caption <{f.parent.stem}>: ", end='')
-    prompt = prompt_template.format(caption=caption)
+
+    try:
+        with open(f, 'r', encoding='utf-8') as ft:
+            caption = ft.read()
+
+        prompt = prompt_template.format(caption=caption)
+    except UnicodeDecodeError as e:
+        print(f"\n [Error] Could not read file (likely encoding issue): {e}")
+        continue
+    except FileNotFoundError:
+        print(f"\n [Error] File <caption.txt> not found at path: {f}")
+        continue
+
+
 
     # --- Start Retry Loop ---
     for attempt in range(MAX_ATTEMPTS):
@@ -199,6 +210,7 @@ for i, f in enumerate(files_list):
             # If successful, break out of the retry loop
             break
 
+
         except google_exceptions.InvalidArgument as e:
             # This block specifically catches the 400 Invalid API Key error.
             print(f"Error: Invalid argument. Full error: {e}")
@@ -229,6 +241,13 @@ for i, f in enumerate(files_list):
                 print("Could not parse retry time. Waiting 60 seconds as a fallback.")
                 time.sleep(60)
 
+        except genai.errors.ClientError as e:
+            print(f"Error: ClientError. Full error: {e}")
+            if "API key not valid" in str(e):
+                print("ERROR: The API key is not valid. Please check your GOOGLE_API_KEY environment variable.")
+            import sys
+            sys.exit()
+
         except genai.errors.ServerError as e:
             print(f"Error: ServerError. Full error: {e}")
 
@@ -258,6 +277,7 @@ for i, f in enumerate(files_list):
                 print(f"  > Last error: {e}")
             """
 
+
         except json.JSONDecodeError:
             # Don't retry if JSON is bad
             print(f"Error: Could not decode JSON from response: {response.text}")
@@ -271,11 +291,13 @@ for i, f in enumerate(files_list):
             import sys
             sys.exit()
             break  # Exit loop
+
+
     # --- End Retry Loop ---
 
 
 
-
+"""
 # Get all of them and put them in a single file
 search_path = Path('./../../data/bernardhp/')
 output_filename = '_geolocations_gemini.json'
@@ -285,7 +307,7 @@ print(f"Searching in path: {search_path}")
 # Use .rglob() which means "recursive glob"
 files_list = sorted(list(search_path.rglob('location_gemini.json')))
 print(f"Found {len(files_list)} files.")
-
+"""
 """
 # Loop over all the files.
 all_locations = []

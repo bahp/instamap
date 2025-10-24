@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 
 folder = Path('../../data/bernardhp/')
+#folder = Path('./data/bernardhp/')
 
 # Define your input and output filenames
 json_filename = folder / '_geolocations_gemini.json'  # Your source .json file

@@ -5,6 +5,7 @@ import json
 
 # Get all of them and put them in a single file
 search_path = Path('./../../data/bernardhp/')
+#search_path = Path('./data/bernardhp')
 output_filename = '_geolocations_gemini.json'
 output_path = search_path / output_filename
 

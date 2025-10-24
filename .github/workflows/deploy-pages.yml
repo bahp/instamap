@@ -58,11 +58,14 @@ jobs:
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
+          # Change directory
+          cd ./learning/gemini
+
+          # Run the scripts inside the folder
           python ./learning/gemini/main02.py
           python ./learning/gemini/collect.py
           python ./learning/gemini/json2js.py
 
-      # --- MODIFIED STEP: Commit Specific Changes ---
       - name: Commit and Push Changes
         run: |
           # Configure Git user
