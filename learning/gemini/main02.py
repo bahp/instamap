@@ -141,9 +141,14 @@ files_list = sorted(list(search_path.rglob('caption.txt')))
 print(f"Found {len(files_list)} files.")
 
 # Loop over all the files.
+cont = 0
 for i, f in enumerate(files_list):
+
    # if i>5:
    #     break
+
+    if cont > 3:
+        break
 
     # Locations have been extracted already
     if not REWRITE:
@@ -188,6 +193,8 @@ for i, f in enumerate(files_list):
             wait_duration = random.uniform(1.5, 5.5)
             print(f"Now waiting for {wait_duration:.2f} seconds...")
             time.sleep(wait_duration)
+
+            cont += 1
 
             # If successful, break out of the retry loop
             break
