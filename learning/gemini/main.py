@@ -2,6 +2,8 @@ from google import genai
 import os
 import json
 import time  # Import the time module for sleeping
+from tqdm import tqdm
+
 
 try:
     # --- 1. Configuration ---
@@ -24,6 +26,36 @@ captions_list = [
     "Amazing day in Paris! 🇫🇷\n📷 The Louvre\n📍Eiffel Tower\n🗺️ Notre Dame Cathedral",
     "Just a quiet day at the museum, staring at the Mona Lisa. It's smaller than I thought! 🎨 #Louvre #Paris"
 ]
+
+#
+
+
+def gemini_extract_locations():
+    """"""
+    pass
+
+from pathlib import Path
+
+# Define the folder to search
+search_path = Path('./../../data/bernardhp/')
+print("Searching in path: {search_path}")
+
+# Use .rglob() which means "recursive glob"
+files_list = list(search_path.rglob('caption.txt'))
+print(f"Found {len(files_list)} files.")
+
+# Loop over all the files.
+for f in tqdm(files_list, desc='Processing captions...'):
+    print(f, f.parent)
+
+    # Locations have been extracted already
+    if f.parent / 'gemini_location.json':
+        continue
+    #
+
+
+import sys
+sys.exit()
 
 # --- 3. The Prompt ---
 prompt_template = """
@@ -49,14 +81,17 @@ If you cannot find any specific locations, return an empty list [].
 Caption: "{caption}"
 """
 
+
+
+
 # --- 4. Process the Captions (NEW: with retry logic) ---
 all_locations_data = []
 model_name = 'gemini-2.5-flash'
 MAX_RETRIES = 5  # Try a maximum of 5 times
 
 print("Starting to process captions...")
-for caption in captions_list:
-    print(f"\nProcessing caption: '{caption[:50]}...'")
+for caption in tqdm(captions_list, desc='Processing captions...'):
+    #print(f"\nProcessing caption: '{caption[:50]}...'")
     prompt = prompt_template.format(caption=caption)
 
     # --- Start Retry Loop ---
@@ -69,10 +104,15 @@ for caption in captions_list:
             )
 
             # If successful, parse the JSON
-            response_text = response.text.strip().replace("```json", "").replace("```", "")
+            response_text = response.text.strip() \
+                .replace("```json", "").replace("```", "")
             data_list = json.loads(response_text)
 
             if data_list:
+                # Save
+                output_filename = '%s/%s' % (shortcode, )
+                with open(output_filename, 'w', encoding='utf-8') as f:
+                    json.dump(data_list, f, indent=4)
                 all_locations_data.extend(data_list)
                 print(f"Success: Extracted {len(data_list)} location(s).")
             else:

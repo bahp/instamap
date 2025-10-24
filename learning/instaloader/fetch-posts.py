@@ -39,7 +39,7 @@ from instaloader import Profile
 from instaloader import Post
 
 
-USER = 'bernardhp'
+USER = 'bahp.dev'
 PROFILE = 'discoverearth'
 PROFILE = 'japan_walker_'
 PROFILE = 'jukananan727'
@@ -50,10 +50,9 @@ L = Instaloader()
 L.download_pictures = False
 L.download_videos = False
 L.download_video_thumbnails = False
-L.download_geotags = False
+L.download_geotags = True
 L.save_metadata = True
 L.compress_json = False
-L.download_geotags = False
 L.download_comments = False
 
 # The authentication is only necessary if querying
