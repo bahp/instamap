@@ -15,6 +15,10 @@ on:
   # schedule:
   #   - cron: '0 6 * * *'
 
+  # Run on a 5-minute schedule for testing
+  schedule:
+    - cron: '*/5 * * * *'
+
 # Set permissions for the GITHUB_TOKEN
 permissions:
   contents: write  # To allow committing back to the repo

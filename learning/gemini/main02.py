@@ -9,10 +9,6 @@ from google import genai
 from pathlib import Path
 from tqdm import tqdm
 
-from google.api_core import exceptions as google_exceptions
-
-
-
 # ------------------------------------------------
 #            Load GOOGLE_API_KEY
 # ------------------------------------------------
@@ -29,12 +25,6 @@ except Exception as e:
     exit()
 
 
-# -----------------------------------------------------------------
-# Helper code
-# -----------------------------------------------------------------
-
-class QuotaExceededError(Exception):
-    pass
 
 # -----------------------------------------------------------------
 # Configure variables
@@ -126,7 +116,6 @@ Caption: "{caption}"
 model_name = 'gemini-2.5-flash' # 'gemini-1.5-pro' not working
 caption_filename = 'caption.txt'
 location_filename = 'location_gemini.json'
-MAX_RETRIES = 5  # Try a maximum of 5 times
 
 # Force to reload all captions.
 REWRITE = False
@@ -138,6 +127,7 @@ MAX_ATTEMPTS = 5
 # Used only for ServerErrors (5xx)
 BASE_WAIT_TIME = 2
 
+# Flag to stop execution
 stop_execution = False
 
 # Define the folder to search
@@ -155,10 +145,7 @@ n_posts = len(files_list)
 
 for i, f in enumerate(files_list):
 
-   # if i>5:
-   #     break
-
-    if cont > 1:
+    if cont > 5:
         break
 
     # Locations have been extracted already
@@ -238,7 +225,7 @@ for i, f in enumerate(files_list):
                 print(f"\nError: Quota exceeded. Full error: {e}")
 
                 if attempt == MAX_ATTEMPTS - 1:
-                    print("Last attempt failed. No more retries.")
+                    print("Last attempt failed. No more attempts.")
                     break  # Exit loop
 
                 # --- Parse the error message to get the wait time ---
