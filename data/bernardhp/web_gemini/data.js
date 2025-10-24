@@ -18233,5 +18233,53 @@ var data = [
         "rank": 9,
         "page": null,
         "shortcode": "CkRmUzhgAye"
+    },
+    {
+        "title": "Qiantong Ancient Town",
+        "subtitle": "Well-preserved historic village in Zhejiang, China",
+        "lat": 29.3506,
+        "lon": 121.5644,
+        "type": "historic village",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": null,
+        "shortcode": "CkVIgG8I8Xt"
+    },
+    {
+        "title": "Lofoten",
+        "subtitle": "Archipelago in Nordland county, Norway",
+        "lat": 68.125,
+        "lon": 13.593,
+        "type": "archipelago",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": null,
+        "shortcode": "CkiYozBsVYV"
+    },
+    {
+        "title": "Angkor Wat",
+        "subtitle": "Ancient temple complex in Cambodia",
+        "lat": 13.4125,
+        "lon": 103.867,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CkiqYpZomzX"
+    },
+    {
+        "title": "Chumphon",
+        "subtitle": "City in Southern Thailand",
+        "lat": 10.49122,
+        "lon": 99.17647,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null,
+        "shortcode": "Ckr5m4bva9U"
     }
 ];
