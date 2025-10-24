@@ -62,9 +62,9 @@ jobs:
           cd ./learning/gemini
 
           # Run the scripts inside the folder
-          python ./learning/gemini/main02.py
-          python ./learning/gemini/collect.py
-          python ./learning/gemini/json2js.py
+          python main02.py
+          python collect.py
+          python json2js.py
 
       - name: Commit and Push Changes
         run: |
