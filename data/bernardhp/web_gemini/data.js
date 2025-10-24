@@ -17645,5 +17645,65 @@ var data = [
         "rank": 2,
         "page": null,
         "shortcode": "CiPjVQcq_Qt"
+    },
+    {
+        "title": "Orta San Giulio",
+        "subtitle": "Picturesque town on Lake Orta, Piedmont",
+        "lat": 45.7981,
+        "lon": 8.4116,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": null,
+        "shortcode": "CiSGlWnMEpL"
+    },
+    {
+        "title": "Scanno",
+        "subtitle": "Historic village in Abruzzo, Italy",
+        "lat": 41.9022797,
+        "lon": 13.8824249,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": null,
+        "shortcode": "CiW0xrHsOCu"
+    },
+    {
+        "title": "Bangkok",
+        "subtitle": "Capital city of Thailand",
+        "lat": 13.7525,
+        "lon": 100.4935,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": null,
+        "shortcode": "CipPiM3PXyA"
+    },
+    {
+        "title": "Damnoen Saduak Floating Market",
+        "subtitle": "Traditional floating market in Ratchaburi, Thailand",
+        "lat": 13.5204,
+        "lon": 99.9696,
+        "type": "market",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": null,
+        "shortcode": "Ciz3g3Bj_8x"
+    },
+    {
+        "title": "Chand Baori",
+        "subtitle": "Ancient stepwell in Abhaneri village, Rajasthan, India",
+        "lat": 27.0093,
+        "lon": 76.2486,
+        "type": "stepwell",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": null,
+        "shortcode": "CjA1gm4qXhj"
     }
 ];
