@@ -368,7 +368,7 @@
          data-instgrm-version="14" style="width:100%;">
      </blockquote>
   `
-
+   // href="https://www.google.com/maps/place/{0}/@{5},{6},17z/"
     var template_popup = `
 
     <div class="card mb-3 w" style="max-width: 540px;">
@@ -382,7 +382,7 @@
           <div class="card-body position-relative">
 
             <a class="text-right position-absolute top-0 end-0 p-2"
-               href="https://www.google.com/maps/place/{0}/@{5},{6},17z/"
+               href="http://maps.google.com/maps?q={10}/"
                target="_blank">
                <img src="https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico" height="22">
             </a>
@@ -416,7 +416,7 @@
               See more
             </a><br>
 
-             <div class="collapse" id="collapseExample"> <hr> {10} </div>
+             <div class="collapse" id="collapseExample"> <hr> {11} </div>
 
             </div>
           </div>
@@ -442,6 +442,7 @@
             get(entry, 'class', ATTR),
             get(entry, 'type', ATTR),
             get(entry, 'rank', ATTR),
+            get(entry, 'title', ATTR).normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s/g, "+"),
 
             //entry.text,
             //'--',
