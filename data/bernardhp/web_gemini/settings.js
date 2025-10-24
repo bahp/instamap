@@ -523,7 +523,7 @@ MARKER_STYLE = {
     'abbey': { icon: 'church', backgroundColor: COLORMAP.brown },
     'stairs': { icon: 'stairs', backgroundColor: COLORMAP.brown },
     'grottoes': { icon: 'mountain', backgroundColor: COLORMAP.brown },
-    'mausoleum': { icon: 'tombstone', backgroundColor: COLORMAP.brown },
+    'mausoleum': { icon: 'monument', backgroundColor: COLORMAP.brown }, // when changing to monument a tombstone appears...
     'gate': { icon: 'archway', backgroundColor: COLORMAP.brown },
     'historic_cottages': { icon: 'house-chimney', backgroundColor: COLORMAP.brown },
     'stave church': { icon: 'church', backgroundColor: COLORMAP.brown },
@@ -553,9 +553,9 @@ MARKER_STYLE = {
     'canyon': { icon: 'mountain', backgroundColor: COLORMAP.green },
     'Volcano': { icon: 'volcano', backgroundColor: COLORMAP.green }, // Capitalized duplicate
     'vineyard': { icon: 'grape', backgroundColor: COLORMAP.green },
-    'flower garden': { icon: 'flower', backgroundColor: COLORMAP.green },
+    'flower garden': { icon: 'seedling', backgroundColor: COLORMAP.green },
     'gorge': { icon: 'mountain', backgroundColor: COLORMAP.green },
-    'garden': { icon: 'flower', backgroundColor: COLORMAP.green },
+    'garden': { icon: 'seedling', backgroundColor: COLORMAP.green },
     'mountain_hut': { icon: 'house-chimney', backgroundColor: COLORMAP.green },
     'mountain_range': { icon: 'mountain', backgroundColor: COLORMAP.green },
     'mountain peak': { icon: 'mountain', backgroundColor: COLORMAP.green },
@@ -652,7 +652,7 @@ MARKER_STYLE = {
     'meditation_center': { icon: 'hand-sparkles', backgroundColor: COLORMAP.purple },
     'clock tower': { icon: 'clock', backgroundColor: COLORMAP.gray },
     'clock_tower': { icon: 'clock', backgroundColor: COLORMAP.gray },
-    'building': { backgroundColor: COLORMAP.brown }, // Default building type
+    'building': { icon: 'building', backgroundColor: COLORMAP.brown }, // Default building type
 
     // Duplicates/Consolidations (Ensuring all lower-case types from your list are handled)
     'national_park': { icon: 'tree', backgroundColor: COLORMAP.green },

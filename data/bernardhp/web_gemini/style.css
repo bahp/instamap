@@ -9,9 +9,11 @@ html {
   height: 100%;
 }
 
+/*
+// solves jitter but hides button
 #offcanvasRight {
-  overflow-y: scroll; /*Hack to avoid jitter */
-}
+  overflow-y: scroll;
+}*/
 
 
 body {
