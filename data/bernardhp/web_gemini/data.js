@@ -18209,130 +18209,29 @@ var data = [
         "rank": 3,
         "page": null,
         "shortcode": "CkKppXeLPZR"
+    },
+    {
+        "title": "Koh Lipe",
+        "subtitle": "Island in the Andaman Sea, Thailand",
+        "lat": 6.495,
+        "lon": 99.3033,
+        "type": "island",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": null,
+        "shortcode": "CkQUjnzqIS_"
+    },
+    {
+        "title": "Asia",
+        "subtitle": "The largest and most populous continent.",
+        "lat": 34.0479,
+        "lon": 100.6197,
+        "type": "continent",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 9,
+        "page": null,
+        "shortcode": "CkRmUzhgAye"
     }
 ];
-
-
-/**
- * Filters a list of location elements based on rank and shortcode.
- * * - ALWAYS keeps any element with rank 1, 2, or 3.
- * - For elements with rank 4 or higher:
- * - Groups them by shortcode.
- * - Keeps only the elements with the LOWEST rank within that higher-rank group.
- */
-function filterLocationsByRank(dataList) {
-  const groups = {};
-
-  // 1. Loop through the list to group items by the new rules
-  for (const item of dataList) {
-    const { shortcode, rank } = item;
-
-    // Skip items that are missing key data
-    if (shortcode === undefined || rank === undefined) {
-      continue;
-    }
-
-    // Initialize the group if it doesn't exist
-    if (!groups[shortcode]) {
-      groups[shortcode] = {
-        always_keep_items: [], // For ranks 1, 2, 3
-        higher_rank_group: {   // For ranks 4+
-          min_rank: Infinity,  // Start with a high number
-          items: []
-        }
-      };
-    }
-
-    const group = groups[shortcode];
-
-    // --- Apply the new rules ---
-    if (rank <= 3) {
-      // Rule 1: Always keep ranks 1, 2, or 3
-      group.always_keep_items.push(item);
-    } else {
-      // Rule 2: Filter ranks 4 or higher
-      const subgroup = group.higher_rank_group;
-
-      if (rank < subgroup.min_rank) {
-        // New lowest rank (that's 4+), replace old items
-        subgroup.min_rank = rank;
-        subgroup.items = [item];
-      } else if (rank === subgroup.min_rank) {
-        // Tied for lowest rank (that's 4+), add to list
-        subgroup.items.push(item);
-      }
-      // else: (rank > subgroup.min_rank) -> ignore
-    }
-  }
-
-  // 2. Collect all the items we decided to keep
-  const finalList = [];
-  for (const groupData of Object.values(groups)) {
-    // Add all the "always keep" items
-    finalList.push(...groupData.always_keep_items);
-
-    // Add all the items from the filtered "higher rank" group
-    finalList.push(...groupData.higher_rank_group.items);
-  }
-
-  return finalList;
-}
-
-
-/**
- * Finds locations with identical coordinates and adds a small random
- * jitter to them to prevent map pins from perfectly overlapping.
- *
- * @param {Array<Object>} dataList - The list of location objects.
- * @param {number} [jitterAmount=0.0001] - The max random offset (in degrees).
- * A value of 0.0001 is roughly 11 meters (36 feet).
- * @returns {Array<Object>} A new array with jitter applied to duplicates.
- */
-function addJitterToDuplicates(dataList, jitterAmount = 0.0001) {
-
-  const coordGroups = new Map();
-
-  // 1. Group all items by their exact coordinates
-  for (const item of dataList) {
-    // Create a unique string key for the coordinate pair
-    const key = `${item.lat},${item.lon}`;
-
-    if (!coordGroups.has(key)) {
-      coordGroups.set(key, []);
-    }
-    coordGroups.get(key).push(item);
-  }
-
-  // 2. Process groups: apply jitter only to groups with > 1 item
-  // We use .flatMap() to loop, process, and flatten the results back
-  // into a single array.
-  const jitteredList = Array.from(coordGroups.values()).flatMap(items => {
-
-    // If this group only has one item, it's not a duplicate.
-    // Return it (or them) as-is.
-    if (items.length <= 1) {
-      return items;
-    }
-
-    // This is a group of duplicates.
-    // Map over them and apply a random jitter to each.
-    return items.map(item => {
-      // (Math.random() * 2 - 1) creates a random number between -1.0 and +1.0
-      const latJitter = (Math.random() * 2 - 1) * jitterAmount;
-      const lonJitter = (Math.random() * 2 - 1) * jitterAmount;
-
-      // Return a new object, spreading the original properties
-      // and overwriting lat/lon with the new jittered values.
-      return {
-        ...item,
-        lat: item.lat + latJitter,
-        lon: item.lon + lonJitter
-      };
-    });
-  });
-
-  return jitteredList;
-}
-
-data = filterLocationsByRank(data);
-data = addJitterToDuplicates(data, jitterAmount=0.001);
