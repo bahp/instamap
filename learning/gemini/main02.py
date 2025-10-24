@@ -30,6 +30,13 @@ except Exception as e:
 
 
 # -----------------------------------------------------------------
+# Helper code
+# -----------------------------------------------------------------
+
+class QuotaExceededError(Exception):
+    pass
+
+# -----------------------------------------------------------------
 # Configure variables
 # -----------------------------------------------------------------
 
@@ -116,12 +123,12 @@ Caption: "{caption}"
 """
 
 # --- The model --
-model_name = 'gemini-2.5-flash'
-#model_name = 'gemini-pro'
+model_name = 'gemini-2.5-flash' # 'gemini-1.5-pro' not working
 caption_filename = 'caption.txt'
 location_filename = 'location_gemini.json'
 MAX_RETRIES = 5  # Try a maximum of 5 times
 
+# Force to reload all captions.
 REWRITE = False
 
 # Set the total number of times to try
@@ -131,50 +138,51 @@ MAX_ATTEMPTS = 5
 # Used only for ServerErrors (5xx)
 BASE_WAIT_TIME = 2
 
+stop_execution = False
 
 # Define the folder to search
 search_path = Path('./../../data/bernardhp/')
 #search_path = Path('./data/bernardhp/')
 print(f"Searching in path: {search_path}")
 
-# Use .rglob() which means "recursive glob"
+# Find all caption.txt files.
 files_list = sorted(list(search_path.rglob('caption.txt')))
 print(f"Found {len(files_list)} files.")
 
 # Loop over all the files.
 cont = 0
+n_posts = len(files_list)
+
 for i, f in enumerate(files_list):
 
    # if i>5:
    #     break
 
-    if cont > 3:
+    if cont > 1:
         break
 
     # Locations have been extracted already
     if not REWRITE:
         if (f.parent / location_filename).exists():
-
             # Open and load the JSON file
             with open(f.parent / location_filename, 'r') as fj:
                 data = json.load(fj)
-
-            print(f"{i:4}/{len(files_list)}. Post already processed: {f.parent.stem} | {len(data)} location(s) found.")
+            # Show information
+            print(f"{i:4}/{n_posts}. [READY] Post already processed: {f.parent.stem} | {len(data)} location(s) found.")
             continue
 
 
-    print(f"{i:4}/{len(files_list)}. Processing caption <{f.parent.stem}>: ", end='')
-
     try:
+        print(f"{i:4}/{n_posts}. [NEW] Processing post <{f.parent.stem}>... Attempt ", end='')
         with open(f, 'r', encoding='utf-8') as ft:
             caption = ft.read()
 
         prompt = prompt_template.format(caption=caption)
     except UnicodeDecodeError as e:
-        print(f"\n [Error] Could not read file (likely encoding issue): {e}")
+        print(f"[Error] Could not read file (likely encoding issue): {e}")
         continue
     except FileNotFoundError:
-        print(f"\n [Error] File <caption.txt> not found at path: {f}")
+        print(f"[Error] File <caption.txt> not found at path: {f}")
         continue
 
 
@@ -182,7 +190,8 @@ for i, f in enumerate(files_list):
     # --- Start Retry Loop ---
     for attempt in range(MAX_ATTEMPTS):
         try:
-            print(f"--- Attempt {attempt + 1} of {MAX_ATTEMPTS} ---")
+            prefix = ", " if attempt > 0 else ""
+            print(f"{prefix}{attempt + 1}/{MAX_ATTEMPTS} ", end='')
 
             # Use the client to generate content
             response = client.models.generate_content(
@@ -198,11 +207,11 @@ for i, f in enumerate(files_list):
             # Save
             with open(f.parent / location_filename, 'w', encoding='utf-8') as fo:
                 json.dump(data_list, fo, indent=4)
-            print(f"Extracted {len(data_list)} location(s).")
+            print(f" | {len(data_list)} location(s) found.", end='')
 
             # 2. Use time.sleep() to pause
             wait_duration = random.uniform(1.5, 5.5)
-            print(f"Now waiting for {wait_duration:.2f} seconds...")
+            print(f" | Waiting for {wait_duration:.2f} seconds...")
             time.sleep(wait_duration)
 
             cont += 1
@@ -211,50 +220,48 @@ for i, f in enumerate(files_list):
             break
 
 
-        except google_exceptions.InvalidArgument as e:
-            # This block specifically catches the 400 Invalid API Key error.
-            print(f"Error: Invalid argument. Full error: {e}")
-            import sys
-            sys.exit()
-
-
-        except google_exceptions.ResourceExhausted as e:
-            # This block specifically catches the 429 Quota Exceeded error
-            print(f"Error: Quota exceeded. Full error: {e}")
-
-            if attempt == MAX_ATTEMPTS - 1:
-               print("Last attempt failed. No more retries.")
-               break  # Exit loop
-
-            # --- Parse the error message to get the wait time ---
-            error_message = str(e)
-            match = re.search(r"Please retry in ([\d.]+)s", error_message)
-
-            if match:
-                wait_time = float(match.group(1))
-                print(f"Waiting for {wait_time:.2f} seconds as suggested by the API...")
-                time.sleep(wait_time)
-                # You would typically put this in a loop to retry the request
-                # print("Retrying now...")
-            else:
-                # Fallback if the error message format ever changes
-                print("Could not parse retry time. Waiting 60 seconds as a fallback.")
-                time.sleep(60)
-
         except genai.errors.ClientError as e:
-            print(f"Error: ClientError. Full error: {e}")
-            if "API key not valid" in str(e):
-                print("ERROR: The API key is not valid. Please check your GOOGLE_API_KEY environment variable.")
-            import sys
-            sys.exit()
+            print(f"[Error] ClientError. Full error: {e}")
+
+            if e.code == 400:
+                if "API key not valid" in str(e):
+                    stop_execution = True
+                    break
+
+                elif "API key expired" in str(e):
+                    print("Please check your GOOGLE_API_KEY environment variable")
+                    stop_execution = True
+                    break
+
+            elif e.code == 429:
+                # This block specifically catches the 429 Quota Exceeded error
+                print(f"\nError: Quota exceeded. Full error: {e}")
+
+                if attempt == MAX_ATTEMPTS - 1:
+                    print("Last attempt failed. No more retries.")
+                    break  # Exit loop
+
+                # --- Parse the error message to get the wait time ---
+                error_message = str(e)
+                match = re.search(r"Please retry in ([\d.]+)s", error_message)
+                wait_time = float(match.group(1)) if match else 60
+                text = 'suggested by the API' if match else 'fallback'
+                print(f"Waiting for {wait_time:.2f} seconds as {text}.")
+                time.sleep(wait_time)
+
+            else:
+                stop_execution = True
+                break
+
 
         except genai.errors.ServerError as e:
-            print(f"Error: ServerError. Full error: {e}")
+            print(f"[Error] ServerError. Full error: {e}")
 
             # Check if we're on the last attempt
             if attempt == MAX_ATTEMPTS - 1:
                 print("Last attempt failed. No more retries.")
-                break  # Exit loop
+                stop_execution = True
+                break  # Exit loop and execution
 
             # --- This is the "Exponential Backoff" ---
             # attempt 0: 2^0 * 2 = 2s
@@ -266,83 +273,88 @@ for i, f in enumerate(files_list):
             print(f"Waiting {wait_time:.2f}s before next retry...")
             time.sleep(wait_time)
 
-            """
-            # This catches the 503 error
-            if attempt < MAX_RETRIES - 1:
-                wait_time = 2 ** attempt  # Exponential backoff (1, 2, 4, 8 seconds)
-                print(f"  > Model overloaded (503). Retrying in {wait_time} second(s)...")
-                time.sleep(wait_time)
-            else:
-                print(f"Error: Failed to process caption after {MAX_RETRIES} attempts.")
-                print(f"  > Last error: {e}")
-            """
-
-
         except json.JSONDecodeError:
             # Don't retry if JSON is bad
-            print(f"Error: Could not decode JSON from response: {response.text}")
-            break  # Exit loop
+            print(f"[Error] Could not decode JSON from response: {response.text}")
+            break  # Exit loop, got to next post
+
         except Exception as e:
             # For any other error, we don't want to retry
-            print(f"An unexpected error occurred: {e}")
-            print(e.code)
-            if e.code == '400':
-                print("EHHH")
-            import sys
-            sys.exit()
-            break  # Exit loop
+            print(f"[Error] An unexpected error occurred: {e}")
+            stop_execution = True
+            break  # Exit loop and execution
+
+    if stop_execution:
+        break
 
 
     # --- End Retry Loop ---
 
 
+"""
+--- 429 RESOURCE_EXHAUSTED ---
+
+{
+    "error": {
+        "code": 429,
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250\nPlease retry in 57.833300133s.",
+        "status": "RESOURCE_EXHAUSTED",
+        "details": [
+            {
+                "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+                "violations": [
+                    {
+                        "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+                        "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+                        "quotaDimensions": {
+                            "location": "global",
+                            "model": "gemini-2.5-flash"
+                        },
+                        "quotaValue": "250"
+                    }
+                ]
+            },
+            {
+                "@type": "type.googleapis.com/google.rpc.Help",
+                "links": [
+                    {
+                        "description": "Learn more about Gemini API quotas",
+                        "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+                    }
+                ]
+            },
+            {
+                "@type": "type.googleapis.com/google.rpc.RetryInfo",
+                "retryDelay": "57s"
+            }
+        ]
+    }
+}
+"""
 
 """
-# Get all of them and put them in a single file
-search_path = Path('./../../data/bernardhp/')
-output_filename = '_geolocations_gemini.json'
-output_path = search_path / output_filename
+--- 400 INVALID ARGUMENT --
 
-print(f"Searching in path: {search_path}")
-# Use .rglob() which means "recursive glob"
-files_list = sorted(list(search_path.rglob('location_gemini.json')))
-print(f"Found {len(files_list)} files.")
-"""
-"""
-# Loop over all the files.
-all_locations = []
-for i, f in enumerate(files_list):
-    shortcode = f.parent.stem
-
-    try:
-        # 1. Load the JSON file
-        with open(f, 'r', encoding='utf-8') as file:
-            locations_in_this_file = json.load(file)
-
-        # 2. Add the shortcode to each location in the list
-        if isinstance(locations_in_this_file, list):
-            for location_item in locations_in_this_file:
-                if isinstance(location_item, dict):
-                    location_item['shortcode'] = shortcode
-
-            # 3. Append the modified list to our main list
-            all_locations.extend(locations_in_this_file)
-        else:
-            print(f"\nWarning: Skipping file {f} (not a list).")
-
-    except json.JSONDecodeError:
-        print(f"\nWarning: Skipping file {f} (invalid JSON).")
-    except Exception as e:
-        print(f"\nWarning: Skipping file {f} (Error: {e}).")
-
-# --- Save the Final Combined File ---
-try:
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(all_locations, f, indent=4)
-
-    print(f"\nSuccessfully combined {len(all_locations)} locations from {len(files_list)} files.")
-    print(f"Saved to: {output_path}")
-
-except Exception as e:
-    print(f"\nError saving final file: {e}")
+{
+  "error": {
+    "code": 400,
+    "message": "API key expired. Please renew the API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "generativelanguage.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key expired. Please renew the API key."
+      }
+    ]
+  }
+}
 """
