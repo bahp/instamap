@@ -114,6 +114,25 @@ jobs:
           echo "Copying main site files from ./data/bernardhp/web_gemini/"
           cp -rf ./data/bernardhp/web_gemini/* _site/
 
+          # --- NEW CODE BLOCK TO ADD TIMESTAMP ---
+          echo "Injecting 'Last updated' timestamp..."
+
+          # Get the current date and time (UTC)
+          # Format example: "Friday, October 24, 2025 at 12:32 PM UTC"
+          LAST_UPDATED_STRING=$(date -u +"%A, %B %d, %Y at %I:%M %p UTC")
+
+          # Create the HTML snippet we will inject
+          # Using inline styles to make it look decent.
+          HTML_SNIPPET="<div style=\"text-align:center;padding:10px;margin-top:20px;font-size:0.9em;color:#777;\">Last updated: $LAST_UPDATED_STRING</div>"
+
+          # Use 'sed' to find the lLne with </body> and insert the snippet *before* it.
+          # The '/<\/body>/i' command finds the line (case-insensitive)
+          # and the 'i\' command inserts the text before it.
+          sed -i '/<\/body>/i '"$HTML_SNIPPET" _site/index.html
+
+          echo "Timestamp injected successfully."
+          # --- END OF NEW CODE BLOCK ---
+
           # Remove files you don't want deployed (like the workflow file itself)
           rm -rf _site/.github
           rm -rf _site/_site # Just in case
