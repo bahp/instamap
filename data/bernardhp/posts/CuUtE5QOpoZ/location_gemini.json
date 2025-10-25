@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Bow Lake",
+        "subtitle": "Alpine lake along the Icefields Parkway",
+        "lat": 51.6881,
+        "lon": -116.4522,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 1
+    },
+    {
+        "title": "Mistaya Canyon",
+        "subtitle": "Deep canyon with rushing blue water",
+        "lat": 51.9213,
+        "lon": -116.7118,
+        "type": "canyon",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 2
+    },
+    {
+        "title": "Columbia Icefield",
+        "subtitle": "Large icefield, source of Athabasca Glacier",
+        "lat": 52.195,
+        "lon": -117.2347,
+        "type": "icefield",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 3
+    }
+]

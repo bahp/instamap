@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Dolomites",
+        "subtitle": "Mountain range in the Italian Alps",
+        "lat": 46.467,
+        "lon": 11.833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": null
+    },
+    {
+        "title": "Sass de Putia",
+        "subtitle": "Peak in the Italian Dolomites",
+        "lat": 46.6579,
+        "lon": 11.8791,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 1
+    },
+    {
+        "title": "Church of San Giovanni",
+        "subtitle": "Historic church in Val di Funes, Dolomites",
+        "lat": 46.6433,
+        "lon": 11.7247,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 2
+    },
+    {
+        "title": "Tre Cime di Lavaredo",
+        "subtitle": "Iconic mountain group in the Dolomites",
+        "lat": 46.6192,
+        "lon": 12.2882,
+        "type": "mountain_group",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 3
+    },
+    {
+        "title": "Cadini di Misurina",
+        "subtitle": "Mountain group and viewpoint near Tre Cime",
+        "lat": 46.6025,
+        "lon": 12.2858,
+        "type": "mountain_group",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 4
+    },
+    {
+        "title": "Lago di Braies",
+        "subtitle": "Picturesque alpine lake in the Dolomites",
+        "lat": 46.6917,
+        "lon": 12.1069,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 5
+    },
+    {
+        "title": "San Vigilio di Marebbe",
+        "subtitle": "Village in the Dolomites valley",
+        "lat": 46.6833,
+        "lon": 11.9333,
+        "type": "village",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 6
+    },
+    {
+        "title": "Residence Rautal",
+        "subtitle": "Apartment hotel in San Vigilio di Marebbe",
+        "lat": 46.6853,
+        "lon": 11.9392,
+        "type": "apartment_hotel",
+        "class": "lodging",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 7
+    },
+    {
+        "title": "Nuvolau",
+        "subtitle": "Mountain peak with scenic views",
+        "lat": 46.5167,
+        "lon": 12.0167,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 8
+    },
+    {
+        "title": "Seceda",
+        "subtitle": "Panoramic mountain plateau in the Dolomites",
+        "lat": 46.5986,
+        "lon": 11.7375,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 9
+    },
+    {
+        "title": "Venice Marco Polo Airport",
+        "subtitle": "International airport serving Venice, Italy",
+        "lat": 45.5053,
+        "lon": 12.3519,
+        "type": "airport",
+        "class": "aeroway",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 10
+    },
+    {
+        "title": "Venice",
+        "subtitle": "Historic city in northeastern Italy",
+        "lat": 45.4371,
+        "lon": 12.3346,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 11
+    }
+]
