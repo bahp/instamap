@@ -18281,5 +18281,17 @@ var data = [
         "rank": 4,
         "page": null,
         "shortcode": "Ckr5m4bva9U"
+    },
+    {
+        "title": "Bj\u00f8rkedalen",
+        "subtitle": "Scenic valley and village in Norway",
+        "lat": 61.996,
+        "lon": 6.012,
+        "type": "village",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": null,
+        "shortcode": "CkrOEE8Ml5c"
     }
 ];
