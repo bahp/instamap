@@ -1,0 +1,814 @@
+<html>
+<head>
+
+  <!-- Useful URLS:
+
+  To stack fontawesome glyphs.
+  https://fontawesome.com/docs/web/style/stack
+
+  Overlay elements on leaflet.
+  https://jsfiddle.net/falkedesign/2dbfyw0z/
+  -->
+
+  <!-- Boostrap -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+        crossorigin="anonymous">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+          crossorigin="anonymous"></script>
+
+  <!-- Leaflet (ensure leaflet.js is loaded after leaflet.css -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+          crossorigin=""></script>
+
+  <!-- Leaflet plugins -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet.icon.glyph@0.3.0/Leaflet.Icon.Glyph.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/beautifymarker@1.0.9/leaflet-beautify-marker-icon.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/beautifymarker@1.0.9/leaflet-beautify-marker-icon.min.css" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.85.1/L.Control.Locate.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.85.1/L.Control.Locate.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.min.css">
+
+  <!-- Font awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+  <!-- Jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <script src="https://unpkg.com/@testing-library/dom/dist/dom-testing-library.umd.js"></script>
+    <script src="https://unpkg.com/@testing-library/user-event@14.0.0/dist/user-event.umd.js"></script>
+
+  <!-- Instagram embed -->
+  <script async src="https://www.instagram.com/embed.js"></script>
+
+  <!-- Own -->
+  <!--<script src="./data-bard.js"></script>-->
+  <script src="./data.js"></script>
+  <script src="./settings.js"></script>
+  <link rel="stylesheet" href="./style.css">
+
+  <style>
+
+    #map {
+      height: 100%;
+    }
+
+    .offcanvas-btn {
+      top: 50%;
+      visibility: visible;
+      height: 50px;
+      /*color: #c00000;
+      text-shadow: 0 0 10px blue;*/
+    }
+
+    #trigger-offcanvas-right {
+      left: -33px;
+      border-top-right-radius: 0rem;
+      border-bottom-right-radius: 0rem;
+    }
+
+    #trigger-offcanvas-left {
+      left: 399px;
+      border-bottom-left-radius: 0rem;
+      border-top-left-radius: 0rem;
+    }
+  </style>
+</head>
+<body>
+
+<!-- The leaflet map -->
+<div id="map" class="z-1"></div>
+
+<!-- The left offcanvas -->
+<div class="offcanvas offcanvas-start"
+     tabindex="-1"
+     id="offcanvasLeft"
+     data-overlay="false"
+     aria-labelledby="offcanvasLeftLabel"
+     data-bs-scroll="true"
+     data-bs-backdrop="true">
+
+  <button id='trigger-offcanvas-left'
+          class="btn btn-light btn-outline-secondary offcanvas-btn position-absolute border-start-0 z-3 mt-2"
+          type="button"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#offcanvasLeft"
+          aria-controls="offcanvasLeft">
+    <!--<i class="bi bi-list"></i>-->
+    <i class="fas fa-caret-right"></i>
+  </button>
+
+  <!--
+  <div class="offcanvas-header">
+      <h5 id='post-shortcode'></h5>
+      <button type="button"
+         class="btn-close text-reset"
+         data-bs-dismiss="offcanvas"
+         aria-label="Close">
+      </button>
+  </div>
+  -->
+  <div id='offcanvas-left-body' class="offcanvas-body">
+
+
+    <div class="mb-3">
+      <label for="formFile" class="form-label">Default file input example</label>
+      <input class="form-control" type="file" id="formFile">
+    </div>
+
+    <div id="info"></div>
+
+    <div class="mb-3"> Mapping</div>
+    <div class="input-group mb-1 input-group-sm">
+      <span class="input-group-text w-25" id="basic-addon1"> Title </span>
+      <input type="text" class="form-control" placeholder="Username"
+             ria-label="Username" aria-describedby="basic-addon1">
+    </div>
+
+    <div class="input-group mb-1 input-group-sm">
+      <span class="input-group-text w-25" id="title"> Title  </span>
+      <select class="form-select form-select-sm" aria-label="Small select example">
+        <option selected>Select one value...</option>
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+      </select>
+    </div>
+
+    <hr>
+
+    <div class="mb-3"> Legend</div>
+      <div id="legend-markers"></div>
+    <button class="btn btn-secondary"> Save </button>
+
+    <!--
+    <div class="row g-3 pb-1">
+      <div class="">
+        <div class="form-check form-switch">
+          <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" checked>
+          <label class="form-check-label" for="flexSwitchCheckChecked">Checked switch checkbox input</label>
+        </div>
+      </div>
+
+
+      <div class="d-flex">
+        <div class="flex-fill">
+          <input type="text" class="form-control form-control-sm"
+                 placeholder="Historic" aria-label="Historic"
+                 disabled>
+        </div>
+        <div class="ps-1">
+          <input type="color" id="unicolor"
+                 class="form-control form-control-color form-control-sm"
+                 name="head" value="#B0E9D5">
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-3 pb-1">
+      <div class="d-flex">
+        <div class="flex-fill rounded-start">
+          <span class="form-control form-control-sm rounded rounded-start"> Nature </span>
+        </div>
+        <div class="ps-1">
+          <input type="color" id="unicolor"
+                 class="form-control form-control-color form-control-sm rounded-end"
+                 name="head" value="#B0E9D5">
+        </div>
+      </div>
+    </div>
+    -->
+
+    <hr>
+
+
+  </div>
+</div>
+
+
+<!-- The right offcanvas -->
+<div class="offcanvas offcanvas-end show"
+     tabindex="-1"
+     id="offcanvasRight"
+     data-overlay="false"
+     aria-labelledby="offcanvasRightLabel"
+     data-bs-scroll="true"
+     data-bs-backdrop="false">
+
+  <button id='trigger-offcanvas-right'
+          class="btn btn-light btn-outline-secondary offcanvas-btn position-absolute border-end-0 z-3 mt-2"
+          type="button"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#offcanvasRight"
+          aria-controls="offcanvasRight">
+    <!--<i class="bi bi-list"></i>-->
+    <i class="fas fa-caret-left"></i>
+  </button>
+
+  <!--
+  <div class="offcanvas-header">
+      <h5 id='post-shortcode'></h5>
+      <button type="button"
+         class="btn-close text-reset"
+         data-bs-dismiss="offcanvas"
+         aria-label="Close">
+      </button>
+  </div>
+  -->
+  <div id='offcanvas-body' class="offcanvas-body">
+    <div id='post-embed'>
+      <div class="alert alert-info" role="alert">
+        Tap or click a map marker to view the details!
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--
+<div class="p-2 bg-light text-dark rounded metric-pill shadow-sm"
+     style="position:fixed; bottom:60px; left:20px;
+        z-index:999; font-size: 0.75rem; width:130px;">
+  <span class="text-muted text-left small me-2 text-uppercase">Posts</span>
+  <span id="nposts" class="text-right fw-bolder h5 text-dark mb-0"></span>
+</div>
+<div class="p-2 bg-light text-dark rounded shadow-sm"
+     style="position:fixed; bottom:10px; left:20px;
+      z-index:999; font-size: 0.75rem; width: 130px;">
+  <span class="text-muted text-left small me-2 text-uppercase">Markers</span>
+  <span id="nmarkers" class="text-right fw-bolder h5 text-dark mb-0"></span>
+</div>
+-->
+
+
+<div class="p-2 bg-light text-dark rounded shadow-sm text-center"
+     style="position:fixed; bottom:10px; left:80px; transform:translateX(-50%);
+        z-index:999; font-size: 0.75rem; width:100px;">
+  <span class="text-muted small me-2 text-uppercase">Posts</span>
+  <span id="nposts" class="text-muted fw-bolder"></span>
+</div>
+<div class="p-2 bg-light text-dark rounded shadow-sm text-center"
+     style="position:fixed; bottom:10px; left:195px; transform:translateX(-50%);
+      z-index:999; font-size: 0.75rem; width: 120px;">
+  <span class="text-muted text-left small me-2 text-uppercase">Markers</span>
+  <span id="nmarkers" class="text-muted fw-bolder"></span>
+</div>
+
+</body>
+<script>
+
+    ATTRDICT = {
+        FLAIR: {
+            title: 'text',
+            shortcode: 'shortcode',
+            subtitle: 'display_name',
+            type: 'type',
+            latitude: 'lat',
+            longitude: 'lon'
+        },
+        BARD: {
+            title: 'name',
+            shortcode: 'shortcode',
+            subtitle: 'display_name',
+            latitude: 'lat',
+            longitude: 'lon',
+            type: 'type'
+        },
+        TMP: {
+            title: 'geo_name',
+            shortcode: 'ent_shortcode',
+            subtitle: 'geo_display_name',
+            latitude: 'geo_lat',
+            longitude: 'geo_lon',
+            type: 'geo_type',
+            caption: 'ent_text',
+            confidence: 'ent_confidence',
+            'class': 'geo_class',
+            rank: 'geo_place_rank'
+        },
+        GMN : {
+            title: 'title',
+            subtitle: 'subtitle',
+            latitude: 'lat',
+            longitude: 'lon',
+            shortcode: 'shortcode',
+            type: 'type',
+            'class': 'class',
+            confidence: 'confidence',
+            rank: 'rank'
+
+        }
+    }
+
+    ATTR = ATTRDICT.GMN
+
+    function get(obj, attr, mapping) {
+        return obj[mapping[attr]]
+    }
+
+    function get(obj, attr, mapping) {
+      // Check if `attr` is in `mapping` AND the resulting key is in `obj`
+      return (attr in mapping && mapping[attr] in obj) ? obj[mapping[attr]] : '';
+    }
+
+    function get(obj, attr, mapping) {
+      const targetKey = mapping?.[attr];
+
+      // Check if targetKey is truthy AND if that key exists in obj
+      if (targetKey && targetKey in obj) {
+        return obj[targetKey];
+      }
+      return '';
+    }
+
+
+    // -------------------------------------
+    // Helper functions
+    // -------------------------------------
+    String.prototype.format = function () {
+        // store arguments in an array
+        var args = arguments;
+        // use replace to iterate over the string
+        // select the match and check if related argument is present
+        // if yes, replace the match with the argument
+        return this.replace(/{([0-9]+)}/g, function (match, index) {
+            // check if the argument is present
+            return typeof args[index] == 'undefined' ? match : args[index];
+        });
+    };
+
+    String.prototype.title = function () {
+        return this.replace(/(?:^|\s)\w/g, function (match) {
+            return match.toUpperCase();
+        });
+    }
+
+    function objectToString(obj, fmt) {
+        let result = '';
+        for (let key in obj) {
+            if (obj.hasOwnProperty(key)) {
+                result += fmt.format(key, obj[key]);
+            }
+        }
+        return result;
+    }
+
+    function isFloat(n){
+      return Number(n) === n && n % 1 !== 0;
+    }
+
+    // -------------------------------------
+    // Templates
+    // -------------------------------------
+    /* Align title left and value right.
+      <div class="d-flex justify-content-between">
+        <span class="fw-bold">Class:</span>
+        <span class="text-nowrap">{7}</span>
+      </div>
+     */
+
+    /* .. note: Could this be done in a better way using some kind of
+                templates from either HTML or external libraries such
+                as jQuery?
+     */
+
+
+    var template_embed = `
+     <blockquote class="instagram-media"
+         data-instgrm-captioned
+         data-instgrm-permalink="https://www.instagram.com/p/{0}/?utm_source=ig_embed&amp;utm_campaign=loading"
+         data-instgrm-version="14" style="width:100%;">
+     </blockquote>
+  `
+
+    var template_popup = `
+
+    <div class="card mb-3 w" style="max-width: 540px;">
+      <div class="row no-gutters">
+        <!--
+        <div class="col-md-4">
+          <img src="..." class="card-img" alt="...">
+        </div>
+        -->
+        <div class="col-md-12">
+          <div class="card-body position-relative">
+
+            <a class="text-right position-absolute top-0 end-0 p-2"
+               href="https://www.google.com/maps/place/{0}/@{5},{6},17z/"
+               target="_blank">
+               <img src="https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico" height="22">
+            </a>
+
+            <h5 class="card-title lh-sm mb-0">{0}</h5>
+            <a href="https://www.instagram.com/p/{1}/?img_index=1"
+               class="small text-decoration-none"
+               target="_blank">{1}
+             </a>
+
+            <p class="card-text">{2}</p>
+            <!--<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>-->
+            <div class="small text-body text-opacity-50">
+             Caption: {3} <br>
+             Confidence: {4} <br>
+             Location: ({5}, {6})
+              <a href="https://www.google.com/maps/place/{5},{6}"
+                 class="small text-decoration-none"
+                 target="_blank"><i class="bi bi-geo-fill"></i>
+               </a><br>
+             Class: {7} <br>
+             Type: {8} <br>
+             Rank: {9} <br>
+
+            <a class="float-end"
+               data-bs-toggle="collapse"
+               data-bs-target="#collapseExample"
+               role="button"
+               aria-expanded="false"
+               aria-controls="collapseExample">
+              See more
+            </a><br>
+
+             <div class="collapse" id="collapseExample"> <hr> {10} </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  `
+
+    function get_popup_html(post, entry) {
+        /**
+         * Get the popup HTML content.
+         * \*entry.confidence.toFixed(3) || undefined,
+         */
+
+        return template_popup.format(
+            get(entry, 'title', ATTR), //.title(),
+            get(post, 'shortcode', ATTR),
+            get(entry, 'subtitle', ATTR),
+            get(entry, 'caption', ATTR),
+            get(entry, 'confidence', ATTR),
+            get(entry, 'latitude', ATTR).toFixed(3),
+            get(entry, 'longitude', ATTR).toFixed(3),
+            get(entry, 'class', ATTR),
+            get(entry, 'type', ATTR),
+            get(entry, 'rank', ATTR),
+
+            //entry.text,
+            //'--',
+            //entry.lat.toFixed(3),
+            //entry.lon.toFixed(3),
+            //entry.class,
+            //entry.type,
+            //entry.place_rank,
+            objectToString(entry, '{0}: {1}<br>')
+        )
+    }
+
+    // -----------------------------
+    // Customizing markers
+    // -----------------------------
+    // Div marker with fontawesome
+    const fontAwesomeIcon = L.divIcon({
+        html: '<i class="fa fa-map-marker fa-4x"></i>',
+        iconSize: [20, 20],
+        className: 'myDivIcon'
+    });
+
+    const houseIcon = L.divIcon({
+        html: '<div style="background-color:#c30b82;" class="marker-pin"><i class="bi bi-house"></i></div>',
+        iconSize: [20, 20],
+        className: 'leaflet-marker-icon'
+    });
+
+    // Div marker with own css
+    const pin = L.divIcon({
+        html: '<div class="pin1"></div>',
+        iconSize: [20, 20],
+        className: 'leaflet-marker-icon'
+    });
+
+    // Using an external library.
+    var glyph = L.icon.glyph({
+        prefix: 'fas', glyph: 'globe', // glyphColor: 'brown'
+    });
+
+
+    function get_beautify_icon(entry) {
+        /**
+         * Creates the arguments for beautify
+         *
+         * Ref: https://github.com/masajid390/BeautifyMarker
+         **/
+
+        // Merge information giving priority to <type>.
+        d = {
+            ...MARKER_STYLE[get(entry, 'class', ATTR)],
+            ...MARKER_STYLE[get(entry, 'type', ATTR)]
+        }
+
+        // Set missing values
+        d.backgroundColor = d.backgroundColor || 'blue'
+        d.borderColor = LightenDarkenColor(d.backgroundColor, -80)
+        d.textColor = d.textColor || 'white'
+
+        // Return icon
+        return L.BeautifyIcon.icon({
+            icon: d.icon || '',
+            //iconSize: L.point(22, 22), // circle: (22, 22), marker (28, 28)
+            //iconShape: 'circle', // marker, circle
+            //iconAnchor: L.point(11, 6),  // 11,6
+            //innerIconAnchor: L.point(0, 4), // 0,3
+            iconShape: 'marker',
+            borderWidth: 1,
+            borderStyle: 'solid',
+            borderColor: d.borderColor,
+            backgroundColor: d.backgroundColor,
+            textColor: d.textColor,
+            spin: false
+        })
+    }
+
+    function get_icon(i, d) {
+        /**
+         * This class choses the type of icon to use
+         **/
+        if (i == 1)
+            return fontAwesomeIcon
+        else if (i == 2)
+            return houseIcon
+        else if (i == 3)
+            return pin
+        else if (i == 4)
+            return glyph
+        else if (i == 5)
+            return get_beautify_icon(d)
+        else
+            return {}
+    }
+
+
+    // --------------------------------------------------
+    // Main
+    // --------------------------------------------------
+    // Constants
+    attribution_osm = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    attribution_gmp = '&copy; <a href="http://www.googlemaps.com/copyright">GoogleMaps</a>'
+
+
+    // Create map
+    var geo_ldn = [51.505, -0.09]
+    var geo_mdr = [40.4168, -3.7038]
+    var map = L.map('map', { preferCanvas: true }).setView(geo_mdr, 6);
+
+    // Add tile layer (need to give attribution)
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: attribution_osm
+    }).addTo(map);
+
+    // Add current location button.
+    L.control.locate({
+      strings: {
+        title: "Show my location"
+      }
+    }).addTo(map);
+
+    // 3. Get the user's current location
+    navigator.geolocation.getCurrentPosition(onSuccess, onError);
+
+    // 4. Success callback function
+    function onSuccess(position) {
+        // Get latitude and longitude from the position object
+        const lat = position.coords.latitude;
+        const lon = position.coords.longitude;
+        // A good zoom level to show a street-level view
+        const zoomLevel = 13;
+        // Center the map on the user's location
+        map.setView([lat, lon], zoomLevel);
+        // Add a marker at the user's location
+        L.marker([lat, lon])
+            .addTo(map)
+            .bindPopup("You are here!")
+            .openPopup();
+    }
+
+    // 7. Error callback function
+    function onError(err) {
+        console.warn(`ERROR(${err.code}): ${err.message}`);
+        // If an error occurs, the map will just stay at the default view.
+        // You could add a message to the user here.
+    }
+
+    /*
+    // Add a marker and open it.
+    var marker = L.marker([51.5, -0.09]).addTo(map);
+    marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+    var popup = L.popup()
+      .setLatLng([51.513, -0.09])
+      .setContent("I am a standalone popup.")
+      .openOn(map);
+
+    // Show latitude and longitude on click.
+    var popup = L.popup();
+    function onMapClick(e) {
+        popup
+            .setLatLng(e.latlng)
+            .setContent("You clicked the map at " + e.latlng.toString())
+            .openOn(map);
+    }
+    map.on('click', onMapClick);
+    */
+
+    // Show loaded data
+    console.log("Data:", data)
+
+    var template_legend = `
+        <div class="input-group mb-1 input-group-sm d-flex">
+          <div class="input-group-text flex-0">
+            <input class="form-check-input mt-0" type="checkbox" value="" aria-label="" checked>
+          </div>
+          <input type="text" class="form-control form-control-sm w-75"
+                 aria-label="Text input with checkbox" placeholder="{0}">
+          <input type="color" id="unicolor"
+             class="form-control form-control-color form-control-sm"
+             name="head" value="{1}">
+        </div>`
+
+    function populateLegend() {
+
+      // Group by color
+      // Show only those in data
+
+      // Group by type
+      const result = Object.groupBy(data, ({ type }) => type);
+
+
+      // Display legend
+      Object.entries(result).forEach(([key, value]) => {
+        var d = MARKER_STYLE[key] || {}
+        var c = d.backgroundColor || '#D3D3D3'
+        var tmp = template_legend.format(key,  c)
+        $('#legend-markers').append(tmp)
+      });
+
+
+        /*
+      // Using array methods
+      Object.entries(MARKER_STYLE).forEach(([key, value]) => {
+          console.log(template_legend)
+          $('#legend-markers').append(template_legend.format(
+              key, value.backgroundColor || '#D3D3D3'
+          ))
+        //console.log(`${key} ${value}`); // "a 5", "b 7", "c 9"
+      });
+      */
+    }
+
+
+    function getShortcodeCount(data) {
+       return new Set(data.map(item => item.shortcode)).size;
+    }
+
+    function getMarkersCount() {
+      return data.reduce((accumulator, currentValue) => {
+        // 1. Get the locations array from the current post object.
+        const locationsArray = currentValue.gemini_locations;
+        // 2. Check if it's a valid array. If not (null, undefined, etc.), treat length as 0.
+        const locationCount = Array.isArray(locationsArray) ? locationsArray.length : 0;
+        // 3. Add the count to the running total (accumulator).
+        return accumulator + locationCount;
+      }, 0);
+    }
+
+    // A $( document ).ready() block.
+    $(document).ready(function () {
+
+
+      // -------------------------------------------------------
+      // Populate number of posts and number of locations
+      // -------------------------------------------------------
+      var n_posts = getShortcodeCount(data)
+      var n_markers = getMarkersCount()
+
+      // Include information
+      $('#info').html("Posts: {0} | Markers: {1}".format(n_posts, n_markers))
+      $('#nposts').html(n_posts)
+      $('#nmarkers').html(n_markers)
+
+      var markers = L.markerClusterGroup();
+
+      // -------------------------------------------------------
+      // Populate Markers
+      // -------------------------------------------------------
+      $.each(data, function (index, value) {
+
+        // Check if gemini_locations exists and is an array before trying to loop
+        if (Array.isArray(value.gemini_locations)) {
+
+          // --- INNER LOOP ---
+          $.each(value.gemini_locations, function (locIndex, location) {
+
+            // Get latitude and longitude
+            var latitude = get(location, 'latitude', ATTR)
+            var longitude = get(location, 'latitude', ATTR)
+            if (!(isFloat(latitude)) || !(isFloat(longitude)))
+                return
+
+            if (value.shortcode == 'CyAzk8br2LM') {
+              console.log(value)
+              console.log(location)
+            }
+
+            // Set icon information
+            value.icon = get_icon(5, location)
+
+            // Add marker to map
+            var marker = L.marker([
+                get(location, 'latitude', ATTR),
+                get(location, 'longitude', ATTR),
+            ], value) //.addTo(map);
+
+            markers.addLayer(marker)
+
+            // Add popup
+            marker.bindPopup(get_popup_html(value, location))
+
+            // On click
+            marker.on('click', function (e) {
+                //var shortcode = gdetailset(e.target.options, 'shortcode', ATTR)
+
+                const obj = e.target.options;
+
+                // Create HTML alert.
+                const alertHtml = (obj.page > 1)
+                   ? `<div class="alert alert-warning" role="alert">
+                         This pin corresponds to image <b>${obj.page}</b>.
+                       </div>`
+                   : '';
+
+                // Create side panel HTML post.
+                let postHtml = alertHtml + template_embed.format(obj.shortcode);
+
+                // Append and run Instagram embeds.
+                $('#post-embed').html(postHtml)
+                window.instgrm.Embeds.process()
+
+                })
+            })
+
+            //const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+            //
+            populateLegend()
+
+
+
+          }
+      });
+      // 4. Add the Cluster Group to the Map
+      map.addLayer(markers);
+
+    });
+
+
+    /*
+    // Examples to get data.
+    import data from './data.json';
+    console.log(data)
+
+    function grabData() {
+    return fetch("./data/_summary.json")
+      .then(response => response.json());
+    }
+
+    grabData().then(data => console.log(data));
+    const sample = require('./data/_summary.json');
+    console.log(sample)
+
+    fetch('./data/_summary.json')
+      .then(response => response.json())
+      .then(data => console.log(data))
+      .catch(error => console.log(error));
+    */
+
+
+
+  /*
+
+  <button aria-label="Siguiente" class=" _afxw _al46 _al47" tabindex="-1"><div class=" _9zm2"></div></button>
+
+   */
+
+</script>
+</html>
