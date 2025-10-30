@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Kyoto",
+        "subtitle": "Historic city in Japan, known for its temples and gardens.",
+        "lat": 35.021071,
+        "lon": 135.755494,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kokonoe Sakura",
+        "subtitle": "Ancient cherry tree within Kyoto Imperial Palace, famous for its single blooming branch.",
+        "lat": 35.0256,
+        "lon": 135.7621,
+        "type": "tree",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Kokonoe Sakura",
+            "Kyoto Imperial Palace",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Yuryu-no-matsu",
+        "subtitle": "One of Japan's greatest pine trees, known for its impressive 50-meter spread.",
+        "lat": 35.6596,
+        "lon": 135.0863,
+        "type": "tree",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Yuryu-no-matsu",
+            "Tango-cho",
+            "Kyotango City",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "title": "Munich",
+        "subtitle": "Major city in Bavaria, Germany, known for Oktoberfest",
+        "lat": 48.137154,
+        "lon": 11.576124,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Munich",
+            "Bavaria",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Rio de Janeiro",
+        "subtitle": "Coastal city in Brazil, famous for its beaches and Carnival",
+        "lat": -22.906847,
+        "lon": -43.172897,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Rio de Janeiro",
+            "Rio de Janeiro",
+            "Brazil"
+        ]
+    },
+    {
+        "title": "Porto",
+        "subtitle": "Coastal city in northwest Portugal, known for Port wine",
+        "lat": 41.14961,
+        "lon": -8.61099,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Porto",
+            "Porto District",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "Venice",
+        "subtitle": "City in northeastern Italy built on more than 100 small islands",
+        "lat": 45.437191,
+        "lon": 12.33459,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 4,
+        "hierarchy": [
+            "Venice",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Dublin",
+        "subtitle": "Capital and largest city of Ireland, on the east coast",
+        "lat": 53.349805,
+        "lon": -6.26031,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 5,
+        "hierarchy": [
+            "Dublin",
+            "County Dublin",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Edinburgh",
+        "subtitle": "Capital city of Scotland, United Kingdom, renowned for its castle",
+        "lat": 55.953251,
+        "lon": -3.188267,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 6,
+        "hierarchy": [
+            "Edinburgh",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Tianjin",
+        "subtitle": "Major port city in northern China, administered as a municipality",
+        "lat": 39.084158,
+        "lon": 117.200983,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 7,
+        "hierarchy": [
+            "Tianjin",
+            "China"
+        ]
+    },
+    {
+        "title": "G\u00f6rlitz",
+        "subtitle": "Town in the German state of Saxony on the Lusatian Neisse River",
+        "lat": 51.151744,
+        "lon": 14.980687,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 8,
+        "hierarchy": [
+            "G\u00f6rlitz",
+            "Saxony",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Amsterdam",
+        "subtitle": "Capital city of the Netherlands, known for its canals and art",
+        "lat": 52.370216,
+        "lon": 4.895168,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 9,
+        "hierarchy": [
+            "Amsterdam",
+            "North Holland",
+            "Netherlands"
+        ]
+    },
+    {
+        "title": "Zhongshuge Bookstore",
+        "subtitle": "Stunning bookstore known for its unique architecture, Dujiangyan branch",
+        "lat": 30.9995,
+        "lon": 103.6267,
+        "type": "bookstore",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Zhongshuge Bookstore",
+            "Dujiangyan",
+            "Chengdu",
+            "Sichuan",
+            "China"
+        ]
+    }
+]

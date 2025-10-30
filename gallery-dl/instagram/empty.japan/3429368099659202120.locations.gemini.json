@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Kusatsu Onsen",
+        "subtitle": "Popular hot spring resort town in Gunma Prefecture, Japan",
+        "lat": 36.6201,
+        "lon": 138.5802,
+        "type": "spa_resort",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": null,
+        "hierarchy": [
+            "Kusatsu Onsen",
+            "Gunma Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Sai-no-kawara",
+        "subtitle": "Large outdoor public bath in Kusatsu Onsen, tattoo-friendly",
+        "lat": 36.6231,
+        "lon": 138.5888,
+        "type": "onsen",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Sai-no-kawara Rotenburo",
+            "Kusatsu Onsen",
+            "Gunma Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Otaki-no-yu",
+        "subtitle": "Public bath facility in Kusatsu Onsen known for its 'awase-yu' style",
+        "lat": 36.6225,
+        "lon": 138.5866,
+        "type": "onsen",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Otaki-no-yu",
+            "Kusatsu Onsen",
+            "Gunma Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Goza-no-yu",
+        "subtitle": "Historic public bathhouse in Kusatsu Onsen, offering traditional atmosphere",
+        "lat": 36.6235,
+        "lon": 138.5898,
+        "type": "onsen",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Goza-no-yu",
+            "Kusatsu Onsen",
+            "Gunma Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kinosaki Onsen",
+        "subtitle": "Historic onsen town in Hyogo Prefecture, Japan, known for its 7 public baths",
+        "lat": 35.62,
+        "lon": 134.82,
+        "type": "spa_resort",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": null,
+        "hierarchy": [
+            "Kinosaki Onsen",
+            "Toyooka",
+            "Hyogo Prefecture",
+            "Japan"
+        ]
+    }
+]

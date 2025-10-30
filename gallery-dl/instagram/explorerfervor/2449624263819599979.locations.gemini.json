@@ -1,0 +1,140 @@
+[
+    {
+        "title": "Scala dei Turchi",
+        "subtitle": "White marl cliff in Realmonte, Sicily, Italy",
+        "lat": 37.2917,
+        "lon": 13.5298,
+        "type": "natural_feature",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Scala dei Turchi",
+            "Realmonte",
+            "Agrigento",
+            "Sicily",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Porto Flavia",
+        "subtitle": "Historic mining port and gallery in Masua, Sardinia",
+        "lat": 39.3512,
+        "lon": 8.4411,
+        "type": "historic_mine",
+        "class": "building",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Porto Flavia",
+            "Iglesias",
+            "Sardinia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Castro Marina",
+        "subtitle": "Coastal town and marina in Castro, Puglia, Italy",
+        "lat": 40.0028,
+        "lon": 18.4239,
+        "type": "locality",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Castro Marina",
+            "Castro",
+            "Lecce",
+            "Puglia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Marina Serra",
+        "subtitle": "Coastal village and natural inlet in Tricase, Puglia, Italy",
+        "lat": 39.9149,
+        "lon": 18.3969,
+        "type": "locality",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Marina Serra",
+            "Tricase",
+            "Lecce",
+            "Puglia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Cala Goloritz\u00e9",
+        "subtitle": "Scenic beach with arch and pinnacle, Baunei, Sardinia",
+        "lat": 40.0913,
+        "lon": 9.6836,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Cala Goloritz\u00e9",
+            "Baunei",
+            "Nuoro",
+            "Sardinia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Sardinia",
+        "subtitle": "Large autonomous Italian island in the Mediterranean Sea",
+        "lat": 40.0,
+        "lon": 9.0,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 6,
+        "page": 6,
+        "hierarchy": [
+            "Sardinia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Monterosso al Mare",
+        "subtitle": "Northernmost village of Cinque Terre, Liguria, Italy",
+        "lat": 44.145,
+        "lon": 9.654,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 7,
+        "hierarchy": [
+            "Monterosso al Mare",
+            "La Spezia",
+            "Liguria",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Tropea",
+        "subtitle": "Historic cliff-top town in Calabria, Southern Italy",
+        "lat": 38.6833,
+        "lon": 15.9,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 8,
+        "hierarchy": [
+            "Tropea",
+            "Vibo Valentia",
+            "Calabria",
+            "Italy"
+        ]
+    }
+]

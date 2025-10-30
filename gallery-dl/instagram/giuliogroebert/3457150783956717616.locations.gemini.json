@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Reinebringen",
+        "subtitle": "A mountain peak in the Lofoten Islands, renowned for its panoramic views",
+        "lat": 67.923889,
+        "lon": 13.080556,
+        "type": "mountain_peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Reinebringen",
+            "Reine",
+            "Moskenes Municipality",
+            "Nordland",
+            "Norway"
+        ]
+    },
+    {
+        "title": "Lofoten",
+        "subtitle": "An archipelago in Nordland county, Norway, known for its dramatic scenery",
+        "lat": 68.125,
+        "lon": 13.5,
+        "type": "archipelago",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": 2,
+        "hierarchy": [
+            "Lofoten",
+            "Nordland",
+            "Norway"
+        ]
+    }
+]

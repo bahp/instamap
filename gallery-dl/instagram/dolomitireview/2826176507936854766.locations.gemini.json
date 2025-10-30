@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Passo Giau",
+        "subtitle": "Mountain pass in the Dolomites, Veneto, Italy",
+        "lat": 46.48281,
+        "lon": 12.0461,
+        "type": "mountain_pass",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": null,
+        "hierarchy": [
+            "Passo Giau",
+            "Colle Santa Lucia",
+            "Belluno",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Dolomiti Bellunesi National Park",
+        "subtitle": "National park in the Dolomites, Belluno, Italy",
+        "lat": 46.166667,
+        "lon": 12.166667,
+        "type": "national_park",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": null,
+        "hierarchy": [
+            "Dolomiti Bellunesi National Park",
+            "Belluno",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Veneto",
+        "subtitle": "Region in northeastern Italy",
+        "lat": 45.6565,
+        "lon": 11.9567,
+        "type": "state",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 6,
+        "page": null,
+        "hierarchy": [
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Monte Averau",
+        "subtitle": "Mountain peak in the Dolomites, Veneto, Italy",
+        "lat": 46.495,
+        "lon": 12.04,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Monte Averau",
+            "Cortina d'Ampezzo",
+            "Belluno",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Monte Pore",
+        "subtitle": "Mountain peak in the Dolomites, Veneto, Italy",
+        "lat": 46.4678,
+        "lon": 12.0075,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Monte Pore",
+            "Colle Santa Lucia",
+            "Belluno",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Marmolada",
+        "subtitle": "Highest mountain of the Dolomites, Veneto, Italy",
+        "lat": 46.435,
+        "lon": 11.867,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Marmolada",
+            "Rocca Pietore",
+            "Belluno",
+            "Veneto",
+            "Italy"
+        ]
+    }
+]

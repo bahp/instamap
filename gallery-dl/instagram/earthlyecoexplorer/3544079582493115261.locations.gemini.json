@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Stoos",
+        "subtitle": "Car-free village and mountain resort in Switzerland",
+        "lat": 46.9926,
+        "lon": 8.6577,
+        "type": "village",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": null,
+        "hierarchy": [
+            "Stoos",
+            "Schwyz",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Klingenstock",
+        "subtitle": "Mountain peak and starting point for a ridge hike in Stoos",
+        "lat": 46.9859,
+        "lon": 8.6657,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": null,
+        "hierarchy": [
+            "Klingenstock",
+            "Stoos",
+            "Schwyz",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Fronalpstock",
+        "subtitle": "Mountain peak and end point for a ridge hike in Stoos with 360-degree views",
+        "lat": 47.0006,
+        "lon": 8.6888,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": null,
+        "hierarchy": [
+            "Fronalpstock",
+            "Stoos",
+            "Schwyz",
+            "Switzerland"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Java",
+        "subtitle": "Large island in Indonesia, home to the capital Jakarta",
+        "lat": -7.5,
+        "lon": 110.0,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 1,
+        "hierarchy": [
+            "Java",
+            "Indonesia"
+        ]
+    },
+    {
+        "title": "Sumatra",
+        "subtitle": "Large island in western Indonesia known for diverse ecosystems",
+        "lat": -0.5,
+        "lon": 101.5,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Sumatra",
+            "Indonesia"
+        ]
+    },
+    {
+        "title": "Borneo",
+        "subtitle": "Third-largest island in the world, shared by Indonesia, Malaysia, and Brunei",
+        "lat": 1.0,
+        "lon": 114.0,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 3,
+        "hierarchy": [
+            "Borneo",
+            "Indonesia"
+        ]
+    },
+    {
+        "title": "Sulawesi",
+        "subtitle": "Large, distinctive 'K-shaped' island in eastern Indonesia",
+        "lat": -2.0,
+        "lon": 121.0,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 4,
+        "hierarchy": [
+            "Sulawesi",
+            "Indonesia"
+        ]
+    },
+    {
+        "title": "Bali",
+        "subtitle": "Famous Indonesian island known for its volcanic mountains and coral reefs",
+        "lat": -8.4,
+        "lon": 115.15,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 5,
+        "hierarchy": [
+            "Bali",
+            "Indonesia"
+        ]
+    }
+]

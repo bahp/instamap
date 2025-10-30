@@ -1,0 +1,88 @@
+[
+    {
+        "title": "Mt. Aso",
+        "subtitle": "Active volcano in Kumamoto Prefecture, Japan",
+        "lat": 32.8856,
+        "lon": 131.1099,
+        "type": "volcano",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Mount Aso",
+            "Aso",
+            "Kumamoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mt. Norikura",
+        "subtitle": "Stratovolcano in the Hida Mountains, Japan",
+        "lat": 36.113,
+        "lon": 137.5627,
+        "type": "volcano",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Mount Norikura",
+            "Matsumoto",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Momoiwa Trail",
+        "subtitle": "Scenic hiking path on Rebun Island, Hokkaido, Japan",
+        "lat": 45.2974,
+        "lon": 141.056,
+        "type": "footpath",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Momoiwa Trail",
+            "Rebun Island",
+            "Hokkaido Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Magose Pass",
+        "subtitle": "Historic mountain pass, part of Kumano Kodo, Japan",
+        "lat": 34.0044,
+        "lon": 136.2166,
+        "type": "pass",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Magose Pass",
+            "Owase",
+            "Mie Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Yamadera",
+        "subtitle": "Risshaku-ji Temple, scenic mountain temple in Yamagata, Japan",
+        "lat": 38.2831,
+        "lon": 140.4357,
+        "type": "temple",
+        "class": "religious",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Risshaku-ji Temple",
+            "Yamadera",
+            "Yamagata",
+            "Yamagata Prefecture",
+            "Japan"
+        ]
+    }
+]

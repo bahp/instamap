@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Volterra",
+        "subtitle": "Ancient city in Tuscany, Italy",
+        "lat": 43.4002,
+        "lon": 10.8601,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Volterra",
+            "Province of Pisa",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Province of Pisa",
+        "subtitle": "Province in the Tuscany region of Italy",
+        "lat": 43.34,
+        "lon": 10.6,
+        "type": "county",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 5,
+        "page": 2,
+        "hierarchy": [
+            "Province of Pisa",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Tuscany",
+        "subtitle": "Region in central Italy, known for its landscapes and artistic heritage",
+        "lat": 43.5,
+        "lon": 11.0,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 3,
+        "hierarchy": [
+            "Tuscany",
+            "Italy"
+        ]
+    }
+]

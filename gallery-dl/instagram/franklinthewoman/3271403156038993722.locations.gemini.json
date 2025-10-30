@@ -1,0 +1,277 @@
+[
+    {
+        "title": "Mt. Yoshino",
+        "subtitle": "Scenic mountain renowned for its beautiful cherry blossoms.",
+        "lat": 34.364,
+        "lon": 135.867,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Mt. Yoshino",
+            "Yoshino Town",
+            "Yoshino District",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Takami no Sato",
+        "subtitle": "Guesthouse and mountain retreat offering panoramic views.",
+        "lat": 34.359,
+        "lon": 136.007,
+        "type": "guesthouse",
+        "class": "lodging",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Takami no Sato",
+            "Higashiyoshino Village",
+            "Yoshino District",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tsubosaka-dera",
+        "subtitle": "Ancient Buddhist temple famous for its giant Kannon statue.",
+        "lat": 34.375,
+        "lon": 135.787,
+        "type": "buddhist_temple",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Tsubosaka-dera",
+            "Takatori Town",
+            "Takaichi District",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Fujiwara Castle Ruins",
+        "subtitle": "Archaeological site of Japan's former imperial capital, Fujiwara-ky\u014d.",
+        "lat": 34.482,
+        "lon": 135.795,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 0.97,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Fujiwara-ky\u014d Site",
+            "Kashihara City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Omiwa Shrine",
+        "subtitle": "One of Japan's oldest Shinto shrines, revered for Mount Miwa.",
+        "lat": 34.545,
+        "lon": 135.85,
+        "type": "shinto_shrine",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Omiwa Shrine",
+            "Sakurai City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mt. Katsuragi",
+        "subtitle": "Mountain on the Nara-Osaka border, known for seasonal wildflowers.",
+        "lat": 34.408,
+        "lon": 135.698,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Mt. Katsuragi",
+            "Gose City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Fujiwara Castle Ruins",
+        "subtitle": "Archaeological site of Japan's former imperial capital, Fujiwara-ky\u014d.",
+        "lat": 34.482,
+        "lon": 135.795,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 0.97,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Fujiwara-ky\u014d Site",
+            "Kashihara City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ryosenji",
+        "subtitle": "Ancient Buddhist temple and part of the Saigoku Kannon Pilgrimage.",
+        "lat": 34.708,
+        "lon": 135.787,
+        "type": "buddhist_temple",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Ryosen-ji",
+            "Nara City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Asuka",
+        "subtitle": "Historic village and region, cradle of early Japanese civilization.",
+        "lat": 34.457,
+        "lon": 135.827,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 9,
+        "hierarchy": [
+            "Asuka Village",
+            "Takaichi District",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Rice Terraces Villa Sasayuri Ann",
+        "subtitle": "Luxury villa accommodation nestled amidst scenic rice terraces.",
+        "lat": 34.421,
+        "lon": 135.952,
+        "type": "villa",
+        "class": "lodging",
+        "confidence": 0.96,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Sasayuri-Ann",
+            "Uda City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shigisan",
+        "subtitle": "Mountain area featuring Chogosonshi-ji Temple, known for tiger legends.",
+        "lat": 34.587,
+        "lon": 135.688,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 11,
+        "hierarchy": [
+            "Mount Shigi",
+            "Heguri Town",
+            "Ikoma District",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kasuga Taisha",
+        "subtitle": "Ancient Shinto shrine in Nara Park, famous for its lantern-lined paths.",
+        "lat": 34.68,
+        "lon": 135.848,
+        "type": "shinto_shrine",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 12,
+        "hierarchy": [
+            "Kasuga Taisha",
+            "Nara City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tanzan Shrine",
+        "subtitle": "Shinto shrine in Sakurai, known for its iconic thirteen-storied pagoda.",
+        "lat": 34.444,
+        "lon": 135.875,
+        "type": "shinto_shrine",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 13,
+        "hierarchy": [
+            "Tanzan Shrine",
+            "Sakurai City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shigisan Kanko Hotel",
+        "subtitle": "Hotel with hot springs located on Mount Shigi, offering scenic views.",
+        "lat": 34.59,
+        "lon": 135.689,
+        "type": "hotel",
+        "class": "lodging",
+        "confidence": 0.97,
+        "rank": 1,
+        "page": 14,
+        "hierarchy": [
+            "Shigisan Kanko Hotel",
+            "Heguri Town",
+            "Ikoma District",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Fujiwara Castle Ruins",
+        "subtitle": "Archaeological site of Japan's former imperial capital, Fujiwara-ky\u014d.",
+        "lat": 34.482,
+        "lon": 135.795,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 0.97,
+        "rank": 2,
+        "page": 15,
+        "hierarchy": [
+            "Fujiwara-ky\u014d Site",
+            "Kashihara City",
+            "Nara Prefecture",
+            "Kansai Region",
+            "Japan"
+        ]
+    }
+]
