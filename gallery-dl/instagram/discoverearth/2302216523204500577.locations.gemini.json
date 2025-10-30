@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Mykonos",
+        "subtitle": "Greek island in the Aegean Sea",
+        "lat": 37.4462,
+        "lon": 25.3287,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Mykonos",
+            "South Aegean",
+            "Greece"
+        ]
+    },
+    {
+        "title": "Santorini",
+        "subtitle": "Volcanic island in the Aegean Sea, Greece",
+        "lat": 36.3932,
+        "lon": 25.4615,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Santorini",
+            "South Aegean",
+            "Greece"
+        ]
+    },
+    {
+        "title": "Paros",
+        "subtitle": "Greek island in the central Aegean Sea",
+        "lat": 37.0469,
+        "lon": 25.1557,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Paros",
+            "South Aegean",
+            "Greece"
+        ]
+    }
+]

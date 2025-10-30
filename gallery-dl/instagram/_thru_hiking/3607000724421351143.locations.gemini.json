@@ -1,0 +1,81 @@
+[
+    {
+        "title": "LEJOG Trail",
+        "subtitle": "Long-distance thru-hiking trail across Great Britain",
+        "lat": 54.3414546,
+        "lon": -3.3080076,
+        "type": "footpath",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "LEJOG Trail",
+            "Great Britain",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Slovenian Mountain Trail",
+        "subtitle": "Scenic route crossing Slovenia's three mountain ranges",
+        "lat": 46.3312891,
+        "lon": 14.5052204,
+        "type": "route",
+        "class": "sport",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Slovenian Mountain Trail",
+            "Slovenia"
+        ]
+    },
+    {
+        "title": "Nord S\u00fcd Trail",
+        "subtitle": "Long-distance hiking trail connecting Germany's best routes",
+        "lat": 50.8441113,
+        "lon": 9.7719639,
+        "type": "route",
+        "class": "sport",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Nord S\u00fcd Trail",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Via Dinarica",
+        "subtitle": "Thru-hiking trail traversing the Dinaric Alps across the Western Balkans",
+        "lat": 43.8344583,
+        "lon": 18.0683377,
+        "type": "route",
+        "class": "sport",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Via Dinarica",
+            "Dinaric Alps",
+            "Balkans"
+        ]
+    },
+    {
+        "title": "Haute Route Pyrenees",
+        "subtitle": "High-altitude journey through the Pyrenees from Atlantic to Mediterranean",
+        "lat": 42.6074258,
+        "lon": 0.1264639,
+        "type": "path",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Haute Route Pyrenees",
+            "Pyrenees Mountains",
+            "France",
+            "Spain"
+        ]
+    }
+]

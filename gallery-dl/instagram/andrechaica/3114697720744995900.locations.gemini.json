@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Restaurante Ponto Final",
+        "subtitle": "Restaurant with views of Lisbon across the Tagus River",
+        "lat": 38.687556,
+        "lon": -9.100918,
+        "type": "restaurant",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Restaurante Ponto Final",
+            "Cacilhas",
+            "Almada",
+            "Lisboa District",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "Cacilhas",
+        "subtitle": "Locality and former parish in Almada, on the Tagus River",
+        "lat": 38.6874,
+        "lon": -9.1039,
+        "type": "suburb",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Cacilhas",
+            "Almada",
+            "Lisboa District",
+            "Portugal"
+        ]
+    }
+]

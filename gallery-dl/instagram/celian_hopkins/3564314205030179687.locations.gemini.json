@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Mont Ventoux",
+        "subtitle": "Iconic mountain in Provence-Alpes-C\u00f4te d'Azur, France, famous for cycling",
+        "lat": 44.1746,
+        "lon": 5.2796,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Mont Ventoux",
+            "Provence-Alpes-C\u00f4te d'Azur",
+            "France"
+        ]
+    },
+    {
+        "title": "Passo Gardena",
+        "subtitle": "Dolomites mountain pass in South Tyrol, Italy, part of Sella Ronda",
+        "lat": 46.5746,
+        "lon": 11.8021,
+        "type": "mountain pass",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Passo Gardena",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Passo Stelvio",
+        "subtitle": "High mountain pass in the Eastern Rhaetian Alps, South Tyrol, Italy",
+        "lat": 46.5284,
+        "lon": 10.4578,
+        "type": "mountain pass",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Passo Stelvio",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Col de la Bonette",
+        "subtitle": "High mountain pass in the French Alps, highest paved road in France",
+        "lat": 44.3831,
+        "lon": 6.8361,
+        "type": "mountain pass",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Col de la Bonette",
+            "Provence-Alpes-C\u00f4te d'Azur",
+            "France"
+        ]
+    }
+]

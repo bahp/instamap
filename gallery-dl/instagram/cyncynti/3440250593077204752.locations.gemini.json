@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Zhangjiajie National Forest Park",
+        "subtitle": "A scenic national forest park in Zhangjiajie, Hunan, China.",
+        "lat": 29.349909,
+        "lon": 110.457814,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Zhangjiajie National Forest Park",
+            "Wulingyuan District",
+            "Zhangjiajie",
+            "Hunan",
+            "China"
+        ]
+    },
+    {
+        "title": "Tianmen Mountain National Forest Park",
+        "subtitle": "A famous national park centered around Tianmen Mountain in Zhangjiajie, China.",
+        "lat": 29.026778,
+        "lon": 110.48625,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Tianmen Mountain National Forest Park",
+            "Tianmen Mountain",
+            "Yongding District",
+            "Zhangjiajie",
+            "Hunan",
+            "China"
+        ]
+    },
+    {
+        "title": "Zhangjiajie Grand Canyon Glass Bridge",
+        "subtitle": "A famous glass-bottomed bridge in Zhangjiajie Grand Canyon, China.",
+        "lat": 29.3567681,
+        "lon": 110.6389337,
+        "type": "bridge",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Zhangjiajie Grand Canyon Glass Bridge",
+            "Zhangjiajie Grand Canyon Scenic Area",
+            "Cili County",
+            "Zhangjiajie",
+            "Hunan",
+            "China"
+        ]
+    },
+    {
+        "title": "Furong Ancient Town",
+        "subtitle": "A famous waterfall town in Xiangxi, Hunan, China.",
+        "lat": 28.9950785,
+        "lon": 109.970222,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Furong Ancient Town",
+            "Yongshun County",
+            "Xiangxi Tujia and Miao Autonomous Prefecture",
+            "Hunan",
+            "China"
+        ]
+    },
+    {
+        "title": "Fenghuang Ancient Town",
+        "subtitle": "A well-preserved ancient town and UNESCO World Heritage site in Hunan, China.",
+        "lat": 27.957582,
+        "lon": 109.593026,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Fenghuang Ancient Town",
+            "Fenghuang County",
+            "Xiangxi Tujia and Miao Autonomous Prefecture",
+            "Hunan",
+            "China"
+        ]
+    }
+]

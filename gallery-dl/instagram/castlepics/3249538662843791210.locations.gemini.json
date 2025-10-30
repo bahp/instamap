@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Satzvey Castle",
+        "subtitle": "One of the most beautiful moated castles in the Rhineland, Germany.",
+        "lat": 50.6094191,
+        "lon": 6.7758376,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Satzvey Castle",
+            "Mechernich",
+            "North Rhine-Westphalia",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Germany",
+        "subtitle": "A country in Central and Western Europe.",
+        "lat": 51.0,
+        "lon": 9.0,
+        "type": "country",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 7,
+        "page": 2,
+        "hierarchy": [
+            "Germany"
+        ]
+    }
+]

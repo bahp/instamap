@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Mrauk U",
+        "subtitle": "Ancient town and archaeological site in Rakhine State, Myanmar",
+        "lat": 20.5975,
+        "lon": 93.1878,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Mrauk U",
+            "Rakhine State",
+            "Myanmar"
+        ]
+    },
+    {
+        "title": "Inle Lake",
+        "subtitle": "Freshwater lake in Shan State, known for its floating gardens and leg-rowers",
+        "lat": 20.5167,
+        "lon": 96.9167,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": 2,
+        "hierarchy": [
+            "Inle Lake",
+            "Shan State",
+            "Myanmar"
+        ]
+    }
+]

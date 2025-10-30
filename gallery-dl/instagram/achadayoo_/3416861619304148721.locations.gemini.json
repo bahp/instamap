@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Kamikochi",
+        "subtitle": "Scenic valley and popular hiking destination in the Northern Japan Alps.",
+        "lat": 36.2576,
+        "lon": 137.6468,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Kamikochi",
+            "Matsumoto",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nagano Prefecture",
+        "subtitle": "Prefecture of Japan located in the Ch\u016bbu region.",
+        "lat": 36.2167,
+        "lon": 138.1833,
+        "type": "prefecture",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    }
+]

@@ -1,0 +1,351 @@
+[
+    {
+        "title": "San Gimignano",
+        "subtitle": "Tower town with dreamy countryside views.",
+        "lat": 43.4682,
+        "lon": 11.0427,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "San Gimignano",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Chianti",
+        "subtitle": "Rolling vineyards, wine tasting tours, and olive groves.",
+        "lat": 43.5167,
+        "lon": 11.3833,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Chianti",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Montepulciano",
+        "subtitle": "Wine, Renaissance vibes, and hilltop sunsets.",
+        "lat": 43.0906,
+        "lon": 11.7854,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Montepulciano",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Cipressi di Monticchiello",
+        "subtitle": "Iconic winding road and cypress lanes.",
+        "lat": 43.0537,
+        "lon": 11.7001,
+        "type": "viewpoint",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Cipressi di Monticchiello",
+            "Monticchiello",
+            "Pienza",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Montefioralle",
+        "subtitle": "Tiny stone village straight out of a fairytale.",
+        "lat": 43.5855,
+        "lon": 11.3197,
+        "type": "hamlet",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Montefioralle",
+            "Greve in Chianti",
+            "Florence",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Potere Belvedere",
+        "subtitle": "Catch one of the most magical sunrises in Val d\u2019Orcia.",
+        "lat": 43.0485,
+        "lon": 11.6033,
+        "type": "farm",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Potere Belvedere",
+            "Castiglione d'Orcia",
+            "Val d'Orcia",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Agriturismo Baccoleno",
+        "subtitle": "Golden hour paradise and dinner with views.",
+        "lat": 43.1979,
+        "lon": 11.6669,
+        "type": "farm_stay",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Agriturismo Baccoleno",
+            "Trequanda",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Monticchiello",
+        "subtitle": "Authentic Tuscan village with picture-perfect corners.",
+        "lat": 43.0649,
+        "lon": 11.7107,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 8,
+        "hierarchy": [
+            "Monticchiello",
+            "Pienza",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Arezzo",
+        "subtitle": "Historic art, architecture, and the Piazza Grande.",
+        "lat": 43.4633,
+        "lon": 11.8845,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 9,
+        "hierarchy": [
+            "Arezzo",
+            "Province of Arezzo",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Pienza",
+        "subtitle": "Harmonious Renaissance streets with views over Val d\u2019Orcia.",
+        "lat": 43.076,
+        "lon": 11.6781,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 10,
+        "hierarchy": [
+            "Pienza",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Castellina in Chianti",
+        "subtitle": "Vineyards and medieval soul.",
+        "lat": 43.4682,
+        "lon": 11.2982,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 11,
+        "hierarchy": [
+            "Castellina in Chianti",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Montalcino",
+        "subtitle": "Home of Brunello, hilltop beauty, and stone alleys.",
+        "lat": 43.056,
+        "lon": 11.488,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 12,
+        "hierarchy": [
+            "Montalcino",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Monteriggioni",
+        "subtitle": "Walled village with towers straight from a fairytale.",
+        "lat": 43.3768,
+        "lon": 11.2163,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 13,
+        "hierarchy": [
+            "Monteriggioni",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Saturnia",
+        "subtitle": "Natural hot springs and La Stellata under the stars.",
+        "lat": 42.6477,
+        "lon": 11.5133,
+        "type": "hot_springs",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 14,
+        "hierarchy": [
+            "Cascate del Mulino",
+            "Saturnia",
+            "Manciano",
+            "Province of Grosseto",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Bagni San Filippo",
+        "subtitle": "Steamy limestone formations in the forest.",
+        "lat": 43.0037,
+        "lon": 11.6669,
+        "type": "hot_springs",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 15,
+        "hierarchy": [
+            "Bagni San Filippo",
+            "Castiglione d'Orcia",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Certaldo",
+        "subtitle": "Birthplace of Boccaccio with a fairytale old town.",
+        "lat": 43.5469,
+        "lon": 11.0427,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 16,
+        "hierarchy": [
+            "Certaldo",
+            "Florence",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "La Dogana",
+        "subtitle": "Tuscan food and vineyard charm in one dreamy spot.",
+        "lat": 43.2081,
+        "lon": 12.0161,
+        "type": "restaurant",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 17,
+        "hierarchy": [
+            "La Dogana",
+            "Cortona",
+            "Province of Arezzo",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Florence",
+        "subtitle": "Renaissance capital with iconic art, Duomo, and the Uffizi.",
+        "lat": 43.7696,
+        "lon": 11.2558,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 18,
+        "hierarchy": [
+            "Florence",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Siena",
+        "subtitle": "A medieval gem with Piazza del Campo and Gothic cathedrals.",
+        "lat": 43.3188,
+        "lon": 11.3308,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 19,
+        "hierarchy": [
+            "Siena",
+            "Province of Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Lucca",
+        "subtitle": "Cobblestone streets, ancient walls, and peaceful piazzas.",
+        "lat": 43.8427,
+        "lon": 10.5028,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 20,
+        "hierarchy": [
+            "Lucca",
+            "Province of Lucca",
+            "Tuscany",
+            "Italy"
+        ]
+    }
+]

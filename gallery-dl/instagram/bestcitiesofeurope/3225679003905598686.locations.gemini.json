@@ -1,0 +1,161 @@
+[
+    {
+        "title": "Our Lady of the Rocks",
+        "subtitle": "Artificial island with church in Bay of Kotor, Montenegro",
+        "lat": 42.484167,
+        "lon": 18.694722,
+        "type": "religious_building",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Our Lady of the Rocks",
+            "Perast",
+            "Bay of Kotor",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Tivat Bay",
+        "subtitle": "Scenic bay on the Adriatic coast of Montenegro",
+        "lat": 42.417222,
+        "lon": 18.675,
+        "type": "bay",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Tivat Bay",
+            "Bay of Kotor",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Sveti Stefan",
+        "subtitle": "Picturesque island and luxury resort in Montenegro",
+        "lat": 42.256944,
+        "lon": 18.892778,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Sveti Stefan",
+            "Budva Municipality",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Piva Lake",
+        "subtitle": "Large artificial lake in northern Montenegro",
+        "lat": 43.197,
+        "lon": 18.895,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Piva Lake",
+            "Plu\u017eine Municipality",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Perast",
+        "subtitle": "Historic town with Baroque architecture in Bay of Kotor",
+        "lat": 42.484167,
+        "lon": 18.696667,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Perast",
+            "Kotor Municipality",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Bay of Kotor",
+        "subtitle": "Deepest natural fjord-like bay in the Adriatic Sea, Montenegro",
+        "lat": 42.45,
+        "lon": 18.6,
+        "type": "bay",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Bay of Kotor",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Lov\u0107en National Park",
+        "subtitle": "Protected area encompassing Mount Lov\u0107en in Montenegro",
+        "lat": 42.391667,
+        "lon": 18.832222,
+        "type": "national_park",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Lov\u0107en National Park",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Kanli Kula Fortress",
+        "subtitle": "Historic fortress offering panoramic views in Herceg Novi",
+        "lat": 42.450278,
+        "lon": 18.536667,
+        "type": "fortress",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Kanli Kula Fortress",
+            "Herceg Novi",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Kotor",
+        "subtitle": "Ancient walled city and UNESCO World Heritage Site in Montenegro",
+        "lat": 42.424722,
+        "lon": 18.771111,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 9,
+        "hierarchy": [
+            "Kotor",
+            "Kotor Municipality",
+            "Montenegro"
+        ]
+    },
+    {
+        "title": "Kotor",
+        "subtitle": "Ancient walled city and UNESCO World Heritage Site in Montenegro",
+        "lat": 42.424722,
+        "lon": 18.771111,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 10,
+        "hierarchy": [
+            "Kotor",
+            "Kotor Municipality",
+            "Montenegro"
+        ]
+    }
+]

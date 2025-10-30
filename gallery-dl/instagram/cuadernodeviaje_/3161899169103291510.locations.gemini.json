@@ -1,0 +1,532 @@
+[
+    {
+        "title": "Sharm el Sheik",
+        "subtitle": "Resort city on the Sinai Peninsula, Egypt",
+        "lat": 27.91582,
+        "lon": 34.34157,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Sharm el Sheik",
+            "South Sinai Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Al Sahaba Mosque",
+        "subtitle": "Modern mosque with elaborate architecture in Sharm el Sheik",
+        "lat": 27.892,
+        "lon": 34.3315,
+        "type": "mosque",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Al Sahaba Mosque",
+            "Sharm el Sheik",
+            "South Sinai Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Farsha Caf\u00e9",
+        "subtitle": "Cliffside cafe and restaurant with sea views in Sharm el Sheik",
+        "lat": 27.8631,
+        "lon": 34.3169,
+        "type": "cafe",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Farsha Caf\u00e9",
+            "Sharm el Sheik",
+            "South Sinai Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "El Fanar Beach",
+        "subtitle": "Scenic beach with a lighthouse and coral reefs in Sharm el Sheik",
+        "lat": 27.8647,
+        "lon": 34.3138,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "El Fanar Beach",
+            "Sharm el Sheik",
+            "South Sinai Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Cairo",
+        "subtitle": "Capital city of Egypt, located on the Nile River",
+        "lat": 30.0444,
+        "lon": 31.2357,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Cairo",
+            "Cairo Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "National Museum of Egyptian Civilization",
+        "subtitle": "Museum showcasing Egyptian heritage from prehistoric times to modern day",
+        "lat": 30.0076,
+        "lon": 31.2599,
+        "type": "museum",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "National Museum of Egyptian Civilization",
+            "Cairo",
+            "Cairo Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Mosque of Muhammad Ali",
+        "subtitle": "Ottoman-style mosque located in the Citadel of Cairo",
+        "lat": 30.0289,
+        "lon": 31.259,
+        "type": "mosque",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Mosque of Muhammad Ali",
+            "Citadel of Cairo",
+            "Cairo",
+            "Cairo Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Khan el-Khalili",
+        "subtitle": "Historic souk (market) district in the heart of Old Cairo",
+        "lat": 30.0505,
+        "lon": 31.2619,
+        "type": "market",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Khan el-Khalili",
+            "Cairo",
+            "Cairo Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Giza",
+        "subtitle": "City in Egypt famous for its ancient monuments on the west bank of the Nile",
+        "lat": 29.987,
+        "lon": 31.2118,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 5,
+        "hierarchy": [
+            "Giza",
+            "Giza Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Pyramids of Giza",
+        "subtitle": "Ancient necropolis including the Great Pyramids and the Great Sphinx",
+        "lat": 29.9792,
+        "lon": 31.1342,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Pyramids of Giza",
+            "Giza",
+            "Giza Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Coptic Cairo",
+        "subtitle": "Historic area of Old Cairo with Coptic churches and Roman forts",
+        "lat": 30.005,
+        "lon": 31.23,
+        "type": "neighbourhood",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Coptic Cairo",
+            "Cairo",
+            "Cairo Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Grand Egyptian Museum",
+        "subtitle": "Large archaeological museum dedicated to ancient Egyptian artifacts",
+        "lat": 30.0068,
+        "lon": 31.109,
+        "type": "museum",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Grand Egyptian Museum",
+            "Giza",
+            "Giza Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Dahshur",
+        "subtitle": "Ancient royal necropolis famous for its Bent and Red Pyramids",
+        "lat": 29.8143,
+        "lon": 31.2215,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Dahshur",
+            "Giza Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Saqqara",
+        "subtitle": "Vast ancient burial ground, home to the Step Pyramid of Djoser",
+        "lat": 29.871,
+        "lon": 31.2173,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Saqqara",
+            "Giza Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "White Desert National Park",
+        "subtitle": "Protected area known for its unique white chalk rock formations",
+        "lat": 27.0,
+        "lon": 28.0,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "White Desert National Park",
+            "New Valley Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Siwa Oasis",
+        "subtitle": "Historic oasis town in the Western Desert of Egypt, near Libya",
+        "lat": 29.2,
+        "lon": 25.5167,
+        "type": "oasis",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 9,
+        "hierarchy": [
+            "Siwa Oasis",
+            "Matrouh Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Gebel Al Mawta",
+        "subtitle": "Mountain of the Dead, an ancient burial site near Siwa Oasis",
+        "lat": 29.2096,
+        "lon": 25.516,
+        "type": "hill",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 10,
+        "hierarchy": [
+            "Gebel Al Mawta",
+            "Siwa Oasis",
+            "Matrouh Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Temple of the Oracle of Amun",
+        "subtitle": "Ancient Egyptian temple known for its historical oracle, located in Siwa",
+        "lat": 29.2155,
+        "lon": 25.5451,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Temple of the Oracle of Amun",
+            "Siwa Oasis",
+            "Matrouh Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Siwa Salt Lakes",
+        "subtitle": "Hypersaline lakes in the Siwa Oasis, popular for floating",
+        "lat": 29.1833,
+        "lon": 25.4833,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 10,
+        "hierarchy": [
+            "Siwa Salt Lakes",
+            "Siwa Oasis",
+            "Matrouh Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Luxor",
+        "subtitle": "City in Upper Egypt, site of the ancient city of Thebes",
+        "lat": 25.6969,
+        "lon": 32.6422,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 11,
+        "hierarchy": [
+            "Luxor",
+            "Luxor Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Valley of the Kings",
+        "subtitle": "Necropolis for pharaohs and nobles of the New Kingdom of Egypt",
+        "lat": 25.74,
+        "lon": 32.6015,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 12,
+        "hierarchy": [
+            "Valley of the Kings",
+            "Luxor",
+            "Luxor Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Mortuary Temple of Ramesses III",
+        "subtitle": "Ancient Egyptian temple complex known for its well-preserved reliefs",
+        "lat": 25.7208,
+        "lon": 32.6008,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 12,
+        "hierarchy": [
+            "Mortuary Temple of Ramesses III",
+            "Medinet Habu",
+            "Luxor",
+            "Luxor Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Mortuary Temple of Hatshepsut",
+        "subtitle": "Unique ancient Egyptian temple dedicated to the female pharaoh Hatshepsut",
+        "lat": 25.738,
+        "lon": 32.6063,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 12,
+        "hierarchy": [
+            "Mortuary Temple of Hatshepsut",
+            "Luxor",
+            "Luxor Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Karnak Temple Complex",
+        "subtitle": "Vast open-air museum and the second-largest ancient religious site in the world",
+        "lat": 25.7188,
+        "lon": 32.6588,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 12,
+        "hierarchy": [
+            "Karnak Temple Complex",
+            "Luxor",
+            "Luxor Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Dendera Temple Complex",
+        "subtitle": "Ancient Egyptian temple complex, home to the Temple of Hathor",
+        "lat": 26.1388,
+        "lon": 32.6844,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 13,
+        "hierarchy": [
+            "Dendera Temple Complex",
+            "Qena Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Abydos Temple",
+        "subtitle": "Ancient Egyptian cult center and burial ground of early pharaohs",
+        "lat": 26.185,
+        "lon": 31.9167,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 13,
+        "hierarchy": [
+            "Abydos Temple",
+            "Sohag Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Luxor Temple",
+        "subtitle": "Large ancient Egyptian temple complex located on the east bank of the Nile River",
+        "lat": 25.6993,
+        "lon": 32.6393,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 13,
+        "hierarchy": [
+            "Luxor Temple",
+            "Luxor",
+            "Luxor Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Nile River",
+        "subtitle": "Major north-flowing river in northeastern Africa, longest river in Africa",
+        "lat": 15.656,
+        "lon": 32.4862,
+        "type": "river",
+        "class": "waterway",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": 14,
+        "hierarchy": [
+            "Nile River",
+            "Africa"
+        ]
+    },
+    {
+        "title": "Edfu",
+        "subtitle": "City on the west bank of the Nile, known for the Temple of Horus",
+        "lat": 24.9818,
+        "lon": 32.8906,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 14,
+        "hierarchy": [
+            "Edfu",
+            "Aswan Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Kom Ombo",
+        "subtitle": "Agricultural town in Egypt, site of the double Temple of Kom Ombo",
+        "lat": 24.4533,
+        "lon": 32.9567,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 14,
+        "hierarchy": [
+            "Kom Ombo",
+            "Aswan Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Abu Simbel",
+        "subtitle": "Two massive rock-cut temples, a UNESCO World Heritage Site",
+        "lat": 22.3739,
+        "lon": 31.6269,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 15,
+        "hierarchy": [
+            "Abu Simbel",
+            "Aswan Governorate",
+            "Egypt"
+        ]
+    },
+    {
+        "title": "Aswan",
+        "subtitle": "City on the Nile River in southern Egypt, a gateway to the south",
+        "lat": 24.0889,
+        "lon": 32.8998,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 15,
+        "hierarchy": [
+            "Aswan",
+            "Aswan Governorate",
+            "Egypt"
+        ]
+    }
+]

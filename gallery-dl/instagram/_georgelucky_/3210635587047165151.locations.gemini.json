@@ -1,0 +1,37 @@
+[
+    {
+        "title": "San Quirico d'Orcia",
+        "subtitle": "Historic town in the Val d'Orcia region, Tuscany, Italy.",
+        "lat": 43.0561,
+        "lon": 11.5645,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "San Quirico d'Orcia",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Cappella Madonna di Vitaleta",
+        "subtitle": "Iconic chapel amidst cypress trees in Val d'Orcia, Tuscany.",
+        "lat": 43.07663,
+        "lon": 11.60324,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Cappella della Madonna di Vitaleta",
+            "San Quirico d'Orcia",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    }
+]

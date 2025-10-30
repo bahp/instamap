@@ -1,0 +1,85 @@
+[
+    {
+        "title": "Chongqing",
+        "subtitle": "A major municipality in southwest China",
+        "lat": 29.563,
+        "lon": 106.5574,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Chongqing",
+            "China"
+        ]
+    },
+    {
+        "title": "Summer Palace",
+        "subtitle": "Imperial garden and UNESCO World Heritage Site in Beijing",
+        "lat": 39.9986,
+        "lon": 116.2759,
+        "type": "historic_site",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Summer Palace",
+            "Haidian District",
+            "Beijing",
+            "China"
+        ]
+    },
+    {
+        "title": "Tian Tan Buddha",
+        "subtitle": "Large bronze statue of a Buddha on Lantau Island, Hong Kong",
+        "lat": 22.3702,
+        "lon": 113.9056,
+        "type": "monument",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Tian Tan Buddha",
+            "Lantau Island",
+            "Hong Kong",
+            "China"
+        ]
+    },
+    {
+        "title": "West Lake",
+        "subtitle": "Iconic freshwater lake in Hangzhou, a UNESCO World Heritage Site",
+        "lat": 30.245,
+        "lon": 120.147,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "West Lake",
+            "Hangzhou",
+            "Zhejiang",
+            "China"
+        ]
+    },
+    {
+        "title": "West Lake",
+        "subtitle": "Iconic freshwater lake in Hangzhou, a UNESCO World Heritage Site",
+        "lat": 30.245,
+        "lon": 120.147,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "West Lake",
+            "Hangzhou",
+            "Zhejiang",
+            "China"
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Watergate Bay",
+        "subtitle": "Popular sandy beach and surf spot near Newquay, Cornwall, England.",
+        "lat": 50.4431,
+        "lon": -5.0222,
+        "type": "bay",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Watergate Bay",
+            "Newquay",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Kynance Cove",
+        "subtitle": "Iconic and picturesque cove on the Lizard Peninsula, Cornwall, England.",
+        "lat": 49.9575,
+        "lon": -5.2096,
+        "type": "cove",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Kynance Cove",
+            "Lizard",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Pedn Vounder",
+        "subtitle": "Secluded white sand beach accessible at low tide near Porthcurno, Cornwall.",
+        "lat": 50.0433,
+        "lon": -5.6567,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Pedn Vounder",
+            "Porthcurno",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Port Isaac",
+        "subtitle": "Historic fishing village and harbour on the north coast of Cornwall, England.",
+        "lat": 50.596,
+        "lon": -4.823,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Port Isaac",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Polly Joke",
+        "subtitle": "Hidden sandy cove often quieter than neighbouring beaches, Cornwall, England.",
+        "lat": 50.315,
+        "lon": -5.115,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Polly Joke",
+            "Newquay",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    }
+]

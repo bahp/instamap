@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Burg Finstergr\u00fcn",
+        "subtitle": "Historic castle and youth hostel in Ramingstein, Salzburg, Austria.",
+        "lat": 47.162788,
+        "lon": 13.791535,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Burg Finstergr\u00fcn",
+            "Ramingstein",
+            "Salzburg",
+            "Austria"
+        ]
+    },
+    {
+        "title": "Austria",
+        "subtitle": "A landlocked country in Central Europe, known for its alpine landscapes.",
+        "lat": 47.593976,
+        "lon": 14.124508,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 7,
+        "page": 2,
+        "hierarchy": [
+            "Austria"
+        ]
+    }
+]

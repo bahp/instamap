@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Fujisan Yumeno Ohashi Bridge",
+        "subtitle": "Bridge in Fuji, Shizuoka Prefecture, known for Mount Fuji views.",
+        "lat": 35.155898,
+        "lon": 138.647754,
+        "type": "bridge",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Fujisan Yumeno Ohashi Bridge",
+            "Fuji",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Lake Tanuki",
+        "subtitle": "Artificial lake in Fujinomiya, Shizuoka, famous for 'Diamond Fuji'.",
+        "lat": 35.2925,
+        "lon": 138.5833,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Lake Tanuki",
+            "Fujinomiya",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shimoyoshida Honcho Street",
+        "subtitle": "Street in Fujiyoshida, Yamanashi, iconic view of Mount Fuji.",
+        "lat": 35.495,
+        "lon": 138.8016,
+        "type": "street",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Shimoyoshida Honcho Street",
+            "Fujiyoshida",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Kyuei Melon Pan",
+        "subtitle": "A famous bakery in Tsukishima, Tokyo, known for its melon pan.",
+        "lat": 35.667119,
+        "lon": 139.782531,
+        "type": "bakery",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Kyuei Melon Pan",
+            "Tsukishima",
+            "Chuo City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tsukishima",
+        "subtitle": "A distinct neighborhood in Chuo City, Tokyo, known for monjayaki.",
+        "lat": 35.6668,
+        "lon": 139.7823,
+        "type": "suburb",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Tsukishima",
+            "Chuo City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tokyo",
+        "subtitle": "The capital and largest city of Japan, a major global economic center.",
+        "lat": 35.6895,
+        "lon": 139.6917,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Tokyo",
+            "Japan"
+        ]
+    }
+]

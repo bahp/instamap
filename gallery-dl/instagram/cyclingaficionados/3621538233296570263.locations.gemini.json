@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Kallikratis Road",
+        "subtitle": "Scenic hairpinned road in Crete",
+        "lat": 35.2536,
+        "lon": 24.2498,
+        "type": "road",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Kallikratis Road",
+            "Kallikratis",
+            "Chania",
+            "Crete",
+            "Greece"
+        ]
+    },
+    {
+        "title": "Imbros Gorge",
+        "subtitle": "Famous hiking gorge in Sfakia, Crete",
+        "lat": 35.2393,
+        "lon": 24.2003,
+        "type": "gorge",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Imbros Gorge",
+            "Sfakia",
+            "Crete",
+            "Greece"
+        ]
+    },
+    {
+        "title": "Katharo Plateau",
+        "subtitle": "Remote mountain plateau in Lasithi, Crete",
+        "lat": 35.1581,
+        "lon": 25.5684,
+        "type": "plateau",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Katharo Plateau",
+            "Lasithi",
+            "Crete",
+            "Greece"
+        ]
+    },
+    {
+        "title": "Skinakas Observatory",
+        "subtitle": "Research observatory on Mount Ida, Crete",
+        "lat": 35.2114,
+        "lon": 24.9004,
+        "type": "observatory",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Skinakas Observatory",
+            "Anogeia",
+            "Crete",
+            "Greece"
+        ]
+    },
+    {
+        "title": "Amigdalokefali",
+        "subtitle": "Village in Kissamos region, Chania, Crete",
+        "lat": 35.405,
+        "lon": 23.5939,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Amigdalokefali",
+            "Kissamos",
+            "Chania",
+            "Crete",
+            "Greece"
+        ]
+    }
+]
