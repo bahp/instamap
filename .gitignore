@@ -11,18 +11,19 @@
 **/output/**
 
 # Data files
-#**/*.csv
-#**/*.html
-#**/*.png
-#**/*.jpg
-#**/*.xlsx
-#**/*.xls
-#**/*.json
-#**/*.log
-#**/*.p
-#**/*.pth
-#**/*.tex
-#**/*.h5
+**/*.csv
+**/*.html
+**/*.png
+**/*.jpg
+**/*.xlsx
+**/*.xls
+**/*.json
+**/*.log
+**/*.p
+**/*.pth
+**/*.tex
+**/*.h5
+**/*.mp4
 
 # PyCharm folder
 .idea
