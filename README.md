@@ -1,10 +1,10 @@
-# 📍 InstaMap — Visualize Your Saved Instagram Posts on a Map  
+# 📍 InstaMap — Visualize Instagram Posts on a Map
 
-![InstaMap Logo](https://img.shields.io/badge/InstaMap-v1.0-blue?style=for-the-badge&logo=mapbox)
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/yourusername/instamap/main.yml?style=for-the-badge&logo=github)
-![Python Version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge&logo=python)
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Made with Leaflet](https://img.shields.io/badge/Made%20with-Leaflet-199900?style=for-the-badge&logo=leaflet)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square&logo=github)
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/yourusername/instamap/main.yml?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/python-3.11+-brightgreen?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square&logo=open-source-initiative)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 ---
 
