@@ -30,7 +30,8 @@
           crossorigin=""></script>
 
   <!-- Leaflet plugins -->
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leaflet.icon.glyph@0.3.0/Leaflet.Icon.Glyph.min.js"></script>
+  <script type="text/javascript"
+          src="https://cdn.jsdelivr.net/npm/leaflet.icon.glyph@0.3.0/Leaflet.Icon.Glyph.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/beautifymarker@1.0.9/leaflet-beautify-marker-icon.min.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/beautifymarker@1.0.9/leaflet-beautify-marker-icon.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.85.1/L.Control.Locate.min.js"></script>
@@ -447,7 +448,7 @@
     </div>
   `
 
-    function get_popup_html(post, entry) {
+    function getPopupHTML(post, entry) {
         /**
          * Get the popup HTML content.
          * \*entry.confidence.toFixed(3) || undefined,
@@ -559,18 +560,22 @@
     }
 
 
-    // --------------------------------------------------
+    // ------------------------------------------------------------------
     // Main
-    // --------------------------------------------------
+    // ------------------------------------------------------------------
     // Constants
-    attribution_osm = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    attribution_gmp = '&copy; <a href="http://www.googlemaps.com/copyright">GoogleMaps</a>'
+    const attribution_osm = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    const attribution_gmp = '&copy; <a href="http://www.googlemaps.com/copyright">GoogleMaps</a>'
+    const geo_ldn = [51.505, -0.09]      // Center map in London
+    const geo_mdr = [40.4168, -3.7038]   // Center map in Madrid
 
-
+    // ------------------------------------------------------------------
+    // Map Initialization
+    // ------------------------------------------------------------------
     // Create map
-    var geo_ldn = [51.505, -0.09]
-    var geo_mdr = [40.4168, -3.7038]
-    var map = L.map('map', { preferCanvas: true }).setView(geo_mdr, 6);
+    var map = L.map('map', {
+      preferCanvas: true
+    }).setView(geo_mdr, 6);
 
     // Add tile layer (need to give attribution)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -584,16 +589,21 @@
       }
     }).addTo(map);
 
-    // 3. Get the user's current location
+    // -- Define global variables --
+    let markers = L.markerClusterGroup()
+
+
+    // -----------------------------------------------------------------
+    // Geolocation Functions
+    // ------------------------------------------------------------------
+    // Get the user's current location
     navigator.geolocation.getCurrentPosition(onSuccess, onError);
 
-    // 4. Success callback function
+    // Success callback function
     function onSuccess(position) {
-        // Get latitude and longitude from the position object
-        const lat = position.coords.latitude;
-        const lon = position.coords.longitude;
-        // A good zoom level to show a street-level view
-        const zoomLevel = 13;
+        const lat = position.coords.latitude;  // latitude
+        const lon = position.coords.longitude; // longitude
+        const zoomLevel = 13;                  // zoom
         // Center the map on the user's location
         map.setView([lat, lon], zoomLevel);
         // Add a marker at the user's location
@@ -603,13 +613,14 @@
             .openPopup();
     }
 
-    // 7. Error callback function
+    // Error callback function
     function onError(err) {
         console.warn(`ERROR(${err.code}): ${err.message}`);
-        // If an error occurs, the map will just stay at the default view.
-        // You could add a message to the user here.
     }
 
+    // -----------------------------------------------------------------
+    // Brief hello world example
+    // -----------------------------------------------------------------
     /*
     // Add a marker and open it.
     var marker = L.marker([51.5, -0.09]).addTo(map);
@@ -630,9 +641,12 @@
     map.on('click', onMapClick);
     */
 
-    // Show loaded data
-    console.log("Data:", data)
 
+
+
+    // -----------------------------------------------------------------
+    // Legend & Info Functions
+    // ------------------------------------------------------------------
     var template_legend = `
         <div class="input-group mb-1 input-group-sm d-flex">
           <div class="input-group-text flex-0">
@@ -646,13 +660,8 @@
         </div>`
 
     function populateLegend() {
-
-      // Group by color
-      // Show only those in data
-
       // Group by type
       const result = Object.groupBy(data, ({ type }) => type);
-
 
       // Display legend
       Object.entries(result).forEach(([key, value]) => {
@@ -661,125 +670,192 @@
         var tmp = template_legend.format(key,  c)
         $('#legend-markers').append(tmp)
       });
-
-
-        /*
-      // Using array methods
-      Object.entries(MARKER_STYLE).forEach(([key, value]) => {
-          console.log(template_legend)
-          $('#legend-markers').append(template_legend.format(
-              key, value.backgroundColor || '#D3D3D3'
-          ))
-        //console.log(`${key} ${value}`); // "a 5", "b 7", "c 9"
-      });
-      */
     }
-
 
     function getShortcodeCount(data) {
        return new Set(data.map(item => item.shortcode)).size;
     }
 
-    function getMarkersCount() {
+    function getMarkersCount(data) {
       return data.reduce((accumulator, currentValue) => {
-        // 1. Get the locations array from the current post object.
         const locationsArray = currentValue.gemini_locations;
-        // 2. Check if it's a valid array. If not (null, undefined, etc.), treat length as 0.
         const locationCount = Array.isArray(locationsArray) ? locationsArray.length : 0;
-        // 3. Add the count to the running total (accumulator).
         return accumulator + locationCount;
       }, 0);
     }
 
+    /**
+     * Updates the information panel with post and marker counts.
+     * @param {Array} data - The global data array.
+     * @param {L.MarkerClusterGroup} markers - The populated cluster group.
+     */
+    function updateMapInfo(data, markers) {
+      var n_posts = getShortcodeCount(data);
+      var n_plotted_markers = markers.getLayers().length;
+
+      // Include information
+      $('#info').html("Posts: {0} | Markers: {1}".format(n_posts, n_plotted_markers));
+      $('#nposts').html(n_posts);
+      $('#nmarkers').html(n_plotted_markers);
+    }
+
+
+
+    // -----------------------------------------------------
+    // Marker plotting functions
+    // -----------------------------------------------------
+    /**
+     * Filters locations for a single post based on rank and page number.
+     * **This is the function to edit if you want to change filtering logic.**
+     * @param {object} post - The post object from the main data array.
+     * @returns {Array} An array of location objects to be plotted.
+     */
+    function filterLocations(post) {
+      // Guard clause: If no locations, return an empty array.
+      if (!Array.isArray(post.gemini_locations) || post.gemini_locations.length === 0) {
+        return [];
+      }
+
+      // ---  Rank & Page Filtering ---
+      // 1. Categorize all locations by rank.
+      const lowRankLocations = [];  // rank <= 4
+      const highRankLocations = []; // rank > 4
+      const unrankedLocations = []; // No rank
+
+      post.gemini_locations.forEach(loc => {
+        const rank = loc.rank;
+        if (typeof rank === 'number') {
+          if (rank <= 4) {
+            lowRankLocations.push(loc);
+          } else {
+            highRankLocations.push(loc);
+          }
+        } else {
+          unrankedLocations.push(loc);
+        }
+      });
+
+      // 2. Determine the preliminary list based on your rank rules.
+      let preliminaryLocations = [];
+
+      if (lowRankLocations.length > 0) {
+        // Rule 1: Low ranks (<=4) exist. Use *all* of them.
+        preliminaryLocations = lowRankLocations;
+
+      } else if (highRankLocations.length > 0) {
+        // Rule 2: No low ranks, but high ranks (>4) exist.
+        // Find the *single lowest rank* from this group.
+        const minHighRank = Math.min(...highRankLocations.map(loc => loc.rank));
+        preliminaryLocations = highRankLocations.filter(loc => loc.rank === minHighRank);
+
+      } else {
+        // Rule 3: No ranks at all. Fall back to using all unranked locations.
+        preliminaryLocations = unrankedLocations;
+      }
+
+      // 3. Apply the final 'post.num' filter to the preliminary list.  <== REVISIT!
+      const locationsToPlot = post.num
+        ? preliminaryLocations.filter(loc => loc.page === post.num)
+        : preliminaryLocations;
+
+      return locationsToPlot;
+    }
+
+
+    /**
+    * Creates a single Leaflet marker for a location, with popup and click event.
+    * @param {object} location - The location object.
+    * @param {object} post - The parent post object.
+    * @returns {L.Marker|null} A Leaflet marker object, or null if lat/lng is invalid.
+    */
+    function createMarker(location, post) {
+      // Get latitude and longitude
+      const latitude = get(location, 'latitude', ATTR);
+      const longitude = get(location, 'longitude', ATTR);
+
+      // Guard clause for invalid lat/lng.
+      if (!isFloat(latitude) || !isFloat(longitude)) {
+        return null;
+      }
+
+      // Create a unique options object for this specific marker.
+      const markerOptions = {
+        ...post,                     // Copy base post properties
+        icon: get_icon(5, location), // (assuming 'get_icon' is defined)
+        page: location.page          // Store the correct page number
+      };
+
+      // Create marker
+      const marker = L.marker([latitude, longitude], markerOptions);
+
+      // Add popup
+      marker.bindPopup(getPopupHTML(post, location));
+
+      // On click
+      marker.on('click', e => {
+        const obj = e.target.options;
+        // Message indicating the image page.
+        const alertHtml = (obj.page > 1)
+           ? `<div class="alert alert-warning" role="alert">
+                 This pin corresponds to image <b>${obj.page}</b>.
+               </div>`
+           : '';
+        // Create template with shortcode (assuming 'template_embed' is defined)
+        let postHtml = alertHtml + template_embed.format(obj.shortcode);
+
+        // Check if post_shortcode exists AND is different from shortcode
+        if (obj.post_shortcode && obj.shortcode !== obj.post_shortcode) {
+          // Append the second embed if they are different
+          postHtml += template_embed.format(obj.post_shortcode);
+        }
+
+        $('#post-embed').html(postHtml);
+        window.instgrm.Embeds.process();
+      });
+
+      return marker;
+    }
+
+
+    /**
+     * Processes the entire data array, filters locations, and plots them.
+     * @param {Array} data - The global data array.
+     *POST* @param {L.MarkerClusterGroup} markers - The cluster group to add markers to.
+     */
+    function processDataAndPlot(data, markers) {
+      console.log("Data:", data);
+
+      // Use native .forEach for the outer loop.
+      data.forEach(post => {
+        // Step 1: Get the filtered list of locations for this post.
+        const locationsToPlot = filterLocations(post);
+        // Step 2: Loop over the filtered list and create markers.
+        locationsToPlot.forEach(location => {
+          const marker = createMarker(location, post);
+          // Add valid markers to the cluster group.
+          if (marker) {
+            markers.addLayer(marker);
+          }
+        }); // End inner loop
+      }); // End outer loop
+
+      // 4. Add the Cluster Group to the Map
+      map.addLayer(markers);
+    }
+
+
     // A $( document ).ready() block.
     $(document).ready(function () {
 
-
-      // -------------------------------------------------------
-      // Populate number of posts and number of locations
-      // -------------------------------------------------------
-      var n_posts = getShortcodeCount(data)
-      var n_markers = getMarkersCount()
-
-      // Include information
-      $('#info').html("Posts: {0} | Markers: {1}".format(n_posts, n_markers))
-      $('#nposts').html(n_posts)
-      $('#nmarkers').html(n_markers)
-
-      var markers = L.markerClusterGroup();
-
-      // -------------------------------------------------------
-      // Populate Markers
-      // -------------------------------------------------------
-      $.each(data, function (index, value) {
-
-        // Check if gemini_locations exists and is an array before trying to loop
-        if (Array.isArray(value.gemini_locations)) {
-
-          // --- INNER LOOP ---
-          $.each(value.gemini_locations, function (locIndex, location) {
-
-            // Get latitude and longitude
-            var latitude = get(location, 'latitude', ATTR)
-            var longitude = get(location, 'latitude', ATTR)
-            if (!(isFloat(latitude)) || !(isFloat(longitude)))
-                return
-
-            if (value.shortcode == 'CyAzk8br2LM') {
-              console.log(value)
-              console.log(location)
-            }
-
-            // Set icon information
-            value.icon = get_icon(5, location)
-
-            // Add marker to map
-            var marker = L.marker([
-                get(location, 'latitude', ATTR),
-                get(location, 'longitude', ATTR),
-            ], value) //.addTo(map);
-
-            markers.addLayer(marker)
-
-            // Add popup
-            marker.bindPopup(get_popup_html(value, location))
-
-            // On click
-            marker.on('click', function (e) {
-                //var shortcode = gdetailset(e.target.options, 'shortcode', ATTR)
-
-                const obj = e.target.options;
-
-                // Create HTML alert.
-                const alertHtml = (obj.page > 1)
-                   ? `<div class="alert alert-warning" role="alert">
-                         This pin corresponds to image <b>${obj.page}</b>.
-                       </div>`
-                   : '';
-
-                // Create side panel HTML post.
-                let postHtml = alertHtml + template_embed.format(obj.shortcode);
-
-                // Append and run Instagram embeds.
-                $('#post-embed').html(postHtml)
-                window.instgrm.Embeds.process()
-
-                })
-            })
-
-            //const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-            //
-            populateLegend()
-
-
-
-          }
-      });
-      // 4. Add the Cluster Group to the Map
-      map.addLayer(markers);
+      // 1. Process all data and plot the filtered markers
+      processDataAndPlot(data, markers);
+      // 2. Populate the legend based on the plotted data
+      populateLegend();
+      // 3. Populate the info panels with final counts
+      updateMapInfo(data, markers);
 
     });
+
 
 
     /*
