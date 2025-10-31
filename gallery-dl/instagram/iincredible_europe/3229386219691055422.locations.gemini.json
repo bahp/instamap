@@ -1,0 +1,175 @@
+[
+    {
+        "title": "Windsor Castle",
+        "subtitle": "Royal residence in Windsor, Berkshire, England",
+        "lat": 51.4839,
+        "lon": -0.6044,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Windsor Castle",
+            "Windsor",
+            "Royal Borough of Windsor and Maidenhead",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Corbridge",
+        "subtitle": "Village and civil parish in Northumberland, England",
+        "lat": 54.9667,
+        "lon": -1.9722,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Corbridge",
+            "Northumberland",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Grasmere",
+        "subtitle": "Village and lake in the Lake District, Cumbria, England",
+        "lat": 54.4608,
+        "lon": -3.0232,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Grasmere",
+            "Westmorland and Furness",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Thornton-le-Dale",
+        "subtitle": "Village and civil parish in North Yorkshire, England",
+        "lat": 54.2175,
+        "lon": -0.7302,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Thornton-le-Dale",
+            "North Yorkshire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Loch Ard",
+        "subtitle": "Freshwater loch in Loch Lomond & The Trossachs National Park",
+        "lat": 56.143,
+        "lon": -4.398,
+        "type": "loch",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Loch Ard",
+            "Loch Lomond & The Trossachs National Park",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Edinburgh",
+        "subtitle": "Capital city of Scotland, located in the Lothian region",
+        "lat": 55.9533,
+        "lon": -3.1883,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 6,
+        "hierarchy": [
+            "Edinburgh",
+            "City of Edinburgh",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Castle Combe",
+        "subtitle": "Village and civil parish in Wiltshire, England",
+        "lat": 51.5209,
+        "lon": -2.197,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 7,
+        "hierarchy": [
+            "Castle Combe",
+            "Wiltshire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Tu Hwnt i'r Bont",
+        "subtitle": "Historic tearoom and cottage in Llanrwst, Conwy, Wales",
+        "lat": 53.1558,
+        "lon": -3.7997,
+        "type": "tea_house",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Tu Hwnt i'r Bont",
+            "Llanrwst",
+            "Conwy County Borough",
+            "Wales",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Swinton Park Castle",
+        "subtitle": "Country house hotel and estate near Masham, North Yorkshire",
+        "lat": 54.195,
+        "lon": -1.693,
+        "type": "castle",
+        "class": "building",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Swinton Park Castle",
+            "Masham",
+            "North Yorkshire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Pitlochry",
+        "subtitle": "Town in Perth and Kinross, Scotland",
+        "lat": 56.6974,
+        "lon": -3.7381,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 10,
+        "hierarchy": [
+            "Pitlochry",
+            "Perth and Kinross",
+            "Scotland",
+            "United Kingdom"
+        ]
+    }
+]
