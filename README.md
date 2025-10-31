@@ -36,6 +36,31 @@ interactive map — are almost fully automated via **GitHub Actions**.
 
 ---
 
+## 🔐 Setup  
+
+### 1. Export Your Instagram Cookie  
+
+1. Log in to Instagram in your web browser (firefox).  
+2. Open the browser’s **Developer Tools → Application → Cookies**.  
+3. Copy the value of the `sessionid` cookie.  
+
+### 2. Add It as a GitHub Secret  
+
+In your repository:  
+1. Go to **Settings → Secrets and variables → Actions → New repository secret**  
+2. Create a new secret:  
+   - **Name:** `INSTAGRAM_SESSIONID`  
+   - **Value:** your copied cookie  
+
+### 3. Add Your Gemini API Key  
+
+If you’re using Gemini to extract caption locations:  
+1. Create another GitHub Secret:  
+   - **Name:** `GEMINI_API_KEY`  
+   - **Value:** your Gemini key  
+
+---
+
 ## 🧩 How It Works  
 
 1. **Authentication**  
@@ -60,30 +85,6 @@ interactive map — are almost fully automated via **GitHub Actions**.
 
 ---
 
-## 🔐 Setup  
-
-### 1. Export Your Instagram Cookie  
-
-1. Log in to Instagram in your web browser.  
-2. Open the browser’s **Developer Tools → Application → Cookies**.  
-3. Copy the value of the `sessionid` cookie.  
-
-### 2. Add It as a GitHub Secret  
-
-In your repository:  
-1. Go to **Settings → Secrets and variables → Actions → New repository secret**  
-2. Create a new secret:  
-   - **Name:** `INSTAGRAM_SESSIONID`  
-   - **Value:** your copied cookie  
-
-### 3. Add Your Gemini API Key  
-
-If you’re using Gemini to extract caption locations:  
-1. Create another GitHub Secret:  
-   - **Name:** `GEMINI_API_KEY`  
-   - **Value:** your Gemini key  
-
----
 
 
 
@@ -147,17 +148,17 @@ variable) for easy loading and plotting on a Leaflet web map.
 
 ## 🗺️ How to Import KML into Google Maps
 
-1.  After generating your map on Instamap, open the left side panel and click the 
-    **"Export to Google Maps"** button to save the `.kml` file to your computer.
-2.  Go to [Google My Maps](https://www.google.com/mymaps).
-3.  Click the **"+ Create a New Map"** button.
-4.  In the top-left panel (under "Untitled layer"), click the **"Import"** link.
-5.  Select the `.kml` file you just downloaded from your computer.
-6.  Your map, with all its custom icons and data, will be loaded and displayed.
-7.  It will also be available on your Google Maps App!
+1.  Generate your map on Instamap.
+2.  Open the left side panel and click the  **"Export to Google Maps"** button to save the `.kml` file. 
+3.  Go to [Google My Maps](https://www.google.com/mymaps).
+4.  Click the **"+ Create a New Map"** button.
+5.  In the top-left panel (under "Untitled layer"), click the **"Import"** link.
+6.  Select the `.kml` file you just downloaded from your computer.
+7.  Your map, with all its custom icons and data, will be loaded and displayed.
+8.  It will also be available on your Google Maps App!
 
 
-## 📍 Custom Icon Generation
+#### 📍 Custom Icon Generation
 
 This project does not use the default Google Maps pins. Instead, it uses custom-generated 
 PNG icons to style placemarks based on their type.
