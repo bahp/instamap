@@ -211,7 +211,7 @@ function generateKMLStyles(markerStyle) {
     // --- 1. SET YOUR ICON'S BASE URL ---
     // This is the public URL where you will upload your generated PNGs.
     // (You MUST change this to your actual URL)
-    const ICON_BASE_URL = 'https://your-username.github.io/your-repo/icons/';
+    const ICON_BASE_URL = 'https://raw.githubusercontent.com/bahp/instamap/refs/heads/master/web/static/img/markers/';
 
     // --- 2. Add a Default Style ---
     // This points to a 'default.png' icon you must also upload.
@@ -242,7 +242,7 @@ function generateKMLStyles(markerStyle) {
         styles.push(`
     <Style id="style_${kmlId}">
       <IconStyle>
-        <scale>1.1</scale>
+        <scale>0.5</scale>
         <Icon>
           <href>${iconHref}</href>
         </Icon>
