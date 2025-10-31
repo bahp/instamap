@@ -146,6 +146,8 @@ variable) for easy loading and plotting on a Leaflet web map.
 `$ python convert_json2js.py`
 
 
+
+
 ## 🗺️ How to Import KML into Google Maps
 
 1.  Generate your map on Instamap.
@@ -158,10 +160,53 @@ variable) for easy loading and plotting on a Leaflet web map.
 8.  It will also be available on your Google Maps App!
 
 
-#### 📍 Custom Icon Generation
+#### Custom Icon Generation
 
-This project does not use the default Google Maps pins. Instead, it uses custom-generated 
-PNG icons to style placemarks based on their type.
+A significant limitation of Google My Maps' KML importer is that it **ignores most KML styling 
+tags**, including `<color>` and references to default icons. While the KML standard supports 
+these features, Google Maps will not render them, resulting in all placemarks reverting to a 
+default pin.
+
+The *only* reliable method to customize placemark icons in Google My Maps is to use image URLs.
+
+This project's workflow is built around this limitation. We do not use default pins. Instead, 
+we use a custom script to generate unique PNG icons for every placemark type. These generated 
+icons are hosted in this repository (in `web/static/img/markers/`), allowing them to be 
+publicly accessed via GitHub. The KML export function is then configured to point directly to 
+these public image URLs (e.g., `...github.io/.../static/img/markers/village.png`), which Google
+ Maps can correctly load.
+
+#### How to Generate the Icons
+
+The icons are created using a standalone browser tool included in this repository.
+
+1.  **Generator:** Open the `web/generate_icons.html` file in your local browser.
+2.  **Configuration:** The tool reads its configuration from the `MARKER_STYLE` object in `settings.js`.
+3.  **Export:** When you click the button, the tool uses the Font Awesome font to draw the configured icons onto an HTML canvas and downloads them as individual PNG files, bundled into a `markers.zip`.
+4.  **Storage:** You must unzip this file and upload the new or updated PNG icons to the `web/static/img/markers/` directory in this repository and commit the changes.
+
+### Important Notes & Troubleshooting
+
+* **Unicode is Required:** For the `web/generate_icons.html` generator to work, each entry in the `MARKER_STYLE` object *must* have a `unicode` property (e.g., `unicode: '\uf51d'`). This is the unique code for the Font Awesome icon.
+* **"Some Icons Are Not Working" (Fix):** If you see a blank icon or a default circle in your generated PNGs, it means the `unicode` property for that type in `settings.js` is either **missing or incorrect**. To fix it:
+    1.  Find the icon you want on the [Font Awesome 6](https://fontawesome.com/icons) website.
+    2.  Click the icon to see its details.
+    3.  Copy its Unicode value (e.g., `f51d`).
+    4.  Add it to the `MARKER_STYLE` object in `settings.js`, like `unicode: '\uf51d'`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### How it Works
 
