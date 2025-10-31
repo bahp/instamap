@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Transylvania",
+        "subtitle": "Historical region in Romania",
+        "lat": 46.5,
+        "lon": 24.5,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 1,
+        "hierarchy": [
+            "Transylvania",
+            "Romania"
+        ]
+    },
+    {
+        "title": "Thuringia",
+        "subtitle": "State in Germany",
+        "lat": 50.9754,
+        "lon": 11.0298,
+        "type": "state",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Thuringia",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Groningen",
+        "subtitle": "City in the Netherlands",
+        "lat": 53.21938,
+        "lon": 6.5665,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Groningen",
+            "Groningen",
+            "Netherlands"
+        ]
+    },
+    {
+        "title": "Franconia",
+        "subtitle": "Historical region in Germany",
+        "lat": 49.7,
+        "lon": 10.9,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 4,
+        "hierarchy": [
+            "Franconia",
+            "Bavaria",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Giethoorn",
+        "subtitle": "Village in the Netherlands",
+        "lat": 52.741,
+        "lon": 6.0792,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Giethoorn",
+            "Steenwijkerland",
+            "Overijssel",
+            "Netherlands"
+        ]
+    },
+    {
+        "title": "Brittany",
+        "subtitle": "Region in France",
+        "lat": 48.202,
+        "lon": -2.9326,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 6,
+        "hierarchy": [
+            "Brittany",
+            "France"
+        ]
+    },
+    {
+        "title": "S\u00e3o Miguel Island",
+        "subtitle": "Island in the Azores, Portugal",
+        "lat": 37.8167,
+        "lon": -25.4667,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "S\u00e3o Miguel Island",
+            "Azores",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "Mont Saint-Michel",
+        "subtitle": "Island commune and abbey in France",
+        "lat": 48.636,
+        "lon": -1.5115,
+        "type": "island",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Mont Saint-Michel",
+            "Manche",
+            "Normandy",
+            "France"
+        ]
+    },
+    {
+        "title": "Schwerin",
+        "subtitle": "City in Germany",
+        "lat": 53.6333,
+        "lon": 11.4167,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 9,
+        "hierarchy": [
+            "Schwerin",
+            "Mecklenburg-Vorpommern",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Sirmione",
+        "subtitle": "Town on Lake Garda, Italy",
+        "lat": 45.4912,
+        "lon": 10.6062,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 10,
+        "hierarchy": [
+            "Sirmione",
+            "Brescia",
+            "Lombardy",
+            "Italy"
+        ]
+    }
+]

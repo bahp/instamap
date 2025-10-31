@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Kidwelly Castle",
+        "subtitle": "Historic castle in Kidwelly, Carmarthenshire, Wales",
+        "lat": 51.7275087,
+        "lon": -4.3075677,
+        "type": "historic_castle",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Kidwelly Castle",
+            "Kidwelly",
+            "Carmarthenshire",
+            "Wales",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Wales",
+        "subtitle": "A country that is part of the United Kingdom",
+        "lat": 52.3275069,
+        "lon": -3.8340059,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 2,
+        "hierarchy": [
+            "Wales",
+            "United Kingdom"
+        ]
+    }
+]
