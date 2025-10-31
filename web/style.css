@@ -424,7 +424,9 @@ body {
   border-top: 17px solid #fff;
 }
 
-
+/** ********************************************************** **/
+/** The leaflet map popup
+/** ********************************************************** **/
 
 /* Custom CSS to be added to your main stylesheet */
 
@@ -440,4 +442,51 @@ body {
     /* Ensure the wrapper doesn't have any margin or padding either */
     padding: 0;
     margin: 0;
+}
+
+/** ********************************************************** **/
+/** The google button
+/** ********************************************************** **/
+/*
+ * Google-style button
+ */
+.btn-google {
+    display: inline-flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    color: #444444; /* Dark gray text */
+    border: 1px solid #DADCE0; /* Light gray border */
+    border-radius: 4px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.08);
+    padding: 0 12px 0 0; /* No padding on right */
+    font-size: 0.9rem;
+    font-weight: 500;
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    transition: all 0.2s ease-in-out;
+}
+
+/* Style the icon wrapper */
+.btn-google .google-icon-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px; /* Fixed width for the icon box */
+    height: 38px;
+    margin-right: 12px;
+}
+
+/* Use the Font Awesome Google brand icon */
+.btn-google .fa-google {
+    font-size: 20px;
+    color: #DB4437; /* Google Red, or use fa-google's default */
+}
+
+.btn-google:hover {
+    background-color: #F8F8F8; /* Slight gray on hover */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    color: #222;
+}
+
+.btn-google:active {
+    background-color: #F0F0F0;
 }

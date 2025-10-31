@@ -57,6 +57,7 @@
   <!--<script src="./data-bard.js"></script>-->
   <script src="./data.js"></script>
   <script src="./settings.js"></script>
+  <script src="./export.js"></script>
   <link rel="stylesheet" href="./style.css">
 
   <style>
@@ -129,6 +130,15 @@
       <div id="fileHelp" class="form-text">
         (File upload functionality coming soon)
       </div>
+    </div>
+
+    <div class="mb-3">
+      <button id="export-kml-button" class="btn-google w-100">
+          <span class="google-icon-wrapper">
+              <i class="fa-brands fa-google"></i>
+          </span>
+          <span>Export to Google Maps</span>
+      </button>
     </div>
 
     <!--
@@ -794,7 +804,7 @@
     function countMarkersByType(markers) {
         const counts = {};
         markers.forEach(marker => {
-            console.log(marker)
+            //console.log(marker)
             // Get the type stored in the marker's options
             const type = marker.options.location.type;
             if (type) {
@@ -1013,7 +1023,7 @@
         // 2. Get a Set of all "types" that should be visible
         const visibleTypes = getSelectedTypes();
 
-        console.log(visibleTypes)
+       // console.log(visibleTypes)
 
         // This is very fast and is the *intended* way to filter clusters.
         markers.clearLayers(); // Remove all markers (fast)
@@ -1023,7 +1033,7 @@
             return visibleTypes.has(marker.options.location.type);
         })
 
-        console.log(markersToShow.length)
+        //console.log(markersToShow.length)
        // Add back only the filtered markers (this is also very fast)
        markers.addLayers(markersToShow);
 
@@ -1132,7 +1142,7 @@
     * @returns {L.Marker|null} A Leaflet marker object, or null if lat/lng is invalid.
     */
     function createMarker(location, post) {
-      console.log(location)
+      //console.log(location)
       // Get latitude and longitude
       const latitude = get(location, 'latitude', ATTR);
       const longitude = get(location, 'longitude', ATTR);
@@ -1242,6 +1252,8 @@
           markers.clearLayers();
           markers.addLayers(allMarkers);
       });
+
+     setupKmlExportListener()
 
     });
 
