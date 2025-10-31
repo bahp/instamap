@@ -242,7 +242,7 @@ function generateKMLStyles(markerStyle) {
         styles.push(`
     <Style id="style_${kmlId}">
       <IconStyle>
-        <scale>0.5</scale>
+        <scale>0.9</scale>
         <Icon>
           <href>${iconHref}</href>
         </Icon>
