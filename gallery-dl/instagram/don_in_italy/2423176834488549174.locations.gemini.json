@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Taormina",
+        "subtitle": "A hilltop town on the east coast of Sicily, Italy.",
+        "lat": 37.8524,
+        "lon": 15.2891,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Taormina",
+            "Metropolitan City of Messina",
+            "Sicily",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Messina",
+        "subtitle": "Port city in Sicily, Italy, known for its harbor and historical sites.",
+        "lat": 38.1932,
+        "lon": 15.5564,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Messina",
+            "Metropolitan City of Messina",
+            "Sicily",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Sicily",
+        "subtitle": "Largest island in the Mediterranean Sea, an autonomous region of Italy.",
+        "lat": 37.5999,
+        "lon": 14.0153,
+        "type": "island",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": 3,
+        "hierarchy": [
+            "Sicily",
+            "Italy"
+        ]
+    }
+]

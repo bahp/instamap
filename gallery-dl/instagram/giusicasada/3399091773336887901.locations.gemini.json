@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Stagno di Sa Curcurica",
+        "subtitle": "Wetland and pond in Orosei, Sardinia, Italy",
+        "lat": 40.4079,
+        "lon": 9.7738,
+        "type": "wetland",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Stagno di Sa Curcurica",
+            "Orosei",
+            "Province of Nuoro",
+            "Sardinia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Orosei",
+        "subtitle": "Coastal town in the Province of Nuoro, Sardinia, Italy",
+        "lat": 40.3752,
+        "lon": 9.7029,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Orosei",
+            "Province of Nuoro",
+            "Sardinia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Sardinia",
+        "subtitle": "Large island and autonomous region of Italy in the Mediterranean Sea",
+        "lat": 40.0157,
+        "lon": 9.0166,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 3,
+        "hierarchy": [
+            "Sardinia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Italy",
+        "subtitle": "Country in Southern Europe with a long Mediterranean coastline",
+        "lat": 41.90998,
+        "lon": 12.42417,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 4,
+        "hierarchy": [
+            "Italy",
+            "Europe"
+        ]
+    }
+]

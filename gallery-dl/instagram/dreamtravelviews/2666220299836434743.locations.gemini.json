@@ -1,0 +1,179 @@
+[
+    {
+        "title": "Mont Saint-Michel",
+        "subtitle": "Rocky tidal island and commune in Normandy",
+        "lat": 48.63606,
+        "lon": -1.51139,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Mont Saint-Michel",
+            "Avranches",
+            "Manche",
+            "Normandy",
+            "France"
+        ]
+    },
+    {
+        "title": "Grasse",
+        "subtitle": "Perfume capital city of France",
+        "lat": 43.65939,
+        "lon": 6.92482,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Grasse",
+            "Alpes-Maritimes",
+            "Provence-Alpes-C\u00f4te d'Azur",
+            "France"
+        ]
+    },
+    {
+        "title": "Ch\u00e2teau Royal d'Amboise",
+        "subtitle": "Historic royal castle in Amboise, Loire Valley",
+        "lat": 47.4137,
+        "lon": 0.9818,
+        "type": "castle",
+        "class": "tourist_attraction",
+        "confidence": 0.97,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Ch\u00e2teau Royal d'Amboise",
+            "Amboise",
+            "Indre-et-Loire",
+            "Centre-Val de Loire",
+            "France"
+        ]
+    },
+    {
+        "title": "Ch\u00e2teau de Costa\u00e9res",
+        "subtitle": "Private castle on a tidal island in Brittany",
+        "lat": 48.8105,
+        "lon": -3.4695,
+        "type": "castle",
+        "class": "tourist_attraction",
+        "confidence": 0.96,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Ch\u00e2teau de Costa\u00e9res",
+            "Tr\u00e9gastel",
+            "C\u00f4tes-d'Armor",
+            "Brittany",
+            "France"
+        ]
+    },
+    {
+        "title": "Valensole",
+        "subtitle": "Village in Provence, known for lavender fields",
+        "lat": 43.8378,
+        "lon": 6.0969,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.94,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Valensole",
+            "Alpes-de-Haute-Provence",
+            "Provence-Alpes-C\u00f4te d'Azur",
+            "France"
+        ]
+    },
+    {
+        "title": "Ch\u00e2teau de la Bretesche",
+        "subtitle": "Castle and luxury hotel in Missillac, Pays de la Loire",
+        "lat": 47.4633,
+        "lon": -2.1818,
+        "type": "castle",
+        "class": "tourist_attraction",
+        "confidence": 0.96,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Ch\u00e2teau de la Bretesche",
+            "Missillac",
+            "Loire-Atlantique",
+            "Pays de la Loire",
+            "France"
+        ]
+    },
+    {
+        "title": "Dinan",
+        "subtitle": "Medieval walled town in Brittany",
+        "lat": 48.4556,
+        "lon": -2.0457,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 7,
+        "hierarchy": [
+            "Dinan",
+            "C\u00f4tes-d'Armor",
+            "Brittany",
+            "France"
+        ]
+    },
+    {
+        "title": "Phare de Kermorvan",
+        "subtitle": "Lighthouse on Kermorvan peninsula, Le Conquet",
+        "lat": 48.3582,
+        "lon": -4.7797,
+        "type": "lighthouse",
+        "class": "building",
+        "confidence": 0.97,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Phare de Kermorvan",
+            "Le Conquet",
+            "Finist\u00e8re",
+            "Brittany",
+            "France"
+        ]
+    },
+    {
+        "title": "Jardins du Ch\u00e2teau de Villandry",
+        "subtitle": "Famous Renaissance gardens of Villandry Castle",
+        "lat": 47.3409,
+        "lon": 0.5054,
+        "type": "garden",
+        "class": "tourist_attraction",
+        "confidence": 0.97,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Jardins du Ch\u00e2teau de Villandry",
+            "Villandry",
+            "Indre-et-Loire",
+            "Centre-Val de Loire",
+            "France"
+        ]
+    },
+    {
+        "title": "Les P\u00e9nitents des M\u00e9es",
+        "subtitle": "Impressive rock formations near Les M\u00e9es",
+        "lat": 44.0208,
+        "lon": 6.0028,
+        "type": "rock formation",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 10,
+        "hierarchy": [
+            "Les P\u00e9nitents des M\u00e9es",
+            "Les M\u00e9es",
+            "Alpes-de-Haute-Provence",
+            "Provence-Alpes-C\u00f4te d'Azur",
+            "France"
+        ]
+    }
+]

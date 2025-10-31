@@ -1,0 +1,144 @@
+[
+    {
+        "title": "Icefields Parkway",
+        "subtitle": "Scenic parkway between Banff and Jasper National Parks, Alberta",
+        "lat": 52.2344,
+        "lon": -117.2289,
+        "type": "scenic_route",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Icefields Parkway",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Cape Breton Island",
+        "subtitle": "Large island off the Atlantic coast of Nova Scotia, Canada",
+        "lat": 46.2,
+        "lon": -60.8,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Cape Breton Island",
+            "Nova Scotia",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Jasper National Park",
+        "subtitle": "Vast national park in the Canadian Rockies, Alberta",
+        "lat": 52.8851,
+        "lon": -118.0682,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Jasper National Park",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Jasper National Park",
+        "subtitle": "Vast national park in the Canadian Rockies, Alberta",
+        "lat": 52.8851,
+        "lon": -118.0682,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Jasper National Park",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Icefields Parkway",
+        "subtitle": "Scenic parkway between Banff and Jasper National Parks, Alberta",
+        "lat": 52.2344,
+        "lon": -117.2289,
+        "type": "scenic_route",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Icefields Parkway",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Canadian Rockies",
+        "subtitle": "The Canadian portion of the Rocky Mountains in western Canada",
+        "lat": 52.1287,
+        "lon": -117.6534,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": 6,
+        "hierarchy": [
+            "Canadian Rockies",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Jasper National Park",
+        "subtitle": "Vast national park in the Canadian Rockies, Alberta",
+        "lat": 52.8851,
+        "lon": -118.0682,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Jasper National Park",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Alberta",
+        "subtitle": "A western province of Canada, known for its mountains and prairies",
+        "lat": 54.5,
+        "lon": -115.0,
+        "type": "province",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 6,
+        "page": 8,
+        "hierarchy": [
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Banff",
+        "subtitle": "Resort town in Banff National Park, Alberta, Canada",
+        "lat": 51.1784,
+        "lon": -115.5708,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 9,
+        "hierarchy": [
+            "Banff",
+            "Alberta",
+            "Canada"
+        ]
+    }
+]

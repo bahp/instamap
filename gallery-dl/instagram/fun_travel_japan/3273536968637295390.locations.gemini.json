@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Nikko",
+        "subtitle": "Historic city in Tochigi Prefecture, Japan, known for shrines.",
+        "lat": 36.72899,
+        "lon": 139.60565,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Nikk\u014d",
+            "Tochigi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hakone",
+        "subtitle": "Scenic town in Kanagawa, Japan, famous for hot springs and Fuji views.",
+        "lat": 35.23361,
+        "lon": 139.04361,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Hakone",
+            "Ashigarashimo District",
+            "Kanagawa Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Yokohama",
+        "subtitle": "Major port city in Kanagawa, Japan, near Tokyo.",
+        "lat": 35.4437,
+        "lon": 139.63803,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Yokohama",
+            "Kanagawa Prefecture",
+            "Japan"
+        ]
+    }
+]

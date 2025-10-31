@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Norway",
+        "subtitle": "A Nordic country in Northern Europe.",
+        "lat": 60.472024,
+        "lon": 8.468946,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 1,
+        "hierarchy": [
+            "Norway"
+        ]
+    },
+    {
+        "title": "Dolomites",
+        "subtitle": "Mountain range in northeastern Italy.",
+        "lat": 46.49,
+        "lon": 11.85,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": 2,
+        "hierarchy": [
+            "Dolomites",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Iceland",
+        "subtitle": "A Nordic island country in the North Atlantic Ocean.",
+        "lat": 64.9631,
+        "lon": -19.0208,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 3,
+        "hierarchy": [
+            "Iceland"
+        ]
+    },
+    {
+        "title": "Svalbard",
+        "subtitle": "An archipelago in the Arctic Ocean, part of Norway.",
+        "lat": 78.0,
+        "lon": 18.0,
+        "type": "archipelago",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 4,
+        "hierarchy": [
+            "Svalbard",
+            "Norway"
+        ]
+    },
+    {
+        "title": "Lofoten",
+        "subtitle": "An archipelago in Nordland county, Norway.",
+        "lat": 68.1228,
+        "lon": 13.9213,
+        "type": "archipelago",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 5,
+        "hierarchy": [
+            "Lofoten",
+            "Nordland",
+            "Norway"
+        ]
+    }
+]

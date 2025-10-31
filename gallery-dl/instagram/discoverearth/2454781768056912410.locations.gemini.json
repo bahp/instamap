@@ -1,0 +1,55 @@
+[
+    {
+        "title": "G\u00f6reme National Park",
+        "subtitle": "UNESCO World Heritage Site with fairy chimneys and rock formations in Cappadocia, Turkey.",
+        "lat": 38.6475,
+        "lon": 34.8436,
+        "type": "national_park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "G\u00f6reme National Park",
+            "G\u00f6reme",
+            "Nev\u015fehir Province",
+            "Turkey"
+        ]
+    },
+    {
+        "title": "Tokal\u0131 Kilise",
+        "subtitle": "Largest cave church in G\u00f6reme Open-Air Museum, known for Byzantine frescoes.",
+        "lat": 38.6441,
+        "lon": 34.8383,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Tokal\u0131 Kilise",
+            "G\u00f6reme Open Air Museum",
+            "G\u00f6reme",
+            "Nev\u015fehir Province",
+            "Turkey"
+        ]
+    },
+    {
+        "title": "Elmal\u0131 Kilise",
+        "subtitle": "Compact cave church in G\u00f6reme Open-Air Museum, famous for vibrant frescoes.",
+        "lat": 38.6446,
+        "lon": 34.8402,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Elmal\u0131 Kilise",
+            "G\u00f6reme Open Air Museum",
+            "G\u00f6reme",
+            "Nev\u015fehir Province",
+            "Turkey"
+        ]
+    }
+]

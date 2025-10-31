@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Helsinki",
+        "subtitle": "Capital of Finland, situated on the Baltic Sea",
+        "lat": 60.1674881,
+        "lon": 24.9354546,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": null,
+        "hierarchy": [
+            "Helsinki",
+            "Uusimaa",
+            "Finland"
+        ]
+    },
+    {
+        "title": "Finland",
+        "subtitle": "Nordic country in Northern Europe",
+        "lat": 64.0,
+        "lon": 26.0,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 7,
+        "page": 1,
+        "hierarchy": [
+            "Finland"
+        ]
+    }
+]
