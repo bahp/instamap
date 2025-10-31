@@ -160,7 +160,7 @@ variable) for easy loading and plotting on a Leaflet web map.
 8.  It will also be available on your Google Maps App!
 
 
-#### Custom Icon Generation
+#### 3.1 Custom Icon Generation
 
 A significant limitation of Google My Maps' KML importer is that it **ignores most KML styling 
 tags**, including `<color>` and references to default icons. While the KML standard supports 
@@ -176,7 +176,7 @@ publicly accessed via GitHub. The KML export function is then configured to poin
 these public image URLs (e.g., `...github.io/.../static/img/markers/village.png`), which Google
  Maps can correctly load.
 
-#### How to Generate the Icons
+#### 3.2 How to Generate the Icons
 
 The icons are created using a standalone browser tool included in this repository.
 
@@ -185,60 +185,10 @@ The icons are created using a standalone browser tool included in this repositor
 3.  **Export:** When you click the button, the tool uses the Font Awesome font to draw the configured icons onto an HTML canvas and downloads them as individual PNG files, bundled into a `markers.zip`.
 4.  **Storage:** You must unzip this file and upload the new or updated PNG icons to the `web/static/img/markers/` directory in this repository and commit the changes.
 
-### Important Notes & Troubleshooting
+#### 3.3 Important Notes & Troubleshooting
 
 * **Unicode is Required:** For the `web/generate_icons.html` generator to work, each entry in the `MARKER_STYLE` object *must* have a `unicode` property (e.g., `unicode: '\uf51d'`). This is the unique code for the Font Awesome icon.
 * **"Some Icons Are Not Working" (Fix):** If you see a blank icon or a default circle in your generated PNGs, it means the `unicode` property for that type in `settings.js` is either **missing or incorrect**. To fix it:
-    1.  Find the icon you want on the [Font Awesome 6](https://fontawesome.com/icons) website.
-    2.  Click the icon to see its details.
-    3.  Copy its Unicode value (e.g., `f51d`).
-    4.  Add it to the `MARKER_STYLE` object in `settings.js`, like `unicode: '\uf51d'`.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### How it Works
-
-1.  **Generator:** The `web/generate_icons.html` file is a standalone browser tool. When you open 
-    this file locally, it will:
-    * Read the style configurations from `settings.js`.
-    * Use the Font Awesome font and unicodes to draw icons onto an HTML canvas.
-    * Save these icons as individual PNG files, bundled into a `markers.zip` for download.
-
-2.  **Configuration:** The icon designs (color and Font Awesome icon) are controlled by 
-    the `MARKER_STYLE` object inside `settings.js`.
-
-3.  **Storage:** The generated PNG icons (e.g., `village.png`, `tourism.png`) must be 
-    uploaded to the `web/static/img/markers/` directory in your repository.
-
-4.  **Usage:** The KML export function is built to point to the public GitHub URL 
-    for these files (e.g., `...github.io/.../static/img/markers/village.png`). Google Maps 
-    then loads these images as the icons.
-
-### ⚠ Important Notes & Troubleshooting
-
-* **Default Colors/Icons Will Not Work:** The KML file is configured to use **image URLs only**. 
-    The old method of setting a `<color>` on a default pin is not supported by google maps and
-    hence not used for this workflow.
-    
-* **Unicode is Required:** For the `create_icons.html` generator to work, each entry in the
-    `MARKER_STYLE` object *must* have a `unicode` property (e.g., `unicode: '\uf51d'`). This 
-    is the unique code for the Font Awesome icon.
-    
-* **"Some Icons Are Not Working" (Fix):** If you see a blank icon or a default circle for some 
-   types, it means the `unicode` property for that type in `settings.js` is either **missing 
-   or incorrect**. To fix it:
     1.  Find the icon you want on the [Font Awesome 6](https://fontawesome.com/icons) website.
     2.  Click the icon to see its details.
     3.  Copy its Unicode value (e.g., `f51d`).
