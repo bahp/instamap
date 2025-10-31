@@ -1,0 +1,88 @@
+[
+    {
+        "title": "Nanzenji Tenju-an",
+        "subtitle": "Historic Buddhist sub-temple within Nanzen-ji complex in Kyoto, Japan.",
+        "lat": 35.0094,
+        "lon": 135.7905,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Tenju-an",
+            "Nanzen-ji",
+            "Sakyo Ward",
+            "Kyoto",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kiyomizu-dera Temple",
+        "subtitle": "Iconic Buddhist temple in eastern Kyoto, a UNESCO World Heritage site.",
+        "lat": 34.9949,
+        "lon": 135.785,
+        "type": "temple",
+        "class": "tourism",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Kiyomizu-dera Temple",
+            "Higashiyama Ward",
+            "Kyoto",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kifune Shrine",
+        "subtitle": "Ancient Shinto shrine in northern Kyoto, dedicated to the god of water.",
+        "lat": 35.107,
+        "lon": 135.7667,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Kifune Shrine",
+            "Sakyo Ward",
+            "Kyoto",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Yasaka K\u014dshin-d\u014d Temple",
+        "subtitle": "Small but vibrant Buddhist temple in Gion, Kyoto, known for 'kukurizaru' monkeys.",
+        "lat": 34.9989,
+        "lon": 135.7797,
+        "type": "temple",
+        "class": "tourism",
+        "confidence": 0.92,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Yasaka K\u014dshin-d\u014d Temple",
+            "Higashiyama Ward",
+            "Kyoto",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Adashino Nenbutsuji Temple",
+        "subtitle": "Serene Buddhist temple in Arashiyama, Kyoto, with thousands of stone statues.",
+        "lat": 35.021,
+        "lon": 135.656,
+        "type": "temple",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Adashino Nenbutsuji Temple",
+            "Ukyo Ward",
+            "Kyoto",
+            "Japan"
+        ]
+    }
+]

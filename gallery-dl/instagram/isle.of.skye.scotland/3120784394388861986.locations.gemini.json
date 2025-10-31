@@ -1,0 +1,69 @@
+[
+    {
+        "title": "Neist Point Lighthouse",
+        "subtitle": "Iconic lighthouse at the westernmost point of Skye",
+        "lat": 57.4243,
+        "lon": -6.7844,
+        "type": "lighthouse",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Neist Point Lighthouse",
+            "Isle of Skye",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Fairy Glen",
+        "subtitle": "Unique and mystical landscape near Uig, Isle of Skye",
+        "lat": 57.5911,
+        "lon": -6.2736,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Fairy Glen",
+            "Isle of Skye",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Isle of Skye",
+        "subtitle": "Large island in the Inner Hebrides, known for its rugged landscapes",
+        "lat": 57.34,
+        "lon": -6.3,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Isle of Skye",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Loch Fada",
+        "subtitle": "Freshwater loch near Portree on the Isle of Skye",
+        "lat": 57.4566,
+        "lon": -6.1666,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Loch Fada",
+            "Isle of Skye",
+            "Scotland",
+            "United Kingdom"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Bruges",
+        "subtitle": "Historic city in the Flemish Region of Belgium",
+        "lat": 51.2093,
+        "lon": 3.2247,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Bruges",
+            "West Flanders",
+            "Flanders",
+            "Belgium"
+        ]
+    },
+    {
+        "title": "Ghent",
+        "subtitle": "Port city in the East Flanders province of Belgium",
+        "lat": 51.0538,
+        "lon": 3.725,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Ghent",
+            "East Flanders",
+            "Flanders",
+            "Belgium"
+        ]
+    }
+]

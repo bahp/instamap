@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Schloss Lichtenstein",
+        "subtitle": "Historic castle in Baden-W\u00fcrttemberg, Germany",
+        "lat": 48.4069,
+        "lon": 9.2407,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Schloss Lichtenstein",
+            "Lichtenstein",
+            "Reutlingen",
+            "Baden-W\u00fcrttemberg",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Honau",
+        "subtitle": "Village in Baden-W\u00fcrttemberg, Germany",
+        "lat": 48.4239,
+        "lon": 9.2562,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Honau",
+            "Lichtenstein",
+            "Reutlingen",
+            "Baden-W\u00fcrttemberg",
+            "Germany"
+        ]
+    }
+]

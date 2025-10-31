@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Flatow Tower",
+        "subtitle": "Historic tower in Babelsberg Park, Potsdam, Germany",
+        "lat": 52.3957,
+        "lon": 13.0903,
+        "type": "tower",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Flatow Tower",
+            "Potsdam",
+            "Brandenburg",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Germany",
+        "subtitle": "Country in Central Europe",
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.99,
+        "rank": 7,
+        "page": 2,
+        "hierarchy": [
+            "Germany"
+        ]
+    }
+]

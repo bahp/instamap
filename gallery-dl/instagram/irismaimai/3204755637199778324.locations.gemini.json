@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Tokyo",
+        "subtitle": "Capital city of Japan",
+        "lat": 35.689722,
+        "lon": 139.691667,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Tokyo",
+            "Tokyo Metropolis",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hawaii",
+        "subtitle": "U.S. state in the Pacific Ocean",
+        "lat": 20.7963,
+        "lon": -156.3311,
+        "type": "state",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Hawaii",
+            "United States"
+        ]
+    },
+    {
+        "title": "Paris",
+        "subtitle": "Capital city of France",
+        "lat": 48.856613,
+        "lon": 2.352222,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Paris",
+            "\u00cele-de-France",
+            "France"
+        ]
+    }
+]

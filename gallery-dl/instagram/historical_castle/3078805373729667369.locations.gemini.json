@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Hrad Karl\u0161tejn",
+        "subtitle": "Large Gothic castle founded in 1348 by Charles IV",
+        "lat": 49.9366,
+        "lon": 14.1887,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Hrad Karl\u0161tejn",
+            "Karl\u0161tejn",
+            "Central Bohemian Region",
+            "Czech Republic"
+        ]
+    },
+    {
+        "title": "Czech Republic",
+        "subtitle": "Central European country, known for its rich history and architecture.",
+        "lat": 49.8175,
+        "lon": 15.473,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 7,
+        "page": 2,
+        "hierarchy": [
+            "Czech Republic"
+        ]
+    }
+]

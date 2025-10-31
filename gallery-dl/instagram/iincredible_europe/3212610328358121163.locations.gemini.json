@@ -1,0 +1,175 @@
+[
+    {
+        "title": "Windsor Castle",
+        "subtitle": "Historic royal residence in Windsor, England.",
+        "lat": 51.4838,
+        "lon": -0.6044,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Windsor Castle",
+            "Windsor",
+            "Royal Borough of Windsor and Maidenhead",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Canterbury",
+        "subtitle": "Historic cathedral city in Kent, England.",
+        "lat": 51.2796,
+        "lon": 1.0827,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Canterbury",
+            "City of Canterbury",
+            "Kent",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "St Paul's Cathedral",
+        "subtitle": "Famous Anglican cathedral in London, England.",
+        "lat": 51.5138,
+        "lon": -0.0984,
+        "type": "cathedral",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "St Paul's Cathedral",
+            "City of London",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Scotland",
+        "subtitle": "A country in the United Kingdom, known for its landscapes.",
+        "lat": 56.4907,
+        "lon": -4.2026,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 7,
+        "page": 4,
+        "hierarchy": [
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Glenfinnan Viaduct",
+        "subtitle": "Railway viaduct in the Scottish Highlands, featured in Harry Potter.",
+        "lat": 56.8732,
+        "lon": -5.4326,
+        "type": "viaduct",
+        "class": "bridge",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Glenfinnan Viaduct",
+            "Glenfinnan",
+            "Highland",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Craigievar Castle",
+        "subtitle": "A distinctive pink harled castle in Aberdeenshire, Scotland.",
+        "lat": 57.1706,
+        "lon": -2.7126,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Craigievar Castle",
+            "Aberdeenshire",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Bedruthan Steps",
+        "subtitle": "Dramatic rock stacks and beach on the North Cornwall coast.",
+        "lat": 50.4851,
+        "lon": -5.0064,
+        "type": "cliff",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Bedruthan Steps",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Arlington Row",
+        "subtitle": "Iconic row of weaver's cottages in Bibury, Gloucestershire.",
+        "lat": 51.7618,
+        "lon": -1.782,
+        "type": "street",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Arlington Row",
+            "Bibury",
+            "Gloucestershire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Tintagel",
+        "subtitle": "Coastal village in Cornwall, associated with Arthurian legends.",
+        "lat": 50.6698,
+        "lon": -4.7554,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 9,
+        "hierarchy": [
+            "Tintagel",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Castle Combe",
+        "subtitle": "Picturesque village in the Cotswolds, Wiltshire, England.",
+        "lat": 51.5794,
+        "lon": -2.2359,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 10,
+        "hierarchy": [
+            "Castle Combe",
+            "Wiltshire",
+            "England",
+            "United Kingdom"
+        ]
+    }
+]

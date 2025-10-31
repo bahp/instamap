@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Pele\u0219 Castle",
+        "subtitle": "Neo-Renaissance castle in Sinaia, Romania",
+        "lat": 45.3582,
+        "lon": 25.5401,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Pele\u0219 Castle",
+            "Sinaia",
+            "Prahova County",
+            "Romania"
+        ]
+    },
+    {
+        "title": "Sinaia",
+        "subtitle": "Mountain resort town in Prahova County, Romania",
+        "lat": 45.3567,
+        "lon": 25.5489,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Sinaia",
+            "Prahova County",
+            "Romania"
+        ]
+    }
+]
