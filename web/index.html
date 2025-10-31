@@ -124,10 +124,14 @@
 
 
     <div class="mb-3">
-      <label for="formFile" class="form-label">Default file input example</label>
-      <input class="form-control" type="file" id="formFile">
+      <label for="formFile" class="form-label"></label>
+      <input class="form-control" type="file" id="formFile" disabled>
+      <div id="fileHelp" class="form-text">
+        (File upload functionality coming soon)
+      </div>
     </div>
 
+    <!--
     <div id="info"></div>
 
     <div class="mb-3"> Mapping</div>
@@ -146,12 +150,72 @@
         <option value="3">Three</option>
       </select>
     </div>
+    -->
 
-    <hr>
+    <!--<hr>-->
 
-    <div class="mb-3"> Legend</div>
-      <div id="legend-markers"></div>
-    <button class="btn btn-secondary"> Save </button>
+
+     <!-- -------------------------------------------------------- -->
+     <!-- Configuring the clustering settings                      -->
+     <!-- -------------------------------------------------------- -->
+     <div class="p-2 bg-light border rounded">
+        <label for="cluster-radius-slider" class="form-label d-flex justify-content-between">
+            Cluster Aggressiveness
+            <span class="badge bg-secondary" id="cluster-radius-value">80</span>
+        </label>
+        <div class="d-flex align-items-center">
+            <span class="small me-2">Less</span>
+            <input type="range" class="form-range"
+                   min="20"
+                   max="120"
+                   step="10"
+                   value="80"
+                   id="cluster-radius-slider">
+            <span class="small ms-2">More</span>
+        </div>
+    </div>
+
+    <div class="mb-3"></div>
+
+    <!-- -------------------------------------------------------- -->
+    <!-- Legend & filtering of markers by type                    -->
+    <!-- -------------------------------------------------------- -->
+    <div class="dropdown" id="legend-widget-container">
+
+      <button class="btn btn-light border dropdown-toggle w-100" type="button"
+              id="legend-dropdown-button" data-bs-toggle="dropdown"
+              data-bs-auto-close="outside" aria-expanded="false">
+          <i class="fa-solid fa-list me-1"></i>
+          Map Legend
+      </button>
+
+        <div class="dropdown-menu p-2" aria-labelledby="legend-dropdown-button">
+            <li>
+                <input type="text" class="form-control" id="legend-search-input"
+                       placeholder="Search legend...">
+            </li>
+            <li><hr class="dropdown-divider"></li>
+            <li class="list-group-item border-0 py-1 px-2 small">
+              <div class="d-flex align-items-center">
+                  <input class="form-check-input me-2" type="checkbox" id="legend-select-all" checked>
+                  <span class="fa-stack fa-1x me-2" style="visibility: hidden;" aria-hidden="true"></span>
+                  <label class="form-check-label" for="legend-select-all">
+                      <strong>Select / Deselect All</strong>
+                  </label>
+              </div>
+          </li>
+
+            <ul class="list-group list-group-flush" id="legend-list-items">
+                </ul>
+        </div>
+    </div>
+    <div id="legend-markers"></div>
+
+
+
+
+
+    <!-- <button class="btn btn-secondary"> Save </button> -->
 
     <!--
     <div class="row g-3 pb-1">
@@ -572,8 +636,13 @@
     // ------------------------------------------------------------------
     // Map Initialization
     // ------------------------------------------------------------------
+    // Create variables
+    let map;
+    //let markerClusterGroup;
+    let allMarkers = [];
+
     // Create map
-    var map = L.map('map', {
+    map = L.map('map', {
       preferCanvas: true
     }).setView(geo_mdr, 6);
 
@@ -590,7 +659,10 @@
     }).addTo(map);
 
     // -- Define global variables --
-    let markers = L.markerClusterGroup()
+    let markers = L.markerClusterGroup({
+      maxClusterRadius: 50,
+      disableClusteringAtZoom: 13
+    })
 
 
     // -----------------------------------------------------------------
@@ -659,7 +731,7 @@
              name="head" value="{1}">
         </div>`
 
-    function populateLegend() {
+    function populateLegend(marker) {
       // Group by type
       const result = Object.groupBy(data, ({ type }) => type);
 
@@ -673,7 +745,7 @@
     }
 
     function getShortcodeCount(data) {
-       return new Set(data.map(item => item.shortcode)).size;
+       return new Set(data.map(item => item.post_shortcode)).size;
     }
 
     function getMarkersCount(data) {
@@ -683,6 +755,297 @@
         return accumulator + locationCount;
       }, 0);
     }
+
+  /*
+    ================================================================
+    CORE LEGEND LOGIC (from previous step)
+    ================================================================
+    */
+
+    /**
+     * Groups all entries in MARKER_STYLE by their icon/color combination.
+     * @returns {Array} An array of grouped style objects.
+     */
+    function getGroupedStyles() {
+        const styleGroups = {};
+        Object.entries(MARKER_STYLE).forEach(([type, style]) => {
+            const color = style.backgroundColor || '#D3D3D3';
+            const icon = style.icon || 'location-dot';
+            const key = `${icon}-${color}`;
+
+            if (!styleGroups[key]) {
+                styleGroups[key] = {
+                    icon: icon,
+                    color: color,
+                    types: [type]
+                };
+            } else {
+                styleGroups[key].types.push(type);
+            }
+        });
+        return Object.values(styleGroups);
+    }
+
+    /**
+     * Counts all markers in the global list by their type.
+     * @param {Array<L.Marker>} markers - The global 'allMarkers' array.
+     * @returns {object} An object (map) like { camera: 5, construction: 2, ... }
+     */
+    function countMarkersByType(markers) {
+        const counts = {};
+        markers.forEach(marker => {
+            console.log(marker)
+            // Get the type stored in the marker's options
+            const type = marker.options.location.type;
+            if (type) {
+                // Add to the count for that type, or initialize it to 1
+                counts[type] = (counts[type] || 0) + 1;
+            }
+        });
+        return counts;
+    }
+
+    /*
+    ================================================================
+    Create filterable Legend
+    ================================================================
+    */
+
+    /**
+     * Generates the HTML for a single filterable list-group-item.
+     * This now includes a checkbox.
+     *
+     * @param {object} group - A group object { icon, color, types }
+     * @param {object} markerCounts - The object of marker counts.
+     * @returns {string} HTML string for the legend item
+     */
+    function createFilterableLegendItemHTML(group, markerCounts) {
+        const primaryName = group.types[0]
+            .replace(/_/g, ' ')
+            .replace(/\b\w/g, l => l.toUpperCase());
+
+        const tooltipTitle = `Applies to: ${group.types.join(', ')}`;
+        const otherTypesCount = group.types.length - 1;
+
+        // We store all types this group represents in a data-attribute
+        // on the checkbox for easy filtering later.
+        const allTypes = group.types.join(',');
+
+        // The unique ID for the checkbox and its label
+        const checkId = `legend-check-${group.types[0]}`;
+
+        // Calculate total count for this group
+        let totalCount = 0;
+        group.types.forEach(type => {
+            // Add the count for each type in this group
+            // Use (markerCounts[type] || 0) in case a type has 0 markers
+            totalCount += (markerCounts[type] || 0);
+        });
+
+        // Not needed anymore
+        //if (totalCount === 0) {
+        //    return "";
+        //}
+
+        return `
+            <li class="list-group-item py-1 px-2 small"
+                data-bs-toggle="tooltip"
+                data-bs-placement="right"
+                data-bs-title="${tooltipTitle}">
+
+                <div class="d-flex align-items-center">
+                    <input class="form-check-input me-2 legend-item-check"
+                           type="checkbox"
+                           value="${group.types[0]}"
+                           id="${checkId}"
+                           data-types="${allTypes}"
+                           checked>
+
+                    <span class="fa-stack fa-1x me-2" aria-hidden="true">
+                        <i class="fa-solid fa-circle fa-stack-2x" style="color: ${group.color};"></i>
+                        <i class="fa-solid fa-${group.icon} fa-stack-1x fa-inverse"></i>
+                    </span>
+
+                    <div class="flex-grow-1 me-2">
+                        <label class="form-check-label legend-text d-block" for="${checkId}">
+                            ${primaryName}
+                        </label>
+                        <small class="text-muted"> ${totalCount} markers </small>
+                    </div>
+
+                    ${otherTypesCount > 0 ? `
+                        <span class="badge bg-secondary rounded-pill ms-auto">
+                            +${otherTypesCount}
+                        </span>` : ''}
+                </div>
+            </li>
+        `;
+    }
+
+    /**
+     * Populates the legend in the DOM.
+     * Call this function once in your $(document).ready().
+     */
+    function populateLegend(markerCounts) {
+        // 1. Get the styles
+        const groupedStyles = getGroupedStyles();
+
+        // 2. Filter based on markerCounts
+        const stylesToShow = groupedStyles.map(group => {
+            // Calculate the total count for this group using markerCounts
+            let totalCount = 0;
+            group.types.forEach(type => {
+                totalCount += (markerCounts[type] || 0);
+            });
+
+            // Add the count directly to the group object
+            group.totalCount = totalCount;
+            return group;
+        }).filter(group => group.totalCount > 0);
+
+        // 3. Sort by color (or icon, as you prefer)
+        stylesToShow.sort((a, b) => {
+            const colorCompare = a.color.localeCompare(b.color);
+            if (colorCompare !== 0) return colorCompare;
+            return a.icon.localeCompare(b.icon);
+        });
+
+        // 4. Get the *new* container
+        const $legendList = $('#legend-list-items');
+        $legendList.empty();
+
+        // 5. Create and append the HTML
+        stylesToShow.forEach(group => {
+            const itemHtml = createFilterableLegendItemHTML(group, markerCounts);
+            $legendList.append(itemHtml);
+        });
+
+        // 6. Initialize Bootstrap Tooltips
+        const tooltipTriggerList = [].slice.call(
+            document.querySelectorAll('[data-bs-toggle="tooltip"]')
+        );
+        tooltipTriggerList.map(function (tooltipTriggerEl) {
+            return new bootstrap.Tooltip(tooltipTriggerEl);
+        });
+
+        // 7. Attach all event listeners
+        $('#legend-search-input').on('keyup', filterLegend);       // search input
+        $('#legend-select-all').on('change', toggleAllCheckboxes); // select all
+
+        // Listen for changes on ANY legend item checkbox
+        // We use event delegation on the parent list for efficiency
+        $legendList.on('change', '.legend-item-check', handleFilterChange);
+
+        // Stop dropdown from closing when clicking inside the search box
+        $('#legend-search-input, #legend-select-all').on('click', function(e) {
+            e.stopPropagation();
+        });
+    }
+
+    /**
+     * Filters the legend list based on the search input.
+     */
+    function filterLegend() {
+        const filterText = $(this).val().toUpperCase();
+
+        $('#legend-list-items li').each(function() {
+            const $li = $(this);
+            // Check against the label text OR the tooltip text
+            const labelText = $li.find('.legend-text').text().toUpperCase();
+            const tooltipText = $li.data('bs-title').toUpperCase();
+
+            if (labelText.includes(filterText) || tooltipText.includes(filterText)) {
+                $li.show();
+            } else {
+                $li.hide();
+            }
+        });
+    }
+
+    /**
+     * Checks or unchecks all item checkboxes based on the "Select All" checkbox.
+     */
+    function toggleAllCheckboxes() {
+        const isChecked = $(this).is(':checked');
+        // Find all item checkboxes and set their 'checked' property
+        $('.legend-item-check').prop('checked', isChecked);
+
+        // After changing all, trigger ONE filter update
+        handleFilterChange();
+    }
+
+    /**
+     * Updates the "Select All" checkbox state based on item checkboxes.
+     * e.g., if one item is unchecked, "Select All" becomes unchecked.
+     */
+    function updateSelectAllState() {
+        const $itemCheckboxes = $('.legend-item-check');
+        const allChecked = $itemCheckboxes.length === $itemCheckboxes.filter(':checked').length;
+
+        // Set the 'Select All' checkbox state
+        $('#legend-select-all').prop('checked', allChecked);
+    }
+
+    /**
+     * Gathers all unique types from *checked* legend items.
+     * @returns {Set<string>} A Set object containing all types to show.
+     */
+    function getSelectedTypes() {
+        const selectedTypes = new Set();
+
+        // Loop over only the :checked checkboxes
+        $('.legend-item-check:checked').each(function() {
+            const types = $(this).data('types').split(',');
+            types.forEach(type => selectedTypes.add(type));
+        });
+
+        return selectedTypes;
+    }
+
+    /**
+     * This is the main function that triggers your Leaflet map filter.
+     * It's called whenever *any* checkbox changes.
+     */
+    function handleFilterChange() {
+        // 1. First, update the "Select All" checkbox's state
+        updateSelectAllState();
+
+        // 2. Get a Set of all "types" that should be visible
+        const visibleTypes = getSelectedTypes();
+
+        console.log(visibleTypes)
+
+        // This is very fast and is the *intended* way to filter clusters.
+        markers.clearLayers(); // Remove all markers (fast)
+
+        const markersToShow = allMarkers.filter(marker => {
+            console.log(marker)
+            return visibleTypes.has(marker.options.location.type);
+        })
+
+        console.log(markersToShow.length)
+       // Add back only the filtered markers (this is also very fast)
+       markers.addLayers(markersToShow);
+
+        // 3. --- YOUR LEAFLET LOGIC GOES HERE ---
+        // This is where you will filter your Leaflet markers.
+        //
+        // Example:
+        //
+        // console.log("Filtering map to only show:", visibleTypes);
+        //
+        // myLeafletLayerGroup.eachLayer(function(layer) {
+        //     // Assuming you stored the marker's type in its options
+        //     const markerType = layer.options.type;
+        //
+        //     if (visibleTypes.has(markerType)) {
+        //         layer.addTo(map); // Show it
+        //     } else {
+        //         layer.remove(); // Hide it
+        //     }
+        // });
+    }
+
 
     /**
      * Updates the information panel with post and marker counts.
@@ -694,7 +1057,7 @@
       var n_plotted_markers = markers.getLayers().length;
 
       // Include information
-      $('#info').html("Posts: {0} | Markers: {1}".format(n_posts, n_plotted_markers));
+      //$('#info').html("Posts: {0} | Markers: {1}".format(n_posts, n_plotted_markers));
       $('#nposts').html(n_posts);
       $('#nmarkers').html(n_plotted_markers);
     }
@@ -754,7 +1117,7 @@
       }
 
       // 3. Apply the final 'post.num' filter to the preliminary list.  <== REVISIT!
-      const locationsToPlot = post.num
+      const locationsToPlot = post.sidecar_shortcode
         ? preliminaryLocations.filter(loc => loc.page === post.num)
         : preliminaryLocations;
 
@@ -769,6 +1132,7 @@
     * @returns {L.Marker|null} A Leaflet marker object, or null if lat/lng is invalid.
     */
     function createMarker(location, post) {
+      console.log(location)
       // Get latitude and longitude
       const latitude = get(location, 'latitude', ATTR);
       const longitude = get(location, 'longitude', ATTR);
@@ -782,7 +1146,8 @@
       const markerOptions = {
         ...post,                     // Copy base post properties
         icon: get_icon(5, location), // (assuming 'get_icon' is defined)
-        page: location.page          // Store the correct page number
+        page: location.page,          // Store the correct page number
+        location: location
       };
 
       // Create marker
@@ -825,6 +1190,8 @@
     function processDataAndPlot(data, markers) {
       console.log("Data:", data);
 
+      allMarkers = []
+
       // Use native .forEach for the outer loop.
       data.forEach(post => {
         // Step 1: Get the filtered list of locations for this post.
@@ -834,6 +1201,7 @@
           const marker = createMarker(location, post);
           // Add valid markers to the cluster group.
           if (marker) {
+            allMarkers.push(marker);
             markers.addLayer(marker);
           }
         }); // End inner loop
@@ -849,10 +1217,31 @@
 
       // 1. Process all data and plot the filtered markers
       processDataAndPlot(data, markers);
+      // 2. Create the marker counts
+      const markerCounts = countMarkersByType(allMarkers);
       // 2. Populate the legend based on the plotted data
-      populateLegend();
+      populateLegend(markerCounts);
       // 3. Populate the info panels with final counts
       updateMapInfo(data, markers);
+
+      // Listen for the 'input' event on the slider
+      // ('input' fires every time it moves, 'change' only fires on release)
+      $('#cluster-radius-slider').on('input', function() {
+          // 1. Get the new value from the slider
+          const newRadius = parseInt($(this).val(), 10);
+
+          // --- THIS IS THE NEW LINE ---
+        // 2. Update the text in the badge
+        $('#cluster-radius-value').text(newRadius);
+
+          // 2. Update the option directly on the cluster group object
+          markers.options.maxClusterRadius = newRadius;
+
+          // 3. "Refresh" the cluster group using our global 'allMarkers' array
+          // This is the essential part. It's very fast.
+          markers.clearLayers();
+          markers.addLayers(allMarkers);
+      });
 
     });
 
