@@ -1,0 +1,104 @@
+[
+    {
+        "title": "Cloud 9",
+        "subtitle": "Famous surf break in Siargao, Philippines",
+        "lat": 9.80556,
+        "lon": 126.17028,
+        "type": "surf_spot",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Cloud 9",
+            "General Luna",
+            "Siargao",
+            "Philippines"
+        ]
+    },
+    {
+        "title": "Pacifico Beach",
+        "subtitle": "Surf beach in San Isidro, Siargao, Philippines",
+        "lat": 10.03816,
+        "lon": 126.11306,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Pacifico Beach",
+            "San Isidro",
+            "Siargao",
+            "Philippines"
+        ]
+    },
+    {
+        "title": "Alegria Beach",
+        "subtitle": "Scenic beach in Santa Monica, Siargao, Philippines",
+        "lat": 10.0075,
+        "lon": 126.06917,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Alegria Beach",
+            "Santa Monica",
+            "Siargao",
+            "Philippines"
+        ]
+    },
+    {
+        "title": "Maasin River",
+        "subtitle": "River known for bent palm tree swing in Siargao",
+        "lat": 9.82236,
+        "lon": 126.10826,
+        "type": "river",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Maasin River",
+            "Pilar",
+            "Siargao",
+            "Philippines"
+        ]
+    },
+    {
+        "title": "Lokal Hub Restaurant",
+        "subtitle": "Restaurant in Burgos, Siargao, Philippines",
+        "lat": 10.05282,
+        "lon": 126.10705,
+        "type": "restaurant",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Lokal Hub Restaurant",
+            "Burgos",
+            "Siargao",
+            "Philippines"
+        ]
+    },
+    {
+        "title": "Siargao Wake Park",
+        "subtitle": "Wakeboarding park in General Luna, Siargao",
+        "lat": 9.82512,
+        "lon": 126.16049,
+        "type": "sports_facility",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Siargao Wake Park",
+            "General Luna",
+            "Siargao",
+            "Philippines"
+        ]
+    }
+]

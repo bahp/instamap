@@ -1,0 +1,327 @@
+[
+    {
+        "title": "Regensburger H\u00fctte",
+        "subtitle": "Mountain hut in Puez-Geisler Nature Park",
+        "lat": 46.6133,
+        "lon": 11.7583,
+        "type": "alpine_hut",
+        "class": "building",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Regensburger H\u00fctte",
+            "Puez-Geisler Nature Park",
+            "Val Gardena",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Seceda",
+        "subtitle": "Mountain in the Dolomites, South Tyrol",
+        "lat": 46.602,
+        "lon": 11.735,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Seceda",
+            "Val Gardena",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Ortisei",
+        "subtitle": "Village in Val Gardena, South Tyrol, Italy",
+        "lat": 46.575,
+        "lon": 11.67,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Ortisei",
+            "Val Gardena",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Zannes Car Park",
+        "subtitle": "Parking area in Val di Funes, South Tyrol",
+        "lat": 46.6667,
+        "lon": 11.7513,
+        "type": "parking",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Zannes Car Park",
+            "Val di Funes",
+            "Villn\u00f6\u00df",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Rifugio Auronzo",
+        "subtitle": "Mountain hut at Tre Cime di Lavaredo base",
+        "lat": 46.619,
+        "lon": 12.298,
+        "type": "alpine_hut",
+        "class": "building",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Rifugio Auronzo",
+            "Drei Zinnen Nature Park",
+            "Auronzo di Cadore",
+            "Belluno",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Tre Cime di Lavaredo",
+        "subtitle": "Iconic three-peak massif in the Dolomites",
+        "lat": 46.6333,
+        "lon": 12.2833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Tre Cime di Lavaredo",
+            "Sesto Dolomites",
+            "Dolomites",
+            "Belluno",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Armentara Meadows",
+        "subtitle": "Scenic alpine meadows near Badia, South Tyrol",
+        "lat": 46.6,
+        "lon": 11.916,
+        "type": "grassland",
+        "class": "natural",
+        "confidence": 0.85,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Armentara Meadows",
+            "Badia",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "La Crusc Church",
+        "subtitle": "Historic sanctuary near Badia, Dolomites",
+        "lat": 46.6111,
+        "lon": 11.9056,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Santuario di Santa Croce",
+            "Badia",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Badia",
+        "subtitle": "Municipality in Alta Badia, South Tyrol, Italy",
+        "lat": 46.602,
+        "lon": 11.903,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Badia",
+            "Alta Badia",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Baita Segantini",
+        "subtitle": "Mountain hut with views of Pale di San Martino",
+        "lat": 46.311,
+        "lon": 11.802,
+        "type": "alpine_hut",
+        "class": "building",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Baita Segantini",
+            "Pale di San Martino",
+            "Trentino",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Passo Rolle",
+        "subtitle": "Mountain pass in the Dolomites, Trentino",
+        "lat": 46.305,
+        "lon": 11.785,
+        "type": "mountain_pass",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Passo Rolle",
+            "Trentino",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Passo Pordoi",
+        "subtitle": "Mountain pass in the Dolomites, Italy",
+        "lat": 46.487,
+        "lon": 11.805,
+        "type": "mountain_pass",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Passo Pordoi",
+            "Dolomites",
+            "Trentino",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Sesto",
+        "subtitle": "Municipality in South Tyrol, Italy",
+        "lat": 46.72,
+        "lon": 12.35,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 7,
+        "hierarchy": [
+            "Sesto",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Val Fiscalina",
+        "subtitle": "Valley in the Sesto Dolomites, Italy",
+        "lat": 46.709,
+        "lon": 12.339,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Val Fiscalina",
+            "Sesto",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Santa Maddalena",
+        "subtitle": "Village in Val di Funes, South Tyrol",
+        "lat": 46.65,
+        "lon": 11.72,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 8,
+        "hierarchy": [
+            "Santa Maddalena",
+            "Val di Funes",
+            "Villn\u00f6\u00df",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Monte Specie",
+        "subtitle": "Mountain in the Prags Dolomites, South Tyrol",
+        "lat": 46.68,
+        "lon": 12.18,
+        "type": "mountain_peak",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 9,
+        "hierarchy": [
+            "Monte Specie",
+            "Prags Dolomites",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Prato Piazza Car Park",
+        "subtitle": "Parking at Prato Piazza plateau, South Tyrol",
+        "lat": 46.685,
+        "lon": 12.138,
+        "type": "parking",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Prato Piazza Car Park",
+            "Prags",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Alpe di Siusi",
+        "subtitle": "Largest high-altitude alpine meadow in Europe",
+        "lat": 46.54,
+        "lon": 11.6,
+        "type": "alpine_meadow",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 10,
+        "hierarchy": [
+            "Alpe di Siusi",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Alpe di Siusi Cable Car",
+        "subtitle": "Mountain station of Ortisei-Alpe di Siusi gondola",
+        "lat": 46.545,
+        "lon": 11.62,
+        "type": "gondola_station",
+        "class": "amenity",
+        "confidence": 0.8,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Alpe di Siusi Cable Car",
+            "Alpe di Siusi",
+            "South Tyrol",
+            "Italy"
+        ]
+    }
+]

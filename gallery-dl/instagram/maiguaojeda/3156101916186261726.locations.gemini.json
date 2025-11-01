@@ -1,0 +1,145 @@
+[
+    {
+        "title": "Mongolia",
+        "subtitle": "Country in East Asia known for its vast steppes and nomadic culture",
+        "lat": 47.785759,
+        "lon": 103.84074,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 7,
+        "page": null,
+        "hierarchy": [
+            "Mongolia"
+        ]
+    },
+    {
+        "title": "Mount Everest",
+        "subtitle": "Earth's highest mountain, located in the Himalayas on the border of Nepal and China",
+        "lat": 27.988056,
+        "lon": 86.925278,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": 1,
+        "hierarchy": [
+            "Mount Everest",
+            "Khumbu Pasanglhamu",
+            "Solukhumbu District",
+            "Koshi Province",
+            "Nepal"
+        ]
+    },
+    {
+        "title": "Costa Rica",
+        "subtitle": "Central American country known for its rainforests, volcanoes, and biodiversity",
+        "lat": 9.94025,
+        "lon": -84.07595,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 7,
+        "page": 2,
+        "hierarchy": [
+            "Costa Rica"
+        ]
+    },
+    {
+        "title": "Tarifa",
+        "subtitle": "Southernmost town in mainland Spain, popular for watersports and its proximity to Africa",
+        "lat": 36.0125,
+        "lon": -5.6025,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Tarifa",
+            "C\u00e1diz",
+            "Andalusia",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Tangier",
+        "subtitle": "Major city in northern Morocco, serving as a gateway between Africa and Europe",
+        "lat": 35.7594,
+        "lon": -5.8335,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 4,
+        "hierarchy": [
+            "Tangier",
+            "Tanger-Assilah",
+            "Tanger-Tetouan-Al Hoceima",
+            "Morocco"
+        ]
+    },
+    {
+        "title": "Sahara Desert",
+        "subtitle": "World's largest hot desert, spanning much of North Africa",
+        "lat": 23.416203,
+        "lon": 11.231267,
+        "type": "desert",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": 5,
+        "hierarchy": [
+            "Sahara Desert"
+        ]
+    },
+    {
+        "title": "Eiger",
+        "subtitle": "Famous mountain in the Bernese Alps, Switzerland, known for its challenging north face",
+        "lat": 46.577778,
+        "lon": 8.003611,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": 6,
+        "hierarchy": [
+            "Eiger",
+            "Grindelwald",
+            "Interlaken-Oberhasli",
+            "Canton of Bern",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Cape Verde",
+        "subtitle": "Island nation in the Central Atlantic Ocean, off the coast of West Africa",
+        "lat": 15.1143,
+        "lon": -23.6139,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 7,
+        "page": 7,
+        "hierarchy": [
+            "Cape Verde"
+        ]
+    },
+    {
+        "title": "Lanzarote",
+        "subtitle": "Volcanic island in the Canary Islands, Spain, known for its unique moon-like landscapes",
+        "lat": 28.991275,
+        "lon": -13.633886,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 8,
+        "hierarchy": [
+            "Lanzarote",
+            "Las Palmas",
+            "Canary Islands",
+            "Spain"
+        ]
+    }
+]

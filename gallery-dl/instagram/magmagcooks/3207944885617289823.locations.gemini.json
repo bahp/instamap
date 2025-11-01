@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Jiufen",
+        "subtitle": "Historic mountain town in Ruifang District, New Taipei City",
+        "lat": 25.1091,
+        "lon": 121.8427,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Jiufen",
+            "Ruifang District",
+            "New Taipei City",
+            "Taiwan"
+        ]
+    },
+    {
+        "title": "Dogo Onsen",
+        "subtitle": "Historic hot spring and bathhouse in Matsuyama, Ehime",
+        "lat": 33.8517,
+        "lon": 132.7877,
+        "type": "hot_spring",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": null,
+        "hierarchy": [
+            "Dogo Onsen",
+            "Matsuyama",
+            "Ehime Prefecture",
+            "Japan"
+        ]
+    }
+]

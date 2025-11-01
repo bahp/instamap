@@ -1,0 +1,36 @@
+[
+    {
+        "title": "\u6771\u6771 (Tonton)",
+        "subtitle": "Ramen shop in Matsudo, Chiba Prefecture",
+        "lat": 35.795804,
+        "lon": 139.992644,
+        "type": "restaurant",
+        "class": "amenity",
+        "confidence": 0.8,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "\u6771\u6771 (Tonton)",
+            "Matsudo",
+            "Chiba Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Matsuhidai Station",
+        "subtitle": "Train station in Matsudo, Chiba Prefecture",
+        "lat": 35.795726,
+        "lon": 139.992706,
+        "type": "train_station",
+        "class": "railway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Matsuhidai Station",
+            "Matsudo",
+            "Chiba Prefecture",
+            "Japan"
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Mount Aso",
+        "subtitle": "Active volcano in Kumamoto Prefecture, Japan",
+        "lat": 32.8833,
+        "lon": 131.1,
+        "type": "volcano",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Mount Aso",
+            "Aso",
+            "Kumamoto Prefecture",
+            "Kyushu",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kumamoto City",
+        "subtitle": "Prefectural capital on the island of Kyushu, Japan",
+        "lat": 32.7907,
+        "lon": 130.748,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Kumamoto City",
+            "Kumamoto Prefecture",
+            "Kyushu",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Japan",
+        "subtitle": "East Asian island nation",
+        "lat": 36.2048,
+        "lon": 138.2529,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 3,
+        "hierarchy": [
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nabegataki Falls",
+        "subtitle": "Scenic waterfall in Oguni, Kumamoto Prefecture",
+        "lat": 33.0763,
+        "lon": 131.0267,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Nabegataki Falls",
+            "Oguni",
+            "Aso District",
+            "Kumamoto Prefecture",
+            "Kyushu",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kumamoto Castle",
+        "subtitle": "Historic Japanese castle in Kumamoto City",
+        "lat": 32.8052,
+        "lon": 130.7058,
+        "type": "castle",
+        "class": "building",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Kumamoto Castle",
+            "Chuo-ku",
+            "Kumamoto City",
+            "Kumamoto Prefecture",
+            "Kyushu",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kurokawa Onsen",
+        "subtitle": "Traditional hot spring village in Aso region, Japan",
+        "lat": 33.0805,
+        "lon": 131.0289,
+        "type": "onsen town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 6,
+        "hierarchy": [
+            "Kurokawa Onsen",
+            "Minamioguni",
+            "Aso District",
+            "Kumamoto Prefecture",
+            "Kyushu",
+            "Japan"
+        ]
+    }
+]

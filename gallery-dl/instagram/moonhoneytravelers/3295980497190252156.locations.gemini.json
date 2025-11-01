@@ -1,0 +1,365 @@
+[
+    {
+        "title": "Rota Vicentina Fisherman's Trail",
+        "subtitle": "Long-distance hiking path along the SW coast of Portugal.",
+        "lat": 37.6433,
+        "lon": -8.7844,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Rota Vicentina Fisherman's Trail",
+            "Alentejo",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "Emperor's Crown Trail",
+        "subtitle": "Scenic hiking loop around the Wilder Kaiser massif in Tyrol, Austria.",
+        "lat": 47.575,
+        "lon": 12.33,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.92,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Emperor's Crown Trail",
+            "Wilder Kaiser",
+            "Tyrol",
+            "Austria"
+        ]
+    },
+    {
+        "title": "High Tatras",
+        "subtitle": "Mountain range in Slovakia and Poland, part of the Carpathian Mountains.",
+        "lat": 49.1667,
+        "lon": 20.0833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.93,
+        "rank": 8,
+        "page": 3,
+        "hierarchy": [
+            "High Tatras",
+            "Pre\u0161ov Region",
+            "Slovakia"
+        ]
+    },
+    {
+        "title": "R\u00e4tikon Alps",
+        "subtitle": "Mountain range in the Central Eastern Alps, spanning Austria, Switzerland, Liechtenstein.",
+        "lat": 47.05,
+        "lon": 9.7833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.93,
+        "rank": 8,
+        "page": 4,
+        "hierarchy": [
+            "R\u00e4tikon",
+            "Graub\u00fcnden",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Alta Via 1",
+        "subtitle": "High-level long-distance hiking trail in the Dolomites, Italy.",
+        "lat": 46.5417,
+        "lon": 12.1892,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.96,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Alta Via 1",
+            "Dolomites",
+            "Belluno",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Tour du Mont Blanc",
+        "subtitle": "Famous hiking trail circling the Mont Blanc massif in Europe.",
+        "lat": 45.925,
+        "lon": 6.8667,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.96,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Tour du Mont Blanc",
+            "Haute-Savoie",
+            "France"
+        ]
+    },
+    {
+        "title": "Liechtenstein Panorama Trail",
+        "subtitle": "Scenic long-distance hiking trail across Liechtenstein.",
+        "lat": 47.1667,
+        "lon": 9.55,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.91,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Liechtenstein Panorama Trail",
+            "Liechtenstein"
+        ]
+    },
+    {
+        "title": "Ortler High Mountain Trail",
+        "subtitle": "Challenging high-altitude trek in the Ortler Alps, South Tyrol, Italy.",
+        "lat": 46.5,
+        "lon": 10.5,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Ortler High Mountain Trail",
+            "Ortler Alps",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Montafon",
+        "subtitle": "Alpine valley and ski region in Vorarlberg, Austria, known for hiking.",
+        "lat": 47.0833,
+        "lon": 9.9333,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.92,
+        "rank": 8,
+        "page": 9,
+        "hierarchy": [
+            "Montafon",
+            "Vorarlberg",
+            "Austria"
+        ]
+    },
+    {
+        "title": "Venediger High Trail",
+        "subtitle": "High-alpine trail in the Venediger Group of Hohe Tauern, Austria.",
+        "lat": 47.0,
+        "lon": 12.3,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Venediger High Trail",
+            "Hohe Tauern",
+            "Tyrol",
+            "Austria"
+        ]
+    },
+    {
+        "title": "Karwendel High Trail",
+        "subtitle": "Demanding multi-day hike through the Karwendel Alps, Austria.",
+        "lat": 47.4167,
+        "lon": 11.45,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 11,
+        "hierarchy": [
+            "Karwendel High Trail",
+            "Karwendel Alps",
+            "Tyrol",
+            "Austria"
+        ]
+    },
+    {
+        "title": "Schladminger Tauern",
+        "subtitle": "Mountain range in the Central Eastern Alps, Styria, Austria.",
+        "lat": 47.2833,
+        "lon": 13.9,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.92,
+        "rank": 8,
+        "page": 12,
+        "hierarchy": [
+            "Schladminger Tauern",
+            "Styria",
+            "Austria"
+        ]
+    },
+    {
+        "title": "Triglav National Park",
+        "subtitle": "Only national park in Slovenia, located in the Julian Alps.",
+        "lat": 46.3667,
+        "lon": 13.8333,
+        "type": "national_park",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 13,
+        "hierarchy": [
+            "Triglav National Park",
+            "Julian Alps",
+            "Slovenia"
+        ]
+    },
+    {
+        "title": "Berliner H\u00f6henweg",
+        "subtitle": "High-altitude hiking trail in the Zillertal Alps, Austria.",
+        "lat": 47.0167,
+        "lon": 11.8,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 14,
+        "hierarchy": [
+            "Berliner H\u00f6henweg",
+            "Zillertal Alps",
+            "Tyrol",
+            "Austria"
+        ]
+    },
+    {
+        "title": "Kamnik-Savinja Alps",
+        "subtitle": "Mountain range in northern Slovenia and southern Austria.",
+        "lat": 46.3667,
+        "lon": 14.5667,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.92,
+        "rank": 8,
+        "page": 15,
+        "hierarchy": [
+            "Kamnik-Savinja Alps",
+            "Slovenia"
+        ]
+    },
+    {
+        "title": "Eagle Walk Lechtal Alps",
+        "subtitle": "Section of the Eagle Walk hiking route in the Lechtal Alps, Austria.",
+        "lat": 47.25,
+        "lon": 10.3333,
+        "type": "hiking_route",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 16,
+        "hierarchy": [
+            "Eagle Walk",
+            "Lechtal Alps",
+            "Tyrol",
+            "Austria"
+        ]
+    },
+    {
+        "title": "Alpstein",
+        "subtitle": "Subgroup of the Appenzell Alps, known for dramatic peaks in Switzerland.",
+        "lat": 47.2167,
+        "lon": 9.3833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.92,
+        "rank": 8,
+        "page": 17,
+        "hierarchy": [
+            "Alpstein",
+            "Appenzell Innerrhoden",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Refugio Jou de los Cabrones",
+        "subtitle": "Mountain hut in the Picos de Europa National Park, Spain.",
+        "lat": 43.2,
+        "lon": -4.9167,
+        "type": "mountain_hut",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 18,
+        "hierarchy": [
+            "Refugio Jou de los Cabrones",
+            "Picos de Europa",
+            "Asturias",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Rosengarten Group",
+        "subtitle": "Mountain range in the Dolomites, Italy, known as Catinaccio.",
+        "lat": 46.4167,
+        "lon": 11.5833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.92,
+        "rank": 8,
+        "page": 19,
+        "hierarchy": [
+            "Rosengarten Group",
+            "Dolomites",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Seven Lakes Valley",
+        "subtitle": "Alpine valley in Triglav National Park, Julian Alps, Slovenia.",
+        "lat": 46.3333,
+        "lon": 13.8,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.94,
+        "rank": 2,
+        "page": 20,
+        "hierarchy": [
+            "Seven Lakes Valley",
+            "Triglav National Park",
+            "Julian Alps",
+            "Slovenia"
+        ]
+    },
+    {
+        "title": "Mount Triglav",
+        "subtitle": "Highest mountain in Slovenia and the Julian Alps.",
+        "lat": 46.378,
+        "lon": 13.839,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 21,
+        "hierarchy": [
+            "Mount Triglav",
+            "Triglav National Park",
+            "Julian Alps",
+            "Slovenia"
+        ]
+    },
+    {
+        "title": "Tre Cime di Lavaredo",
+        "subtitle": "Three distinctive peaks in the Dolomites, Italy, iconic hiking destination.",
+        "lat": 46.6333,
+        "lon": 12.2833,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 22,
+        "hierarchy": [
+            "Tre Cime di Lavaredo",
+            "Dolomites",
+            "South Tyrol",
+            "Italy"
+        ]
+    }
+]

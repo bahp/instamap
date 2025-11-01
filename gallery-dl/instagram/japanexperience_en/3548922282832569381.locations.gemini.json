@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Sapporo",
+        "subtitle": "Capital city of Hokkaido, known for its snow festival.",
+        "lat": 43.06417,
+        "lon": 141.34694,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Sapporo",
+            "Hokkaido Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Otaru",
+        "subtitle": "Port city in Hokkaido, famous for its canal and snow light path.",
+        "lat": 43.19722,
+        "lon": 140.99472,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Otaru",
+            "Hokkaido Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hirosaki Castle",
+        "subtitle": "Historic castle in Hirosaki, Aomori. Known for snow lantern and cherry blossom festivals.",
+        "lat": 40.603056,
+        "lon": 140.463333,
+        "type": "castle",
+        "class": "building",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Hirosaki Castle",
+            "Hirosaki",
+            "Aomori Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Yokote",
+        "subtitle": "City in Akita Prefecture, famous for its Kamakura Festival with snow domes.",
+        "lat": 39.31306,
+        "lon": 140.56944,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 4,
+        "hierarchy": [
+            "Yokote",
+            "Akita Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u014cuchi-juku",
+        "subtitle": "Well-preserved Edo period post town in Fukushima Prefecture.",
+        "lat": 37.33083,
+        "lon": 139.99222,
+        "type": "historic village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "\u014cuchi-juku",
+            "Shimog\u014d",
+            "Fukushima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Aizu-Wakamatsu",
+        "subtitle": "Castle town in Fukushima Prefecture, known for samurai history and winter candle festivals.",
+        "lat": 37.49306,
+        "lon": 139.9275,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 6,
+        "hierarchy": [
+            "Aizu-Wakamatsu",
+            "Fukushima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Yunishigawa Onsen",
+        "subtitle": "Secluded hot spring resort in Tochigi Prefecture, known for its igloo festival.",
+        "lat": 36.965833,
+        "lon": 139.697222,
+        "type": "hot spring resort",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 7,
+        "hierarchy": [
+            "Yunishigawa Onsen",
+            "Nikk\u014d",
+            "Tochigi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "T\u014dkamachi",
+        "subtitle": "City in Niigata Prefecture, famous for its major snow festival and textile industry.",
+        "lat": 37.13556,
+        "lon": 138.76194,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 8,
+        "hierarchy": [
+            "T\u014dkamachi",
+            "Niigata Prefecture",
+            "Japan"
+        ]
+    }
+]

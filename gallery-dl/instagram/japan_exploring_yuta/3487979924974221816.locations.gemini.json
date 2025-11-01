@@ -1,0 +1,135 @@
+[
+    {
+        "title": "Tokyo Disney Land",
+        "subtitle": "Theme park in Urayasu, Chiba, Japan",
+        "lat": 35.632899,
+        "lon": 139.880337,
+        "type": "theme_park",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Tokyo Disney Land",
+            "Urayasu",
+            "Chiba",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ghibli Park",
+        "subtitle": "Theme park in Nagakute, Aichi Prefecture, Japan",
+        "lat": 35.1843,
+        "lon": 137.0722,
+        "type": "theme_park",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Ghibli Park",
+            "Nagakute",
+            "Aichi",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Osaka Castle",
+        "subtitle": "Japanese castle in Ch\u016b\u014d-ku, Osaka, Japan",
+        "lat": 34.687315,
+        "lon": 135.525946,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Osaka Castle",
+            "Osaka",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Himeji Castle",
+        "subtitle": "UNESCO World Heritage Site in Himeji, Hy\u014dgo, Japan",
+        "lat": 34.839444,
+        "lon": 134.687139,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Himeji Castle",
+            "Himeji",
+            "Hyogo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Fushimi Inari-taisha",
+        "subtitle": "Shinto shrine in Fushimi Ward, Kyoto, Japan",
+        "lat": 34.967116,
+        "lon": 135.777263,
+        "type": "shrine",
+        "class": "religious",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Fushimi Inari-taisha",
+            "Kyoto",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Itsukushima Shrine",
+        "subtitle": "Shinto shrine on Itsukushima island, Hiroshima, Japan",
+        "lat": 34.295281,
+        "lon": 132.311394,
+        "type": "shrine",
+        "class": "religious",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Itsukushima Shrine",
+            "Hatsukaichi",
+            "Hiroshima",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tokyo Tower",
+        "subtitle": "Observation and communication tower in Tokyo, Japan",
+        "lat": 35.658581,
+        "lon": 139.745433,
+        "type": "tower",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Tokyo Tower",
+            "Minato City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Orizuru Tower",
+        "subtitle": "Observation deck building in Hiroshima, Japan",
+        "lat": 34.3942,
+        "lon": 132.4578,
+        "type": "building",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Orizuru Tower",
+            "Hiroshima",
+            "Japan"
+        ]
+    }
+]

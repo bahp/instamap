@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Shichirigahama",
+        "subtitle": "Coastal area and beach in Kamakura, Japan",
+        "lat": 35.298611,
+        "lon": 139.510833,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Shichirigahama",
+            "Kamakura",
+            "Kanagawa Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kamakura",
+        "subtitle": "Coastal city in Kanagawa Prefecture, Japan",
+        "lat": 35.31934,
+        "lon": 139.55097,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Kamakura",
+            "Kanagawa Prefecture",
+            "Japan"
+        ]
+    }
+]

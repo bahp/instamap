@@ -1,0 +1,199 @@
+[
+    {
+        "title": "Lake Yamanaka",
+        "subtitle": "One of the Fuji Five Lakes",
+        "lat": 35.4053,
+        "lon": 138.868,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Lake Yamanaka",
+            "Yamanakako",
+            "Minamitsuru District",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Lawson Kawaguchiko",
+        "subtitle": "Famous convenience store with Mt Fuji view",
+        "lat": 35.4925,
+        "lon": 138.7709,
+        "type": "convenience store",
+        "class": "shop",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Lawson Kawaguchiko",
+            "Fujikawaguchiko",
+            "Minamitsuru District",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tenku-no Torii",
+        "subtitle": "Iconic torii gate at Kawaguchiko Asama Shrine",
+        "lat": 35.5005,
+        "lon": 138.7844,
+        "type": "shinto shrine",
+        "class": "place_of_worship",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Tenku-no Torii",
+            "Kawaguchiko Asama Shrine",
+            "Fujikawaguchiko",
+            "Minamitsuru District",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Lake Kawaguchiko",
+        "subtitle": "Second largest of Fuji Five Lakes",
+        "lat": 35.513,
+        "lon": 138.761,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Lake Kawaguchiko",
+            "Fujikawaguchiko",
+            "Minamitsuru District",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "The Park Cafe",
+        "subtitle": "Cafe near Lake Yamanaka",
+        "lat": 35.4124,
+        "lon": 138.8623,
+        "type": "cafe",
+        "class": "amenity",
+        "confidence": 0.85,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "The Park Cafe",
+            "Lake Yamanaka",
+            "Yamanakako",
+            "Minamitsuru District",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Honcho Street",
+        "subtitle": "Street in Fujiyoshida with Mt Fuji views",
+        "lat": 35.4913,
+        "lon": 138.7831,
+        "type": "street",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Honcho Street",
+            "Fujiyoshida",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Chureito Pagoda",
+        "subtitle": "Iconic pagoda with Mt Fuji view",
+        "lat": 35.4984,
+        "lon": 138.7905,
+        "type": "pagoda",
+        "class": "place_of_worship",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Chureito Pagoda",
+            "Arakurayama Sengen Park",
+            "Fujiyoshida",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hoto Fudo",
+        "subtitle": "Famous Hoto udon restaurant",
+        "lat": 35.5098,
+        "lon": 138.7758,
+        "type": "restaurant",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Hoto Fudo",
+            "Fujikawaguchiko",
+            "Minamitsuru District",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Fujisan Station",
+        "subtitle": "Train station in Fujiyoshida",
+        "lat": 35.495,
+        "lon": 138.7899,
+        "type": "train station",
+        "class": "railway",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Fujisan Station",
+            "Fujiyoshida",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kawaguchiko Station",
+        "subtitle": "Train station near Lake Kawaguchiko",
+        "lat": 35.4925,
+        "lon": 138.7709,
+        "type": "train station",
+        "class": "railway",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Kawaguchiko Station",
+            "Fujikawaguchiko",
+            "Minamitsuru District",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Arakura Sengen Shrine",
+        "subtitle": "Shinto shrine in Fujiyoshida",
+        "lat": 35.4984,
+        "lon": 138.7905,
+        "type": "shinto shrine",
+        "class": "place_of_worship",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Arakura Sengen Shrine",
+            "Fujiyoshida",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    }
+]

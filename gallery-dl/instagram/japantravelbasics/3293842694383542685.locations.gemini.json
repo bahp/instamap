@@ -1,0 +1,221 @@
+[
+    {
+        "title": "Fushimi Inari-taisha",
+        "subtitle": "Shinto shrine famous for its thousands of vermilion torii gates.",
+        "lat": 34.9671167,
+        "lon": 135.7725833,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Fushimi Inari-taisha",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kiyomizu-dera Temple",
+        "subtitle": "Historic Buddhist temple in eastern Kyoto, famous for its wooden stage.",
+        "lat": 34.99485,
+        "lon": 135.78501,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Kiyomizu-dera Temple",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ninenzaka Street",
+        "subtitle": "Historic preserved street in Kyoto, leading to Kiyomizu-dera.",
+        "lat": 34.9984,
+        "lon": 135.7828,
+        "type": "street",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Ninenzaka",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Gion District",
+        "subtitle": "Kyoto's famous geisha district, with traditional wooden machiya houses.",
+        "lat": 35.0039,
+        "lon": 135.7759,
+        "type": "neighbourhood",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Gion",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kinkaku-ji (Golden Pavilion)",
+        "subtitle": "Zen Buddhist temple in Kyoto, with its top two floors covered in gold leaf.",
+        "lat": 34.99723,
+        "lon": 135.73295,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Kinkaku-ji",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nishiki Market",
+        "subtitle": "Narrow shopping street in Kyoto, known as \"Kyoto's Kitchen\".",
+        "lat": 35.0051,
+        "lon": 135.7615,
+        "type": "market",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Nishiki Market",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Pontocho Alley",
+        "subtitle": "Atmospheric narrow alley filled with restaurants and bars in Kyoto.",
+        "lat": 35.0063,
+        "lon": 135.7709,
+        "type": "street",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Pontocho",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Arashiyama Bamboo Grove",
+        "subtitle": "Iconic natural grove of towering bamboo stalks in Arashiyama, Kyoto.",
+        "lat": 35.0163,
+        "lon": 135.6693,
+        "type": "forest",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 8,
+        "hierarchy": [
+            "Arashiyama Bamboo Grove",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Torokko Saga Station",
+        "subtitle": "Starting point for the scenic Sagano Romantic Train ride.",
+        "lat": 35.0116,
+        "lon": 135.6702,
+        "type": "railway_station",
+        "class": "building",
+        "confidence": 0.85,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Torokko Saga Station",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hozugawa River",
+        "subtitle": "River in Kyoto Prefecture, famous for scenic boat rides through a gorge.",
+        "lat": 35.0003,
+        "lon": 135.6027,
+        "type": "river",
+        "class": "natural",
+        "confidence": 0.85,
+        "rank": 8,
+        "page": 10,
+        "hierarchy": [
+            "Hozugawa River",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Arashiyama Monkey Park Iwatayama",
+        "subtitle": "Wildlife park on Mount Iwatayama, home to over 100 Japanese macaque monkeys.",
+        "lat": 35.0069,
+        "lon": 135.6728,
+        "type": "wildlife_park",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 11,
+        "hierarchy": [
+            "Arashiyama Monkey Park Iwatayama",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Uji City",
+        "subtitle": "City south of Kyoto, famous for its high-quality green tea and temples.",
+        "lat": 34.8966,
+        "lon": 135.8037,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 12,
+        "hierarchy": [
+            "Uji",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nara Park",
+        "subtitle": "Large park in Nara, home to hundreds of wild deer.",
+        "lat": 34.685,
+        "lon": 135.842,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 13,
+        "hierarchy": [
+            "Nara Park",
+            "Nara",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Ryuonji Temple",
+        "subtitle": "Temple known for its beautiful autumn leaves tunnel in Minamiyamashiro, Kyoto.",
+        "lat": 34.782062,
+        "lon": 135.877848,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.85,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Ryuonji Temple",
+            "Minamiyamashiro",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Arashiyama",
+        "subtitle": "Famous scenic district in Kyoto, known for bamboo groves and boat tours.",
+        "lat": 35.0135,
+        "lon": 135.6792,
+        "type": "district",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Arashiyama",
+            "Ukyo Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Sagano",
+        "subtitle": "Scenic area adjacent to Arashiyama, popular for walking and shops.",
+        "lat": 35.0191,
+        "lon": 135.6738,
+        "type": "neighborhood",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Sagano",
+            "Ukyo Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Otagi Nenbutsu-ji Temple",
+        "subtitle": "Temple in Sagano with 1,200 unique stone arhat statues.",
+        "lat": 35.0287,
+        "lon": 135.6666,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Otagi Nenbutsu-ji Temple",
+            "Ukyo Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Jingoji Temple",
+        "subtitle": "Historic temple in Takao, Kyoto, famous for its autumn foliage.",
+        "lat": 35.0681,
+        "lon": 135.6672,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Jingoji Temple",
+            "Takao",
+            "Ukyo Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Iwato Ochiba Shrine",
+        "subtitle": "Small shrine in Sagano-Torimoto, Kyoto, known for a large ginkgo tree.",
+        "lat": 35.0298,
+        "lon": 135.6631,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Iwato Ochiba Shrine",
+            "Ukyo Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    }
+]

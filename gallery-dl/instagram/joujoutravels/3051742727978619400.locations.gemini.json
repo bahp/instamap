@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Olvera",
+        "subtitle": "A picturesque white village in Andalusia, Spain, known for its castle.",
+        "lat": 36.9388,
+        "lon": -5.2573,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Olvera",
+            "C\u00e1diz",
+            "Andalusia",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Frigiliana",
+        "subtitle": "A charming white village in M\u00e1laga, Andalusia, known for its Moorish-style architecture.",
+        "lat": 36.7869,
+        "lon": -3.8864,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Frigiliana",
+            "M\u00e1laga",
+            "Andalusia",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Menton",
+        "subtitle": "A beautiful city on the French Riviera, famous for its lemon festival.",
+        "lat": 43.7745,
+        "lon": 7.505,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Menton",
+            "Alpes-Maritimes",
+            "Provence-Alpes-C\u00f4te d'Azur",
+            "France"
+        ]
+    },
+    {
+        "title": "Vietri sul Mare",
+        "subtitle": "A coastal town on Italy's Amalfi Coast, renowned for its ceramics.",
+        "lat": 40.6728,
+        "lon": 14.7175,
+        "type": "municipality",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Vietri sul Mare",
+            "Salerno",
+            "Campania",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Locorotondo",
+        "subtitle": "A circular white town in Puglia, Italy, known for its trulli houses.",
+        "lat": 40.7578,
+        "lon": 17.3278,
+        "type": "municipality",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Locorotondo",
+            "Bari",
+            "Puglia",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Dinant",
+        "subtitle": "A picturesque city in Belgium on the Meuse River, famous for its citadel.",
+        "lat": 50.2604,
+        "lon": 4.9126,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 6,
+        "hierarchy": [
+            "Dinant",
+            "Namur",
+            "Wallonia",
+            "Belgium"
+        ]
+    },
+    {
+        "title": "Antiparos",
+        "subtitle": "A small, beautiful island in the Cyclades, Greece, popular for its caves and beaches.",
+        "lat": 37.009,
+        "lon": 25.0747,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Antiparos",
+            "Paros Regional Unit",
+            "South Aegean",
+            "Greece"
+        ]
+    },
+    {
+        "title": "Ferragudo",
+        "subtitle": "A charming fishing village in the Algarve, Portugal, with a scenic waterfront.",
+        "lat": 37.1264,
+        "lon": -8.5217,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 8,
+        "hierarchy": [
+            "Ferragudo",
+            "Lagoa",
+            "Faro District",
+            "Algarve",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "\u00c1gueda",
+        "subtitle": "A city in Portugal known for its colorful Umbrella Sky Project.",
+        "lat": 40.5739,
+        "lon": -8.4411,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 9,
+        "hierarchy": [
+            "\u00c1gueda",
+            "Aveiro District",
+            "Centro Region",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "Motovun",
+        "subtitle": "A medieval hilltown in Istria, Croatia, famous for its truffles.",
+        "lat": 45.3375,
+        "lon": 13.829,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 10,
+        "hierarchy": [
+            "Motovun",
+            "Istria County",
+            "Croatia"
+        ]
+    }
+]

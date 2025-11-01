@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Kamikochi",
+        "subtitle": "Scenic mountain valley and plateau in Nagano Prefecture",
+        "lat": 36.25695,
+        "lon": 137.63595,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Kamikochi",
+            "Matsumoto",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kakizore Valley",
+        "subtitle": "Picturesque valley known for hiking trails and natural beauty",
+        "lat": 35.6536,
+        "lon": 137.6033,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Kakizore Valley",
+            "Nagiso",
+            "Kiso District",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mishaka Pond",
+        "subtitle": "Serene pond known for reflections, inspiring famous paintings",
+        "lat": 35.9861,
+        "lon": 138.3094,
+        "type": "pond",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Mishaka Pond",
+            "Chino",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    }
+]

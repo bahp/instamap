@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Pietrapertosa",
+        "subtitle": "Ancient village perched on rocky cliffs in Basilicata, Italy.",
+        "lat": 40.5284,
+        "lon": 16.0645,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Pietrapertosa",
+            "Potenza",
+            "Basilicata",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Basilicata",
+        "subtitle": "Region in Southern Italy, known for its dramatic landscapes.",
+        "lat": 40.45,
+        "lon": 16.25,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Basilicata",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Italy",
+        "subtitle": "A country in Southern Europe, famous for its history and culture.",
+        "lat": 42.8333,
+        "lon": 12.8333,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 3,
+        "hierarchy": [
+            "Italy"
+        ]
+    }
+]

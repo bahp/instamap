@@ -1,0 +1,149 @@
+[
+    {
+        "title": "Magome-juku",
+        "subtitle": "Historic post town on the Nakasendo trail in Gifu Prefecture.",
+        "lat": 35.5492,
+        "lon": 137.5627,
+        "type": "historic_town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Magome-juku",
+            "Nakatsugawa",
+            "Gifu Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Gifu City",
+        "subtitle": "Capital city of Gifu Prefecture, known for Gifu Castle and the Nagara River.",
+        "lat": 35.4217,
+        "lon": 136.7606,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.92,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Gifu City",
+            "Gifu Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Takayama",
+        "subtitle": "City in Gifu Prefecture, famous for its well-preserved Edo period district.",
+        "lat": 36.1437,
+        "lon": 137.2519,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Takayama",
+            "Gifu Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kyoto",
+        "subtitle": "Historic city and former capital of Japan, famous for its temples and gardens.",
+        "lat": 35.0116,
+        "lon": 135.7681,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 4,
+        "hierarchy": [
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ninenzaka",
+        "subtitle": "Scenic, historic street in Kyoto's Higashiyama district leading to Kiyomizu-dera Temple.",
+        "lat": 34.9961,
+        "lon": 135.7801,
+        "type": "street",
+        "class": "highway",
+        "confidence": 0.96,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Ninenzaka",
+            "Higashiyama-ku",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kamakura",
+        "subtitle": "Coastal city in Kanagawa Prefecture, known for the Great Buddha and temples.",
+        "lat": 35.3117,
+        "lon": 139.5501,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 6,
+        "hierarchy": [
+            "Kamakura",
+            "Kanagawa Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hiroshima",
+        "subtitle": "Major city in Japan, known for its Peace Memorial Park and historical significance.",
+        "lat": 34.3963,
+        "lon": 132.4594,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.96,
+        "rank": 4,
+        "page": 7,
+        "hierarchy": [
+            "Hiroshima",
+            "Hiroshima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nagoya",
+        "subtitle": "Third-largest incorporated city in Japan, known for Nagoya Castle.",
+        "lat": 35.1815,
+        "lon": 136.9067,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 8,
+        "hierarchy": [
+            "Nagoya",
+            "Aichi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mount Fuji",
+        "subtitle": "Japan's highest and most iconic peak, an active stratovolcano.",
+        "lat": 35.3606,
+        "lon": 138.7292,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Mount Fuji",
+            "Honshu",
+            "Japan"
+        ]
+    }
+]

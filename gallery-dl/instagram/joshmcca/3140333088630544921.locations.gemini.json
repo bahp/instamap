@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Bow Lake",
+        "subtitle": "Scenic alpine lake in Banff National Park",
+        "lat": 51.6845,
+        "lon": -116.4526,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Bow Lake",
+            "Banff National Park",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Mistaya Canyon",
+        "subtitle": "Deep canyon with rushing blue water in Banff National Park",
+        "lat": 52.1706,
+        "lon": -117.0673,
+        "type": "canyon",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Mistaya Canyon",
+            "Banff National Park",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "title": "Columbia Icefield",
+        "subtitle": "Massive icefield with ancient glaciers in Canadian Rockies",
+        "lat": 52.193,
+        "lon": -117.2285,
+        "type": "icefield",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Columbia Icefield",
+            "Canadian Rockies",
+            "Alberta",
+            "Canada"
+        ]
+    }
+]

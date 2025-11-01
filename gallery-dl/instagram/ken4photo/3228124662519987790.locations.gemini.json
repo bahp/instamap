@@ -1,0 +1,48 @@
+[
+    {
+        "title": "El Alc\u00e1zar de Toledo",
+        "subtitle": "Historic fortress and palace in Toledo, Spain",
+        "lat": 39.8573,
+        "lon": -4.0182,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "El Alc\u00e1zar de Toledo",
+            "Toledo",
+            "Castilla-La Mancha",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Castilla-La Mancha",
+        "subtitle": "Autonomous community in central Spain",
+        "lat": 39.4,
+        "lon": -3.0,
+        "type": "state",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Castilla-La Mancha",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Spain",
+        "subtitle": "Country in Southwestern Europe",
+        "lat": 40.4637,
+        "lon": -3.7492,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 3,
+        "hierarchy": [
+            "Spain"
+        ]
+    }
+]

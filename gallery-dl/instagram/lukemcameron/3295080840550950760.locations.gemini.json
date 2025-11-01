@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Omoide Yokocho",
+        "subtitle": "Historic alleyway filled with eateries in Shinjuku, Tokyo",
+        "lat": 35.6946,
+        "lon": 139.6997,
+        "type": "historic_street",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Omoide Yokocho",
+            "Shinjuku",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Cat Cafe MoCHA Shinjuku",
+        "subtitle": "Popular cat cafe offering interactions with felines in Shinjuku, Tokyo",
+        "lat": 35.6917,
+        "lon": 139.7029,
+        "type": "cafe",
+        "class": "amenity",
+        "confidence": 0.85,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Cat Cafe MoCHA Shinjuku",
+            "Shinjuku",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shiinamachi Station",
+        "subtitle": "Railway station on the Seibu Ikebukuro Line in Toshima, Tokyo",
+        "lat": 35.7302,
+        "lon": 139.6923,
+        "type": "railway_station",
+        "class": "railway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Shiinamachi Station",
+            "Toshima",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kabukich\u014d",
+        "subtitle": "Vibrant entertainment and red-light district in Shinjuku, Tokyo",
+        "lat": 35.6946,
+        "lon": 139.7007,
+        "type": "neighbourhood",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Kabukich\u014d",
+            "Shinjuku",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shinjuku",
+        "subtitle": "Major commercial and administrative district in Tokyo, known for skyscrapers",
+        "lat": 35.6938,
+        "lon": 139.7034,
+        "type": "district",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Shinjuku",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shibuya Crossing",
+        "subtitle": "World-famous scramble crossing and iconic landmark in Shibuya, Tokyo",
+        "lat": 35.6591,
+        "lon": 139.7003,
+        "type": "intersection",
+        "class": "highway",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Shibuya Crossing",
+            "Shibuya",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shibuya Sky",
+        "subtitle": "Open-air observation deck atop the Shibuya Scramble Square skyscraper",
+        "lat": 35.6598,
+        "lon": 139.7022,
+        "type": "observation_deck",
+        "class": "tourism",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Shibuya Sky",
+            "Shibuya",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Roppongi",
+        "subtitle": "Upscale entertainment, nightlife, and business district in Tokyo",
+        "lat": 35.6657,
+        "lon": 139.7323,
+        "type": "neighbourhood",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 8,
+        "hierarchy": [
+            "Roppongi",
+            "Minato",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Sens\u014d-ji",
+        "subtitle": "Ancient Buddhist temple, Tokyo's oldest, located in Asakusa",
+        "lat": 35.7147,
+        "lon": 139.7967,
+        "type": "temple",
+        "class": "tourism",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Sens\u014d-ji",
+            "Asakusa",
+            "Taito",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Yodobashi Camera Shinjuku",
+        "subtitle": "Major electronics store, a prominent landmark in Shinjuku, Tokyo",
+        "lat": 35.6917,
+        "lon": 139.6976,
+        "type": "electronics_store",
+        "class": "shop",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Yodobashi Camera Shinjuku Nishiguchi Honten",
+            "Shinjuku",
+            "Tokyo",
+            "Japan"
+        ]
+    }
+]

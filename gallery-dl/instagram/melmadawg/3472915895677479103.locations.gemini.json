@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Alnwick Castle",
+        "subtitle": "Historic castle in Northumberland, England, famous as a Harry Potter filming location.",
+        "lat": 55.415053,
+        "lon": -1.705886,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Alnwick Castle",
+            "Alnwick",
+            "Northumberland",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Goathland Station",
+        "subtitle": "Railway station in North Yorkshire, England, known as Hogsmeade Station in Harry Potter.",
+        "lat": 54.382069,
+        "lon": -0.716183,
+        "type": "railway_station",
+        "class": "railway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Goathland Station",
+            "Goathland",
+            "North Yorkshire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Christ Church, Oxford",
+        "subtitle": "Historic college and cathedral in Oxford, England, used as Hogwarts in Harry Potter films.",
+        "lat": 51.750377,
+        "lon": -1.254133,
+        "type": "college",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Christ Church",
+            "Oxford",
+            "Oxfordshire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "De Vere House, Lavenham",
+        "subtitle": "Historic timber-framed house in Lavenham, England, used as Godric's Hollow in Harry Potter.",
+        "lat": 52.103009,
+        "lon": 0.793741,
+        "type": "residential",
+        "class": "building",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "De Vere House",
+            "Lavenham",
+            "Suffolk",
+            "England",
+            "United Kingdom"
+        ]
+    }
+]

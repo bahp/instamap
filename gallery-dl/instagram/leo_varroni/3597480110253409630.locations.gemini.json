@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Cordillera Huayhuash",
+        "subtitle": "Mountain range in the Andes, Peru, known for trekking",
+        "lat": -10.2667,
+        "lon": -76.8833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": null,
+        "hierarchy": [
+            "Cordillera Huayhuash",
+            "Ancash Region",
+            "Peru",
+            "South America"
+        ]
+    },
+    {
+        "title": "Sala Consiliare",
+        "subtitle": "Council Hall of Vignola Municipality, Modena, Italy",
+        "lat": 44.4851,
+        "lon": 11.009,
+        "type": "government",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Sala Consiliare",
+            "Vignola",
+            "Modena",
+            "Emilia-Romagna",
+            "Italy"
+        ]
+    }
+]
