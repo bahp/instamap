@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Eiffel Tower",
+        "subtitle": "Iconic iron tower on Champ de Mars",
+        "lat": 48.8582683,
+        "lon": 2.2944749,
+        "type": "tower",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Eiffel Tower",
+            "Paris",
+            "France"
+        ]
+    },
+    {
+        "title": "Pont Alexandre III",
+        "subtitle": "Ornate arch bridge over the Seine River",
+        "lat": 48.8637771,
+        "lon": 2.3134375,
+        "type": "bridge",
+        "class": "waterway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Pont Alexandre III",
+            "Paris",
+            "France"
+        ]
+    },
+    {
+        "title": "Place des Vosges",
+        "subtitle": "Historic public square in the Marais district",
+        "lat": 48.8552179,
+        "lon": 2.3639537,
+        "type": "square",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Place des Vosges",
+            "Paris",
+            "France"
+        ]
+    },
+    {
+        "title": "Sacr\u00e9-C\u0153ur Basilica",
+        "subtitle": "Roman Catholic church and minor basilica in Montmartre",
+        "lat": 48.8867049,
+        "lon": 2.3431043,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Sacr\u00e9-C\u0153ur Basilica",
+            "Paris",
+            "France"
+        ]
+    }
+]

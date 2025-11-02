@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Nanone",
+        "subtitle": "Charming guesthouse and restaurant in Uda City, Nara.",
+        "lat": 34.48911,
+        "lon": 135.84501,
+        "type": "guest_house",
+        "class": "lodging",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Nanone",
+            "Uda City",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Rice Terrace Villa Sasayuri-ann",
+        "subtitle": "Luxury villa in a rice terrace setting in Totsukawa.",
+        "lat": 34.02029,
+        "lon": 135.78761,
+        "type": "hotel",
+        "class": "lodging",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Rice Terrace Villa Sasayuri-ann",
+            "Totsukawa",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nipponia Hotel Takehara",
+        "subtitle": "A historic hotel in the traditional town of Takehara.",
+        "lat": 34.33123,
+        "lon": 132.92345,
+        "type": "hotel",
+        "class": "lodging",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Nipponia Hotel Takehara",
+            "Takehara",
+            "Hiroshima Prefecture",
+            "Japan"
+        ]
+    }
+]

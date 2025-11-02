@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Chiang Mai",
+        "subtitle": "Largest city in Northern Thailand, known for its ancient temples and vibrant culture.",
+        "lat": 18.7883,
+        "lon": 98.9868,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 10,
+        "hierarchy": [
+            "Chiang Mai",
+            "Chiang Mai Province",
+            "Thailand"
+        ]
+    },
+    {
+        "title": "Thailand",
+        "subtitle": "Southeast Asian country famous for its tropical beaches, opulent palaces, and ancient ruins.",
+        "lat": 13.7563,
+        "lon": 100.5018,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 7,
+        "page": null,
+        "hierarchy": [
+            "Thailand"
+        ]
+    }
+]

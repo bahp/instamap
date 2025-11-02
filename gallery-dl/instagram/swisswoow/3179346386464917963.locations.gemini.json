@@ -1,0 +1,82 @@
+[
+    {
+        "title": "St\u00e4ubifall",
+        "subtitle": "Waterfall in Uri, Switzerland",
+        "lat": 46.8529,
+        "lon": 8.6599,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "St\u00e4ubifall",
+            "Uri",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Rhine Falls",
+        "subtitle": "Largest plain waterfall in Europe, near Schaffhausen",
+        "lat": 47.6743,
+        "lon": 8.6157,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Rhine Falls",
+            "Schaffhausen",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "F\u00e4lensee",
+        "subtitle": "Mountain lake in Appenzell Alps, Switzerland",
+        "lat": 47.2403,
+        "lon": 9.4215,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.97,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "F\u00e4lensee",
+            "Appenzell Innerrhoden",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Schwende",
+        "subtitle": "Municipality in Appenzell Innerrhoden, Switzerland",
+        "lat": 47.2625,
+        "lon": 9.4045,
+        "type": "municipality",
+        "class": "place",
+        "confidence": 0.92,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Schwende",
+            "Appenzell Innerrhoden",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Lauterbrunnen",
+        "subtitle": "Village in Bernese Oberland, Switzerland",
+        "lat": 46.5925,
+        "lon": 7.9048,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.99,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Lauterbrunnen",
+            "Bern",
+            "Switzerland"
+        ]
+    }
+]

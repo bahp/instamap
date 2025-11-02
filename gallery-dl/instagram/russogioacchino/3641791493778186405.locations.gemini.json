@@ -1,0 +1,312 @@
+[
+    {
+        "title": "Cahoots Underground",
+        "subtitle": "Time travel cocktails in a WWII bunker",
+        "lat": 51.51322,
+        "lon": -0.13809,
+        "type": "bar",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Cahoots Underground",
+            "Kingly Court",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "V&A Museum",
+        "subtitle": "World-class art + free entry",
+        "lat": 51.49658,
+        "lon": -0.17646,
+        "type": "museum",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Victoria and Albert Museum",
+            "Knightsbridge",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "St Paul\u2019s Cathedral",
+        "subtitle": "Climb to the whispering gallery",
+        "lat": 51.5138,
+        "lon": -0.0983,
+        "type": "cathedral",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "St Paul's Cathedral",
+            "City of London",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Barbican Conservatory",
+        "subtitle": "Brutalist jungle in the city",
+        "lat": 51.5201,
+        "lon": -0.0964,
+        "type": "botanical_garden",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Barbican Conservatory",
+            "Barbican Centre",
+            "City of London",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Avora London",
+        "subtitle": "Immersive cocktails in an alien forest",
+        "lat": 51.52909,
+        "lon": -0.06822,
+        "type": "entertainment",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Avora",
+            "Shoreditch",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Warner Bros Studio Tour",
+        "subtitle": "Full Harry Potter dream unlocked",
+        "lat": 51.6908,
+        "lon": -0.4206,
+        "type": "theme_park",
+        "class": "attraction",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Warner Bros. Studio Tour London - The Making of Harry Potter",
+            "Leavesden",
+            "Watford",
+            "Hertfordshire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Mail Rail, The Postal Museum",
+        "subtitle": "Ride a tiny train under London",
+        "lat": 51.5249,
+        "lon": -0.1118,
+        "type": "museum",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "The Postal Museum",
+            "Clerkenwell",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Treetop Walkway",
+        "subtitle": "Views from the canopy",
+        "lat": 51.4746,
+        "lon": -0.2942,
+        "type": "walkway",
+        "class": "tourist_attraction",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Treetop Walkway",
+            "Kew Gardens",
+            "Richmond",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Flute at Broadwick Soho",
+        "subtitle": "Skyline champagne bar vibes",
+        "lat": 51.51439,
+        "lon": -0.13627,
+        "type": "bar",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Flute",
+            "Broadwick Soho",
+            "Soho",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Electric Cinema Notting Hill",
+        "subtitle": "Watch a film from a bed",
+        "lat": 51.51703,
+        "lon": -0.20364,
+        "type": "cinema",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Electric Cinema",
+            "Notting Hill",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Royal Exchange",
+        "subtitle": "Coffee under a domed ceiling",
+        "lat": 51.51347,
+        "lon": -0.08865,
+        "type": "building",
+        "class": "landmark",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 11,
+        "hierarchy": [
+            "The Royal Exchange",
+            "City of London",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Lamb & Flag",
+        "subtitle": "One of London\u2019s oldest pubs",
+        "lat": 51.51261,
+        "lon": -0.12461,
+        "type": "pub",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 12,
+        "hierarchy": [
+            "The Lamb & Flag",
+            "Covent Garden",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Cecil Court",
+        "subtitle": "Harry Potter meets antique book heaven",
+        "lat": 51.5101,
+        "lon": -0.1257,
+        "type": "pedestrian",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 13,
+        "hierarchy": [
+            "Cecil Court",
+            "Covent Garden",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Mercato Mayfair",
+        "subtitle": "Food market in a deconsecrated church",
+        "lat": 51.51325,
+        "lon": -0.15065,
+        "type": "food_court",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 14,
+        "hierarchy": [
+            "Mercato Mayfair",
+            "Mayfair",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Tower Bridge",
+        "subtitle": "Glass floors and old engines",
+        "lat": 51.5055,
+        "lon": -0.0754,
+        "type": "bridge",
+        "class": "man_made",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 15,
+        "hierarchy": [
+            "Tower Bridge",
+            "Southwark",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Tate Modern",
+        "subtitle": "Always something thought-provoking",
+        "lat": 51.5076,
+        "lon": -0.0993,
+        "type": "museum",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 16,
+        "hierarchy": [
+            "Tate Modern",
+            "Bankside",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Notting Hill Bookshop",
+        "subtitle": "Yes, the one from the movie",
+        "lat": 51.51211,
+        "lon": -0.20387,
+        "type": "bookshop",
+        "class": "shop",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 17,
+        "hierarchy": [
+            "The Notting Hill Bookshop",
+            "Notting Hill",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    }
+]

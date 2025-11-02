@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Geirangerfjord",
+        "subtitle": "Iconic fjord, UNESCO World Heritage Site in Norway",
+        "lat": 62.116667,
+        "lon": 7.2,
+        "type": "fjord",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Geirangerfjord",
+            "Stranda",
+            "M\u00f8re og Romsdal",
+            "Norway"
+        ]
+    },
+    {
+        "title": "N\u00e6r\u00f8yfjord",
+        "subtitle": "UNESCO World Heritage fjord in Western Norway",
+        "lat": 60.916667,
+        "lon": 6.966667,
+        "type": "fjord",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "N\u00e6r\u00f8yfjord",
+            "Aurland",
+            "Vestland",
+            "Norway"
+        ]
+    },
+    {
+        "title": "Trolltunga",
+        "subtitle": "Famous rock formation cliff in Norway",
+        "lat": 60.133333,
+        "lon": 6.75,
+        "type": "cliff",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Trolltunga",
+            "Odda",
+            "Vestland",
+            "Norway"
+        ]
+    },
+    {
+        "title": "Preikestolen",
+        "subtitle": "Pulpit Rock cliff, popular hiking destination in Norway",
+        "lat": 59.002,
+        "lon": 6.188,
+        "type": "cliff",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Preikestolen",
+            "Strand",
+            "Rogaland",
+            "Norway"
+        ]
+    }
+]

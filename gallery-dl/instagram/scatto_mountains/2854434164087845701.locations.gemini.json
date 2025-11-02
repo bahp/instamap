@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Rifugio Locatelli",
+        "subtitle": "Iconic mountain hut in the Dolomites, Italy",
+        "lat": 46.611105,
+        "lon": 12.288289,
+        "type": "alpine_hut",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Rifugio Antonio Locatelli - Innerkofler",
+            "Sesto",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Tre Cime di Lavaredo",
+        "subtitle": "Distinctive three-peak mountain group in the Dolomites, Italy",
+        "lat": 46.6333,
+        "lon": 12.2999,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Tre Cime di Lavaredo",
+            "Belluno",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Monte Paterno",
+        "subtitle": "Prominent mountain peak near Tre Cime di Lavaredo, Italy",
+        "lat": 46.6219,
+        "lon": 12.2858,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Monte Paterno",
+            "Sesto",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Dolomites",
+        "subtitle": "Stunning mountain range of the Southern Limestone Alps, Italy",
+        "lat": 46.4833,
+        "lon": 11.8333,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": 4,
+        "hierarchy": [
+            "Dolomites",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Trentino",
+        "subtitle": "Autonomous province in Northern Italy, known for its mountains",
+        "lat": 46.0667,
+        "lon": 11.1167,
+        "type": "state",
+        "class": "place",
+        "confidence": 0.85,
+        "rank": 6,
+        "page": 5,
+        "hierarchy": [
+            "Trentino",
+            "Italy"
+        ]
+    }
+]

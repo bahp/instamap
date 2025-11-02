@@ -1,0 +1,127 @@
+[
+    {
+        "title": "Seoul",
+        "subtitle": "Capital of South Korea",
+        "lat": 37.5665,
+        "lon": 126.978,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Seoul",
+            "South Korea"
+        ]
+    },
+    {
+        "title": "Rio de Janeiro",
+        "subtitle": "City in Brazil, known for its beaches and Carnival",
+        "lat": -22.9068,
+        "lon": -43.1729,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.97,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Rio de Janeiro",
+            "Rio de Janeiro",
+            "Brazil"
+        ]
+    },
+    {
+        "title": "Porto",
+        "subtitle": "Coastal city in northwest Portugal, famous for Port wine",
+        "lat": 41.1579,
+        "lon": -8.6291,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.96,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Porto",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "Venice",
+        "subtitle": "City in northeastern Italy, built on more than 100 small islands",
+        "lat": 45.4408,
+        "lon": 12.3155,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 4,
+        "hierarchy": [
+            "Venice",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Osaka",
+        "subtitle": "Large port city and commercial center on the Japanese island of Honshu",
+        "lat": 34.6937,
+        "lon": 135.5023,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.97,
+        "rank": 4,
+        "page": 5,
+        "hierarchy": [
+            "Osaka",
+            "Osaka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Dublin",
+        "subtitle": "Capital of Ireland, on Ireland\u2019s east coast",
+        "lat": 53.3498,
+        "lon": -6.2603,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 6,
+        "hierarchy": [
+            "Dublin",
+            "County Dublin",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Munich",
+        "subtitle": "Capital of Bavaria, Germany, famous for Oktoberfest",
+        "lat": 48.1351,
+        "lon": 11.582,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.97,
+        "rank": 4,
+        "page": 7,
+        "hierarchy": [
+            "Munich",
+            "Bavaria",
+            "Germany"
+        ]
+    },
+    {
+        "title": "Tianjin",
+        "subtitle": "Major port city in northern China",
+        "lat": 39.0842,
+        "lon": 117.2009,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 8,
+        "hierarchy": [
+            "Tianjin",
+            "China"
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Val d'Orcia",
+        "subtitle": "Historic valley and UNESCO site in Tuscany, Italy",
+        "lat": 43.0581,
+        "lon": 11.603,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": null,
+        "hierarchy": [
+            "Val d'Orcia",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Chapel of Vitaleta",
+        "subtitle": "Iconic chapel in Val d'Orcia, Tuscany",
+        "lat": 43.0569,
+        "lon": 11.6034,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Capella della Madonna di Vitaleta",
+            "San Quirico d'Orcia",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Montalcino",
+        "subtitle": "Hilltop town in Tuscany known for Brunello wine",
+        "lat": 43.0543,
+        "lon": 11.4883,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Montalcino",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Bagno Vignoni",
+        "subtitle": "Thermal village with natural hot springs in Val d'Orcia",
+        "lat": 43.0296,
+        "lon": 11.6212,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Bagno Vignoni",
+            "Castiglione d'Orcia",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Pienza",
+        "subtitle": "Renaissance town in Val d'Orcia, UNESCO World Heritage site",
+        "lat": 43.0763,
+        "lon": 11.6781,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Pienza",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    }
+]
