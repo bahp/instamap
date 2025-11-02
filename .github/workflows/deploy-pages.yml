@@ -120,7 +120,8 @@ jobs:
 
           # Get the current date and time (UTC)
           #LAST_UPDATED_STRING=$(date -u +"%A, %B %d, %Y at %I:%M %p UTC")
-          LAST_UPDATED_STRING=$(date -u +"%B %d, %Y at %H:%M UTC")
+          #LAST_UPDATED_STRING=$(date -u +"%B %d, %Y at %H:%M UTC")
+          LAST_UPDATED_STRING=$(date -u +"%B %d, %Y")
 
           # Create the HTML snippet for the small, light-gray note
           # We use single-quotes for the HTML attributes.
