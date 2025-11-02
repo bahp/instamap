@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Ushiku Daibutsu",
+        "subtitle": "Giant statue in Ushiku, Ibaraki Prefecture, Japan",
+        "lat": 35.9868,
+        "lon": 140.2319,
+        "type": "statue",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Ushiku Daibutsu",
+            "Ushiku",
+            "Ibaraki Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Motonosumi Shrine",
+        "subtitle": "Shrine with red torii gates in Nagato, Yamaguchi Prefecture",
+        "lat": 34.3644,
+        "lon": 131.2003,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Motonosumi Shrine",
+            "Nagato",
+            "Yamaguchi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Akiyoshido Cave",
+        "subtitle": "Large limestone cave in Mine, Yamaguchi Prefecture, Japan",
+        "lat": 34.2259,
+        "lon": 131.309,
+        "type": "cave",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Akiyoshido Cave",
+            "Mine",
+            "Yamaguchi Prefecture",
+            "Japan"
+        ]
+    }
+]

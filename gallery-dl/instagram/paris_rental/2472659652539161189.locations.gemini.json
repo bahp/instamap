@@ -1,0 +1,82 @@
+[
+    {
+        "title": "March\u00e9 Art et Cr\u00e9ation Bastille",
+        "subtitle": "Art and craft market along Boulevard Richard-Lenoir, Paris",
+        "lat": 48.85764,
+        "lon": 2.37053,
+        "type": "market",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "March\u00e9 Art et Cr\u00e9ation Bastille",
+            "Paris",
+            "France"
+        ]
+    },
+    {
+        "title": "Quai de la M\u00e9gisserie",
+        "subtitle": "Historic quay along the Seine in Paris, known for shops",
+        "lat": 48.8584,
+        "lon": 2.3429,
+        "type": "quay",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Quai de la M\u00e9gisserie",
+            "Paris",
+            "France"
+        ]
+    },
+    {
+        "title": "Canal Saint-Martin",
+        "subtitle": "Scenic canal in Paris, known for its locks and bridges",
+        "lat": 48.8715,
+        "lon": 2.3644,
+        "type": "canal",
+        "class": "waterway",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Canal Saint-Martin",
+            "Paris",
+            "France"
+        ]
+    },
+    {
+        "title": "March\u00e9 aux Puces de Saint-Ouen",
+        "subtitle": "Iconic flea market for antiques and vintage finds, near Paris",
+        "lat": 48.9038,
+        "lon": 2.3364,
+        "type": "market",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "March\u00e9 aux Puces de Saint-Ouen",
+            "Saint-Ouen-sur-Seine",
+            "France"
+        ]
+    },
+    {
+        "title": "Les Puces de Montreuil",
+        "subtitle": "Lively flea market for second-hand goods, east of Paris",
+        "lat": 48.8601,
+        "lon": 2.4285,
+        "type": "market",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Les Puces de Montreuil",
+            "Montreuil",
+            "France"
+        ]
+    }
+]

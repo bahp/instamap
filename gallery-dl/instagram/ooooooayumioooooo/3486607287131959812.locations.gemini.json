@@ -1,0 +1,52 @@
+[
+    {
+        "title": "\u767d\u99ac\u5ca9\u5cb3\u30de\u30a6\u30f3\u30c6\u30f3\u30ea\u30be\u30fc\u30c8",
+        "subtitle": "A mountain resort and ski area in Hakuba, Nagano Prefecture, Japan.",
+        "lat": 36.685244,
+        "lon": 137.834466,
+        "type": "ski_resort",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Hakuba Iwatake Mountain Resort",
+            "Hakuba Village",
+            "Kitaazumi District",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u9577\u91ce\u770c",
+        "subtitle": "A landlocked prefecture of Japan, known for its mountains and ski resorts.",
+        "lat": 36.36838,
+        "lon": 138.11306,
+        "type": "prefecture",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u767d\u99ac",
+        "subtitle": "A village in Nagano Prefecture, Japan, famous for its ski resorts.",
+        "lat": 36.6974,
+        "lon": 137.8596,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Hakuba Village",
+            "Kitaazumi District",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    }
+]

@@ -1,0 +1,529 @@
+[
+    {
+        "title": "Monet's Pond",
+        "subtitle": "Beautiful pond known for its clear water and water lilies, resembling Monet's paintings.",
+        "lat": 35.5925,
+        "lon": 136.7905,
+        "type": "pond",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Monet's Pond",
+            "Seki",
+            "Gifu Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tsukechi Gorge",
+        "subtitle": "Scenic gorge with clear waters and lush forests in Gifu.",
+        "lat": 35.6986,
+        "lon": 137.5147,
+        "type": "gorge",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Tsukechi Gorge",
+            "Nakatsugawa",
+            "Gifu Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shirakawa-go",
+        "subtitle": "Historic village famous for traditional gassho-zukuri farmhouses. UNESCO World Heritage Site.",
+        "lat": 36.2573,
+        "lon": 136.8927,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Shirakawa-go",
+            "Shirakawa",
+            "Gifu Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hasedera Temple",
+        "subtitle": "Ancient Buddhist temple known for its eleven-headed Kannon statue.",
+        "lat": 34.5428,
+        "lon": 135.9081,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Hasedera Temple",
+            "Sakurai",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "H\u014dzan-ji Temple",
+        "subtitle": "Buddhist temple located on Mount Ikoma, offering scenic views.",
+        "lat": 34.6853,
+        "lon": 135.7008,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "H\u014dzan-ji Temple",
+            "Ikoma",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tsubosaka-dera",
+        "subtitle": "Mountain temple known for its connection to eye health.",
+        "lat": 34.4699,
+        "lon": 135.7937,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Tsubosaka-dera",
+            "Takatori",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Sens\u014d-ji Temple",
+        "subtitle": "Tokyo's oldest temple, a vibrant and iconic landmark.",
+        "lat": 35.7148,
+        "lon": 139.7967,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Sens\u014d-ji Temple",
+            "Taito City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tokyo Skytree",
+        "subtitle": "Iconic broadcasting and observation tower, symbol of Tokyo.",
+        "lat": 35.71,
+        "lon": 139.8107,
+        "type": "tower",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Tokyo Skytree",
+            "Sumida City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shibuya Scramble Crossing",
+        "subtitle": "World's busiest pedestrian crossing, iconic symbol of Shibuya.",
+        "lat": 35.6591,
+        "lon": 139.7032,
+        "type": "crossing",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 9,
+        "hierarchy": [
+            "Shibuya Scramble Crossing",
+            "Shibuya City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nachi Falls",
+        "subtitle": "Japan's tallest single-drop waterfall, part of a sacred site.",
+        "lat": 33.6669,
+        "lon": 135.8998,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 10,
+        "hierarchy": [
+            "Nachi Falls",
+            "Nachikatsuura",
+            "Wakayama Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Motojima Shrine",
+        "subtitle": "Coastal shrine with a torii gate in the sea.",
+        "lat": 34.2238,
+        "lon": 135.1557,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 11,
+        "hierarchy": [
+            "Motojima Shrine",
+            "Wakayama City",
+            "Wakayama Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mount K\u014dya",
+        "subtitle": "Sacred mountain home to a secluded monastery complex. UNESCO World Heritage Site.",
+        "lat": 34.2141,
+        "lon": 135.5916,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 12,
+        "hierarchy": [
+            "Mount K\u014dya",
+            "K\u014dya",
+            "Wakayama Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Amano Yasugawara",
+        "subtitle": "Sacred cave where Shinto gods are said to have gathered.",
+        "lat": 32.723,
+        "lon": 131.296,
+        "type": "cave",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 13,
+        "hierarchy": [
+            "Amano Yasugawara",
+            "Takachiho",
+            "Miyazaki Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Takachiho Gorge",
+        "subtitle": "Narrow chasm carved by the Gokase River, famous for waterfalls.",
+        "lat": 32.7161,
+        "lon": 131.3005,
+        "type": "gorge",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 14,
+        "hierarchy": [
+            "Takachiho Gorge",
+            "Takachiho",
+            "Miyazaki Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Udo Jing\u016b",
+        "subtitle": "Colorful seaside shrine built into a cave, dedicated to fertility.",
+        "lat": 31.6094,
+        "lon": 131.4287,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 15,
+        "hierarchy": [
+            "Udo Jing\u016b",
+            "Nichinan",
+            "Miyazaki Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kusatsu Onsen",
+        "subtitle": "One of Japan's most famous hot spring resorts, known for therapeutic waters.",
+        "lat": 36.62,
+        "lon": 138.598,
+        "type": "hot_spring",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 16,
+        "hierarchy": [
+            "Kusatsu Onsen",
+            "Kusatsu",
+            "Gunma Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Onioshidashi Park",
+        "subtitle": "Unique volcanic rock garden formed by Mount Asama's eruption.",
+        "lat": 36.4258,
+        "lon": 138.563,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 17,
+        "hierarchy": [
+            "Onioshidashi Park",
+            "Tsumagoi",
+            "Gunma Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shima Onsen",
+        "subtitle": "Historic hot spring town known for its charming traditional atmosphere.",
+        "lat": 36.6575,
+        "lon": 138.742,
+        "type": "hot_spring",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 18,
+        "hierarchy": [
+            "Shima Onsen",
+            "Nakanoj\u014d",
+            "Gunma Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kiyosu Castle",
+        "subtitle": "Reconstructed castle with historical significance to Oda Nobunaga.",
+        "lat": 35.2155,
+        "lon": 136.8529,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 19,
+        "hierarchy": [
+            "Kiyosu Castle",
+            "Kiyosu",
+            "Aichi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Chita Bamboo Forest Path",
+        "subtitle": "Serene bamboo forest path offering a peaceful natural experience.",
+        "lat": 34.8694,
+        "lon": 136.8378,
+        "type": "path",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 20,
+        "hierarchy": [
+            "Chita Bamboo Forest Path",
+            "Tokoname",
+            "Aichi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Sky Garden",
+        "subtitle": "Open-air observation deck on Midland Square, offering city views.",
+        "lat": 35.1691,
+        "lon": 136.8856,
+        "type": "observation_deck",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 21,
+        "hierarchy": [
+            "Sky Garden",
+            "Nagoya",
+            "Aichi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kamik\u014dchi",
+        "subtitle": "Beautiful mountain resort in the Japan Alps, popular for hiking.",
+        "lat": 36.23,
+        "lon": 137.64,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 22,
+        "hierarchy": [
+            "Kamik\u014dchi",
+            "Matsumoto",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Narai-juku",
+        "subtitle": "Well-preserved Edo-period post town on the Nakasendo trail.",
+        "lat": 35.9861,
+        "lon": 137.8094,
+        "type": "historic_town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 23,
+        "hierarchy": [
+            "Narai-juku",
+            "Shiojiri",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Togakushi Shrine",
+        "subtitle": "Ancient Shinto shrine complex nestled in a sacred forest.",
+        "lat": 36.7,
+        "lon": 138.08,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 24,
+        "hierarchy": [
+            "Togakushi Shrine",
+            "Nagano City",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Konsh\u014d-ji Temple",
+        "subtitle": "Historic Buddhist temple known for its autumn foliage.",
+        "lat": 34.9333,
+        "lon": 136.046,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 25,
+        "hierarchy": [
+            "Konsh\u014d-ji Temple",
+            "Konan",
+            "Shiga Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hyakusai-ji Temple",
+        "subtitle": "Ancient temple with panoramic views of Lake Biwa.",
+        "lat": 35.0877,
+        "lon": 136.2163,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 26,
+        "hierarchy": [
+            "Hyakusai-ji Temple",
+            "Higashiomi",
+            "Shiga Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shirahige Shrine Torii",
+        "subtitle": "Iconic torii gate standing in Lake Biwa, associated with Shirahige Shrine.",
+        "lat": 35.3197,
+        "lon": 136.0029,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 27,
+        "hierarchy": [
+            "Shirahige Shrine",
+            "Takashima",
+            "Shiga Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Taikodani Inari Shrine",
+        "subtitle": "Hillside Inari shrine with a stunning tunnel of vermillion torii gates.",
+        "lat": 34.4697,
+        "lon": 131.782,
+        "type": "shrine",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 28,
+        "hierarchy": [
+            "Taikodani Inari Shrine",
+            "Tsuwano",
+            "Shimane Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Adachi Museum of Art",
+        "subtitle": "World-renowned museum famous for its Japanese gardens and art collection.",
+        "lat": 35.4385,
+        "lon": 133.203,
+        "type": "museum",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 29,
+        "hierarchy": [
+            "Adachi Museum of Art",
+            "Yasugi",
+            "Shimane Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "J\u014dsh\u014dk\u014d-ji Temple",
+        "subtitle": "Secluded temple known for its beautiful moss garden and autumn colors.",
+        "lat": 35.15,
+        "lon": 135.7,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 30,
+        "hierarchy": [
+            "J\u014dsh\u014dk\u014d-ji Temple",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kiyomizu-dera",
+        "subtitle": "Iconic Buddhist temple with a large wooden stage overlooking Kyoto. UNESCO World Heritage Site.",
+        "lat": 34.9949,
+        "lon": 135.785,
+        "type": "temple",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 31,
+        "hierarchy": [
+            "Kiyomizu-dera",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    }
+]

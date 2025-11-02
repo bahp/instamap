@@ -1,0 +1,433 @@
+[
+    {
+        "title": "Motonosumi Shrine",
+        "subtitle": "Famous for its red torii gates along the coast.",
+        "lat": 34.428611,
+        "lon": 131.258056,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Motonosumi Shrine",
+            "Nagato",
+            "Yamaguchi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tsunoshima Bridge",
+        "subtitle": "Iconic bridge connecting the mainland to Tsunoshima Island.",
+        "lat": 34.290833,
+        "lon": 130.884167,
+        "type": "bridge",
+        "class": "waterway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Tsunoshima Bridge",
+            "Shimonoseki",
+            "Yamaguchi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Akiyoshidai Cave",
+        "subtitle": "Large limestone cave within Akiyoshidai Quasi-National Park.",
+        "lat": 34.2386,
+        "lon": 131.3093,
+        "type": "cave",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Akiyoshidai Cave",
+            "Mine",
+            "Yamaguchi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ninenzaka",
+        "subtitle": "Historic preserved street leading to Kiyomizu-dera Temple in Kyoto.",
+        "lat": 34.997222,
+        "lon": 135.783611,
+        "type": "historic street",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Ninenzaka",
+            "Higashiyama Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Genko-an Temple",
+        "subtitle": "Zen temple famous for its \"windows of enlightenment and confusion.\"",
+        "lat": 35.048333,
+        "lon": 135.756111,
+        "type": "temple",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Genko-an Temple",
+            "Kita Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kiyomizu-dera Temple",
+        "subtitle": "Historic Buddhist temple, UNESCO World Heritage site in Kyoto.",
+        "lat": 34.994444,
+        "lon": 135.785278,
+        "type": "temple",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Kiyomizu-dera Temple",
+            "Higashiyama Ward",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Botchan Karakuri Clock",
+        "subtitle": "Musical clock tower performing scenes from Natsume Soseki's novel.",
+        "lat": 33.8458,
+        "lon": 132.7885,
+        "type": "clock tower",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Botchan Karakuri Clock",
+            "Dogo",
+            "Matsuyama",
+            "Ehime Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shimonada Station",
+        "subtitle": "Scenic train station overlooking the Seto Inland Sea.",
+        "lat": 33.729722,
+        "lon": 132.610556,
+        "type": "train station",
+        "class": "railway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Shimonada Station",
+            "Iyo",
+            "Ehime Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Dogo Onsen",
+        "subtitle": "Historic hot spring resort with a famous public bathhouse.",
+        "lat": 33.8475,
+        "lon": 132.788611,
+        "type": "hot spring resort",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 9,
+        "hierarchy": [
+            "Dogo Onsen",
+            "Matsuyama",
+            "Ehime Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kibitsu Shrine",
+        "subtitle": "Ancient Shinto shrine with a unique architectural style.",
+        "lat": 34.693611,
+        "lon": 133.864722,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Kibitsu Shrine",
+            "Okayama",
+            "Okayama Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kurashiki Bikan Historical Quarter",
+        "subtitle": "Preserved canal area with traditional Japanese storehouses.",
+        "lat": 34.594722,
+        "lon": 133.771944,
+        "type": "historic district",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 11,
+        "hierarchy": [
+            "Kurashiki Bikan Historical Quarter",
+            "Kurashiki",
+            "Okayama Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Arato Shrine",
+        "subtitle": "Shinto shrine located in Kurashiki, Okayama Prefecture.",
+        "lat": 34.5776,
+        "lon": 133.7431,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.85,
+        "rank": 1,
+        "page": 12,
+        "hierarchy": [
+            "Arato Shrine",
+            "Kurashiki",
+            "Okayama Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ama-no-Yasugawara",
+        "subtitle": "Cave with countless stone cairns near Amano-Iwato Shrine.",
+        "lat": 32.711944,
+        "lon": 131.189444,
+        "type": "cave",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 13,
+        "hierarchy": [
+            "Ama-no-Yasugawara",
+            "Takachiho",
+            "Miyazaki Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Takachiho Gorge",
+        "subtitle": "Scenic gorge known for its waterfalls and boat rides.",
+        "lat": 32.711944,
+        "lon": 131.306944,
+        "type": "gorge",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 14,
+        "hierarchy": [
+            "Takachiho Gorge",
+            "Takachiho",
+            "Miyazaki Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Udo Shrine",
+        "subtitle": "Unique shrine built into a cave overlooking the sea.",
+        "lat": 31.478611,
+        "lon": 131.423056,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 15,
+        "hierarchy": [
+            "Udo Shrine",
+            "Nichinan",
+            "Miyazaki Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Dotonbori",
+        "subtitle": "Vibrant entertainment district known for its neon lights and food.",
+        "lat": 34.668333,
+        "lon": 135.500556,
+        "type": "entertainment district",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 16,
+        "hierarchy": [
+            "Dotonbori",
+            "Chuo Ward",
+            "Osaka",
+            "Osaka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tsutenkaku Tower",
+        "subtitle": "Iconic observation tower and symbol of Osaka.",
+        "lat": 34.652778,
+        "lon": 135.506111,
+        "type": "observation tower",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 17,
+        "hierarchy": [
+            "Tsutenkaku Tower",
+            "Naniwa Ward",
+            "Osaka",
+            "Osaka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Daikanbo Peak",
+        "subtitle": "Panoramic viewpoint over the Aso caldera.",
+        "lat": 32.951389,
+        "lon": 131.060278,
+        "type": "mountain peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 18,
+        "hierarchy": [
+            "Daikanbo Peak",
+            "Aso",
+            "Kumamoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kamishikimi Kumanoza Shrine",
+        "subtitle": "Mystical shrine with moss-covered stone lanterns.",
+        "lat": 32.859444,
+        "lon": 131.026111,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 19,
+        "hierarchy": [
+            "Kamishikimi Kumanoza Shrine",
+            "Takamori",
+            "Kumamoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kurokawa Onsen",
+        "subtitle": "Secluded traditional hot spring village in Kumamoto.",
+        "lat": 33.056111,
+        "lon": 131.077222,
+        "type": "hot spring resort",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 20,
+        "hierarchy": [
+            "Kurokawa Onsen",
+            "Minamioguni",
+            "Kumamoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Adachi Museum of Art",
+        "subtitle": "Museum famous for its Japanese gardens and art collection.",
+        "lat": 35.422778,
+        "lon": 133.225,
+        "type": "art museum",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 21,
+        "hierarchy": [
+            "Adachi Museum of Art",
+            "Yasugi",
+            "Shimane Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kiyomizu-dera Temple (Shimane)",
+        "subtitle": "Buddhist temple in Shimane, known for its three-storied pagoda.",
+        "lat": 35.431389,
+        "lon": 133.159444,
+        "type": "temple",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 22,
+        "hierarchy": [
+            "Kiyomizu-dera Temple",
+            "Yasugi",
+            "Shimane Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Taiko-dani Inari Shrine",
+        "subtitle": "Scenic shrine with numerous red torii gates on a hillside.",
+        "lat": 34.646944,
+        "lon": 131.848889,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 23,
+        "hierarchy": [
+            "Taiko-dani Inari Shrine",
+            "Tsuwano",
+            "Shimane Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kirishima Shrine",
+        "subtitle": "Majestic shrine nestled in the Kirishima mountains.",
+        "lat": 31.890556,
+        "lon": 130.887222,
+        "type": "shrine",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 24,
+        "hierarchy": [
+            "Kirishima Shrine",
+            "Kirishima",
+            "Kagoshima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mizonokuchi Cave",
+        "subtitle": "Large natural cave formation in Kirishima.",
+        "lat": 31.884444,
+        "lon": 130.906944,
+        "type": "cave",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 25,
+        "hierarchy": [
+            "Mizonokuchi Cave",
+            "Kirishima",
+            "Kagoshima Prefecture",
+            "Japan"
+        ]
+    }
+]

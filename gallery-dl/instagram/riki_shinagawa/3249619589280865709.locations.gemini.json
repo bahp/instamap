@@ -1,0 +1,119 @@
+[
+    {
+        "title": "Mount Fuji",
+        "subtitle": "Highest mountain in Japan, a sacred peak",
+        "lat": 35.3606,
+        "lon": 138.7292,
+        "type": "volcano",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 8,
+        "page": 1,
+        "hierarchy": [
+            "Mount Fuji",
+            "Honshu",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Lake Kawaguchiko",
+        "subtitle": "One of the Fuji Five Lakes, popular tourist destination",
+        "lat": 35.512,
+        "lon": 138.761,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 8,
+        "page": 2,
+        "hierarchy": [
+            "Lake Kawaguchiko",
+            "Fujikawaguchiko",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tenjuan Temple",
+        "subtitle": "Sub-temple of Nanzen-ji, known for its gardens",
+        "lat": 35.0102,
+        "lon": 135.795,
+        "type": "religious_building",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Tenjuan Temple",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Fujikawaguchiko",
+        "subtitle": "Town in Yamanashi Prefecture, known for Mount Fuji views",
+        "lat": 35.498,
+        "lon": 138.749,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Fujikawaguchiko",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Saiko Iyashi no Sato Nenba",
+        "subtitle": "Traditional Japanese village and open-air museum",
+        "lat": 35.5008,
+        "lon": 138.6835,
+        "type": "village",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Saiko Iyashi no Sato Nenba",
+            "Fujikawaguchiko",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Genkoan Temple",
+        "subtitle": "Zen Buddhist temple in Kyoto with unique windows",
+        "lat": 35.0397,
+        "lon": 135.7335,
+        "type": "religious_building",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Genkoan Temple",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Toji Temple",
+        "subtitle": "Buddhist temple in Kyoto with a famous five-storied pagoda",
+        "lat": 34.982,
+        "lon": 135.751,
+        "type": "religious_building",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Toji Temple",
+            "Kyoto",
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    }
+]

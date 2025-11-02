@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Wakayama Electric Railway Kishigawa Line",
+        "subtitle": "Scenic cat-themed train line in Wakayama Prefecture, Japan.",
+        "lat": 34.254199,
+        "lon": 135.215576,
+        "type": "railway_line",
+        "class": "railway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Wakayama Electric Railway Kishigawa Line",
+            "Wakayama",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kishi Station",
+        "subtitle": "Famous cat stationmaster station on Kishigawa Line.",
+        "lat": 34.259779,
+        "lon": 135.340263,
+        "type": "railway_station",
+        "class": "public_transport",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Kishi Station",
+            "Kinokawa",
+            "Wakayama Prefecture",
+            "Japan"
+        ]
+    }
+]
