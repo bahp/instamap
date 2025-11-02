@@ -490,3 +490,40 @@ body {
 .btn-google:active {
     background-color: #F0F0F0;
 }
+
+
+/** ********************************************************** **/
+/** Last update span
+/** ********************************************************** **/
+/* Last update div, move from center to right based on screen size */
+/* 1. Mobile devices (default up to 767.98px): Shift to right */
+#last-updated-container {
+    left: auto;
+    right: 10px;
+    transform: none !important; /* reset any centering */
+}
+
+/* 2. Laptop or big screens (from 768px): Centred */
+@media (min-width: 768px) { /* broken point 'md' in Bootstrap */
+    #last-updated-container {
+        left: 50%;     /* shift to center */
+        right: auto;
+        transform: translateX(-50%) !important; /* center based on own width */
+    }
+}
+
+/* MÓVIL (< 768px): APILADO (Margin-BOTTOM en Posts) */
+/* El modo columna apila, necesitamos espacio debajo del primer elemento. */
+#posts-div {
+    margin-bottom: 0.5rem !important; /* Margen '2' de Bootstrap */
+    margin-right: 0 !important; /* Limpia cualquier margen lateral */
+}
+
+/* ESCRITORIO (≥ 768px): EN FILA (Margin-RIGHT en Posts) */
+/* El modo fila está activo, necesitamos espacio a la derecha del primer elemento. */
+@media (min-width: 768px) {
+    #posts-div {
+        margin-right: 0.5rem !important; /* Margen a la derecha (separación horizontal) */
+        margin-bottom: 0 !important; /* Limpia el margen inferior */
+    }
+}

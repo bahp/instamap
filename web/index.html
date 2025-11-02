@@ -351,6 +351,43 @@
 -->
 
 
+<div class="d-flex flex-column flex-md-row me-sm-5"
+     style="position: fixed;
+            bottom: 10px;
+            left: 10px;
+            z-index: 999;">
+
+    <div id="posts-div" class="p-2 bg-light text-dark rounded shadow-sm text-center"
+         style="font-size: 0.75rem; width:100px; min-width:100px;">
+      <span class="text-muted small me-2 text-uppercase">Posts</span>
+      <span id="nposts" class="text-muted fw-bolder"></span>
+    </div>
+
+    <div id="markers-div" class="p-2 bg-light text-dark rounded shadow-sm text-center"
+         style="font-size: 0.75rem; width: 120px; min-width:120px;">
+      <span class="text-muted text-left small me-2 text-uppercase">Markers</span>
+      <span id="nmarkers" class="text-muted fw-bolder"></span>
+    </div>
+</div>
+
+<div id="last-updated-container" class="p-2 bg-light text-dark rounded shadow-sm"
+     style="position: fixed;
+            bottom: 10px;
+            z-index: 999;
+            font-size: 0.75rem;">
+    Last updated: <span id="last-updated-date">DATE_GOES_HERE</span> UTC
+</div>
+<!--
+<div class="p-2 bg-light text-dark rounded shadow-sm"
+     style="position: fixed;
+            bottom: 10px;
+            right: 10px; /* Fijo a 10px del borde derecho */
+            z-index: 999;
+            font-size: 0.75rem;">
+    Last updated: <span id="last-updated-date">DATE_GOES_HERE</span> UTC
+</div>
+
+<!--
 <div class="p-2 bg-light text-dark rounded shadow-sm text-center"
      style="position:fixed; bottom:10px; left:80px; transform:translateX(-50%);
         z-index:999; font-size: 0.75rem; width:100px;">
@@ -363,6 +400,11 @@
   <span class="text-muted text-left small me-2 text-uppercase">Markers</span>
   <span id="nmarkers" class="text-muted fw-bolder"></span>
 </div>
+<div class="p-2 bg-light text-dark rounded shadow-sm mb-1"
+     style="font-size: 0.75rem; z-index:999; bottom:10px; left:300px; width: 120px;">
+    Last updated: <span id="last-updated-date">DATE_GOES_HERE</span> UTC
+</div>
+-->
 
 </body>
 <script>

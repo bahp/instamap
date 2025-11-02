@@ -116,17 +116,19 @@ jobs:
           cp -rf ./web/* _site/
 
           # --- NEW CODE BLOCK TO ADD TIMESTAMP ---
-           echo "Injecting 'Last updated' timestamp overlay..."
+          echo "Injecting 'Last updated' timestamp overlay..."
 
           # Get the current date and time (UTC)
-           LAST_UPDATED_STRING=$(date -u +"%A, %B %d, %Y at %I:%M %p UTC")
+          #LAST_UPDATED_STRING=$(date -u +"%A, %B %d, %Y at %I:%M %p UTC")
+          LAST_UPDATED_STRING=$(date -u +"%B %d, %Y at %H:%M UTC")
 
           # Create the HTML snippet for the small, light-gray note
           # We use single-quotes for the HTML attributes.
           HTML_SNIPPET="<div class='p-2 bg-light text-dark rounded shadow-sm' style='position:fixed; bottom:10px; left:50%; transform:translateX(-50%); z-index:999; font-size: 0.75rem;'>Last updated: $LAST_UPDATED_STRING</div>"
 
           # Use 'sed' to find the line with </body> and insert the snippet *before* it.
-          sed -i '/<\/body>/i '"$HTML_SNIPPET" _site/index.html
+          #sed -i '/<\/body>/i '"$HTML_SNIPPET" _site/index.html
+          sed -i "s|DATE_GOES_HERE|$LAST_UPDATED_STRING|" _site/index.html
 
           echo "Timestamp injected successfully."
           # --- END OF NEW CODE BLOCK --
