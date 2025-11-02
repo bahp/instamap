@@ -68,6 +68,7 @@ jobs:
           # Run the scripts inside the folder
           python extract_locations_gemini.py
           python create_caption_files.py
+          python merge_metadata.py
           python convert_json2js.py
 
       - name: Commit and Push Changes
