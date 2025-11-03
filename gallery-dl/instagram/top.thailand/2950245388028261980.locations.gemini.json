@@ -1,0 +1,96 @@
+[
+    {
+        "title": "Koh Hong",
+        "subtitle": "Limestone island in Krabi Province, Thailand, known for its lagoons.",
+        "lat": 8.083896,
+        "lon": 98.665768,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Koh Hong",
+            "Krabi",
+            "Thailand"
+        ]
+    },
+    {
+        "title": "Koh Yao Yai",
+        "subtitle": "Large island in Phang Nga Bay, part of Phang Nga Province, Thailand.",
+        "lat": 7.933333,
+        "lon": 98.566667,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Koh Yao Yai",
+            "Phang Nga",
+            "Thailand"
+        ]
+    },
+    {
+        "title": "Koh Yao Noi",
+        "subtitle": "Smaller island in Phang Nga Bay, known for its tranquil beaches.",
+        "lat": 8.083333,
+        "lon": 98.616667,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Koh Yao Noi",
+            "Phang Nga",
+            "Thailand"
+        ]
+    },
+    {
+        "title": "Koh Lading",
+        "subtitle": "Small picturesque island in Phang Nga Bay, also known as Paradise Island.",
+        "lat": 8.093444,
+        "lon": 98.681146,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Koh Lading",
+            "Phang Nga",
+            "Thailand"
+        ]
+    },
+    {
+        "title": "Koh Panyee",
+        "subtitle": "Iconic floating village built on stilts in Phang Nga Bay, Thailand.",
+        "lat": 8.35515,
+        "lon": 98.50334,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "Koh Panyee",
+            "Phang Nga",
+            "Thailand"
+        ]
+    },
+    {
+        "title": "Thailand",
+        "subtitle": "Southeastern Asian country known for tropical beaches, ancient ruins, and temples.",
+        "lat": 15.0,
+        "lon": 100.0,
+        "type": "country",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 7,
+        "page": 6,
+        "hierarchy": [
+            "Thailand"
+        ]
+    }
+]

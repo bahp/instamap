@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Nara Park",
+        "subtitle": "Large public park in Nara, Japan, known for its tame deer.",
+        "lat": 34.6853,
+        "lon": 135.8427,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Nara Park",
+            "Nara",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Todaiji Temple",
+        "subtitle": "Historic Buddhist temple in Nara, Japan, housing a large bronze Buddha statue.",
+        "lat": 34.6888,
+        "lon": 135.8394,
+        "type": "temple",
+        "class": "place_of_worship",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "T\u014ddai-ji",
+            "Nara",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nara National Museum",
+        "subtitle": "Art museum specializing in Buddhist art, located in Nara Park.",
+        "lat": 34.6811,
+        "lon": 135.8329,
+        "type": "museum",
+        "class": "amenity",
+        "confidence": 0.97,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Nara National Museum",
+            "Nara",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kasuga Taisha Shrine",
+        "subtitle": "Shinto shrine in Nara, Japan, famous for its numerous bronze and stone lanterns.",
+        "lat": 34.6814,
+        "lon": 135.8576,
+        "type": "shrine",
+        "class": "place_of_worship",
+        "confidence": 0.96,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Kasuga-taisha",
+            "Nara",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kohfukuji Temple",
+        "subtitle": "Historic Buddhist temple in Nara, Japan, known for its five-story pagoda.",
+        "lat": 34.681,
+        "lon": 135.8239,
+        "type": "temple",
+        "class": "place_of_worship",
+        "confidence": 0.97,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "K\u014dfuku-ji",
+            "Nara",
+            "Nara Prefecture",
+            "Japan"
+        ]
+    }
+]

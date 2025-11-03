@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Issyk-Kul",
+        "subtitle": "Large lake in Kyrgyzstan",
+        "lat": 42.427778,
+        "lon": 77.291111,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": 1,
+        "hierarchy": [
+            "Issyk-Kul",
+            "Issyk-Kul Region",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "title": "Bishkek",
+        "subtitle": "Capital city of Kyrgyzstan",
+        "lat": 42.874722,
+        "lon": 74.612222,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Bishkek",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "title": "Kel-Suu Lake",
+        "subtitle": "High-altitude lake in Naryn Region, Kyrgyzstan",
+        "lat": 40.758,
+        "lon": 75.319,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Kel-Suu Lake",
+            "At-Bashy District",
+            "Naryn Region",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "title": "Alay Valley",
+        "subtitle": "Scenic valley in southern Kyrgyzstan",
+        "lat": 39.544722,
+        "lon": 72.840278,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Alay Valley",
+            "Alay District",
+            "Osh Region",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "title": "Lenin Peak",
+        "subtitle": "Mountain in the Pamir Mountains",
+        "lat": 39.344444,
+        "lon": 72.876111,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Lenin Peak",
+            "Alay Range",
+            "Osh Region",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "title": "Sary-Chelek Lake",
+        "subtitle": "Mountain lake in a nature reserve, Kyrgyzstan",
+        "lat": 41.879167,
+        "lon": 71.986944,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Sary-Chelek Lake",
+            "Aksy District",
+            "Jalal-Abad Region",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "title": "Karakol",
+        "subtitle": "City in eastern Kyrgyzstan",
+        "lat": 42.493056,
+        "lon": 78.393056,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 5,
+        "hierarchy": [
+            "Karakol",
+            "Issyk-Kul Region",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "title": "Batken",
+        "subtitle": "City in southwestern Kyrgyzstan",
+        "lat": 40.061944,
+        "lon": 70.834444,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 5,
+        "hierarchy": [
+            "Batken",
+            "Batken Region",
+            "Kyrgyzstan"
+        ]
+    }
+]

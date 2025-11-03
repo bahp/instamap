@@ -1,0 +1,69 @@
+[
+    {
+        "title": "Hyde Park",
+        "subtitle": "Home of Winter Wonderland, a famous London park.",
+        "lat": 51.507351,
+        "lon": -0.165768,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Hyde Park",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Southbank Centre",
+        "subtitle": "Arts complex hosting the Winter Market in London.",
+        "lat": 51.5065,
+        "lon": -0.1166,
+        "type": "arts centre",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Southbank Centre",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Covent Garden",
+        "subtitle": "Historic market and entertainment district in London.",
+        "lat": 51.5134,
+        "lon": -0.1235,
+        "type": "market district",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Covent Garden",
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "London",
+        "subtitle": "Capital city of England and the United Kingdom.",
+        "lat": 51.5073219,
+        "lon": -0.1276474,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 4,
+        "hierarchy": [
+            "London",
+            "England",
+            "United Kingdom"
+        ]
+    }
+]

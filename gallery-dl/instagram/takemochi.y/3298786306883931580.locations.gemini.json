@@ -1,0 +1,69 @@
+[
+    {
+        "title": "\u5bcc\u58eb\u5c71\u5922\u306e\u5927\u6a4b",
+        "subtitle": "Scenic bridge and viewpoint for Mount Fuji",
+        "lat": 35.1593,
+        "lon": 138.683,
+        "type": "bridge",
+        "class": "amenity",
+        "confidence": 0.99,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "\u5bcc\u58eb\u5c71\u5922\u306e\u5927\u6a4b",
+            "Fuji",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u5bcc\u58eb\u5e02",
+        "subtitle": "A city located in Shizuoka Prefecture",
+        "lat": 35.1667,
+        "lon": 138.6667,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Fuji",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u5bcc\u58eb\u99c5",
+        "subtitle": "Major railway station in Fuji City",
+        "lat": 35.1593,
+        "lon": 138.6738,
+        "type": "train_station",
+        "class": "transport",
+        "confidence": 0.99,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "\u5bcc\u58eb\u99c5",
+            "Fuji",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u3075\u3082\u3068\u3063\u3071\u3089\u30ad\u30e3\u30f3\u30d7\u5834",
+        "subtitle": "Popular campground with iconic Mount Fuji views",
+        "lat": 35.3411,
+        "lon": 138.6014,
+        "type": "campsite",
+        "class": "leisure",
+        "confidence": 0.99,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "\u3075\u3082\u3068\u3063\u3071\u3089\u30ad\u30e3\u30f3\u30d7\u5834",
+            "Fujinomiya",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    }
+]

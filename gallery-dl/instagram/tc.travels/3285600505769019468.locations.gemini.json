@@ -1,0 +1,88 @@
+[
+    {
+        "title": "High Rock Lookout",
+        "subtitle": "Historic fire lookout near Mount Rainier National Park",
+        "lat": 46.858056,
+        "lon": -121.841389,
+        "type": "historic_fire_lookout",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "High Rock Lookout",
+            "Mount Rainier",
+            "Washington",
+            "United States"
+        ]
+    },
+    {
+        "title": "Angels Landing",
+        "subtitle": "Famous hike in Zion National Park, Utah, known for steep drop-offs",
+        "lat": 37.269167,
+        "lon": -112.946389,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Angels Landing",
+            "Zion National Park",
+            "Utah",
+            "United States"
+        ]
+    },
+    {
+        "title": "Colchuck Lake",
+        "subtitle": "Alpine lake in The Enchantments, Okanogan-Wenatchee National Forest",
+        "lat": 47.5684,
+        "lon": -120.8038,
+        "type": "lake",
+        "class": "water",
+        "confidence": 0.97,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Colchuck Lake",
+            "The Enchantments",
+            "Washington",
+            "United States"
+        ]
+    },
+    {
+        "title": "Awa'awapuhi Trail",
+        "subtitle": "Trail leading to views of the Na Pali Coast on Kauai, Hawaii",
+        "lat": 22.1389,
+        "lon": -159.6017,
+        "type": "trail",
+        "class": "leisure",
+        "confidence": 0.96,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Awa'awapuhi Trail",
+            "Na Pali Coast State Wilderness Park",
+            "Kauai",
+            "Hawaii",
+            "United States"
+        ]
+    },
+    {
+        "title": "Half Dome",
+        "subtitle": "Granite dome in Yosemite National Park, California, famous for its cables",
+        "lat": 37.7459,
+        "lon": -119.5332,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.99,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Half Dome",
+            "Yosemite National Park",
+            "California",
+            "United States"
+        ]
+    }
+]

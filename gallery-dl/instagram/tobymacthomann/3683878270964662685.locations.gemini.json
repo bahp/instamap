@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Crete Senesi",
+        "subtitle": "Distinctive area of hills and ravines in Tuscany, Italy",
+        "lat": 43.208171,
+        "lon": 11.517316,
+        "type": "natural_region",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 8,
+        "page": 1,
+        "hierarchy": [
+            "Crete Senesi",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Podere Belvedere",
+        "subtitle": "Iconic stone house and viewpoint in Val d'Orcia, Tuscany",
+        "lat": 43.080556,
+        "lon": 11.564722,
+        "type": "farmhouse",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Podere Belvedere",
+            "San Quirico d'Orcia",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Poggio Covili Viewpoint",
+        "subtitle": "Ancient farmhouse viewpoint in the heart of Val d'Orcia",
+        "lat": 43.01897,
+        "lon": 11.69176,
+        "type": "viewpoint",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Poggio Covili Viewpoint",
+            "Val d'Orcia",
+            "Tuscany",
+            "Italy"
+        ]
+    }
+]

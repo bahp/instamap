@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Val d'Orcia",
+        "subtitle": "Valley in Tuscany, Italy, UNESCO World Heritage site",
+        "lat": 43.04944,
+        "lon": 11.62194,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": 1,
+        "hierarchy": [
+            "Val d'Orcia",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Pienza",
+        "subtitle": "Town in Tuscany, Italy, known for Renaissance architecture",
+        "lat": 43.07636,
+        "lon": 11.67733,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Pienza",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Agriturismo Poggio Covili",
+        "subtitle": "Farm stay accommodation in Castiglione d'Orcia, Tuscany",
+        "lat": 43.03337,
+        "lon": 11.6366,
+        "type": "hotel",
+        "class": "tourism",
+        "confidence": 0.97,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Agriturismo Poggio Covili",
+            "Castiglione d'Orcia",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "The Gladiator Road",
+        "subtitle": "Scenic road near Pienza, Val d'Orcia, featured in 'Gladiator'",
+        "lat": 43.05816,
+        "lon": 11.62985,
+        "type": "road",
+        "class": "highway",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "The Gladiator Road",
+            "Val d'Orcia",
+            "Tuscany",
+            "Italy"
+        ]
+    },
+    {
+        "title": "San Quirico d'Orcia",
+        "subtitle": "Medieval town in Val d'Orcia, Tuscany, Italy",
+        "lat": 43.06329,
+        "lon": 11.53616,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "San Quirico d'Orcia",
+            "Siena",
+            "Tuscany",
+            "Italy"
+        ]
+    }
+]

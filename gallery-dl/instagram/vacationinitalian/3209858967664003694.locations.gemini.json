@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Dolomites",
+        "subtitle": "Mountain range in northeastern Italy, UNESCO World Heritage Site",
+        "lat": 46.467,
+        "lon": 11.833,
+        "type": "mountain_range",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": 1,
+        "hierarchy": [
+            "Dolomites",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Lago di Braies",
+        "subtitle": "Alpine lake in the Dolomites, South Tyrol, Italy",
+        "lat": 46.6946,
+        "lon": 12.0837,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Lago di Braies",
+            "Braies",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Bolzano",
+        "subtitle": "City in South Tyrol, Italy, also known as Bozen",
+        "lat": 46.4983,
+        "lon": 11.3548,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 3,
+        "hierarchy": [
+            "Bolzano",
+            "South Tyrol",
+            "Italy"
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Haneda Airport",
+        "subtitle": "Major international airport serving the Greater Tokyo Area, Japan.",
+        "lat": 35.54939,
+        "lon": 139.77983,
+        "type": "airport",
+        "class": "aeroway",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Tokyo International Airport (Haneda)",
+            "Ota City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Tokyo National Museum",
+        "subtitle": "Japan's oldest and largest museum, located in Ueno Park, Tokyo.",
+        "lat": 35.71882,
+        "lon": 139.77522,
+        "type": "museum",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Tokyo National Museum",
+            "Taito City",
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shinjuku Tourist Information Center",
+        "subtitle": "Visitor information center in the Shinjuku district of Tokyo, Japan.",
+        "lat": 35.69077,
+        "lon": 139.70425,
+        "type": "tourist_information",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Shinjuku Tourist Information Center",
+            "Shinjuku City",
+            "Tokyo",
+            "Japan"
+        ]
+    }
+]

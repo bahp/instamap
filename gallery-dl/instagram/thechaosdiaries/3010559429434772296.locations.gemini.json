@@ -1,0 +1,208 @@
+[
+    {
+        "title": "Sass de Putia",
+        "subtitle": "A prominent peak in the Dolomites, Italy",
+        "lat": 46.6875,
+        "lon": 11.8386,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Sass de Putia",
+            "Dolomites",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Santa Maddalena",
+        "subtitle": "Village in Val di Funes, South Tyrol, Italy",
+        "lat": 46.6667,
+        "lon": 11.7278,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Santa Maddalena",
+            "Val di Funes",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Church of San Giovanni",
+        "subtitle": "Iconic chapel near Santa Maddalena, Val di Funes",
+        "lat": 46.6738,
+        "lon": 11.7371,
+        "type": "church",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Church of San Giovanni in Ranui",
+            "Santa Maddalena",
+            "Val di Funes",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Tre Cime di Lavaredo",
+        "subtitle": "Iconic three peaks in the Dolomites",
+        "lat": 46.6322,
+        "lon": 12.2961,
+        "type": "mountain_group",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Tre Cime di Lavaredo",
+            "Dolomites",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Cadini di Misurina",
+        "subtitle": "Mountain group and viewpoint in the Dolomites",
+        "lat": 46.5974,
+        "lon": 12.2618,
+        "type": "mountain_group",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Cadini di Misurina",
+            "Dolomites",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Lago di Braies",
+        "subtitle": "Stunning lake in the Dolomites, a popular hiking spot",
+        "lat": 46.6946,
+        "lon": 12.083,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Lago di Braies",
+            "Dolomites",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "San Vigilio di Marebbe",
+        "subtitle": "Village in South Tyrol, a base for exploring the Dolomites",
+        "lat": 46.6791,
+        "lon": 11.9366,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 7,
+        "hierarchy": [
+            "San Vigilio di Marebbe",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Nuvolau",
+        "subtitle": "Mountain peak in the Dolomites with panoramic views",
+        "lat": 46.4952,
+        "lon": 12.0406,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Nuvolau",
+            "Dolomites",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Seceda",
+        "subtitle": "Scenic mountain plateau and peak in the Dolomites",
+        "lat": 46.6025,
+        "lon": 11.7519,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 9,
+        "hierarchy": [
+            "Seceda",
+            "Dolomites",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Residence Rautal",
+        "subtitle": "Apartment hotel in San Vigilio di Marebbe",
+        "lat": 46.6795,
+        "lon": 11.9421,
+        "type": "hotel",
+        "class": "lodging",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Residence Rautal",
+            "San Vigilio di Marebbe",
+            "South Tyrol",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Venice Marco Polo Airport",
+        "subtitle": "International airport serving Venice, Italy",
+        "lat": 45.5053,
+        "lon": 12.3389,
+        "type": "airport",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 11,
+        "hierarchy": [
+            "Venice Marco Polo Airport",
+            "Tessera",
+            "Venice",
+            "Metropolitan City of Venice",
+            "Veneto",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Venice",
+        "subtitle": "Historic city in northeastern Italy, famous for its canals",
+        "lat": 45.4387,
+        "lon": 12.333,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 12,
+        "hierarchy": [
+            "Venice",
+            "Metropolitan City of Venice",
+            "Veneto",
+            "Italy"
+        ]
+    }
+]

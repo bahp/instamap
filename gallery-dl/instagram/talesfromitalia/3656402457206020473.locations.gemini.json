@@ -1,0 +1,131 @@
+[
+    {
+        "title": "Giardino delle Rose",
+        "subtitle": "Public garden with panoramic views of Florence.",
+        "lat": 43.7634,
+        "lon": 11.2591,
+        "type": "garden",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Giardino delle Rose",
+            "Florence",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Caff\u00e8 degli Artigiani",
+        "subtitle": "Traditional caf\u00e9 in Piazza della Passera, Oltrarno, Florence.",
+        "lat": 43.7663,
+        "lon": 11.2483,
+        "type": "cafe",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Caff\u00e8 degli Artigiani",
+            "Piazza della Passera",
+            "Florence",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Via dell\u2019Amore (San Niccol\u00f2)",
+        "subtitle": "Romantic path climbing towards San Miniato in San Niccol\u00f2, Florence.",
+        "lat": 43.7621,
+        "lon": 11.2618,
+        "type": "path",
+        "class": "highway",
+        "confidence": 0.8,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Via dell\u2019Amore (San Niccol\u00f2)",
+            "Florence",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Villa Bardini Gardens",
+        "subtitle": "Historic gardens with panoramic views, less crowded than Boboli.",
+        "lat": 43.7622,
+        "lon": 11.2562,
+        "type": "garden",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Villa Bardini Gardens",
+            "Florence",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Trattoria La Casalinga",
+        "subtitle": "Traditional Tuscan restaurant in the Oltrarno district of Florence.",
+        "lat": 43.7661,
+        "lon": 11.2464,
+        "type": "restaurant",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Trattoria La Casalinga",
+            "Florence",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Drogheria",
+        "subtitle": "Cozy wine bar on Via dei Serragli in Florence.",
+        "lat": 43.7687,
+        "lon": 11.2458,
+        "type": "bar",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 6,
+        "hierarchy": [
+            "Drogheria",
+            "Florence",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Lungarno della Zecca Vecchia",
+        "subtitle": "Riverside promenade along the Arno in Florence.",
+        "lat": 43.7651,
+        "lon": 11.2678,
+        "type": "pedestrian",
+        "class": "highway",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Lungarno della Zecca Vecchia",
+            "Florence",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Brancacci Chapel",
+        "subtitle": "Chapel with Renaissance frescoes inside Santa Maria del Carmine, Florence.",
+        "lat": 43.7679,
+        "lon": 11.2427,
+        "type": "chapel",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "Brancacci Chapel",
+            "Florence",
+            "Italy"
+        ]
+    }
+]

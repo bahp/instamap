@@ -1,0 +1,645 @@
+[
+    {
+        "title": "Dublin",
+        "subtitle": "Capital city of Ireland",
+        "lat": 53.3498,
+        "lon": -6.2603,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Dublin",
+            "County Dublin",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Hill of Tara",
+        "subtitle": "Ancient ceremonial site in County Meath",
+        "lat": 53.5937,
+        "lon": -6.6087,
+        "type": "archaeological_site",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Hill of Tara",
+            "County Meath",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Trim Castle",
+        "subtitle": "Large Anglo-Norman castle in Trim, County Meath",
+        "lat": 53.5539,
+        "lon": -6.7909,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Trim Castle",
+            "Trim",
+            "County Meath",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Tollymore Forest Park",
+        "subtitle": "Forest park in County Down, Northern Ireland",
+        "lat": 54.2185,
+        "lon": -5.9221,
+        "type": "forest_park",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Tollymore Forest Park",
+            "County Down",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Scrabo Tower",
+        "subtitle": "19th-century lookout tower near Newtownards",
+        "lat": 54.5583,
+        "lon": -5.7333,
+        "type": "tower",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Scrabo Tower",
+            "Newtownards",
+            "County Down",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Glenariff Forest Park",
+        "subtitle": "Forest park in County Antrim, Northern Ireland",
+        "lat": 55.0069,
+        "lon": -6.1085,
+        "type": "forest_park",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Glenariff Forest Park",
+            "County Antrim",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Kinbane Castle",
+        "subtitle": "Scenic castle ruin on a headland in County Antrim",
+        "lat": 55.2285,
+        "lon": -6.2163,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Kinbane Castle",
+            "Ballycastle",
+            "County Antrim",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Giant's Causeway",
+        "subtitle": "UNESCO World Heritage Site of basalt columns",
+        "lat": 55.2346,
+        "lon": -6.5126,
+        "type": "natural_landmark",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 8,
+        "hierarchy": [
+            "Giant's Causeway",
+            "Bushmills",
+            "County Antrim",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "The Dark Hedges",
+        "subtitle": "Avenue of beech trees near Armoy, County Antrim",
+        "lat": 55.1275,
+        "lon": -6.3683,
+        "type": "avenue",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 9,
+        "hierarchy": [
+            "The Dark Hedges",
+            "Stranocum",
+            "County Antrim",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Dunluce Castle",
+        "subtitle": "Medieval castle ruins on a basalt outcrop",
+        "lat": 55.1852,
+        "lon": -6.4447,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 10,
+        "hierarchy": [
+            "Dunluce Castle",
+            "Bushmills",
+            "County Antrim",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Cloughglass",
+        "subtitle": "Townland in County Donegal",
+        "lat": 55.0874,
+        "lon": -7.7118,
+        "type": "hamlet",
+        "class": "place",
+        "confidence": 0.8,
+        "rank": 3,
+        "page": 11,
+        "hierarchy": [
+            "Cloughglass",
+            "Falcarragh",
+            "County Donegal",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Assaranca Waterfall",
+        "subtitle": "Waterfall in County Donegal, near Ardara",
+        "lat": 54.808,
+        "lon": -8.324,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 12,
+        "hierarchy": [
+            "Assaranca Waterfall",
+            "Ardara",
+            "County Donegal",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Glenlough Bay",
+        "subtitle": "Remote bay in County Donegal",
+        "lat": 54.8037,
+        "lon": -8.6729,
+        "type": "bay",
+        "class": "natural",
+        "confidence": 0.85,
+        "rank": 2,
+        "page": 13,
+        "hierarchy": [
+            "Glenlough Bay",
+            "County Donegal",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Slieve League Cliffs",
+        "subtitle": "Sea cliffs in County Donegal, among the highest in Europe",
+        "lat": 54.6293,
+        "lon": -8.6852,
+        "type": "cliffs",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 14,
+        "hierarchy": [
+            "Slieve League Cliffs",
+            "Teelin",
+            "County Donegal",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Secret Waterfall",
+        "subtitle": "Waterfall near Glencolmcille, County Donegal",
+        "lat": 54.7073,
+        "lon": -8.761,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.8,
+        "rank": 2,
+        "page": 15,
+        "hierarchy": [
+            "Secret Waterfall",
+            "Glencolmcille",
+            "County Donegal",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Cuilcagh Boardwalk Trail",
+        "subtitle": "Also known as Stairway to Heaven, a boardwalk trail",
+        "lat": 54.269,
+        "lon": -7.869,
+        "type": "hiking_trail",
+        "class": "leisure",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 16,
+        "hierarchy": [
+            "Cuilcagh Boardwalk Trail",
+            "Marlbank",
+            "County Fermanagh",
+            "Northern Ireland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Devil's Chimney",
+        "subtitle": "Sruth in Aghaidh an Aird, a waterfall in County Sligo",
+        "lat": 54.3439,
+        "lon": -8.3243,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.85,
+        "rank": 2,
+        "page": 17,
+        "hierarchy": [
+            "Devil's Chimney",
+            "County Sligo",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Glencar Waterfall",
+        "subtitle": "Waterfall in County Leitrim",
+        "lat": 54.3359,
+        "lon": -8.3686,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 18,
+        "hierarchy": [
+            "Glencar Waterfall",
+            "County Leitrim",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Gleniff Horseshoe",
+        "subtitle": "Scenic drive and valley in County Sligo",
+        "lat": 54.3722,
+        "lon": -8.3583,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 19,
+        "hierarchy": [
+            "Gleniff Horseshoe",
+            "County Sligo",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Kylemore Abbey",
+        "subtitle": "Benedictine monastery and estate in Connemara",
+        "lat": 53.5855,
+        "lon": -9.8821,
+        "type": "abbey",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 20,
+        "hierarchy": [
+            "Kylemore Abbey",
+            "Connemara",
+            "County Galway",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Pine Island",
+        "subtitle": "Small islet in Pollacapall Lake, Kylemore Abbey Estate",
+        "lat": 53.5866,
+        "lon": -9.8876,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.8,
+        "rank": 2,
+        "page": 21,
+        "hierarchy": [
+            "Pine Island",
+            "Kylemore Abbey",
+            "Connemara",
+            "County Galway",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Galway",
+        "subtitle": "City in western Ireland",
+        "lat": 53.2734,
+        "lon": -9.0581,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 4,
+        "page": 22,
+        "hierarchy": [
+            "Galway",
+            "County Galway",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Doolin",
+        "subtitle": "Coastal village in County Clare, known for traditional music",
+        "lat": 53.0181,
+        "lon": -9.3797,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 23,
+        "hierarchy": [
+            "Doolin",
+            "County Clare",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Cliffs of Moher",
+        "subtitle": "Famous sea cliffs in County Clare",
+        "lat": 52.9714,
+        "lon": -9.4262,
+        "type": "cliffs",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 24,
+        "hierarchy": [
+            "Cliffs of Moher",
+            "Liscannor",
+            "County Clare",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Kilkee Cliffs",
+        "subtitle": "Sea cliffs near Kilkee, County Clare",
+        "lat": 52.6857,
+        "lon": -9.6997,
+        "type": "cliffs",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 25,
+        "hierarchy": [
+            "Kilkee Cliffs",
+            "Kilkee",
+            "County Clare",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Schohaboy Bog Walk",
+        "subtitle": "Loop walk near Kilkee, County Clare",
+        "lat": 52.6738,
+        "lon": -9.6631,
+        "type": "trail",
+        "class": "leisure",
+        "confidence": 0.8,
+        "rank": 2,
+        "page": 26,
+        "hierarchy": [
+            "Schohaboy Bog Walk",
+            "Kilkee",
+            "County Clare",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Dunquin Pier",
+        "subtitle": "Pier in County Kerry, gateway to Blasket Islands",
+        "lat": 52.1278,
+        "lon": -10.4578,
+        "type": "pier",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 27,
+        "hierarchy": [
+            "Dunquin Pier",
+            "Dunquin",
+            "County Kerry",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Dingle",
+        "subtitle": "Town on the Dingle Peninsula, County Kerry",
+        "lat": 52.1408,
+        "lon": -10.2709,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 28,
+        "hierarchy": [
+            "Dingle",
+            "County Kerry",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Killarney",
+        "subtitle": "Town in County Kerry, gateway to Killarney National Park",
+        "lat": 52.0569,
+        "lon": -9.5097,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 29,
+        "hierarchy": [
+            "Killarney",
+            "County Kerry",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Muckross House",
+        "subtitle": "19th-century Victorian mansion in Killarney National Park",
+        "lat": 52.0089,
+        "lon": -9.5097,
+        "type": "stately_home",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 30,
+        "hierarchy": [
+            "Muckross House",
+            "Killarney National Park",
+            "Killarney",
+            "County Kerry",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Ballysaggartmore Towers",
+        "subtitle": "Folly towers near Lismore, County Waterford",
+        "lat": 52.1466,
+        "lon": -7.9575,
+        "type": "folly",
+        "class": "historic",
+        "confidence": 0.85,
+        "rank": 1,
+        "page": 31,
+        "hierarchy": [
+            "Ballysaggartmore Towers",
+            "Lismore",
+            "County Waterford",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Lismore Castle",
+        "subtitle": "Historic castle and gardens in Lismore, County Waterford",
+        "lat": 52.1384,
+        "lon": -7.9272,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 32,
+        "hierarchy": [
+            "Lismore Castle",
+            "Lismore",
+            "County Waterford",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Blarney Castle",
+        "subtitle": "Medieval castle in Blarney, County Cork",
+        "lat": 51.9298,
+        "lon": -8.5709,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 33,
+        "hierarchy": [
+            "Blarney Castle",
+            "Blarney",
+            "County Cork",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Kinsale",
+        "subtitle": "Historic port and fishing town in County Cork",
+        "lat": 51.7058,
+        "lon": -8.5249,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 34,
+        "hierarchy": [
+            "Kinsale",
+            "County Cork",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Tr\u00e1 na Stella Beach",
+        "subtitle": "Beach near Fanad Head, County Donegal",
+        "lat": 55.2476,
+        "lon": -7.5684,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.85,
+        "rank": 2,
+        "page": 35,
+        "hierarchy": [
+            "Tr\u00e1 na Stella Beach",
+            "Fanad",
+            "County Donegal",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Rock of Cashel",
+        "subtitle": "Historic site of religious buildings in County Tipperary",
+        "lat": 52.5152,
+        "lon": -7.8893,
+        "type": "historic_site",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 36,
+        "hierarchy": [
+            "Rock of Cashel",
+            "Cashel",
+            "County Tipperary",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Borodale Nature Reserve",
+        "subtitle": "Woodland and nature reserve in County Wexford",
+        "lat": 52.5694,
+        "lon": -6.4719,
+        "type": "nature_reserve",
+        "class": "leisure",
+        "confidence": 0.85,
+        "rank": 2,
+        "page": 37,
+        "hierarchy": [
+            "Borodale Nature Reserve",
+            "Enniscorthy",
+            "County Wexford",
+            "Ireland"
+        ]
+    },
+    {
+        "title": "Duckett's Grove",
+        "subtitle": "Ruined 19th-century great house in County Carlow",
+        "lat": 52.7937,
+        "lon": -6.8093,
+        "type": "historic_house",
+        "class": "historic",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 38,
+        "hierarchy": [
+            "Duckett's Grove",
+            "Carlow",
+            "County Carlow",
+            "Ireland"
+        ]
+    }
+]

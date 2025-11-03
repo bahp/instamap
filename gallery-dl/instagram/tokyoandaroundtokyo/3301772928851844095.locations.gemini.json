@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Arato Castle",
+        "subtitle": "Historical Japanese castle in Chikuma, Nagano",
+        "lat": 36.529241,
+        "lon": 138.169123,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": null,
+        "hierarchy": [
+            "Arato Castle",
+            "Chikuma",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Chikuma",
+        "subtitle": "City in Nagano Prefecture, Japan",
+        "lat": 36.52909,
+        "lon": 138.12873,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Chikuma",
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nagano Prefecture",
+        "subtitle": "Prefecture in the Chubu region of Japan",
+        "lat": 36.23072,
+        "lon": 138.16335,
+        "type": "state",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    }
+]

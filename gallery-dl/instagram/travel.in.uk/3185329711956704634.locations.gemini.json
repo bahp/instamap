@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Lincoln Cathedral",
+        "subtitle": "Historic Anglican cathedral in Lincoln, England",
+        "lat": 53.229158,
+        "lon": -0.536925,
+        "type": "cathedral",
+        "class": "building",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Lincoln Cathedral",
+            "Lincoln",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "St Michael's Mount",
+        "subtitle": "Tidal island and castle in Mount's Bay, Cornwall",
+        "lat": 50.1167,
+        "lon": -5.4795,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "St Michael's Mount",
+            "Marazion",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Bibury",
+        "subtitle": "Picturesque village in Gloucestershire, Cotswolds, England",
+        "lat": 51.7583,
+        "lon": -1.7777,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Bibury",
+            "Gloucestershire",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Cockington",
+        "subtitle": "Historic village and country park near Torquay, Devon",
+        "lat": 50.4578,
+        "lon": -3.5558,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Cockington",
+            "Torquay",
+            "Devon",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Bourton-on-the-Water",
+        "subtitle": "Village in the Cotswolds, Gloucestershire, known for its river",
+        "lat": 51.8864,
+        "lon": -1.7583,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 6,
+        "hierarchy": [
+            "Bourton-on-the-Water",
+            "Gloucestershire",
+            "England",
+            "United Kingdom"
+        ]
+    }
+]
