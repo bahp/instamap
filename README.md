@@ -13,10 +13,10 @@
 InstaMap is an automated tool that downloads your saved Instagram 
 posts and their metadata using [`gallery-dl`](https://github.com/mikf/gallery-dl), 
 and displays them on an interactive [`Leaflet`](https://leafletjs.com/) map. 
-Each post is embedded directly on the map at its corresponding location, allowing 
+Each post is embedded on the map at its corresponding location, allowing 
 you to explore your saved content geographically.
 
-The project also uses [`Gemini`](https://pypi.org/project/google-generativeai/) 
+The project uses [`Gemini`](https://pypi.org/project/google-generativeai/) 
 (Google’s generative AI) to analyze post captions and identify additional 
 locations mentioned in the text — adding extra context and depth to your map.
 
