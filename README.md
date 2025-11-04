@@ -10,25 +10,40 @@
 
 ---
 
+![App Screenshot](screenshot.png)
+
+---
+
+## Contents
+
+* [1. Introduction](#1-introduction)
+* [2. Core Features](#2-core-features)
+* [3. Installation](#3-installation)
+    * [Step 1: Download Files](#step-1-fork-the-repository)
+    * [Step 2: Set Up Environment](#step-2-add-repository-secrets)
+    * [Step 3: Run the Workflow](#step-3-run-the-workflow)
+    * [Step 4: Enable GiHub Pages](#step-4-enable-github-pages)
+* [4. Running Locally (optional)](#4-running-locally-optional)
+* [5. Frequently Asked Questions (FAQ)](#5-frequently-asked-questions-faq)
+
+---
+
+## 1. Introduction
+
 InstaMap is an automated tool that downloads your saved Instagram 
 posts and their metadata using [`gallery-dl`](https://github.com/mikf/gallery-dl), 
 and displays them on an interactive [`Leaflet`](https://leafletjs.com/) map. 
 Each post is embedded on the map at its corresponding location, allowing 
-you to explore your saved content geographically.
-
-The project uses [`Gemini`](https://pypi.org/project/google-generativeai/) 
-(Google’s generative AI) to analyze post captions and identify additional 
-locations mentioned in the text — adding extra context and depth to your map.
+you to explore your saved content geographically. In addition, the project uses
+[`Gemini`](https://pypi.org/project/google-generativeai/) (Google’s generative AI) 
+to analyze post captions and identify additional  locations mentioned in the text 
+— adding extra context and depth to your map.
 
 All steps — from downloading posts to generating and deploying the interactive 
 map — are automated as much as possible via 
 [`GitHub Actions`](https://github.com/features/actions).
 
-![App Screenshot](screenshot.png)
-
----
-
-## 🚀 Features  
+## 2. Core Features
 
 * **Post Downloading:** Uses `gallery-dl` to download your saved Instagram posts.
 * **Geolocation Extraction:** Parses metadata for existing location data.
@@ -36,10 +51,8 @@ map — are automated as much as possible via
 * **Interactive Map:** Generates a beautiful, interactive **Leaflet** map to display your posts.
 * **Fully Automated:** Runs on a schedule using **GitHub Actions**—no local setup required.
 * **Secure:** Uses GitHub Secrets to securely store your Instagram and API keys.
- 
----
 
-## 🔐 Getting Started
+## 3. Installation
 
 Follow these steps to get your own version of InstaMap running.
 
@@ -54,7 +67,7 @@ This project requires two secrets to run. Go to your forked repo's
 **Settings** > **Secrets and variables** > **Actions** and click 
 **New repository secret** for each of the following:
 
-#### 1. `IG_COOKIE_64` (Your Instagram Session)
+##### A. `IG_COOKIE_64` (Your Instagram Session)
 
 This is required to let `gallery-dl` download your private saved posts. 
 This process is manual and must be repeated every few weeks when your 
@@ -73,13 +86,12 @@ cookie expires.
         ```
 4.  **Add Secret:** Copy the single, long string output. Create a new secret named `IG_COOKIE_64` and paste the string into the **Value** field.
 
-#### 2. `GOOGLE_API_KEY` (Your Gemini AI Key)
+##### B. `GOOGLE_API_KEY` (Your Gemini AI Key)
 
 This is used to find locations in your post captions.
 
 1.  **Get Key:** Go to [Google AI Studio](https://aistudio.google.com/app/apikey) and click "**Create API key**".
 2.  **Add Secret:** Create a new secret named `GOOGLE_API_KEY` and paste your key into the **Value** field.
-
 
 
 ### Step 3: Run the Workflow
@@ -102,7 +114,54 @@ That's it! Your map will be live at `https://<your-username>.github.io/<your-rep
 The GitHub Action will automatically run on its schedule to keep your map updated 
 with new saved posts.
 
-## 🗺️ How to Import KML into Google Maps
+
+
+## 4. Running Locally (Optional)
+
+If you prefer to run the data extraction process on your local machine 
+you can use the `run.sh` script.
+
+This is useful for testing or if you want to manually generate the map data.
+
+1.  **Instagram authentication:** The `run.sh` script by default looks for a `cookies.txt` file in 
+    the root directory. **Alternatively,** you can edit `run.sh` and change the `gallery-dl` 
+    command to use the `--cookies-from-browser <browser_name>` flag (e.g., `--cookies-from-browser firefox`) 
+    to extract cookies directly from your logged-in browser session.
+
+2.  **Set API Key:** The Python scripts will look for your Gemini API key. 
+    You must set it as an environment variable in your terminal:
+    ```bash
+    export GOOGLE_API_KEY="your_api_key_goes_here"
+    ```
+3.  **Run the Script:** First, make the script executable (you only need to do this once), then run it.
+    ```bash
+    chmod +x run.sh
+    ./run.sh
+    ```
+
+This will run the same `gallery-dl` and Python scripts that the GitHub Action uses, updating your local data.
+
+
+## 5. Usage
+
+### 5.1 Gallery-dl
+
+### 5.2 ....
+
+### 5.3 
+
+
+## 5. Frequently Asked Questions (FAQ)
+
+Here are some common questions... (This text is just a placeholder).
+
+
+
+
+ 
+---
+
+## 4. How to Import KML into Google Maps
 
 1.  Generate your map on Instamap.
 2.  Open the left side panel and click the  **"Export to Google Maps"** button to save the `.kml` file. 
@@ -149,31 +208,6 @@ The icons are created using a standalone browser tool included in this repositor
     4.  Add it to the `MARKER_STYLE` object in `settings.js`, like `unicode: '\uf51d'`.
 
 ---
-
-
-## 💻 Running Locally (Optional)
-
-If you prefer to run the data extraction process on your local machine you can use the `run.sh` script.
-
-This is useful for testing or if you want to manually generate the map data.
-
-1.  **Instagram authentication:** The `run.sh` script by default looks for a `cookies.txt` file in 
-    the root directory. **Alternatively,** you can edit `run.sh` and change the `gallery-dl` 
-    command to use the `--cookies-from-browser <browser_name>` flag (e.g., `--cookies-from-browser firefox`) 
-    to extract cookies directly from your logged-in browser session.
-
-2.  **Set API Key:** The Python scripts will look for your Gemini API key. 
-    You must set it as an environment variable in your terminal:
-    ```bash
-    export GOOGLE_API_KEY="your_api_key_goes_here"
-    ```
-3.  **Run the Script:** First, make the script executable (you only need to do this once), then run it.
-    ```bash
-    chmod +x run.sh
-    ./run.sh
-    ```
-
-This will run the same `gallery-dl` and Python scripts that the GitHub Action uses, updating your local data.
 
 
 
