@@ -36,28 +36,74 @@ interactive map — are almost fully automated via **GitHub Actions**.
 
 ---
 
-## 🔐 Setup  
+## 🔐 Quick Setup  
 
-### 1. Export Your Instagram Cookie  
+### 1.1 Setting Up Instagram Authentication
 
-1. Log in to Instagram in your web browser (firefox).  
-2. Open the browser’s **Developer Tools → Application → Cookies**.  
-3. Copy the value of the `sessionid` cookie.  
+This project requires your Instagram session cookies to download private content or 
+to avoid rate-limiting. You must provide these cookies as a GitHub Actions Secret.
+This process is **manual** and **cannot be automated** due to Instagram's security 
+measures. You will need to repeat these steps every few weeks when your session cookie 
+expires and the action starts to fail.
 
-### 2. Add It as a GitHub Secret  
+#### Step 1: Export Your `cookies.txt` File
 
-In your repository:  
-1. Go to **Settings → Secrets and variables → Actions → New repository secret**  
-2. Create a new secret:  
-   - **Name:** `INSTAGRAM_SESSIONID`  
-   - **Value:** your copied cookie  
+1.  **Install a Cookie Exporter Extension:**
+    We recommend using an open-source, local-only extension like:
+    * **Chrome/Edge:** [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
+    * **Firefox:** [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/)
 
-### 3. Add Your Gemini API Key  
+2.  **Export Your Cookies:**
+    * Log in to [instagram.com](https://www.instagram.com) on your browser.
+    * Click the cookie extension's icon in your toolbar.
+    * Click the "Export" or "Export as .txt" button to download the `cookies.txt` file for the current site.
 
-If you’re using Gemini to extract caption locations:  
-1. Create another GitHub Secret:  
-   - **Name:** `GEMINI_API_KEY`  
-   - **Value:** your Gemini key  
+#### Step 2: Convert the Cookie File to Base64
+
+To store the cookie file safely in GitHub, you must convert it to a Base64 string.
+
+1.  Open a terminal (like PowerShell, Terminal, or bash).
+2.  Navigate to the directory where you saved your `cookies.txt` file.
+3.  Run the command for your operating system:
+
+    * **On macOS or Linux:**
+        ```bash
+        base64 cookies.txt
+        ```
+
+    * **On Windows (in PowerShell):**
+        ```powershell
+        [Convert]::ToBase64String([IO.File]::ReadAllBytes("cookies.txt"))
+        ```
+4.  This will output a single, very long string of text. **Copy this entire string** to your clipboard.
+
+#### Step 3: Add the Secret to GitHub
+
+1.  In your GitHub repository, go to **Settings** > **Secrets and variables** > **Actions**.
+2.  Click the **New repository secret** button.
+3.  **Name:** `IG_COOKIE_64`
+4.  **Value:** Paste the single long Base64 string you just copied.
+5.  Click **Add secret**.
+
+The GitHub Action will now be able to authenticate as you. If the action fails in the 
+future, the first thing you should do is generate and update this secret with a fresh 
+cookie.
+
+
+### 1.2 Setting your Gemini API Key
+
+If you’re using Gemini to extract caption locations, you'll need a Google AI API key.
+
+1.  **Get Your Key:**
+    * Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
+    * Click "**Create API key**" and copy the key.
+
+2.  **Add the Secret to GitHub:**
+    * In your repository, go to **Settings** > **Secrets and variables** > **Actions**.
+    * Click **New repository secret**.
+    * **Name:** `GOOGLE_API_KEY`
+    * **Value:** Paste your API key.
+
 
 ---
 
