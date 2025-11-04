@@ -156,11 +156,11 @@ The core archival tool is `gallery-dl`, executed on a scheduled basis.
 
 | Target | Command | Notes | 
 |  ----- | ----- | ----- | 
-| **Instagram Saves** (Saved posts) | `$ gallery-dl -v "https://www.instagram.com/$USERNAME/saved/" | Downloads users's saved posts | 
-| **Instagram Saves** (Cookies) | `$ gallery-dl -v "<url>" --cookies-from-browser firefox"` | Extracts the cookies from the brower.  | 
-| **Instagram Saves** (Filter) | `$ gallery-dl -v "<url>" --cookies-from-browser firefox --write-metadata --filter "date >= datetime(YYYY, MM, DD) or abort()"` | Uses Firefox, includes date filtering, and writes comprehensive metadata (`.json`). | 
-| **Instagram Saves** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata --download-archive ./gallery-dl/archive.sqlite3` | Sets up the archive database to only download new content on subsequent runs. | 
-| **Instagram Saves** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata -o extractor.archive='./gallery-dl/archive.sqlite3'` | Sets up the archive database to only download new content on subsequent runs. | 
+| **Instagram** (Saved posts) | `$ gallery-dl -v "https://www.instagram.com/$USERNAME/saved/"` | Downloads users's saved posts | 
+| **Instagram** (Cookies) | `$ gallery-dl -v "<url>" --cookies-from-browser firefox"` | Extracts the cookies from the brower.  | 
+| **Instagram** (Filter) | `$ gallery-dl -v "<url>" --cookies-from-browser firefox --write-metadata --filter "date >= datetime(YYYY, MM, DD) or abort()"` | Uses Firefox, includes date filtering, and writes comprehensive metadata (`.json`). | 
+| **Instagram** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata --download-archive ./gallery-dl/archive.sqlite3` | Sets up the archive database to only download new content on subsequent runs. | 
+| **Instagram** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata -o extractor.archive='./gallery-dl/archive.sqlite3'` | Sets up the archive database to only download new content on subsequent runs. | 
 | **Twitter Media** | `$ gallery-dl https://twitter.com/username/media --filter "date >= datetime(2025, 9, 28) or abort()"` | Downloads all media from a user's timeline, filtered by date. | 
 
     
