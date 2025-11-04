@@ -1,4 +1,6 @@
-# 📍 InstaMap — Visualize Instagram Posts on a Map
+#InstaMap — Visualize Instagram Posts on a Map
+
+<img src="instmap-v2.png" align="right" width="150">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/yourusername/instamap/main.yml?style=flat-square&logo=github)
@@ -27,110 +29,147 @@ interactive map — are almost fully automated via **GitHub Actions**.
 
 ## 🚀 Features  
 
-- 🖼️ **Downloads saved Instagram posts** via `gallery-dl`  
-- 📍 **Extracts geolocation data** from Instagram metadata  
-- 🧠 **Uses Gemini AI** to detect extra locations mentioned in captions  
-- 🗺️ **Generates an interactive Leaflet map** with embedded Instagram posts  
-- ⚙ **Runs automatically on GitHub Actions** — no local setup needed  
-- 🔒 **Uses secure GitHub Secrets** for authentication with Instagram  
-
+* **Automated Post Downloading:** Uses `gallery-dl` to download your saved Instagram posts.
+* **Geolocation Extraction:** Parses metadata for existing location data.
+* **AI-Powered Location Finding:** Uses the **Gemini AI** API to find *additional* locations mentioned in post captions.
+* **Interactive Map:** Generates a beautiful, interactive **Leaflet** map to display your posts.
+* **Fully Automated:** Runs on a schedule using **GitHub Actions**—no local setup required.
+* **Secure:** Uses GitHub Secrets to securely store your Instagram and API keys.
+ 
 ---
 
-## 🔐 Quick Setup  
+## 🔐 Getting Started
 
-### 1.1 Setting Up Instagram Authentication
+Follow these steps to get your own version of InstaMap running.
 
-This project requires your Instagram session cookies to download private content or 
-to avoid rate-limiting. You must provide these cookies as a GitHub Actions Secret.
-This process is **manual** and **cannot be automated** due to Instagram's security 
-measures. You will need to repeat these steps every few weeks when your session cookie 
-expires and the action starts to fail.
+### Step 1: Fork the Repository
 
-#### Step 1: Export Your `cookies.txt` File
+Click the **"Fork"** button at the top right of this page to create your own 
+copy of the project.
 
-1.  **Install a Cookie Exporter Extension:**
-    We recommend using an open-source, local-only extension like:
-    * **Chrome/Edge:** [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
-    * **Firefox:** [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/)
+### Step 2: Add Repository Secrets
 
-2.  **Export Your Cookies:**
-    * Log in to [instagram.com](https://www.instagram.com) on your browser.
-    * Click the cookie extension's icon in your toolbar.
-    * Click the "Export" or "Export as .txt" button to download the `cookies.txt` file for the current site.
+This project requires two secrets to run. Go to your forked repo's 
+**Settings** > **Secrets and variables** > **Actions** and click 
+**New repository secret** for each of the following:
 
-#### Step 2: Convert the Cookie File to Base64
+#### 1. `IG_COOKIE_64` (Your Instagram Session)
 
-To store the cookie file safely in GitHub, you must convert it to a Base64 string.
+This is required to let `gallery-dl` download your private saved posts. 
+This process is manual and must be repeated every few weeks when your 
+cookie expires.
 
-1.  Open a terminal (like PowerShell, Terminal, or bash).
-2.  Navigate to the directory where you saved your `cookies.txt` file.
-3.  Run the command for your operating system:
-
-    * **On macOS or Linux:**
+1.  **Install a Cookie Exporter:** We recommend [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) (Chrome/Edge) or [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/) (Firefox).
+2.  **Export Cookies:** Log in to [instagram.com](https://www.instagram.com) and click the extension icon to download the `cookies.txt` file.
+3.  **Convert to Base64:** To store the cookie securely, you must convert it to a Base64 string. Open a terminal and run the correct command for your OS:
+    * **macOS / Linux:**
         ```bash
         base64 cookies.txt
         ```
-
-    * **On Windows (in PowerShell):**
+    * **Windows (PowerShell):**
         ```powershell
         [Convert]::ToBase64String([IO.File]::ReadAllBytes("cookies.txt"))
         ```
-4.  This will output a single, very long string of text. **Copy this entire string** to your clipboard.
+4.  **Add Secret:** Copy the single, long string output. Create a new secret named `IG_COOKIE_64` and paste the string into the **Value** field.
 
-#### Step 3: Add the Secret to GitHub
+#### 2. `GOOGLE_API_KEY` (Your Gemini AI Key)
 
-1.  In your GitHub repository, go to **Settings** > **Secrets and variables** > **Actions**.
-2.  Click the **New repository secret** button.
-3.  **Name:** `IG_COOKIE_64`
-4.  **Value:** Paste the single long Base64 string you just copied.
-5.  Click **Add secret**.
+This is used to find locations in your post captions.
 
-The GitHub Action will now be able to authenticate as you. If the action fails in the 
-future, the first thing you should do is generate and update this secret with a fresh 
-cookie.
+1.  **Get Key:** Go to [Google AI Studio](https://aistudio.google.com/app/apikey) and click "**Create API key**".
+2.  **Add Secret:** Create a new secret named `GOOGLE_API_KEY` and paste your key into the **Value** field.
 
 
-### 1.2 Setting your Gemini API Key
 
-If you’re using Gemini to extract caption locations, you'll need a Google AI API key.
+### Step 3: Run the Workflow
 
-1.  **Get Your Key:**
-    * Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
-    * Click "**Create API key**" and copy the key.
+1.  Go to the **Actions** tab in your forked repository.
+2.  In the left sidebar, click the **"Build and Deploy Map"** workflow.
+3.  Click the **"Run workflow"** dropdown, select the `main` branch, and click the green **"Run workflow"** button.
+4.  Wait for the action to complete. It will download your posts, build the map, and push the final files to a new `gh-pages` branch.
 
-2.  **Add the Secret to GitHub:**
-    * In your repository, go to **Settings** > **Secrets and variables** > **Actions**.
-    * Click **New repository secret**.
-    * **Name:** `GOOGLE_API_KEY`
-    * **Value:** Paste your API key.
+> **Important:** Remember to edit the `.github/workflows/deploy-page.yml` file and change the default Instagram URL (e.g., `https://www.instagram.com/bernardhp/saved/`) to point to your own account.
 
+### Step 4: Enable GitHub Pages
+
+1.  Go to your repo's **Settings** > **Pages**.
+2.  Under "Build and deployment," set the **Source** to **"Deploy from a branch"**.
+3.  Set the **Branch** to `gh-pages` and the folder to `/(root)`.
+4.  Click **Save**.
+
+That's it! Your map will be live at `https://<your-username>.github.io/<your-repo-name>/` in a few minutes. 
+The GitHub Action will automatically run on its schedule to keep your map updated 
+with new saved posts.
+
+## 🗺️ How to Import KML into Google Maps
+
+1.  Generate your map on Instamap.
+2.  Open the left side panel and click the  **"Export to Google Maps"** button to save the `.kml` file. 
+3.  Go to [Google My Maps](https://www.google.com/mymaps).
+4.  Click the **"+ Create a New Map"** button.
+5.  In the top-left panel (under "Untitled layer"), click the **"Import"** link.
+6.  Select the `.kml` file you just downloaded from your computer.
+7.  Your map, with all its custom icons and data, will be loaded and displayed.
+8.  It will also be available on your Google Maps App!
+
+
+#### 3.1 Custom Icon Generation
+
+A significant limitation of Google My Maps' KML importer is that it **ignores most KML styling 
+tags**, including `<color>` and references to default icons. While the KML standard supports 
+these features, Google Maps will not render them, resulting in all placemarks reverting to a 
+default pin.
+
+The *only* reliable method to customize placemark icons in Google My Maps is to use image URLs.
+
+This project's workflow is built around this limitation. We do not use default pins. Instead, 
+we use a custom script to generate unique PNG icons for every placemark type. These generated 
+icons are hosted in this repository (in `web/static/img/markers/`), allowing them to be 
+publicly accessed via GitHub. The KML export function is then configured to point directly to 
+these public image URLs (e.g., `...github.io/.../static/img/markers/village.png`), which Google
+ Maps can correctly load.
+
+#### 3.2 How to Generate the Icons
+
+The icons are created using a standalone browser tool included in this repository.
+
+1.  **Generator:** Open the `web/generate_icons.html` file in your local browser.
+2.  **Configuration:** The tool reads its configuration from the `MARKER_STYLE` object in `settings.js`.
+3.  **Export:** When you click the button, the tool uses the Font Awesome font to draw the configured icons onto an HTML canvas and downloads them as individual PNG files, bundled into a `markers.zip`.
+4.  **Storage:** You must unzip this file and upload the new or updated PNG icons to the `web/static/img/markers/` directory in this repository and commit the changes.
+
+#### 3.3 Important Notes & Troubleshooting
+
+* **Unicode is Required:** For the `web/generate_icons.html` generator to work, each entry in the `MARKER_STYLE` object *must* have a `unicode` property (e.g., `unicode: '\uf51d'`). This is the unique code for the Font Awesome icon.
+* **"Some Icons Are Not Working" (Fix):** If you see a blank icon or a default circle in your generated PNGs, it means the `unicode` property for that type in `settings.js` is either **missing or incorrect**. To fix it:
+    1.  Find the icon you want on the [Font Awesome 6](https://fontawesome.com/icons) website.
+    2.  Click the icon to see its details.
+    3.  Copy its Unicode value (e.g., `f51d`).
+    4.  Add it to the `MARKER_STYLE` object in `settings.js`, like `unicode: '\uf51d'`.
 
 ---
 
-## 🧩 How It Works  
 
-1. **Authentication**  
-   - Instagram recently limited automated logins using usernames and passwords.  
-   - `gallery-dl` now requires a **browser session cookie** for authentication.  
-   - You’ll export this cookie from your browser and add it as a **GitHub Secret**.  
+## 💻 Running Locally (Optional)
 
-2. **Data Extraction**  
-   - `gallery-dl` downloads your saved posts using the provided cookie.  
-   - Each post’s metadata is parsed for location data.  
+If you prefer to run the data extraction process on your local machine instead of using GitHub Actions, you can use the `run.sh` script.
 
-3. **AI Location Enrichment**  
-   - The **Gemini API** analyzes captions to find additional mentioned locations.  
+This is useful for testing or if you want to manually generate the map data.
 
-4. **Map Generation**  
-   - Posts are plotted on a **Leaflet** map.  
-   - Each marker displays an **Instagram embed** of the post.  
+1.  **Provide Cookies:** The `run.sh` script is configured by default to look for a `cookies.txt` file in the root directory.
+    * **Alternatively,** you can edit `run.sh` and change the `gallery-dl` command to use the `--cookies-from-browser <browser_name>` flag (e.g., `--cookies-from-browser firefox`) to extract cookies directly from your logged-in browser session.
 
-5. **Automation via GitHub Actions**  
-   - A scheduled workflow runs the entire process automatically.  
-   - The generated map is committed or deployed (e.g., via GitHub Pages).  
+2.  **Set API Key:** The Python scripts will look for your Gemini API key. You must set it as an environment variable in your terminal:
+    ```bash
+    export GOOGLE_API_KEY="your_api_key_goes_here"
+    ```
+3.  **Run the Script:** First, make the script executable (you only need to do this once), then run it.
+    ```bash
+    chmod +x run.sh
+    ./run.sh
+    ```
 
----
-
+This will run the same `gallery-dl` and Python scripts that the GitHub Action uses, updating your local data.
 
 
 
@@ -193,51 +232,3 @@ variable) for easy loading and plotting on a Leaflet web map.
 
 
 
-
-## 🗺️ How to Import KML into Google Maps
-
-1.  Generate your map on Instamap.
-2.  Open the left side panel and click the  **"Export to Google Maps"** button to save the `.kml` file. 
-3.  Go to [Google My Maps](https://www.google.com/mymaps).
-4.  Click the **"+ Create a New Map"** button.
-5.  In the top-left panel (under "Untitled layer"), click the **"Import"** link.
-6.  Select the `.kml` file you just downloaded from your computer.
-7.  Your map, with all its custom icons and data, will be loaded and displayed.
-8.  It will also be available on your Google Maps App!
-
-
-#### 3.1 Custom Icon Generation
-
-A significant limitation of Google My Maps' KML importer is that it **ignores most KML styling 
-tags**, including `<color>` and references to default icons. While the KML standard supports 
-these features, Google Maps will not render them, resulting in all placemarks reverting to a 
-default pin.
-
-The *only* reliable method to customize placemark icons in Google My Maps is to use image URLs.
-
-This project's workflow is built around this limitation. We do not use default pins. Instead, 
-we use a custom script to generate unique PNG icons for every placemark type. These generated 
-icons are hosted in this repository (in `web/static/img/markers/`), allowing them to be 
-publicly accessed via GitHub. The KML export function is then configured to point directly to 
-these public image URLs (e.g., `...github.io/.../static/img/markers/village.png`), which Google
- Maps can correctly load.
-
-#### 3.2 How to Generate the Icons
-
-The icons are created using a standalone browser tool included in this repository.
-
-1.  **Generator:** Open the `web/generate_icons.html` file in your local browser.
-2.  **Configuration:** The tool reads its configuration from the `MARKER_STYLE` object in `settings.js`.
-3.  **Export:** When you click the button, the tool uses the Font Awesome font to draw the configured icons onto an HTML canvas and downloads them as individual PNG files, bundled into a `markers.zip`.
-4.  **Storage:** You must unzip this file and upload the new or updated PNG icons to the `web/static/img/markers/` directory in this repository and commit the changes.
-
-#### 3.3 Important Notes & Troubleshooting
-
-* **Unicode is Required:** For the `web/generate_icons.html` generator to work, each entry in the `MARKER_STYLE` object *must* have a `unicode` property (e.g., `unicode: '\uf51d'`). This is the unique code for the Font Awesome icon.
-* **"Some Icons Are Not Working" (Fix):** If you see a blank icon or a default circle in your generated PNGs, it means the `unicode` property for that type in `settings.js` is either **missing or incorrect**. To fix it:
-    1.  Find the icon you want on the [Font Awesome 6](https://fontawesome.com/icons) website.
-    2.  Click the icon to see its details.
-    3.  Copy its Unicode value (e.g., `f51d`).
-    4.  Add it to the `MARKER_STYLE` object in `settings.js`, like `unicode: '\uf51d'`.
-
----
