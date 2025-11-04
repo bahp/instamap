@@ -10,18 +10,19 @@
 
 ---
 
-**InstaMap** is an automated tool that downloads your saved Instagram 
-posts using **[gallery-dl](https://github.com/mikf/gallery-dl)**, extracts 
-their metadata, and displays them on an interactive **Leaflet** map.
-Each post is embedded directly on the map at its corresponding location, 
-allowing you to explore your saved content geographically.  
+InstaMap is an automated tool that downloads your saved Instagram 
+posts and their metadata using [`gallery-dl`](https://github.com/mikf/gallery-dl), 
+and displays them on an interactive [`Leaflet`](https://leafletjs.com/) map. 
+Each post is embedded directly on the map at its corresponding location, allowing 
+you to explore your saved content geographically.
 
-The project also uses **Gemini** (Google’s generative AI) to analyze post 
-captions and identify additional locations mentioned in the text — adding 
-extra context and depth to your map.  
+The project also uses [`Gemini`](https://pypi.org/project/google-generativeai/) 
+(Google’s generative AI) to analyze post captions and identify additional 
+locations mentioned in the text — adding extra context and depth to your map.
 
-All steps — from downloading posts to generating and deploying the 
-interactive map — are almost fully automated via **GitHub Actions**.  
+All steps — from downloading posts to generating and deploying the interactive 
+map — are automated as much as possible via 
+[`GitHub Actions`](https://github.com/features/actions).
 
 ![App Screenshot](screenshot.png)
 
@@ -29,7 +30,7 @@ interactive map — are almost fully automated via **GitHub Actions**.
 
 ## 🚀 Features  
 
-* **Automated Post Downloading:** Uses `gallery-dl` to download your saved Instagram posts.
+* **Post Downloading:** Uses `gallery-dl` to download your saved Instagram posts.
 * **Geolocation Extraction:** Parses metadata for existing location data.
 * **AI-Powered Location Finding:** Uses the **Gemini AI** API to find *additional* locations mentioned in post captions.
 * **Interactive Map:** Generates a beautiful, interactive **Leaflet** map to display your posts.
@@ -156,12 +157,13 @@ If you prefer to run the data extraction process on your local machine you can u
 
 This is useful for testing or if you want to manually generate the map data.
 
-1.  **Provide Cookies:** The `run.sh` script by default looks for a `cookies.txt` file in 
+1.  **Instagram authentication:** The `run.sh` script by default looks for a `cookies.txt` file in 
     the root directory. **Alternatively,** you can edit `run.sh` and change the `gallery-dl` 
     command to use the `--cookies-from-browser <browser_name>` flag (e.g., `--cookies-from-browser firefox`) 
     to extract cookies directly from your logged-in browser session.
 
-2.  **Set API Key:** The Python scripts will look for your Gemini API key. You must set it as an environment variable in your terminal:
+2.  **Set API Key:** The Python scripts will look for your Gemini API key. 
+    You must set it as an environment variable in your terminal:
     ```bash
     export GOOGLE_API_KEY="your_api_key_goes_here"
     ```
