@@ -150,9 +150,8 @@ The core archival tool is `gallery-dl`, executed on a scheduled basis.
 
 > ⚠ **Note:** The browser needs to be closed for the cookie extraction to work properly.
 
-> ⚠ **Note:** It seems that automatic cookie extraction does not work for chrome
+> ⚠ **Note:** It seems that automatic cookie extraction does not work for chrome.
 
-**Initial/Manual Download Commands:**
 
 | Target | Command | Notes | 
 |  ----- | ----- | ----- | 
@@ -163,6 +162,11 @@ The core archival tool is `gallery-dl`, executed on a scheduled basis.
 | **Instagram** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata -o extractor.archive='./gallery-dl/archive.sqlite3'` | Sets up the archive database to only download new content on subsequent runs. | 
 | **Twitter Media** | `$ gallery-dl https://twitter.com/username/media --filter "date >= datetime(2025, 9, 28) or abort()"` | Downloads all media from a user's timeline, filtered by date. | 
 
+> ⚠ **Note:** For more options
+    
+    ```bash
+    gallery-dl --help
+    ```
     
 ### 5.2 How to Export Your Map to Google Maps
 
