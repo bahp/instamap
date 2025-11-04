@@ -166,19 +166,19 @@ You can easily import your saved locations into Google My Maps, where they will 
 This section explains the technical workaround for displaying custom icons in 
 Google My Maps.
 
-### The Problem
+##### The Problem
 
 When you import a `.kml` file, Google My Maps **ignores most KML styling**, including 
 colors and icon references. It reverts all pins to a default icon. The *only* 
 reliable way to show custom icons is to provide a public **image URL** for each pin.
 
-### The Solution
+##### The Solution
 
 This project's workflow is built to solve this. We generate custom `.png` icons for 
 each placemark type, host them in this repository, and write their public GitHub URLs 
 directly into the `.kml` file. Google Maps can read and display these image URLs correctly.
 
-### How to Generate or Update Icons
+###### How to Generate or Update Icons
 
 The icons are created using a standalone browser tool.
 
