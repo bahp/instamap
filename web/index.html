@@ -40,6 +40,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.min.css">
 
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+
   <!-- Font awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/fontawesome.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
@@ -699,6 +702,14 @@
     // Add tile layer (need to give attribution)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: attribution_osm
+    }).addTo(map);
+
+    // Add geocoder to map
+    new L.Control.Geocoder({
+        position: 'topleft', // Change its position
+        placeholder: 'Search for an address...', // Custom text
+        defaultMarkGeocode: true, // Automatically drop a marker at the result
+        collapsed: true // This is true by default, which gives you the icon
     }).addTo(map);
 
     // Add current location button.
