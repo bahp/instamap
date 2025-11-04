@@ -1,6 +1,6 @@
 #InstaMap — Visualize Instagram Posts on a Map
 
-<img src="instmap-v2.png" align="right" width="150">
+<img src="instamap-v2.png" align="right" width="150">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/yourusername/instamap/main.yml?style=flat-square&logo=github)
