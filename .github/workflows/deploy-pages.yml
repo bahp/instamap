@@ -61,6 +61,26 @@ jobs:
             echo "No requirements.txt found, skipping."
           fi
 
+      - name: Create cookies.txt from Secret
+        env:
+          IG_COOKIES_B64: ${{ secrets.IG_COOKIES_B64 }}
+        run: |
+          echo "${{ secrets.IG_COOKIES_B64 }}" | base64 --decode > cookies.txt
+
+      - name:  Run gallery-dl
+        # This command uses all the options we discussed:
+        # --cookies: Points to the file with cookies created
+        # --write-metadata: Download metadata as .json
+        # --no-download: Do not download media files.
+        # --download-archive: Skips old files
+        # --skip abort:15: Speeds up scraping by stopping after 15 skips
+        # -q: (Quiet mode) Hides the "skipping" console spam
+        run: |
+          gallery-dl -w "https://www.instagram.com/bernardhp/saved/" \
+              --cookies "cookies.txt" \
+              --write-metadata --no-download \
+              --download-archive ./gallery-dl/archive.sqlite3
+
       - name: Run Python scripts
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
