@@ -54,12 +54,12 @@ map — are automated as much as possible via
 
 Follow these steps to get your own version of InstaMap running.
 
-### Step 1: Fork the Repository
+#### Step 1: Fork the Repository
 
 Click the **"Fork"** button at the top right of this page to create your own 
 copy of the project.
 
-### Step 2: Add Repository Secrets
+#### Step 2: Add Repository Secrets
 
 This project requires two secrets to run. Go to your forked repo's 
 **Settings** > **Secrets and variables** > **Actions** and click 
@@ -92,7 +92,7 @@ This is used to find locations in your post captions.
 2.  **Add Secret:** Create a new secret named `GOOGLE_API_KEY` and paste your key into the **Value** field.
 
 
-### Step 3: Run the Workflow
+#### Step 3: Run the Workflow
 
 1.  Go to the **Actions** tab in your forked repository.
 2.  In the left sidebar, click the **"Build and Deploy Map"** workflow.
