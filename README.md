@@ -45,7 +45,7 @@ map — are automated as much as possible via
 
 * 📥 **Post Downloading:** Uses `gallery-dl` to download your saved Instagram posts.
 * 📍 **Geolocation Extraction:** Parses metadata for existing location data.
-* 🤖 **AI-Powered Location Finding:** Uses the **Gemini AI** API to find *additional* locations mentioned in post captions.
+* 🤖 **AI-Powered Location Finding:** Uses **Gemini AI** API to find *additional* locations in post captions.
 * 🗺️ **Interactive Map:** Generates a beautiful, interactive **Leaflet** map to display your posts.
 * 🚀 **Fully Automated:** Runs on a schedule using **GitHub Actions**—no local setup required.
 * 🔒 **Secure:** Uses GitHub Secrets to securely store your Instagram and API keys.
