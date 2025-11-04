@@ -1,0 +1,53 @@
+[
+    {
+        "title": "\u5bcc\u58eb\u5c71\u5922\u4e4b\u5927\u6a4b",
+        "subtitle": "Scenic viewpoint overlooking Mt. Fuji in Fuji City",
+        "lat": 35.1586,
+        "lon": 138.675,
+        "type": "viewpoint",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "\u5bcc\u58eb\u5c71\u5922\u4e4b\u5927\u6a4b",
+            "Fuji City",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u5bcc\u58eb\u5e02\u4e2d\u592e\u516c\u5712",
+        "subtitle": "Central park located in Fuji City, Shizuoka Prefecture",
+        "lat": 35.1516,
+        "lon": 138.6508,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "\u5bcc\u58eb\u5e02\u4e2d\u592e\u516c\u5712",
+            "Fuji City",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "\u5bcc\u58eb\u672c\u753a\u5546\u5e97\u8857",
+        "subtitle": "Shopping street in the Fuji Honcho area of Fuji City",
+        "lat": 35.1539,
+        "lon": 138.6705,
+        "type": "shopping street",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "\u5bcc\u58eb\u672c\u753a\u5546\u5e97\u8857",
+            "Fuji City",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    }
+]

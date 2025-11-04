@@ -1,0 +1,104 @@
+[
+    {
+        "title": "\u6a9c\u539f\u6e56",
+        "subtitle": "Lake in Fukushima Prefecture, Japan",
+        "lat": 37.6694,
+        "lon": 140.0931,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "\u6a9c\u539f\u6e56",
+            "\u5317\u5869\u539f\u6751",
+            "\u798f\u5cf6\u770c",
+            "\u65e5\u672c"
+        ]
+    },
+    {
+        "title": "\u53ea\u898b\u7dda",
+        "subtitle": "Scenic railway line in Fukushima and Niigata Prefectures",
+        "lat": 37.4578,
+        "lon": 139.6975,
+        "type": "railway",
+        "class": "transport",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "\u53ea\u898b\u7dda",
+            "\u4e09\u5cf6\u753a",
+            "\u798f\u5cf6\u770c",
+            "\u65e5\u672c"
+        ]
+    },
+    {
+        "title": "\u9db4\u30f6\u57ce",
+        "subtitle": "Historic Japanese castle in Aizuwakamatsu",
+        "lat": 37.4883,
+        "lon": 139.9292,
+        "type": "castle",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "\u9db4\u30f6\u57ce",
+            "\u4f1a\u6d25\u82e5\u677e\u5e02",
+            "\u798f\u5cf6\u770c",
+            "\u65e5\u672c"
+        ]
+    },
+    {
+        "title": "\u5927\u5fd7\u96c6\u843d",
+        "subtitle": "Scenic settlement overlooking Tadami Line in Kaneyama",
+        "lat": 37.4107,
+        "lon": 139.4673,
+        "type": "neighbourhood",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "\u5927\u5fd7\u96c6\u843d",
+            "\u91d1\u5c71\u753a",
+            "\u798f\u5cf6\u770c",
+            "\u65e5\u672c"
+        ]
+    },
+    {
+        "title": "\u5927\u5185\u5bbf",
+        "subtitle": "Historic post town preserved from Edo period",
+        "lat": 37.2662,
+        "lon": 139.8665,
+        "type": "historic village",
+        "class": "historic",
+        "confidence": 1.0,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "\u5927\u5185\u5bbf",
+            "\u4e0b\u90f7\u753a",
+            "\u798f\u5cf6\u770c",
+            "\u65e5\u672c"
+        ]
+    },
+    {
+        "title": "\u5411\u7027",
+        "subtitle": "Traditional Japanese ryokan in Aizuwakamatsu",
+        "lat": 37.4913,
+        "lon": 139.936,
+        "type": "hotel",
+        "class": "amenity",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 8,
+        "hierarchy": [
+            "\u5411\u7027",
+            "\u4f1a\u6d25\u82e5\u677e\u5e02",
+            "\u798f\u5cf6\u770c",
+            "\u65e5\u672c"
+        ]
+    }
+]

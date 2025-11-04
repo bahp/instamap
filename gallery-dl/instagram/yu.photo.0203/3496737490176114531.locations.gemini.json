@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Lake Tanuki",
+        "subtitle": "Scenic lake near Mount Fuji, known for reflections",
+        "lat": 35.3175,
+        "lon": 138.6009,
+        "type": "lake",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Lake Tanuki",
+            "Fujinomiya",
+            "Shizuoka Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Oshino Hakkai",
+        "subtitle": "Eight sacred ponds fed by Mount Fuji snowmelt, a cultural site",
+        "lat": 35.4674,
+        "lon": 138.8051,
+        "type": "cultural site",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Oshino Hakkai",
+            "Oshino",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Saiko Iyashi no Sato Nenba",
+        "subtitle": "Traditional thatched-roof village near Lake Saiko, a historical park",
+        "lat": 35.5003,
+        "lon": 138.694,
+        "type": "historical park",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Saiko Iyashi no Sato Nenba",
+            "Fujikawaguchiko",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "title": "\u5bcc\u58eb\u5c71\u5922\u4e4b\u5927\u6a4b",
+        "subtitle": "Bridge with a scenic view of Mount Fuji",
+        "lat": 35.152865,
+        "lon": 138.683648,
+        "type": "bridge",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "\u5bcc\u58eb\u5c71\u5922\u4e4b\u5927\u6a4b",
+            "\u5bcc\u58eb\u5e02",
+            "\u975c\u5ca1\u7e23",
+            "\u65e5\u672c"
+        ]
+    },
+    {
+        "title": "JR \u65b0\u5bcc\u58eb\u7ad9",
+        "subtitle": "Shinkansen station in Fuji City, Shizuoka",
+        "lat": 35.161,
+        "lon": 138.6577,
+        "type": "train_station",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "JR \u65b0\u5bcc\u58eb\u7ad9",
+            "\u5bcc\u58eb\u5e02",
+            "\u975c\u5ca1\u7e23",
+            "\u65e5\u672c"
+        ]
+    },
+    {
+        "title": "\u6771\u4eac\u7ad9",
+        "subtitle": "Major railway station in Chiyoda, Tokyo",
+        "lat": 35.6812,
+        "lon": 139.7671,
+        "type": "train_station",
+        "class": "amenity",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "\u6771\u4eac\u7ad9",
+            "\u5343\u4ee3\u7530\u5340",
+            "\u6771\u4eac\u90fd",
+            "\u65e5\u672c"
+        ]
+    }
+]

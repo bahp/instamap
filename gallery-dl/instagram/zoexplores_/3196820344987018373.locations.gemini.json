@@ -1,0 +1,120 @@
+[
+    {
+        "title": "Edinburgh",
+        "subtitle": "Capital city of Scotland",
+        "lat": 55.9533,
+        "lon": -3.1883,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Edinburgh",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Glasgow",
+        "subtitle": "Largest city in Scotland",
+        "lat": 55.8642,
+        "lon": -4.2518,
+        "type": "city",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 4,
+        "page": 2,
+        "hierarchy": [
+            "Glasgow",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Fort William",
+        "subtitle": "Town in the Scottish Highlands",
+        "lat": 56.817,
+        "lon": -5.1051,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Fort William",
+            "Highland",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Portree",
+        "subtitle": "Town on the Isle of Skye",
+        "lat": 57.4116,
+        "lon": -6.195,
+        "type": "town",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Portree",
+            "Isle of Skye",
+            "Highland",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Mallaig",
+        "subtitle": "Port village in the Scottish Highlands",
+        "lat": 56.9938,
+        "lon": -5.8306,
+        "type": "village",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 1,
+        "hierarchy": [
+            "Mallaig",
+            "Highland",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Armadale",
+        "subtitle": "Village on the Isle of Skye",
+        "lat": 57.009,
+        "lon": -5.9189,
+        "type": "village",
+        "class": "place",
+        "confidence": 1.0,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Armadale",
+            "Isle of Skye",
+            "Highland",
+            "Scotland",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "West Highland Line",
+        "subtitle": "Scenic railway line in Scotland",
+        "lat": 56.8682,
+        "lon": -5.4385,
+        "type": "railway",
+        "class": "landuse",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": null,
+        "hierarchy": [
+            "West Highland Line",
+            "Scotland",
+            "United Kingdom"
+        ]
+    }
+]

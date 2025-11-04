@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Fukushima Prefecture",
+        "subtitle": "A prefecture located in the Tohoku region of Japan.",
+        "lat": 37.5654,
+        "lon": 140.4658,
+        "type": "prefecture",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 1,
+        "hierarchy": [
+            "Fukushima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Hokkaido",
+        "subtitle": "Japan's second largest island and largest prefecture, known for its natural beauty.",
+        "lat": 43.0642,
+        "lon": 141.3469,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Hokkaido",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mount Fuji",
+        "subtitle": "An active stratovolcano and the highest mountain in Japan.",
+        "lat": 35.3606,
+        "lon": 138.7292,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 1.0,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Mount Fuji",
+            "Honshu",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kyoto Prefecture",
+        "subtitle": "A prefecture in the Kansai region of Honshu, Japan, home to Kyoto city.",
+        "lat": 35.0116,
+        "lon": 135.7681,
+        "type": "prefecture",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 4,
+        "hierarchy": [
+            "Kyoto Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Kagawa Prefecture",
+        "subtitle": "A prefecture in the Shikoku region of Japan, known for udon noodles.",
+        "lat": 34.3411,
+        "lon": 134.0435,
+        "type": "prefecture",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 5,
+        "hierarchy": [
+            "Kagawa Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Nagano Prefecture",
+        "subtitle": "A mountainous, landlocked prefecture in the Chubu region of Japan.",
+        "lat": 36.6517,
+        "lon": 138.1884,
+        "type": "prefecture",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 6,
+        "hierarchy": [
+            "Nagano Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Osaka Prefecture",
+        "subtitle": "A prefecture in the Kansai region of Honshu, Japan, centered around Osaka City.",
+        "lat": 34.6937,
+        "lon": 135.5023,
+        "type": "prefecture",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 7,
+        "hierarchy": [
+            "Osaka Prefecture",
+            "Japan"
+        ]
+    }
+]

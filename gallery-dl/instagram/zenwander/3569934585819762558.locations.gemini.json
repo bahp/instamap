@@ -1,0 +1,268 @@
+[
+    {
+        "title": "Ticino",
+        "subtitle": "Canton in Switzerland",
+        "lat": 46.2,
+        "lon": 8.8,
+        "type": "canton",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 5,
+        "page": null,
+        "hierarchy": [
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Lugano",
+        "subtitle": "City in Ticino, Switzerland",
+        "lat": 46.0036,
+        "lon": 8.9511,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 1,
+        "hierarchy": [
+            "Lugano",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Morcote",
+        "subtitle": "Village in Ticino, Switzerland",
+        "lat": 45.9261,
+        "lon": 8.9228,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 2,
+        "hierarchy": [
+            "Morcote",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Parco Ciani",
+        "subtitle": "Public park in Lugano, Switzerland",
+        "lat": 46.0084,
+        "lon": 8.9567,
+        "type": "park",
+        "class": "leisure",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Parco Ciani",
+            "Lugano",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Monte Br\u00e8",
+        "subtitle": "Mountain overlooking Lugano, Switzerland",
+        "lat": 46.0125,
+        "lon": 8.9906,
+        "type": "peak",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Monte Br\u00e8",
+            "Lugano",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Valle Verzasca",
+        "subtitle": "Valley in Ticino, Switzerland",
+        "lat": 46.2974,
+        "lon": 8.8105,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Valle Verzasca",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Sonogno",
+        "subtitle": "Village in Valle Verzasca, Switzerland",
+        "lat": 46.3686,
+        "lon": 8.7909,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 6,
+        "hierarchy": [
+            "Sonogno",
+            "Valle Verzasca",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Ponte dei Salti",
+        "subtitle": "Roman bridge in Lavertezzo, Switzerland",
+        "lat": 46.2625,
+        "lon": 8.8048,
+        "type": "bridge",
+        "class": "historic",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Ponte dei Salti",
+            "Lavertezzo",
+            "Valle Verzasca",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Verzasca River",
+        "subtitle": "River in Ticino, Switzerland",
+        "lat": 46.2952,
+        "lon": 8.8093,
+        "type": "river",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 8,
+        "hierarchy": [
+            "Verzasca River",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Val Bavona",
+        "subtitle": "Picturesque valley in Ticino, Switzerland",
+        "lat": 46.3472,
+        "lon": 8.5722,
+        "type": "valley",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 9,
+        "hierarchy": [
+            "Val Bavona",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Foroglio",
+        "subtitle": "Village in Val Bavona, Switzerland",
+        "lat": 46.3773,
+        "lon": 8.5303,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 10,
+        "hierarchy": [
+            "Foroglio",
+            "Val Bavona",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Foroglio Waterfall",
+        "subtitle": "Waterfall in Foroglio, Val Bavona, Switzerland",
+        "lat": 46.3798,
+        "lon": 8.5304,
+        "type": "waterfall",
+        "class": "natural",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 11,
+        "hierarchy": [
+            "Foroglio Waterfall",
+            "Foroglio",
+            "Val Bavona",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Sonlerto",
+        "subtitle": "Hamlet in Val Bavona, Switzerland",
+        "lat": 46.3456,
+        "lon": 8.5756,
+        "type": "hamlet",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 3,
+        "page": 12,
+        "hierarchy": [
+            "Sonlerto",
+            "Val Bavona",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Cardada-Cimetta",
+        "subtitle": "Mountain viewpoint and ski resort near Locarno, Switzerland",
+        "lat": 46.1969,
+        "lon": 8.7611,
+        "type": "ski_resort",
+        "class": "leisure",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 13,
+        "hierarchy": [
+            "Cardada-Cimetta",
+            "Locarno",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Locarno",
+        "subtitle": "City in Ticino, Switzerland",
+        "lat": 46.1706,
+        "lon": 8.7944,
+        "type": "city",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 4,
+        "page": 14,
+        "hierarchy": [
+            "Locarno",
+            "Ticino",
+            "Switzerland"
+        ]
+    },
+    {
+        "title": "Piazza Grande",
+        "subtitle": "Main square in Locarno, Switzerland",
+        "lat": 46.1685,
+        "lon": 8.7958,
+        "type": "square",
+        "class": "amenity",
+        "confidence": 0.98,
+        "rank": 1,
+        "page": 15,
+        "hierarchy": [
+            "Piazza Grande",
+            "Locarno",
+            "Ticino",
+            "Switzerland"
+        ]
+    }
+]

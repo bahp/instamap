@@ -1,0 +1,121 @@
+[
+    {
+        "title": "Tsuruga Castle",
+        "subtitle": "Historic Japanese castle in Aizuwakamatsu",
+        "lat": 37.4939,
+        "lon": 139.9272,
+        "type": "castle",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Tsuruga Castle",
+            "Aizuwakamatsu",
+            "Fukushima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ouchi-juku",
+        "subtitle": "Historic Edo period post town",
+        "lat": 37.3197,
+        "lon": 140.1654,
+        "type": "historic_town",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Ouchi-juku",
+            "Shimog\u014d",
+            "Fukushima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mount Haguro",
+        "subtitle": "One of the sacred Three Mountains of Dewa",
+        "lat": 38.6369,
+        "lon": 139.9922,
+        "type": "mountain",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 3,
+        "hierarchy": [
+            "Mount Haguro",
+            "Tsuruoka",
+            "Yamagata Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Iwate Bank Red Brick Building",
+        "subtitle": "Historic former bank building in Morioka",
+        "lat": 39.7028,
+        "lon": 141.1528,
+        "type": "historic_building",
+        "class": "tourism",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 4,
+        "hierarchy": [
+            "Iwate Bank Red Brick Building",
+            "Morioka",
+            "Iwate Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Mukaitaki Ryokan",
+        "subtitle": "Traditional Japanese inn in Aizuwakamatsu",
+        "lat": 37.4912,
+        "lon": 139.9298,
+        "type": "hotel",
+        "class": "lodging",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 5,
+        "hierarchy": [
+            "Mukaitaki Ryokan",
+            "Aizuwakamatsu",
+            "Fukushima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Geibikei Gorge",
+        "subtitle": "Scenic gorge in Ichinoseki, Iwate",
+        "lat": 38.9619,
+        "lon": 141.2587,
+        "type": "gorge",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Geibikei Gorge",
+            "Ichinoseki",
+            "Iwate Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Ginzan Onsen",
+        "subtitle": "Historic hot spring town in Yamagata",
+        "lat": 38.5772,
+        "lon": 140.5488,
+        "type": "hot_spring_resort",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 7,
+        "hierarchy": [
+            "Ginzan Onsen",
+            "Obanazawa",
+            "Yamagata Prefecture",
+            "Japan"
+        ]
+    }
+]

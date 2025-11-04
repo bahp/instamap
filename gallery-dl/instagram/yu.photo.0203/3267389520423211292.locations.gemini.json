@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Shimonada Station",
+        "subtitle": "Scenic train station overlooking the Seto Inland Sea, Iyo, Ehime.",
+        "lat": 33.68412,
+        "lon": 132.55187,
+        "type": "railway_station",
+        "class": "railway",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Shimonada Station",
+            "Iyo",
+            "Ehime Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Abuto Kannon Temple",
+        "subtitle": "Historic temple perched on a cliff overlooking the sea, Fukuyama.",
+        "lat": 34.28135,
+        "lon": 133.39999,
+        "type": "temple",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 1,
+        "page": 2,
+        "hierarchy": [
+            "Abuto Kannon Temple",
+            "Fukuyama",
+            "Hiroshima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Dandan Cafe",
+        "subtitle": "Cozy cafe located in Nishinomiya, Hyogo Prefecture.",
+        "lat": 34.74312,
+        "lon": 135.34094,
+        "type": "cafe",
+        "class": "amenity",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 3,
+        "hierarchy": [
+            "Dandan Cafe",
+            "Nishinomiya",
+            "Hyogo Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Saiko Iyashi no Sato Nemba",
+        "subtitle": "Reconstructed traditional Japanese village with Mt. Fuji views near Lake Saiko.",
+        "lat": 35.5186,
+        "lon": 138.6534,
+        "type": "village",
+        "class": "historic",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Saiko Iyashi no Sato Nemba",
+            "Fujikawaguchiko",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Miraishin no Oka",
+        "subtitle": "Striking marble sculpture garden on Ikuchijima Island, Onomichi.",
+        "lat": 34.30138,
+        "lon": 133.15175,
+        "type": "artwork",
+        "class": "tourism",
+        "confidence": 0.95,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Miraishin no Oka",
+            "Ikuchijima",
+            "Onomichi",
+            "Hiroshima Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Shirakawa-go",
+        "subtitle": "Historic village with Gassho-zukuri farmhouses, UNESCO World Heritage site.",
+        "lat": 36.2575,
+        "lon": 136.9025,
+        "type": "village",
+        "class": "historic",
+        "confidence": 0.98,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Shirakawa-go",
+            "Shirakawa",
+            "Gifu Prefecture",
+            "Japan"
+        ]
+    },
+    {
+        "title": "Lawson Kawaguchiko Station Store",
+        "subtitle": "Convenience store near Kawaguchiko Station, Fujikawaguchiko.",
+        "lat": 35.5186,
+        "lon": 138.7695,
+        "type": "convenience",
+        "class": "shop",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 7,
+        "hierarchy": [
+            "Lawson Kawaguchiko Station Store",
+            "Fujikawaguchiko",
+            "Yamanashi Prefecture",
+            "Japan"
+        ]
+    }
+]
