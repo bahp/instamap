@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Colline del Chianti",
+        "subtitle": "Mountain range in Tuscany, famous for vineyards",
+        "lat": 43.5042295,
+        "lon": 11.4116541,
+        "type": "mountain range",
+        "class": "natural",
+        "confidence": 0.95,
+        "rank": 8,
+        "page": 1,
+        "hierarchy": [
+            "Colline del Chianti",
+            "Toscana",
+            "Italia"
+        ]
+    },
+    {
+        "title": "Toscana",
+        "subtitle": "Region in central Italy, known for art and landscapes",
+        "lat": 43.3444439,
+        "lon": 11.233379,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.98,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Toscana",
+            "Italia"
+        ]
+    }
+]
