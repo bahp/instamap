@@ -8,8 +8,6 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square&logo=open-source-initiative)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
----
-
 ![App Screenshot](screenshot.png)
 
 ---
@@ -45,12 +43,12 @@ map — are automated as much as possible via
 
 ## 2. Core Features
 
-* **Post Downloading:** Uses `gallery-dl` to download your saved Instagram posts.
-* **Geolocation Extraction:** Parses metadata for existing location data.
-* **AI-Powered Location Finding:** Uses the **Gemini AI** API to find *additional* locations mentioned in post captions.
-* **Interactive Map:** Generates a beautiful, interactive **Leaflet** map to display your posts.
-* **Fully Automated:** Runs on a schedule using **GitHub Actions**—no local setup required.
-* **Secure:** Uses GitHub Secrets to securely store your Instagram and API keys.
+* 📥 **Post Downloading:** Uses `gallery-dl` to download your saved Instagram posts.
+* 📍 **Geolocation Extraction:** Parses metadata for existing location data.
+* 🤖 **AI-Powered Location Finding:** Uses the **Gemini AI** API to find *additional* locations mentioned in post captions.
+* 🗺️ **Interactive Map:** Generates a beautiful, interactive **Leaflet** map to display your posts.
+* 🚀 **Fully Automated:** Runs on a schedule using **GitHub Actions**—no local setup required.
+* 🔒 **Secure:** Uses GitHub Secrets to securely store your Instagram and API keys.
 
 ## 3. Installation
 
@@ -144,11 +142,60 @@ This will run the same `gallery-dl` and Python scripts that the GitHub Action us
 
 ## 5. Usage
 
-### 5.1 Gallery-dl
+(Here, you can add your other sections, like the one for `gallery-dl`.)
 
-### 5.2 ....
+### 5.1 Using gallery-dl
 
-### 5.3 
+... (examples go here) ...
+
+### 5.2 How to Export Your Map to Google Maps
+
+You can easily import your saved locations into Google My Maps, where they will also be available on your mobile Google Maps app.
+
+1.  Generate your map on InstaMap.
+2.  Open the left side panel and click the **"Export to Google Maps"** button to save the `.kml` file.
+3.  Go to [Google My Maps](https://www.google.com/mymaps).
+4.  Click the **"+ Create a New Map"** button.
+5.  In the top-left panel (under "Untitled layer"), click the **"Import"** link.
+6.  Select the `.kml` file you just downloaded from your computer.
+7.  Your map, with all its custom icons and data, will be loaded and displayed.
+
+
+#### For Developers: How Custom Icons Work
+
+This section explains the technical workaround for displaying custom icons in 
+Google My Maps.
+
+### The Problem
+
+When you import a `.kml` file, Google My Maps **ignores most KML styling**, including 
+colors and icon references. It reverts all pins to a default icon. The *only* 
+reliable way to show custom icons is to provide a public **image URL** for each pin.
+
+### The Solution
+
+This project's workflow is built to solve this. We generate custom `.png` icons for 
+each placemark type, host them in this repository, and write their public GitHub URLs 
+directly into the `.kml` file. Google Maps can read and display these image URLs correctly.
+
+### How to Generate or Update Icons
+
+The icons are created using a standalone browser tool.
+
+1.  **Configure:** Open `settings.js` and edit the `MARKER_STYLE` object.
+2.  **Generate:** Open the `web/generate_icons.html` file in your local browser and click 
+the "Generate" button. This uses Font Awesome to draw the icons and downloads a 
+`markers.zip` file.
+3.  **Commit:** Unzip the file. Move the new or updated `.png` icons into the 
+`web/static/img/markers/` directory and commit them to the repository.
+
+> **Important—Troubleshooting:**
+> For the generator to work, every icon in `MARKER_STYLE` *must* have a `unicode` property (e.g., `unicode: '\uf51d'`).
+>
+> **If an icon appears blank:** The `unicode` is missing or wrong.
+> 1.  Find the icon on the [Font Awesome 6](https://fontawesome.com/icons) website.
+> 2.  Click it to find its Unicode value (e.g., `f51d`).
+> 3.  Add it to `settings.js` in the correct format: `unicode: '\uf51d'`.
 
 
 ## 5. Frequently Asked Questions (FAQ)
