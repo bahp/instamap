@@ -54,12 +54,12 @@ map — are automated as much as possible via
 
 Follow these steps to get your own version of InstaMap running.
 
-#### Step 1: Fork the Repository
+### Step 1: Fork the Repository
 
 Click the **"Fork"** button at the top right of this page to create your own 
 copy of the project.
 
-#### Step 2: Add Repository Secrets
+### Step 2: Add Repository Secrets
 
 This project requires two secrets to run. Go to your forked repo's 
 **Settings** > **Secrets and variables** > **Actions** and click 
@@ -92,7 +92,7 @@ This is used to find locations in your post captions.
 2.  **Add Secret:** Create a new secret named `GOOGLE_API_KEY` and paste your key into the **Value** field.
 
 
-#### Step 3: Run the Workflow
+### Step 3: Run the Workflow
 
 1.  Go to the **Actions** tab in your forked repository.
 2.  In the left sidebar, click the **"Build and Deploy Map"** workflow.
@@ -146,8 +146,24 @@ This will run the same `gallery-dl` and Python scripts that the GitHub Action us
 
 ### 5.1 Using gallery-dl
 
-... (examples go here) ...
+The core archival tool is `gallery-dl`, executed on a scheduled basis. 
 
+> ⚠ **Note:** The browser needs to be closed for the cookie extraction to work properly.
+
+> ⚠ **Note:** It seems that automatic cookie extraction does not work for chrome
+
+**Initial/Manual Download Commands:**
+
+| Target | Command | Notes | 
+|  ----- | ----- | ----- | 
+| **Instagram Saves** (Saved posts) | `$ gallery-dl -v "https://www.instagram.com/$USERNAME/saved/" | Downloads users's saved posts | 
+| **Instagram Saves** (Cookies) | `$ gallery-dl -v "<url>" --cookies-from-browser firefox"` | Extracts the cookies from the brower.  | 
+| **Instagram Saves** (Filter) | `$ gallery-dl -v "<url>" --cookies-from-browser firefox --write-metadata --filter "date >= datetime(YYYY, MM, DD) or abort()"` | Uses Firefox, includes date filtering, and writes comprehensive metadata (`.json`). | 
+| **Instagram Saves** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata --download-archive ./gallery-dl/archive.sqlite3` | Sets up the archive database to only download new content on subsequent runs. | 
+| **Instagram Saves** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata -o extractor.archive='./gallery-dl/archive.sqlite3'` | Sets up the archive database to only download new content on subsequent runs. | 
+| **Twitter Media** | `$ gallery-dl https://twitter.com/username/media --filter "date >= datetime(2025, 9, 28) or abort()"` | Downloads all media from a user's timeline, filtered by date. | 
+
+    
 ### 5.2 How to Export Your Map to Google Maps
 
 You can easily import your saved locations into Google My Maps, where they will also be available on your mobile Google Maps app.
@@ -255,21 +271,3 @@ The icons are created using a standalone browser tool included in this repositor
     4.  Add it to the `MARKER_STYLE` object in `settings.js`, like `unicode: '\uf51d'`.
 
 ---
-
-
-
-## 1. Data Download & Filtering (gallery-dl)
-
-The core archival tool is `gallery-dl`, executed on a scheduled basis. 
-
-> ⚠ **Note:** The browser needs to be closed for the cookie extraction to work properly.
-
-> ⚠ **Note:** It seems that automatic cookie extraction does not work for chrome
-
-**Initial/Manual Download Commands:**
-
-| Target | Command | Notes | 
-|  ----- | ----- | ----- | 
-| **Instagram Saves** (Specific User) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser firefox --write-metadata --filter "date >= datetime(YYYY, MM, DD) or abort()"` | Uses Firefox, includes date filtering, and writes comprehensive metadata (`.json`). | 
-| **Twitter Media** | `$ gallery-dl https://twitter.com/username/media --filter "date >= datetime(2025, 9, 28) or abort()"` | Downloads all media from a user's timeline, filtered by date. | 
-| **Instagram Saves** (Archiving setup) | `$ gallery-dl -v "https://www.instagram.com/bernardhp/saved/" --cookies-from-browser chrome --write-metadata -o extractor.archive='./gallery-dl/archive.sqlite3'` | Sets up the archive database to only download new content on subsequent runs. | 
