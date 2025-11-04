@@ -1,6 +1,6 @@
-#InstaMap — Visualize Instagram Posts on a Map
+# InstaMap — Visualize Instagram Posts on a Map
 
-<img src="instamap-v2.png" align="right" width="150">
+<!-- <img src="instamap-v2.png" align="right" width="150"> -->
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/yourusername/instamap/main.yml?style=flat-square&logo=github)
@@ -12,7 +12,7 @@
 
 **InstaMap** is an automated tool that downloads your saved Instagram 
 posts using **[gallery-dl](https://github.com/mikf/gallery-dl)**, extracts 
-their geolocation data, and displays them on an interactive **Leaflet** map.
+their metadata, and displays them on an interactive **Leaflet** map.
 Each post is embedded directly on the map at its corresponding location, 
 allowing you to explore your saved content geographically.  
 
@@ -152,12 +152,14 @@ The icons are created using a standalone browser tool included in this repositor
 
 ## 💻 Running Locally (Optional)
 
-If you prefer to run the data extraction process on your local machine instead of using GitHub Actions, you can use the `run.sh` script.
+If you prefer to run the data extraction process on your local machine you can use the `run.sh` script.
 
 This is useful for testing or if you want to manually generate the map data.
 
-1.  **Provide Cookies:** The `run.sh` script is configured by default to look for a `cookies.txt` file in the root directory.
-    * **Alternatively,** you can edit `run.sh` and change the `gallery-dl` command to use the `--cookies-from-browser <browser_name>` flag (e.g., `--cookies-from-browser firefox`) to extract cookies directly from your logged-in browser session.
+1.  **Provide Cookies:** The `run.sh` script by default looks for a `cookies.txt` file in 
+    the root directory. **Alternatively,** you can edit `run.sh` and change the `gallery-dl` 
+    command to use the `--cookies-from-browser <browser_name>` flag (e.g., `--cookies-from-browser firefox`) 
+    to extract cookies directly from your logged-in browser session.
 
 2.  **Set API Key:** The Python scripts will look for your Gemini API key. You must set it as an environment variable in your terminal:
     ```bash
