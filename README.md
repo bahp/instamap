@@ -8,6 +8,8 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square&logo=open-source-initiative)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
+✨  ***Turn your saved instagram posts into an interactive map.***
+
 ![App Screenshot](screenshot.png)
 
 ---
