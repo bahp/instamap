@@ -10,7 +10,7 @@
 
 ✨  ***Turn your saved instagram posts into an interactive map.***
 
-**Instamap** is an AI-powered automated Instagram map builder that downloads your saved posts along with their metadata, and visualizes them on an interactive Leaflet map. Using Google’s Gemini AI, it analyzes captions to discover additional locations mentioned in your posts, adding richer context to your content. Fully automated via GitHub Actions, nstaMap turns your saved Instagram content into a geographic, explorable knowledge map — making it easy to rediscover, reflect, and explore your memories.
+**InstaMap** is an AI-powered tool that turns your saved Instagram posts into an interactive map. It automatically downloads your posts, geotags them, and uses Google’s Gemini AI to uncover hidden locations in the captions. The result? A beautiful, explorable map that lets you revisit memories, discover patterns, and see your Instagram world like never before — all fully automated with GitHub Actions.
 
 ![App Screenshot](screenshot.png)
 
