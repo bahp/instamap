@@ -1,16 +1,8 @@
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Useful URLS:
+  <link rel="icon" type="image/jpeg" href="static/img/logos/myndmap_monogram_v1.png">
 
-  To stack fontawesome glyphs.
-  https://fontawesome.com/docs/web/style/stack
-
-  Overlay elements on leaflet.
-  https://jsfiddle.net/falkedesign/2dbfyw0z/
-  -->
-
-  <!-- Boostrap -->
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
@@ -21,7 +13,6 @@
           integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
           crossorigin="anonymous"></script>
 
-  <!-- Leaflet (ensure leaflet.js is loaded after leaflet.css -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
         crossorigin=""/>
@@ -29,7 +20,6 @@
           integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
           crossorigin=""></script>
 
-  <!-- Leaflet plugins -->
   <script type="text/javascript"
           src="https://cdn.jsdelivr.net/npm/leaflet.icon.glyph@0.3.0/Leaflet.Icon.Glyph.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/beautifymarker@1.0.9/leaflet-beautify-marker-icon.min.js"></script>
@@ -43,38 +33,101 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
 <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
 
-  <!-- Font awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/fontawesome.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
-  <!-- Jquery -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <script src="https://unpkg.com/@testing-library/dom/dist/dom-testing-library.umd.js"></script>
     <script src="https://unpkg.com/@testing-library/user-event@14.0.0/dist/user-event.umd.js"></script>
 
-  <!-- Instagram embed -->
   <script async src="https://www.instagram.com/embed.js"></script>
 
-  <!-- Own -->
-  <!--<script src="./data-bard.js"></script>-->
   <script src="./data.js"></script>
   <script src="./settings.js"></script>
   <script src="./export.js"></script>
   <link rel="stylesheet" href="./style.css">
 
   <style>
+    /* --- NEW: Custom Accent Colors (Easily Changable) --- */
+    /*:root {
+        --primary-accent-color: #FF7B00;
+        --primary-accent-color-subtle: #FFF3E6;
+    }*/
+
+    :root {
+    --primary-accent-color: #6E48AA; /* Main accent color (Purple) */
+    --primary-accent-color-subtle: #F2EFFC; /* Lightened version for subtle backgrounds/hovers */
+}
 
     #map {
       height: 100%;
     }
 
+    #offcanvas-left-body {
+        padding: 0;
+    }
+
+    /* MODIFIED: Removed .filter-heading-wrapper */
+    #offcanvas-left-body > .mb-3,
+    #offcanvas-left-body > .p-2,
+    #offcanvas-left-body > hr,
+    #offcanvas-left-body > .filter-section-wrapper, /* NEW: Target wrappers */
+    #offcanvas-left-body > .special-filters-heading,
+    #offcanvas-left-body > .sticky-stat-wrapper /* NEW: Target stat wrapper */
+     {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    /* MODIFIED: Style for all section separators (stronger) */
+    #offcanvas-left-body > hr {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        /* Removed light color to use default strong hr */
+    }
+
+    /* MODIFIED: Special soft HR for inside legend */
+    .legend-collapse-content hr {
+        border-color: rgba(0, 0, 0, 0.05); /* Softer line */
+    }
+
+
+    /* MODIFIED: Removed card styling from filter-section */
+    .filter-section {
+        padding: 0;
+        margin: 0; /* Removed all margins */
+    }
+
+    /* NEW: Style for all section labels (lighter gray) */
+    .filter-label {
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: var(--bs-body-color); /* Use standard body color */
+        opacity: 0.75; /* ...but make it lighter */
+        margin-bottom: 0.5rem;
+        display: block; /* Make it a block element */
+    }
+
+    /* Tweak for the cluster label which is a d-flex */
+    .filter-label.d-flex {
+        margin-bottom: 0.25rem;
+    }
+
+    /* NEW: Lighter gray label for collapsible headers */
+    .legend-widget-header .filter-label {
+        color: var(--bs-body-color);
+        opacity: 0.75;
+        font-weight: 600;
+        font-size: 0.9rem;
+    }
+
+
     .offcanvas-btn {
       top: 50%;
       visibility: visible;
       height: 50px;
-      /*color: #c00000;
-      text-shadow: 0 0 10px blue;*/
     }
 
     #trigger-offcanvas-right {
@@ -88,16 +141,440 @@
       border-bottom-left-radius: 0rem;
       border-top-left-radius: 0rem;
     }
+
+    /* --- NEW LEGEND STYLES --- */
+
+    /* This class is now used for ALL collapsible headers */
+    .legend-widget-header {
+      cursor: pointer;
+      padding: 0.75rem 1rem;
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid var(--bs-border-color-translucent, #eee);
+      width: 100%;
+      text-align: left;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      appearance: none;
+      box-shadow: none;
+      outline: none;
+      transition: background-color 0.15s ease-in-out;
+      border-radius: 0;
+    }
+
+    .legend-widget-header .fa-solid {
+        opacity: 0.75;
+    }
+
+    .legend-widget-header:hover {
+      background-color: var(--bs-light-bg-subtle, #f8f9fa);
+    }
+
+    .legend-widget-header .chevron-icon::before {
+      content: '\f078'; /* fa-chevron-down */
+      font-family: 'Font Awesome 6 Free';
+      font-weight: 900;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .legend-widget-header.collapsed .chevron-icon::before {
+      content: '\f054'; /* fa-chevron-right */
+      transform: none;
+    }
+
+    /* NEW: Make dropdown arrows lighter */
+    .legend-widget-header .chevron-icon {
+        opacity: 0.6;
+    }
+
+    /* This class is for the legend's content (no padding) */
+    .legend-collapse-content {
+      padding: 0;
+      /* NEW: Limit height of user list */
+      max-height: 250px;
+      overflow-y: auto;
+      /* MODIFIED: Removed border, parent card now has it */
+    }
+
+    /* This class is for other filters' content (has padding) */
+    .filter-widget-content {
+        padding: 1rem;
+    }
+
+    /* NEW: Add border to static filter cards */
+    .filter-section-wrapper .filter-widget-content {
+        border: 1px solid var(--bs-border-color-translucent, #eee);
+        border-radius: var(--bs-border-radius, 0.375rem);
+        padding: 0.75rem 1rem; /* Adjust padding */
+    }
+
+    /* NEW: Rule for HRs inside the new cards */
+    .filter-widget-content hr {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+
+    /* --- MODIFIED: Heading styles --- */
+
+    /* MODIFIED: Base style has no margins/border */
+    .special-filters-heading {
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: var(--bs-secondary-color);
+        text-transform: uppercase;
+    }
+
+    /* MODIFIED: Only apply margins to top-level headings */
+    #offcanvas-left-body > .special-filters-heading {
+        /*margin-bottom: 0.75rem;*/
+        margin-top: 1rem;
+        padding-bottom: 0.25rem;
+        border-bottom: 1px solid var(--bs-border-color-translucent, #eee);
+    }
+
+    /* MODIFIED: Removed .filter-heading-wrapper styles */
+
+
+    /* MODIFIED: Removed margin/width rules */
+    #legend-search-input,
+    #user-search-input {
+        /* margin: 0.75rem 1rem; */
+        /* width: calc(100% - 2rem); */
+    }
+
+    /* --- NEW: Style for search placeholders --- */
+    #legend-search-input::placeholder,
+    #user-search-input::placeholder {
+        font-size: 0.8rem; /* Smaller font */
+        color: #B0B0B0; /* Lighter gray */
+        opacity: 1; /* Override bootstrap's default opacity */
+    }
+
+    /* Base style for list items */
+    .legend-list-item {
+      position: relative;
+      padding-left: 1.5rem !important;
+      cursor: pointer;
+      border-radius: 0;
+      /* MODIFIED: Reduce padding */
+      padding-top: 0.25rem !important; /* Reduced from 0.5rem */
+      padding-bottom: 0.25rem !important; /* Reduced from 0.5rem */
+      padding-right: 1rem !important;
+      border: none;
+      /* NEW: For user list items */
+      word-break: break-all;
+    }
+
+    .legend-list-item:hover {
+      background-color: #f8f9fa; /* bg-light */
+    }
+
+    /* MODIFIED: Style for the "Select All" button */
+    #legend-toggle-all-button,
+    #user-toggle-all-button {
+        background-color: var(--bs-light-bg-subtle, #f8f9fa);
+        border-radius: var(--bs-border-radius, 0.375rem);
+        /* MODIFIED: Removed margin/width */
+        /* margin: 0.5rem 1rem; */
+        /* width: calc(100% - 2rem); */
+        /* MODIFIED: Make button thinner */
+        padding-top: 0.25rem !important;
+        padding-bottom: 0.25rem !important;
+    }
+
+    /* MODIFIED: Soft selected color for button */
+    #legend-toggle-all-button[data-selected="true"],
+    #user-toggle-all-button[data-selected="true"] {
+      background-color: var(--primary-accent-color-subtle); /* Uses new variable */
+    }
+
+    /* MODIFIED: Adjust alignment for "Select All" */
+    #legend-toggle-all-button .fa-stack {
+        margin-left: -0.25rem; /* Adjust for alignment */
+    }
+
+    /* MODIFIED: Use ::before for inset separator lines (soft) */
+    .legend-filter-item {
+        position: relative;
+        border-top: none; /* Remove default border */
+        border-radius: 0;
+    }
+
+    .legend-filter-item + .legend-filter-item::before,
+    .user-list-item + .user-list-item::before { /* NEW */
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 1rem;  /* Inset from left */
+      right: 1rem; /* Inset from right */
+      height: 1px;
+      background-color: rgba(0, 0, 0, 0.05); /* Softer line */
+    }
+
+
+    /* The vertical selection bar */
+    .legend-list-item .selection-indicator {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 5px;
+      background-color: transparent;
+      transition: background-color 0.2s ease;
+    }
+
+    /* MODIFIED: Adjust selection bar for rounded button */
+    #legend-toggle-all-button .selection-indicator,
+    #user-toggle-all-button .selection-indicator {
+        border-top-left-radius: var(--bs-border-radius, 0.375rem);
+        border-bottom-left-radius: var(--bs-border-radius, 0.375rem);
+        /* MODIFIED: Hide left bar for select-all button */
+        background-color: transparent;
+    }
+
+    /* MODIFIED: Selected state uses new accent color */
+    .legend-list-item[data-selected="true"] .selection-indicator {
+      background-color: var(--primary-accent-color);
+    }
+
+    /* --- END NEW LEGEND STYLES --- */
+
+    /* --- NEW MEDIA TYPE FILTER STYLES --- */
+    .media-type-filter {
+        display: flex;
+        justify-content: space-around;
+        gap: 0.5rem; /* Space between buttons */
+        margin-top: 0.5rem;
+    }
+
+    .media-type-filter .btn-check + .btn {
+        width: 100%; /* Make buttons fill available space */
+        font-size: 0.875rem; /* Slightly smaller font */
+        padding: 0.375rem 0.75rem; /* Adjust padding */
+    }
+
+    /* MODIFIED: Use new accent color */
+    .media-type-filter .btn-outline-primary {
+        color: var(--primary-accent-color);
+        border-color: var(--primary-accent-color);
+    }
+
+    .media-type-filter .btn-outline-primary:hover {
+        background-color: var(--primary-accent-color-subtle);
+        color: var(--primary-accent-color);
+    }
+
+    .media-type-filter .btn-check:checked + .btn-outline-primary {
+      color: #fff;
+      background-color: var(--primary-accent-color);
+      border-color: var(--primary-accent-color);
+    }
+
+    /* Adjust icon size within buttons */
+    .media-type-filter .btn .fa-solid {
+        margin-right: 0.5rem;
+    }
+
+    /* --- NEW: Tight button group styles (for Account Type) --- */
+    .media-type-filter.btn-group-tight .btn-check + .btn {
+        font-size: 0.8rem; /* Smaller font */
+        padding: 0.375rem 0.5rem; /* Tighter horizontal padding */
+    }
+    .media-type-filter.btn-group-tight .btn .fa-solid {
+        margin-right: 0.25rem; /* Less space for icon */
+    }
+    /* --- END NEW --- */
+
+    /* --- END NEW MEDIA TYPE FILTER STYLES --- */
+
+    /* --- NEW: Filter Pill Styles --- */
+    #user-filter-pills {
+        /* MODIFIED: Adjusted padding for card */
+        padding: 0 0 0.5rem 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.3rem;
+    }
+
+    .filter-pill {
+        display: inline-flex;
+        align-items: center;
+        font-size: 0.7rem; /* Smaller */
+        font-weight: 500;
+        padding: 0.1rem 0.4rem; /* Smaller */
+        border-radius: 1rem; /* Fully rounded */
+        background-color: var(--primary-accent-color-subtle); /* Uses new variable */
+        color: var(--primary-accent-color); /* Uses new variable */
+        border: 1px solid var(--primary-accent-color); /* Uses new variable */
+    }
+
+    .filter-pill .fa-xmark {
+        font-size: 0.75rem; /* Smaller */
+        margin-left: 0.2rem; /* Closer */
+        cursor: pointer;
+    }
+
+    .filter-pill-remaining {
+        display: inline-flex;
+        align-items: center;
+        font-size: 0.7rem;
+        font-weight: 500;
+        padding: 0.1rem 0.4rem;
+        border-radius: 1rem;
+        background-color: var(--bs-secondary-bg-subtle);
+        color: var(--bs-secondary-text);
+        border: 1px solid var(--bs-border-color);
+    }
+    /* --- END: Filter Pill Styles --- */
+
+    /* --- NEW: User List Item Styles --- */
+    .user-pic-placeholder {
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        background-color: #eee;
+        border: 1px solid #ddd;
+        margin-right: 0.5rem;
+        flex-shrink: 0; /* Prevent shrinking */
+    }
+
+    .user-list-item .d-flex {
+        align-items: center;
+        /* Remove default list-item padding, we control it */
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .user-list-item .user-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center; /* Vertically center text */
+        flex-grow: 1;
+        min-width: 0; /* Important for text overflow */
+    }
+
+    .user-list-item .legend-text {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-weight: 500; /* Make username slightly bolder */
+        line-height: 1.2;
+    }
+
+    .user-list-item .user-sub-info {
+        font-size: 0.75rem;
+        line-height: 1.2;
+    }
+
+
+    .user-list-item .marker-count {
+        font-size: 0.75rem;
+        margin-left: auto; /* Pushes to the right */
+        padding-left: 0.5rem;
+        flex-shrink: 0; /* Prevent shrinking */
+    }
+
+    /* Adjust "Select All" to have space for the pic */
+    #user-toggle-all-button .d-flex {
+        padding-left: 24px !important; /* Match pic width */
+        margin-left: 0.5rem; /* Match pic margin */
+    }
+
+    .fa-check-circle {
+        font-size: 0.8em; /* Make checkmark slightly smaller */
+        opacity: 0.9;
+        color: var(--primary-accent-color); /* Uses new variable */
+    }
+    /* --- END: User List Item Styles --- */
+
+    /* --- NEW: Custom Branded Alert --- */
+    #post-embed .alert-info {
+        color: var(--primary-accent-color); /* Uses new variable */
+        background-color: var(--primary-accent-color-subtle); /* Uses new variable */
+        border-color: var(--primary-accent-color); /* Uses new variable */
+    }
+    /* --- END: Custom Branded Alert --- */
+
+    /* --- NEW: Style for Range Slider --- */
+    .form-range::-webkit-slider-thumb {
+      background-color: var(--primary-accent-color);
+    }
+
+    .form-range::-moz-range-thumb {
+      background-color: var(--primary-accent-color);
+    }
+    /* --- END: Style for Range Slider --- */
+
+    /* --- NEW: Style for Cluster Badge --- */
+    #cluster-radius-value {
+        background-color: var(--primary-accent-color);
+        color: #fff;
+    }
+    /* --- END: Style for Cluster Badge --- */
+
+
+    /* --- NEW: Sticky Stat Box --- */
+    .sticky-stat-wrapper {
+        margin-bottom: 0.75rem;
+    }
+    .stat-box-container {
+        display: flex;
+        gap: 0.75rem;
+    }
+    .stat-box {
+        flex: 1; /* Each box takes equal space */
+        background-color: var(--bs-light-bg-subtle, #f8f9fa);
+        border: 1px solid var(--bs-border-color-translucent, #eee);
+        border-radius: var(--bs-border-radius, 0.375rem);
+        padding: 0.5rem 0.75rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .stat-label {
+        font-size: 0.7rem;
+        font-weight: 600;
+        color: var(--bs-secondary-color);
+        text-transform: uppercase;
+        margin-bottom: 0.1rem;
+    }
+    .stat-value {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--primary-accent-color);
+    }
+    .stat-total {
+        font-size: 0.8rem;
+        font-weight: 400;
+        color: var(--bs-body-color);
+        opacity: 0.75;
+    }
+    /* --- END: Sticky Stat Box --- */
+
+      /* --- NEW: CSS for Conditionally Sticky Stats --- */
+    .sticky-stat-wrapper {
+        position: -webkit-sticky; /* For Safari */
+        position: sticky;
+        top: 0; /* Sticks to the top of the scrolling container */
+        z-index: 10; /* Sits on top of other scrolling content */
+        background-color: var(--bs-offcanvas-bg, #fff); /* Match offcanvas background */
+        padding-top: 1rem; /* Give it some breathing room */
+        padding-bottom: 0.75rem;
+
+        /* Add a subtle border to show it's "stuck" */
+        border-bottom: 1px solid var(--bs-border-color-translucent, #eee);
+    }
+    /* --- END: Sticky CSS --- */
+
+
   </style>
 </head>
 <body>
 
-<!-- The leaflet map -->
 <div id="map" class="z-1"></div>
 
-<!-- --------------------------------------------------------------- -->
-<!-- The left OffCanvas                                              -->
-<!-- --------------------------------------------------------------- -->
 <div class="offcanvas offcanvas-start"
      tabindex="-1"
      id="offcanvasLeft"
@@ -112,41 +589,26 @@
           data-bs-toggle="offcanvas"
           data-bs-target="#offcanvasLeft"
           aria-controls="offcanvasLeft">
-    <!--<i class="bi bi-list"></i>-->
     <i class="fas fa-caret-right"></i>
   </button>
 
-  <div class="offcanvas-header d-flex justify-content-end">
-    <!--<h5 id='post-shortcode' class="offcanvas-title">Detalles</h5>-->
+
+  <div class="offcanvas-header pb-2 border-bottom">
+    <h5 class="offcanvas-title" id="offcanvasLeftLabel">Map Controls</h5>
     <button type="button"
          class="btn-close text-reset"
          data-bs-dismiss="offcanvas"
          aria-label="Close">
       </button>
+
+
   </div>
 
-  <!--
-  <div class="offcanvas-header">
-      <h5 id='post-shortcode'></h5>
-      <button type="button"
-         class="btn-close text-reset"
-         data-bs-dismiss="offcanvas"
-         aria-label="Close">
-      </button>
-  </div>
-  -->
-  <div id='offcanvas-left-body' class="offcanvas-body">
+
+  <div id='offcanvas-left-body' class="overflow-auto">
 
 
-    <div class="mb-3">
-      <label for="formFile" class="form-label"></label>
-      <input class="form-control" type="file" id="formFile" disabled>
-      <div id="fileHelp" class="form-text">
-        (File upload functionality coming soon)
-      </div>
-    </div>
-
-    <div class="mb-3">
+    <div class="mb-3 pt-2">
       <button id="export-kml-button" class="btn-google w-100">
           <span class="google-icon-wrapper">
               <i class="fa-brands fa-google"></i>
@@ -155,129 +617,140 @@
       </button>
     </div>
 
-    <!--
-    <div id="info"></div>
-
-    <div class="mb-3"> Mapping</div>
-    <div class="input-group mb-1 input-group-sm">
-      <span class="input-group-text w-25" id="basic-addon1"> Title </span>
-      <input type="text" class="form-control" placeholder="Username"
-             ria-label="Username" aria-describedby="basic-addon1">
-    </div>
-
-    <div class="input-group mb-1 input-group-sm">
-      <span class="input-group-text w-25" id="title"> Title  </span>
-      <select class="form-select form-select-sm" aria-label="Small select example">
-        <option selected>Select one value...</option>
-        <option value="1">One</option>
-        <option value="2">Two</option>
-        <option value="3">Three</option>
-      </select>
-    </div>
-    -->
-
-    <!--<hr>-->
-
-
-     <!-- -------------------------------------------------------- -->
-     <!-- Configuring the clustering settings                      -->
-     <!-- -------------------------------------------------------- -->
-     <div class="p-2 bg-light border rounded">
-        <label for="cluster-radius-slider" class="form-label d-flex justify-content-between">
-            Cluster Aggressiveness
-            <span class="badge bg-secondary" id="cluster-radius-value">80</span>
-        </label>
-        <div class="d-flex align-items-center">
-            <span class="small me-2">Less</span>
-            <input type="range" class="form-range"
-                   min="20"
-                   max="120"
-                   step="10"
-                   value="80"
-                   id="cluster-radius-slider">
-            <span class="small ms-2">More</span>
+    <div class="filter-section-wrapper mb-3">
+        <div class="filter-widget-content">
+            <label class="filter-label"><i class="fa-solid fa-sliders me-2"></i> Cluster Aggressiveness</label>
+            <p class="form-text" style="margin-top: -0.5rem; margin-bottom: 1rem;">Controls how many markers are grouped. "More" creates larger, fewer clusters.</p>
+            <label for="cluster-radius-slider" class="filter-label d-flex justify-content-between">
+                <span>Value</span>
+                <span class="badge" id="cluster-radius-value">80</span>
+            </label>
+            <div class="d-flex align-items:center">
+                <span class="small me-2">Less</span>
+                <input type="range" class="form-range"
+                       min="20"
+                       max="120"
+                       step="10"
+                       value="80"
+                       id="cluster-radius-slider">
+                <span class="small ms-2">More</span>
+            </div>
         </div>
     </div>
 
-    <div class="mb-3"></div>
+    <h3 class="special-filters-heading">Special Filters</h3>
 
-    <!-- -------------------------------------------------------- -->
-    <!-- Legend & filtering of markers by type                    -->
-    <!-- -------------------------------------------------------- -->
-    <div class="dropdown" id="legend-widget-container">
+    <div class="sticky-stat-wrapper">
+        <div class="stat-box-container">
+            <div class="stat-box">
+                <span class="stat-label">Posts Shown</span>
+                <span class="stat-value">
+                    <span id="visible-posts-sticky">0</span>
+                    <span class="stat-total"> / <span id="total-posts-sticky">0</span></span>
+                </span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-label">Markers Shown</span>
+                <span class="stat-value">
+                    <span id="visible-markers-sticky">0</span>
+                    <span class="stat-total"> / <span id="total-markers-sticky">0</span></span>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="filter-section-wrapper mb-3">
+        <div class="filter-widget-content">
+            <label class="filter-label"><i class="fa-solid fa-photo-film me-2"></i> Filter by Media Type</label>
+            <p class="form-text" style="margin-top: -0.5rem; margin-bottom: 0.5rem;">Show markers based on post type.</p>
+            <div class="media-type-filter btn-group-tight" role="group" aria-label="Media type filter toggle button group">
+                <input type="checkbox" class="btn-check" id="filter-picture" autocomplete="off" checked>
+                <label class="btn btn-outline-primary" for="filter-picture"><i class="fa-solid fa-image"></i>Picture</label>
 
-      <button class="btn btn-light border dropdown-toggle w-100" type="button"
-              id="legend-dropdown-button" data-bs-toggle="dropdown"
-              data-bs-auto-close="outside" aria-expanded="false">
-          <i class="fa-solid fa-list me-1"></i>
-          Map Legend
-      </button>
+                <input type="checkbox" class="btn-check" id="filter-carousel" autocomplete="off" checked>
+                <label class="btn btn-outline-primary" for="filter-carousel"><i class="fa-solid fa-clone"></i>Carousel</label>
 
-        <div class="dropdown-menu p-2" aria-labelledby="legend-dropdown-button">
-            <li>
-                <input type="text" class="form-control" id="legend-search-input"
-                       placeholder="Search legend...">
-            </li>
-            <li><hr class="dropdown-divider"></li>
-            <li class="list-group-item border-0 py-1 px-2 small">
-              <div class="d-flex align-items-center">
-                  <input class="form-check-input me-2" type="checkbox" id="legend-select-all" checked>
-                  <span class="fa-stack fa-1x me-2" style="visibility: hidden;" aria-hidden="true"></span>
-                  <label class="form-check-label" for="legend-select-all">
-                      <strong>Select / Deselect All</strong>
-                  </label>
-              </div>
-          </li>
+                <input type="checkbox" class="btn-check" id="filter-video" autocomplete="off" checked>
+                <label class="btn btn-outline-primary" for="filter-video"><i class="fa-solid fa-video"></i>Video</label>
+            </div>
+        </div>
+    </div>
 
-            <ul class="list-group list-group-flush" id="legend-list-items">
-                </ul>
+    <div class="filter-section-wrapper mb-3">
+        <div class="filter-widget-content">
+            <label class="filter-label"><i class="fa-solid fa-star me-2"></i> Filter by Account Type</label>
+            <p class="form-text" style="margin-top: -0.5rem; margin-bottom: 0.5rem;">Filter by the owner's account type.</p>
+            <div class="media-type-filter btn-group-tight" role="group" aria-label="Account type filter toggle button group">
+                <input type="checkbox" class="btn-check" id="filter-personal" autocomplete="off" checked data-account-type="1">
+                <label class="btn btn-outline-primary" for="filter-personal"><i class="fa-solid fa-user"></i>Personal</label>
+
+                <input type="checkbox" class="btn-check" id="filter-creator" autocomplete="off" checked data-account-type="3">
+                <label class="btn btn-outline-primary" for="filter-creator"><i class="fa-solid fa-palette"></i>Creator</label>
+
+                <input type="checkbox" class="btn-check" id="filter-business" autocomplete="off" checked data-account-type="2">
+                <label class="btn btn-outline-primary" for="filter-business"><i class="fa-solid fa-store"></i>Business</label>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="filter-section-wrapper mb-3">
+        <div class="filter-widget-content">
+            <label class="filter-label"><i class="fa-solid fa-user me-2"></i> Filter by Username</label>
+            <p id="user-count-subtext" class="form-text" style="margin-top: -0.5rem; margin-bottom: 0.5rem;">0 users found</p>
+
+            <div id="user-filter-pills"></div>
+
+            <input type="text" class="form-control" id="user-search-input"
+                   placeholder="Search users..." style="margin-bottom: 0.5rem; width: 100%;">
+
+            <div class="list-group-item border-0 py-1 px-2 small legend-list-item"
+                 id="user-toggle-all-button" data-selected="true" style="width: 100%;">
+                <div class="d-flex align-items-center">
+                    <div class="selection-indicator"></div>
+                    <span class="fa-stack fa-1x" style="visibility: hidden;" aria-hidden="true">
+                         <i class="fa-solid fa-circle fa-stack-2x"></i>
+                    </span>
+                  <span class="text-center">Deselect All Users</span>
+                </div>
+            </div>
+
+            <hr class="my-1">
+
+            <div class="legend-collapse-content">
+                <ul class="list-group list-group-flush" id="user-list-items">
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <div class="filter-section-wrapper mb-3">
+        <div class="filter-widget-content">
+            <label class="filter-label"><i class="fa-solid fa-list me-2"></i> Map Legend</label>
+            <p id="legend-count-subtext" class="form-text" style="margin-top: -0.5rem; margin-bottom: 0.5rem;">0 marker types</p>
+
+            <input type="text" class="form-control" id="legend-search-input"
+                   placeholder="Search legend..." style="margin-bottom: 0.5rem; width: 100%;">
+
+            <div class="list-group-item border-0 py-1 px-2 small legend-list-item"
+                 id="legend-toggle-all-button" data-selected="true" style="width: 100%;">
+                <div class="d-flex align-items-center">
+                    <div class="selection-indicator"></div>
+                    <span class="fa-stack fa-1x me-2" style="visibility: hidden;" aria-hidden="true">
+                         <i class="fa-solid fa-circle fa-stack-2x"></i>
+                         <i class="fa-solid fa-location-dot fa-stack-1x fa-inverse"></i>
+                    </span>
+                  <span class="text-center">Deselect All</span>
+                </div>
+            </div>
+
+            <hr class="my-1">
+
+            <div class="legend-collapse-content">
+                <ul class="list-group list-group-flush" id="legend-list-items">
+                    </ul>
+            </div>
         </div>
     </div>
     <div id="legend-markers"></div>
-
-
-
-
-
-    <!-- <button class="btn btn-secondary"> Save </button> -->
-
-    <!--
-    <div class="row g-3 pb-1">
-      <div class="">
-        <div class="form-check form-switch">
-          <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" checked>
-          <label class="form-check-label" for="flexSwitchCheckChecked">Checked switch checkbox input</label>
-        </div>
-      </div>
-
-
-      <div class="d-flex">
-        <div class="flex-fill">
-          <input type="text" class="form-control form-control-sm"
-                 placeholder="Historic" aria-label="Historic"
-                 disabled>
-        </div>
-        <div class="ps-1">
-          <input type="color" id="unicolor"
-                 class="form-control form-control-color form-control-sm"
-                 name="head" value="#B0E9D5">
-        </div>
-      </div>
-    </div>
-
-    <div class="row g-3 pb-1">
-      <div class="d-flex">
-        <div class="flex-fill rounded-start">
-          <span class="form-control form-control-sm rounded rounded-start"> Nature </span>
-        </div>
-        <div class="ps-1">
-          <input type="color" id="unicolor"
-                 class="form-control form-control-color form-control-sm rounded-end"
-                 name="head" value="#B0E9D5">
-        </div>
-      </div>
-    </div>
-    -->
 
     <hr>
 
@@ -286,10 +759,6 @@
 </div>
 
 
-<!-- ----------------------------------------------------- -->
-<!-- The Right OffCanvas                                   -->
-<!-- ----------------------------------------------------- -->
-<!-- The right offcanvas -->
 <div class="offcanvas offcanvas-end show"
      tabindex="-1"
      id="offcanvasRight"
@@ -304,14 +773,13 @@
           data-bs-toggle="offcanvas"
           data-bs-target="#offcanvasRight"
           aria-controls="offcanvasRight">
-    <!--<i class="bi bi-list"></i>-->
     <i class="fas fa-caret-left"></i>
   </button>
 
   <div class="offcanvas-header d-flex
-            justify-content-between
-            align-items-end w-100">
-    <!--<h5 id='post-shortcode' class="offcanvas-title">Detalles</h5>-->
+            justify-content-between border-bottom
+            align-items-center w-100 pb-2">
+    <h5 class="offcanvas-title" id="offcanvasRightLabel">Post Details</h5>
     <button type="button"
          class="btn-close text-reset"
          data-bs-dismiss="offcanvas"
@@ -319,16 +787,6 @@
       </button>
   </div>
 
-  <!--
-  <div class="offcanvas-header">
-      <h5 id='post-shortcode'></h5>
-      <button type="button"
-         class="btn-close text-reset"
-         data-bs-dismiss="offcanvas"
-         aria-label="Close">
-      </button>
-  </div>
-  -->
   <div id='offcanvas-body' class="offcanvas-body">
     <div id='post-embed'>
       <div class="alert alert-info" role="alert">
@@ -337,22 +795,6 @@
     </div>
   </div>
 </div>
-
-<!--
-<div class="p-2 bg-light text-dark rounded metric-pill shadow-sm"
-     style="position:fixed; bottom:60px; left:20px;
-        z-index:999; font-size: 0.75rem; width:130px;">
-  <span class="text-muted text-left small me-2 text-uppercase">Posts</span>
-  <span id="nposts" class="text-right fw-bolder h5 text-dark mb-0"></span>
-</div>
-<div class="p-2 bg-light text-dark rounded shadow-sm"
-     style="position:fixed; bottom:10px; left:20px;
-      z-index:999; font-size: 0.75rem; width: 130px;">
-  <span class="text-muted text-left small me-2 text-uppercase">Markers</span>
-  <span id="nmarkers" class="text-right fw-bolder h5 text-dark mb-0"></span>
-</div>
--->
-
 
 <div class="d-flex flex-column flex-md-row me-sm-5"
      style="position: fixed;
@@ -504,7 +946,7 @@
     var template_embed = `
      <blockquote class="instagram-media"
          data-instgrm-captioned
-         data-instgrm-permalink="https://www.instagram.com/p/{0}/?utm_source=ig_embed&amp;utm_campaign=loading"
+         data-instgrm-permalink="https://www.instagram.com/p/{0}/?utm_source=ig_embed&utm_campaign=loading"
          data-instgrm-version="14" style="width:100%;">
      </blockquote>
   `
@@ -513,11 +955,6 @@
 
     <div class="card mb-3 w" style="max-width: 540px;">
       <div class="row no-gutters">
-        <!--
-        <div class="col-md-4">
-          <img src="..." class="card-img" alt="...">
-        </div>
-        -->
         <div class="col-md-12">
           <div class="card-body position-relative">
 
@@ -534,7 +971,6 @@
              </a>
 
             <p class="card-text">{2}</p>
-            <!--<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>-->
             <div class="small text-body text-opacity-50">
              Caption: {3} <br>
              Confidence: {4} <br>
@@ -681,8 +1117,8 @@
     // Main
     // ------------------------------------------------------------------
     // Constants
-    const attribution_osm = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    const attribution_gmp = '&copy; <a href="http://www.googlemaps.com/copyright">GoogleMaps</a>'
+    const attribution_osm = '© <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    const attribution_gmp = '© <a href="http://www.googlemaps.com/copyright">GoogleMaps</a>'
     const geo_ldn = [51.505, -0.09]      // Center map in London
     const geo_mdr = [40.4168, -3.7038]   // Center map in Madrid
 
@@ -866,6 +1302,23 @@
         return counts;
     }
 
+    /**
+     * NEW: Counts all markers in the global list by their username.
+     * @param {Array<L.Marker>} markers - The global 'allMarkers' array.
+     * @returns {object} An object (map) like { user1: 10, user2: 5, ... }
+     */
+    function countMarkersByUsername(markers) {
+        const counts = {};
+        markers.forEach(marker => {
+            const username = marker.options.username;
+            if (username) {
+                counts[username] = (counts[username] || 0) + 1;
+            }
+        });
+        return counts;
+    }
+
+
     /*
     ================================================================
     Create filterable Legend
@@ -889,11 +1342,8 @@
         const otherTypesCount = group.types.length - 1;
 
         // We store all types this group represents in a data-attribute
-        // on the checkbox for easy filtering later.
+        // on the <li> for easy filtering later.
         const allTypes = group.types.join(',');
-
-        // The unique ID for the checkbox and its label
-        const checkId = `legend-check-${group.types[0]}`;
 
         // Calculate total count for this group
         let totalCount = 0;
@@ -903,24 +1353,17 @@
             totalCount += (markerCounts[type] || 0);
         });
 
-        // Not needed anymore
-        //if (totalCount === 0) {
-        //    return "";
-        //}
-
+        // ** NEW TEMPLATE **
         return `
-            <li class="list-group-item py-1 px-2 small"
+            <li class="list-group-item py-1 px-2 small legend-list-item legend-filter-item"
                 data-bs-toggle="tooltip"
                 data-bs-placement="right"
-                data-bs-title="${tooltipTitle}">
+                data-bs-title="${tooltipTitle}"
+                data-types="${allTypes}"
+                data-selected="true">
 
                 <div class="d-flex align-items-center">
-                    <input class="form-check-input me-2 legend-item-check"
-                           type="checkbox"
-                           value="${group.types[0]}"
-                           id="${checkId}"
-                           data-types="${allTypes}"
-                           checked>
+                    <div class="selection-indicator"></div>
 
                     <span class="fa-stack fa-1x me-2" aria-hidden="true">
                         <i class="fa-solid fa-circle fa-stack-2x" style="color: ${group.color};"></i>
@@ -928,9 +1371,9 @@
                     </span>
 
                     <div class="flex-grow-1 me-2">
-                        <label class="form-check-label legend-text d-block" for="${checkId}">
+                        <span class="legend-text d-block">
                             ${primaryName}
-                        </label>
+                        </span>
                         <small class="text-muted"> ${totalCount} markers </small>
                     </div>
 
@@ -981,6 +1424,11 @@
             $legendList.append(itemHtml);
         });
 
+        // --- MODIFIED: Set legend count subtext ---
+        const typeCount = stylesToShow.length;
+        const typeCountText = typeCount === 1 ? "1 marker type" : `${typeCount} marker types`;
+        $('#legend-count-subtext').text(typeCountText);
+
         // 6. Initialize Bootstrap Tooltips
         const tooltipTriggerList = [].slice.call(
             document.querySelectorAll('[data-bs-toggle="tooltip"]')
@@ -990,15 +1438,42 @@
         });
 
         // 7. Attach all event listeners
-        $('#legend-search-input').on('keyup', filterLegend);       // search input
-        $('#legend-select-all').on('change', toggleAllCheckboxes); // select all
+        $('#legend-search-input').on('keyup', filterLegend); // search input
 
-        // Listen for changes on ANY legend item checkbox
+        // *** MODIFIED: "Select All" click listener ***
+        $('#legend-toggle-all-button').on('click', function() {
+            const $this = $(this);
+            // Toggle its own state and get the new state
+            const newState = $this.attr('data-selected') !== 'true';
+            $this.attr('data-selected', newState);
+
+            // Apply new state to all items
+            $('.legend-filter-item').attr('data-selected', newState);
+
+            // --- NEW: Clear search box to prevent clashing filter ---
+            $('#legend-search-input').val('');
+            filterLegend(); // Re-run legend list filter to show all items
+            // --- END NEW ---
+
+            // Trigger filter update
+            masterFilter(); // MODIFIED: Call masterFilter
+        });
+
+        // NEW Individual item click listener
         // We use event delegation on the parent list for efficiency
-        $legendList.on('change', '.legend-item-check', handleFilterChange);
+        $legendList.on('click', '.legend-filter-item', function() {
+            // Toggle this item's state
+            const $this = $(this);
+            const newState = $this.attr('data-selected') !== 'true';
+            $this.attr('data-selected', newState);
 
-        // Stop dropdown from closing when clicking inside the search box
-        $('#legend-search-input, #legend-select-all').on('click', function(e) {
+            // Trigger filter update (which will also update 'Select All' state)
+            masterFilter(); // MODIFIED: Call masterFilter
+        });
+
+        // Stop dropdown from closing (not needed)
+        // Stop propagation on search input to prevent collapse
+        $('#legend-search-input').on('click', function(e) {
             e.stopPropagation();
         });
     }
@@ -1006,10 +1481,12 @@
     /**
      * Filters the legend list based on the search input.
      */
+    // *** MODIFIED: filterLegend function ***
     function filterLegend() {
-        const filterText = $(this).val().toUpperCase();
+        const filterText = $('#legend-search-input').val().toUpperCase(); // MODIFIED: Use ID selector instead of $(this)
 
-        $('#legend-list-items li').each(function() {
+        // Target the new item class
+        $('#legend-list-items .legend-filter-item').each(function() {
             const $li = $(this);
             // Check against the label text OR the tooltip text
             const labelText = $li.find('.legend-text').text().toUpperCase();
@@ -1025,27 +1502,39 @@
 
     /**
      * Checks or unchecks all item checkboxes based on the "Select All" checkbox.
+     * -- THIS FUNCTION IS NO LONGER USED, logic is in the click handler --
      */
-    function toggleAllCheckboxes() {
-        const isChecked = $(this).is(':checked');
-        // Find all item checkboxes and set their 'checked' property
-        $('.legend-item-check').prop('checked', isChecked);
-
-        // After changing all, trigger ONE filter update
-        handleFilterChange();
-    }
+    // function toggleAllCheckboxes() { ... }
 
     /**
      * Updates the "Select All" checkbox state based on item checkboxes.
      * e.g., if one item is unchecked, "Select All" becomes unchecked.
      */
     function updateSelectAllState() {
-        const $itemCheckboxes = $('.legend-item-check');
-        const allChecked = $itemCheckboxes.length === $itemCheckboxes.filter(':checked').length;
+        // Target the new item class and attribute
+        const $itemCheckboxes = $('.legend-filter-item');
+        const allChecked = $itemCheckboxes.length === $itemCheckboxes.filter('[data-selected="true"]').length;
 
-        // Set the 'Select All' checkbox state
-        $('#legend-select-all').prop('checked', allChecked);
+        // Set the 'Select All' button's state
+        $('#legend-toggle-all-button').attr('data-selected', allChecked);
+
+        // --- NEW: Update button text ---
+        $('#legend-toggle-all-button .text-center').text(allChecked ? 'Deselect All' : 'Select All');
     }
+
+    /**
+     * NEW: Updates the "Select All" checkbox state for the user list.
+     * BUG FIX: Now checks *all* items, not just visible ones.
+     */
+    function updateUserSelectAllState() {
+        const $itemCheckboxes = $('#user-list-items .user-list-item');
+        const allChecked = $itemCheckboxes.length === $itemCheckboxes.filter('[data-selected="true"]').length;
+        $('#user-toggle-all-button').attr('data-selected', allChecked);
+
+        // --- NEW: Update button text ---
+        $('#user-toggle-all-button .text-center').text(allChecked ? 'Deselect All Users' : 'Select All Users');
+    }
+
 
     /**
      * Gathers all unique types from *checked* legend items.
@@ -1054,8 +1543,8 @@
     function getSelectedTypes() {
         const selectedTypes = new Set();
 
-        // Loop over only the :checked checkboxes
-        $('.legend-item-check:checked').each(function() {
+        // Loop over only the :checked (data-selected="true") items
+        $('.legend-filter-item[data-selected="true"]').each(function() {
             const types = $(this).data('types').split(',');
             types.forEach(type => selectedTypes.add(type));
         });
@@ -1064,47 +1553,120 @@
     }
 
     /**
-     * This is the main function that triggers your Leaflet map filter.
-     * It's called whenever *any* checkbox changes.
+     * NEW: Gathers all unique usernames from *checked* user items.
+     * @returns {Set<string>} A Set object containing all usernames to show.
      */
-    function handleFilterChange() {
-        // 1. First, update the "Select All" checkbox's state
-        updateSelectAllState();
+    function getSelectedUsernames() {
+        const selectedUsernames = new Set();
+        $('#user-list-items .user-list-item[data-selected="true"]').each(function() {
+            selectedUsernames.add($(this).data('username'));
+        });
+        return selectedUsernames;
+    }
 
-        // 2. Get a Set of all "types" that should be visible
+
+    /**
+     * NEW: Helper function to determine media type from a post object.
+     * @param {object} post - The post object (from marker.options).
+     * @returns {string} "video", "carousel", or "picture".
+     */
+    function getMediaType(post) {
+        if (post.video_url != null) {
+            return "video";
+        }
+        // Use 'count' property: 1 = picture, >1 = carousel
+        if (post.count > 1) {
+            return "carousel";
+        }
+        return "picture";
+    }
+
+    /**
+     * NEW: Helper function to get account type name
+     * @param {number} type - The account type ID (1, 2, or 3).
+     * @returns {string} "Personal", "Business", or "Creator".
+     */
+    function getAccountTypeName(type) {
+        if (type === 2) return 'Business';
+        if (type === 3) return 'Creator';
+        return 'Personal'; // Default
+    }
+
+
+    /**
+     * This is the main function that triggers your Leaflet map filter.
+     * It's called whenever *any* filter (legend or username) changes.
+     */
+    function masterFilter() {
+        // 1. Update legend "Select All" button's visual state
+        updateSelectAllState();
+        // 2. Update user "Select All" button's visual state
+        updateUserSelectAllState();
+        // 3. NEW: Update the user filter pills
+        updateUserPills();
+
+        // 4. Get a Set of all "types" that should be visible (from legend)
         const visibleTypes = getSelectedTypes();
 
-       // console.log(visibleTypes)
+        // 5. Get a Set of all "usernames" that should be visible
+        const visibleUsernames = getSelectedUsernames();
 
-        // This is very fast and is the *intended* way to filter clusters.
-        markers.clearLayers(); // Remove all markers (fast)
+        // 6. Get media type filter states
+        const pictureChecked = $('#filter-picture').is(':checked');
+        const carouselChecked = $('#filter-carousel').is(':checked');
+        const videoChecked = $('#filter-video').is(':checked');
 
+        // 7. NEW: Get account type filter states
+        const accountTypes = new Set();
+        if ($('#filter-personal').is(':checked')) accountTypes.add(1);
+        if ($('#filter-creator').is(':checked')) accountTypes.add(3);
+        if ($('#filter-business').is(':checked')) accountTypes.add(2);
+
+        // 8. NEW: Get username search text
+        const usernameFilter = $('#user-search-input').val().toLowerCase();
+
+
+        // 9. Filter the global allMarkers list
         const markersToShow = allMarkers.filter(marker => {
-           // console.log(marker)
-            return visibleTypes.has(marker.options.location.type);
-        })
+            // Check type filter
+            const typeMatch = visibleTypes.has(marker.options.location.type);
 
-        //console.log(markersToShow.length)
-       // Add back only the filtered markers (this is also very fast)
-       markers.addLayers(markersToShow);
+            // Check username filter
+            const postUsername = (marker.options.username || '').toLowerCase();
+            // **BUG FIX:** Check the "Select All" button state first.
+            const allUsersSelected = $('#user-toggle-all-button').attr('data-selected') === 'true';
+            const usernameInListMatch = allUsersSelected || visibleUsernames.has(marker.options.username);
 
-        // 3. --- YOUR LEAFLET LOGIC GOES HERE ---
-        // This is where you will filter your Leaflet markers.
-        //
-        // Example:
-        //
-        // console.log("Filtering map to only show:", visibleTypes);
-        //
-        // myLeafletLayerGroup.eachLayer(function(layer) {
-        //     // Assuming you stored the marker's type in its options
-        //     const markerType = layer.options.type;
-        //
-        //     if (visibleTypes.has(markerType)) {
-        //         layer.addTo(map); // Show it
-        //     } else {
-        //         layer.remove(); // Hide it
-        //     }
-        // });
+            // Check username search text
+            const usernameSearchMatch = (usernameFilter === '') || postUsername.includes(usernameFilter);
+
+            // Check media type filter
+            const mediaType = getMediaType(marker.options);
+            const mediaTypeMatch =
+                (pictureChecked && mediaType === 'picture') ||
+                (carouselChecked && mediaType === 'carousel') ||
+                (videoChecked && mediaType === 'video');
+
+            // NEW: Check account type filter
+            // *** BUG FIX: Added optional chaining ?. ***
+            const accountType = marker.options.owner?.account_type || 1; // Default to 1 (personal) if undefined
+            const accountTypeMatch = accountTypes.has(accountType);
+
+            return typeMatch && usernameInListMatch && mediaTypeMatch && accountTypeMatch && usernameSearchMatch;
+        });
+
+        // 10. Update the map
+        markers.clearLayers();
+        markers.addLayers(markersToShow);
+
+        // --- NEW: Update sticky visible marker count ---
+        $('#visible-markers-sticky').text(markersToShow.length);
+
+        // --- NEW: Calculate and update visible posts count ---
+        // Create a Set of unique post_ids from the visible markers
+        const visiblePostIds = new Set(markersToShow.map(marker => marker.options.post_id));
+        // Update the HTML element with the size of the Set
+        $('#visible-posts-sticky').text(visiblePostIds.size);
     }
 
 
@@ -1123,6 +1685,159 @@
       $('#nmarkers').html(n_plotted_markers);
     }
 
+    /**
+     * NEW: Gathers all unique usernames and their data
+     * @param {Array} data - The global post data array.
+     * @param {object} usernameCounts - A map of {username: count}.
+     * @returns {Array} An array of {username, type, count} objects.
+     */
+    function getUsernameData(data, usernameCounts) {
+        const userMap = new Map();
+        data.forEach(post => {
+            if (post.username) {
+                // Only set account type once
+                if (!userMap.has(post.username)) {
+                    userMap.set(post.username, {
+                        // *** BUG FIX: Added optional chaining ?. ***
+                        type: post.owner?.account_type || 1, // Default to 1 (personal)
+                        is_verified: post.owner?.is_verified || false, // NEW
+                        count: usernameCounts[post.username] || 0
+                    });
+                }
+            }
+        });
+
+        // Convert map to sorted array, FILTERING out users with 0 markers
+        return Array.from(userMap.entries())
+            .map(([username, info]) => ({ username, ...info }))
+            .filter(user => user.count > 0) // <-- THE FIX
+            .sort((a, b) => a.username.localeCompare(b.username));
+    }
+
+
+    /**
+     * NEW: Populates the username filter list
+     * @param {Array} userData - Array of {username, type, count} objects.
+     */
+    function populateUsernameFilter(userData) {
+        const $list = $('#user-list-items');
+        $list.empty(); // Clear any existing
+
+        userData.forEach(user => {
+            const countText = user.count === 1 ? "1 marker" : `${user.count} markers`;
+            // NEW: Add verified badge
+            const verifiedBadge = user.is_verified ? '<i class="fa-solid fa-check-circle ms-1"></i>' : '';
+            // NEW: Get account type name
+            const accountTypeLabel = getAccountTypeName(user.type);
+
+            // Create a list item just like the legend items
+            const itemHtml = `
+                <li class="list-group-item py-1 px-2 small legend-list-item user-list-item"
+                    data-username="${user.username}"
+                    data-account-type="${user.type}"
+                    data-selected="true"> <div class="d-flex align-items-center">
+                        <div class="selection-indicator"></div>
+                        <div class="user-pic-placeholder"></div>
+                        <div class="user-info">
+                            <span class="legend-text d-block">
+                                ${user.username} ${verifiedBadge}
+                            </span>
+                            <small class="text-muted user-sub-info">${accountTypeLabel} • ${countText}</small>
+                        </div>
+                    </div>
+                </li>
+            `;
+            $list.append(itemHtml);
+        });
+
+        // After populating, set "Select All" to true
+        $('#user-toggle-all-button').attr('data-selected', 'true');
+
+        // --- MODIFIED: Set the user count in the subtext ---
+        const userCount = userData.length;
+        const userCountText = userCount === 1 ? "1 user found" : `${userCount} users found`;
+        $('#user-count-subtext').text(userCountText);
+    }
+
+    /**
+     * NEW: Filters the user list based on the search input AND account type.
+     */
+    function filterUserList() {
+        const filterText = $('#user-search-input').val().toUpperCase();
+
+        // Get selected account types
+        const selectedAccountTypes = new Set();
+        if ($('#filter-personal').is(':checked')) selectedAccountTypes.add(1);
+        if ($('#filter-creator').is(':checked')) selectedAccountTypes.add(3);
+        if ($('#filter-business').is(':checked')) selectedAccountTypes.add(2);
+
+        $('#user-list-items .user-list-item').each(function() {
+            const $li = $(this);
+            const username = $li.data('username').toUpperCase();
+            const accountType = $li.data('account-type');
+
+            const usernameMatch = username.includes(filterText);
+            const accountTypeMatch = selectedAccountTypes.has(accountType);
+
+            if (usernameMatch && accountTypeMatch) {
+                $li.show();
+            } else {
+                $li.hide();
+            }
+        });
+
+        // Update "Select All" button state based on *all* items (fix)
+        updateUserSelectAllState();
+    }
+
+    /**
+     * NEW: Updates the filter pills based on selected users.
+     */
+    function updateUserPills() {
+        const $pillContainer = $('#user-filter-pills');
+        const selectedUsernames = getSelectedUsernames();
+        const allSelected = $('#user-toggle-all-button').attr('data-selected') === 'true';
+
+        $pillContainer.empty(); // Clear existing pills
+
+        // If all are selected (or all are unselected, which is functionally the same)
+        // do not show any pills.
+        if (allSelected || selectedUsernames.size === 0) {
+            $pillContainer.hide();
+            return;
+        }
+        $pillContainer.show();
+
+
+        const PILL_LIMIT = 10;
+        const usernamesArray = Array.from(selectedUsernames);
+
+        let usersToShow = usernamesArray;
+        let remainingCount = 0;
+
+        if (usernamesArray.length > PILL_LIMIT) {
+            usersToShow = usernamesArray.slice(0, PILL_LIMIT);
+            remainingCount = usernamesArray.length - PILL_LIMIT;
+        }
+
+        usersToShow.forEach(username => {
+            const pillHtml = `
+                <span class="filter-pill" data-username="${username}">
+                    ${username}
+                    <i class="fa-solid fa-xmark ms-1"></i>
+                </span>
+            `;
+            $pillContainer.append(pillHtml);
+        });
+
+        if (remainingCount > 0) {
+            $pillContainer.append(`
+                <span class="filter-pill-remaining">
+                    + ${remainingCount} more
+                </span>
+            `);
+        }
+    }
 
 
     // -----------------------------------------------------
@@ -1177,8 +1892,9 @@
         preliminaryLocations = unrankedLocations;
       }
 
-      // 3. Apply the final 'post.num' filter to the preliminary list.  <== REVISIT!
-      const locationsToPlot = post.sidecar_shortcode
+      // 3. Apply the final 'post.num' filter to the preliminary list.
+      // MODIFIED: Logic simplified, was 'post.sidecar_shortcode' which isn't in sample
+      const locationsToPlot = (post.count > 1)
         ? preliminaryLocations.filter(loc => loc.page === post.num)
         : preliminaryLocations;
 
@@ -1276,35 +1992,124 @@
     // A $( document ).ready() block.
     $(document).ready(function () {
 
+      // Ensure `data` is available
+      if (typeof data === 'undefined') {
+          console.error("Data is not loaded. Check data.js file.");
+          return;
+      }
+
       // 1. Process all data and plot the filtered markers
       processDataAndPlot(data, markers);
       // 2. Create the marker counts
       const markerCounts = countMarkersByType(allMarkers);
-      // 2. Populate the legend based on the plotted data
+      // 3. NEW: Create username marker counts
+      const usernameMarkerCounts = countMarkersByUsername(allMarkers);
+      // 4. Populate the legend based on the plotted data
       populateLegend(markerCounts);
-      // 3. Populate the info panels with final counts
+      // 5. Populate the info panels with final counts
       updateMapInfo(data, markers);
 
+      // 6. NEW: Get combined user data (name, type, count)
+      const usernameData = getUsernameData(data, usernameMarkerCounts);
+      // 7. NEW: Populate the username list
+      populateUsernameFilter(usernameData);
+
+      // 8. Update all filter states (this will set the "Select All" buttons correctly)
+      masterFilter();
+
+      // --- NEW: Populate initial sticky stats ---
+
+      // 1. Calculate total plottable posts *from the markers that were created*
+      const totalPlottablePostIds = new Set(allMarkers.map(marker => marker.options.post_id));
+      const totalPlottablePostCount = totalPlottablePostIds.size;
+
+      // 2. Set the total values in the sticky stat boxes
+      // (The visible counts are set by masterFilter() which runs right before this)
+      $('#total-posts-sticky').text(totalPlottablePostCount);
+      $('#total-markers-sticky').text(allMarkers.length);
+      // --- END NEW --
+
+      // === BUG FIX: THIS IS THE CORRECTED CODE ===
       // Listen for the 'input' event on the slider
       // ('input' fires every time it moves, 'change' only fires on release)
       $('#cluster-radius-slider').on('input', function() {
           // 1. Get the new value from the slider
           const newRadius = parseInt($(this).val(), 10);
 
-          // --- THIS IS THE NEW LINE ---
-        // 2. Update the text in the badge
-        $('#cluster-radius-value').text(newRadius);
+          // 2. Update the text in the badge
+          $('#cluster-radius-value').text(newRadius);
 
-          // 2. Update the option directly on the cluster group object
+          // 3. Update the option directly on the cluster group object
           markers.options.maxClusterRadius = newRadius;
 
-          // 3. "Refresh" the cluster group using our global 'allMarkers' array
-          // This is the essential part. It's very fast.
-          markers.clearLayers();
-          markers.addLayers(allMarkers);
+          // 4. Re-run the master filter.
+          // This will re-filter allMarkers based on the *current*
+          // filter settings (like username) and apply them to the map.
+          masterFilter();
       });
+      // === END OF BUG FIX ===
 
      setupKmlExportListener()
+
+     // === NEW USER FILTER LISTENERS ===
+
+     // Search box
+     $('#user-search-input').on('keyup', function() {
+         filterUserList(); // Filter list
+         masterFilter();   // Update map
+     });
+
+     // *** MODIFIED: "Select All" button for users ***
+     $('#user-toggle-all-button').on('click', function() {
+        const $this = $(this);
+        const newState = $this.attr('data-selected') !== 'true';
+        $this.attr('data-selected', newState);
+
+        // **BUG FIX:** Affect ALL items, not just :visible
+        $('#user-list-items .user-list-item').attr('data-selected', newState);
+
+        // --- NEW: Clear search box to prevent clashing filter ---
+        $('#user-search-input').val('');
+        filterUserList(); // Re-run user list filter to show all items
+        // --- END NEW ---
+
+        masterFilter();
+     });
+
+     // Individual user item click
+     $('#user-list-items').on('click', '.user-list-item', function() {
+        const $this = $(this);
+        const newState = $this.attr('data-selected') !== 'true';
+        $this.attr('data-selected', newState);
+        masterFilter();
+     });
+
+     // Pill 'x' button click
+     $('#user-filter-pills').on('click', '.fa-xmark', function() {
+        const username = $(this).closest('.filter-pill').data('username');
+        // Find the corresponding list item and "click" it
+        $(`#user-list-items .user-list-item[data-username="${username}"]`).click();
+     });
+
+     // === ACCOUNT TYPE FILTER LISTENERS ===
+     $('#filter-personal').on('change', function() {
+         filterUserList(); // Filter the user list
+         masterFilter();   // Filter the map
+     });
+     $('#filter-creator').on('change', function() {
+         filterUserList();
+         masterFilter();
+     });
+     $('#filter-business').on('change', function() {
+         filterUserList();
+         masterFilter();
+     });
+
+
+     // === MEDIA TYPE FILTER LISTENERS ===
+     $('#filter-picture').on('change', masterFilter);
+     $('#filter-carousel').on('change', masterFilter);
+     $('#filter-video').on('change', masterFilter);
 
     });
 

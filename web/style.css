@@ -527,3 +527,59 @@ body {
         margin-bottom: 0 !important; /* Limpia el margen inferior */
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Make the list item a positioning container */
+.legend-filter-item {
+  position: relative;
+  /* Remove the old full-width border if it's still there */
+  border-top: none;
+}
+
+/* This adds an inset line BEFORE every list item
+  that comes AFTER another list item.
+*/
+.legend-filter-item + .legend-filter-item::before {
+  content: '';
+  position: absolute;
+  top: 0;
+
+  /* These margins create the "soft" inset line */
+  /* Adjust '1rem' to match your preferred inset */
+  left: 1rem;
+  right: 1rem;
+
+  height: 1px;
+  background-color: var(--bs-border-color-translucent, #eee);
+}
+
+/*
+  1. This rule changes the button's background to a
+     "soft blue" color when it's selected.
+*/
+#legend-toggle-all-button[data-selected="true"] {
+  background-color: var(--bs-primary-bg-subtle, #cfe2ff);
+  /* You can also add a subtle border for a more "button-like" feel */
+  /* border: 1px solid var(--bs-primary-border-subtle, #9ec5fe); */
+}
+
+/*
+  2. This rule overrides the left-hand selection bar,
+     making it transparent ONLY for this specific button.
+*/
+#legend-toggle-all-button .selection-indicator {
+  background-color: transparent;
+}
