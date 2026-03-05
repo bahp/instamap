@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Calabria",
+        "subtitle": "Region in Southern Italy known for dramatic cliffs and clear waters.",
+        "lat": 38.999719,
+        "lon": 16.433235,
+        "type": "region",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 1,
+        "hierarchy": [
+            "Calabria",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Sicily",
+        "subtitle": "Largest island in the Mediterranean, known for volcanic landscapes and historic charm.",
+        "lat": 37.599939,
+        "lon": 14.015335,
+        "type": "island",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 6,
+        "page": 2,
+        "hierarchy": [
+            "Sicily",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Cefal\u00f9",
+        "subtitle": "Coastal town in Sicily known for golden beaches and medieval architecture.",
+        "lat": 38.006801,
+        "lon": 14.014217,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.95,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Cefal\u00f9",
+            "Palermo",
+            "Sicily",
+            "Italy"
+        ]
+    },
+    {
+        "title": "Isola Bella",
+        "subtitle": "Small island and nature reserve near Taormina, Sicily, with turquoise waters.",
+        "lat": 37.850346,
+        "lon": 15.298177,
+        "type": "island",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 4,
+        "hierarchy": [
+            "Isola Bella",
+            "Taormina",
+            "Messina",
+            "Sicily",
+            "Italy"
+        ]
+    }
+]
