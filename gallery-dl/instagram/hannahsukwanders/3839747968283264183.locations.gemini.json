@@ -1,0 +1,249 @@
+[
+    {
+        "title": "Corfe Castle",
+        "subtitle": "Historic castle ruins in Corfe Castle village, Dorset, England.",
+        "lat": 50.6853,
+        "lon": -2.056,
+        "type": "castle",
+        "class": "historic_site",
+        "confidence": 0.9,
+        "rank": 1,
+        "page": 1,
+        "hierarchy": [
+            "Corfe Castle",
+            "Corfe Castle",
+            "Dorset",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Old Harry Rocks",
+        "subtitle": "Iconic chalk stacks on the Jurassic Coast, near Swanage, Dorset.",
+        "lat": 50.6385,
+        "lon": -1.9427,
+        "type": "rock",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 1,
+        "hierarchy": [
+            "Old Harry Rocks",
+            "Studland",
+            "Dorset",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Lulworth Cove",
+        "subtitle": "Scallop-shaped bay on the Jurassic Coast, a UNESCO World Heritage Site.",
+        "lat": 50.619,
+        "lon": -2.222,
+        "type": "cove",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Lulworth Cove",
+            "West Lulworth",
+            "Dorset",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Durdle Door",
+        "subtitle": "Natural limestone arch on the Jurassic Coast, near Lulworth Cove.",
+        "lat": 50.6208,
+        "lon": -2.2789,
+        "type": "natural_arch",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 2,
+        "hierarchy": [
+            "Durdle Door",
+            "West Lulworth",
+            "Dorset",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Lyme Regis",
+        "subtitle": "Coastal town in West Dorset, famous for fossils and the Cobb harbour.",
+        "lat": 50.7247,
+        "lon": -2.9377,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 3,
+        "hierarchy": [
+            "Lyme Regis",
+            "Dorset",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Salcombe",
+        "subtitle": "Harbour town in South Hams, Devon, known for its estuary and beaches.",
+        "lat": 50.2366,
+        "lon": -3.7845,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 4,
+        "hierarchy": [
+            "Salcombe",
+            "Devon",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "St Ives",
+        "subtitle": "Coastal town in Cornwall, known for its art scene and beaches.",
+        "lat": 50.2155,
+        "lon": -5.4789,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 5,
+        "hierarchy": [
+            "St Ives",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Porthminster Beach",
+        "subtitle": "Award-winning sandy beach in St Ives, Cornwall, with clear waters.",
+        "lat": 50.2154,
+        "lon": -5.474,
+        "type": "beach",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Porthminster Beach",
+            "St Ives",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Carbis Bay",
+        "subtitle": "Popular beach and village near St Ives, Cornwall, known for its beauty.",
+        "lat": 50.222,
+        "lon": -5.467,
+        "type": "bay",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 5,
+        "hierarchy": [
+            "Carbis Bay",
+            "St Ives",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Perranporth",
+        "subtitle": "Coastal village in Cornwall, with a long sandy beach and surf.",
+        "lat": 50.334,
+        "lon": -5.143,
+        "type": "village",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 6,
+        "hierarchy": [
+            "Perranporth",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Newquay",
+        "subtitle": "Major surf town on the north coast of Cornwall, famous for its beaches.",
+        "lat": 50.414,
+        "lon": -5.08,
+        "type": "town",
+        "class": "place",
+        "confidence": 0.9,
+        "rank": 3,
+        "page": 6,
+        "hierarchy": [
+            "Newquay",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Pentire Headland",
+        "subtitle": "Coastal headland near Newquay, Cornwall, known for wildflowers.",
+        "lat": 50.4286,
+        "lon": -5.0345,
+        "type": "headland",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Pentire Headland",
+            "Newquay",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Holywell Bay",
+        "subtitle": "Sandy beach near Newquay, Cornwall, with coastal dunes.",
+        "lat": 50.366,
+        "lon": -5.109,
+        "type": "bay",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Holywell Bay",
+            "Newquay",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    },
+    {
+        "title": "Bedruthan Steps",
+        "subtitle": "Dramatic granite stacks and beach near Newquay, Cornwall.",
+        "lat": 50.4705,
+        "lon": -5.0215,
+        "type": "natural_feature",
+        "class": "natural",
+        "confidence": 0.9,
+        "rank": 2,
+        "page": 6,
+        "hierarchy": [
+            "Bedruthan Steps",
+            "Mawgan Porth",
+            "Cornwall",
+            "England",
+            "United Kingdom"
+        ]
+    }
+]
